@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "e5962e27f886e363",
+    "type": "split",
+    "children": [
+      {
+        "id": "67359d8b4587ad0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a1f050d9e2b2798",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36d463cbd13be684",
+    "type": "split",
+    "children": [
+      {
+        "id": "74876bb3e888ab5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9d4a8d831ba9378",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a074a83c5bec7934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "776c4c9cb9c00540",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "947c62fc50bfd4cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "57bd119139b80ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a94c37435505e82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a22edd85d8f5d146",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f78e7cb80ac59fb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9675d6ade0a4b8b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "77d97a585d8bc29b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3a1f050d9e2b2798",
+  "lastOpenFiles": [
+    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
+    "Teste algebra linear/transformações lineares.md",
+    "imagens utilizadas/Pasted image 20240709103155.png",
+    "imagens utilizadas/Pasted image 20240704112222.png",
+    "imagens utilizadas",
+    "imagens utilizadas/Pasted image 20240709100117.png",
+    "imagens utilizadas/Pasted image 20240709101945.png",
+    "imagens utilizadas/Pasted image 20240709102004.png",
+    "Welcome.md",
+    "Sem título.md",
+    "create a link.md",
+    "imagens utilizadas/Pasted image 20240704111814.png",
+    "BDzada/Modelo Relacional.md",
+    "BDzada/Untitled.canvas",
+    "Calculo Varias Vars",
+    " https:/github.com/rafaeljosebraga/Git-Obsidian-Sync.git",
+    " https:/github.com/rafaeljosebraga",
+    " https:/github.com",
+    " https:",
+    "Teste algebra linear",
+    "BDzada"
+  ]
+}
