@@ -1,53 +1,14 @@
 {
   "main": {
-    "id": "e5962e27f886e363",
+    "id": "bbae9365314d968d",
     "type": "split",
     "children": [
       {
-        "id": "67359d8b4587ad0b",
+        "id": "9d4d11acb10ca6cb",
         "type": "tabs",
         "children": [
           {
-            "id": "0394de77011856e9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "BDzada/2-relacional.canvas",
-                "viewState": {
-                  "x": 778.7562371188708,
-                  "y": 165.36265312528843,
-                  "zoom": -3.4000000000000004
-                }
-              }
-            }
-          },
-          {
-            "id": "c4f7665b67f09a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65a200d65b5c3ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teste algebra linear/transformações lineares.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20ece6e8490477b5",
+            "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -55,21 +16,21 @@
             }
           }
         ],
-        "currentTab": 3
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "36d463cbd13be684",
+    "id": "d7641d33f9ec648f",
     "type": "split",
     "children": [
       {
-        "id": "74876bb3e888ab5d",
+        "id": "567280552154128d",
         "type": "tabs",
         "children": [
           {
-            "id": "b9d4a8d831ba9378",
+            "id": "cd21648d59d618f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +40,7 @@
             }
           },
           {
-            "id": "a074a83c5bec7934",
+            "id": "6ede56452f833768",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +55,7 @@
             }
           },
           {
-            "id": "776c4c9cb9c00540",
+            "id": "487914934b7ac7c2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,18 +66,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "947c62fc50bfd4cb",
+    "id": "868f71f2c8fa4666",
     "type": "split",
     "children": [
       {
-        "id": "57bd119139b80ded",
+        "id": "aa69a1139a575df4",
         "type": "tabs",
         "children": [
           {
-            "id": "0a94c37435505e82",
+            "id": "58bdf190bf7312e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -132,7 +93,7 @@
             }
           },
           {
-            "id": "a22edd85d8f5d146",
+            "id": "32fbba0aebf7d1c6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -143,7 +104,7 @@
             }
           },
           {
-            "id": "f78e7cb80ac59fb2",
+            "id": "35c1dede4e758417",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,7 +115,7 @@
             }
           },
           {
-            "id": "9675d6ade0a4b8b6",
+            "id": "84fc9b66bf69fb35",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -162,58 +123,67 @@
             }
           },
           {
-            "id": "77d97a585d8bc29b",
+            "id": "e8c9411d6a7c9396",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "git-history-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "20ece6e8490477b5",
+  "active": "cd21648d59d618f8",
   "lastOpenFiles": [
-    "Teste algebra linear/transformações lineares.md",
-    "Sem título.md",
-    "BDzada/2-relacional.canvas",
-    "Calculo De VVs",
-    "Sem título 1.md",
-    "BDzada/1-relacional.canvas",
-    "Análise Numerica/IDEA.md",
-    "LinearTransformation.light.mp4",
-    "Análise Numerica",
-    "BDzada/Modelo Relacional.md",
-    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "imagens utilizadas/Pasted image 20240709103155.png",
-    "imagens utilizadas/Pasted image 20240704112222.png",
-    "imagens utilizadas",
-    "imagens utilizadas/Pasted image 20240709100117.png",
-    "imagens utilizadas/Pasted image 20240709101945.png",
     "imagens utilizadas/Pasted image 20240709102004.png",
-    "Welcome.md",
-    "create a link.md",
+    "imagens utilizadas/Pasted image 20240709101945.png",
+    "imagens utilizadas/Pasted image 20240709100117.png",
+    "imagens utilizadas/Pasted image 20240704112222.png",
     "imagens utilizadas/Pasted image 20240704111814.png",
+    "imagens utilizadas",
+    "Teste algebra linear/transformações lineares.md",
+    "Teste algebra linear",
+    "Sem título.md",
+    "LinearTransformation.light.mp4",
+    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Calculo Varias Vars",
-    " https:/github.com/rafaeljosebraga/Git-Obsidian-Sync.git",
-    " https:/github.com/rafaeljosebraga",
-    " https:/github.com",
-    " https:",
-    "Teste algebra linear"
+    "BDzada/Modelo Relacional.md",
+    "BDzada/1-relacional.canvas",
+    "BDzada/2-relacional.canvas",
+    "BDzada",
+    "Análise Numerica/IDEA.md",
+    "Análise Numerica",
+    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709103155.png",
+    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709102004.png",
+    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709101945.png",
+    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709100117.png",
+    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240704112222.png",
+    "Git-Obsidian-Sync/imagens utilizadas",
+    "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
+    "Git-Obsidian-Sync/Teste algebra linear",
+    "Git-Obsidian-Sync/Sem título.md",
+    "Git-Obsidian-Sync/LinearTransformation.light.mp4",
+    "Git-Obsidian-Sync/Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
+    "Git-Obsidian-Sync/Calculo Varias Vars",
+    "Git-Obsidian-Sync/BDzada/Modelo Relacional.md",
+    "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
+    "Git-Obsidian-Sync/BDzada/1-relacional.canvas",
+    "Git-Obsidian-Sync/Análise Numerica/IDEA.md",
+    "Welcome.md"
   ]
 }
