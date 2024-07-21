@@ -11,8 +11,12 @@
             "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Teste algebra linear/transformações lineares.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teste algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teste algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teste algebra linear/transformações lineares.md"
+              }
             }
           },
           {
@@ -147,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "d14722ad9b190c93",
   "lastOpenFiles": [
+    "LinearTransformation.light.mp4",
+    "Sem título.md",
     "imagens utilizadas/Pasted image 20240709103155.png",
     "imagens utilizadas/Pasted image 20240709102004.png",
     "imagens utilizadas/Pasted image 20240709101945.png",
@@ -158,8 +168,6 @@
     "imagens utilizadas",
     "Teste algebra linear/transformações lineares.md",
     "Teste algebra linear",
-    "Sem título.md",
-    "LinearTransformation.light.mp4",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Calculo Varias Vars",
     "BDzada/Modelo Relacional.md",
@@ -172,7 +180,6 @@
     "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709102004.png",
     "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709101945.png",
     "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709100117.png",
-    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240704112222.png",
     "Git-Obsidian-Sync/imagens utilizadas",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/Teste algebra linear",
