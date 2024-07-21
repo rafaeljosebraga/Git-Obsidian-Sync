@@ -21,7 +21,107 @@ Lei de formação->$T(x,y,z)=(z,x-y,-z)$
 
 Matriz de transformação->$(\begin{vmatrix}a\\b\\c\end{vmatrix})=\begin{vmatrix}z\\x-y\\-z\end{vmatrix}$
 
-$begin{vmatrix}z\\x-y\\-z\end{vmatrix}=\begin{vmatrix}0&0&1\\1&-1&0\\0&0&-1\end{vmatrix}$
+$\begin{vmatrix}z\\x-y\\-z \end{vmatrix}=$$\begin{vmatrix}0&0&1\\1&-1&0\\0&0&-1\end{vmatrix}$
 
 
-$T(vetorG)=$Rotaciona um objeto em 90° no sentido anti-horário no $R²$.
+
+$T(vetorG)=$Rotaciona um objeto em 90° no sentido anti-horário no 
+
+$R²$
+$R_{90} = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix}$
+
+$T=\begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} *vetorG$
+
+$T(\begin{bmatrix} 0 \\ 1\end{bmatrix})=$
+
+Tomando consideração do circulo trigonométrico podemos observar
+
+que a transformação que bota as coisas em um angulo tem uma inferência direta entre os quadrantes onde no $R_{90}$ se pode observar como na verdade estamos transportando apenas para do quadrante 1 para o quadrante 2
+
+usando uma "versão" do $\begin{bmatrix}cos(x)&&-sen(x)\\ -sen(x)&&cos(x)\end{bmatrix}$
+
+
+Complementando o assunto temos autovalores e autovetores
+esse site em inglês já tem uma boa exemplificação mas mesmo em caso de dúvida vou deixar um vídeo demonstrando uma transformação com valores que alteram tanto x e y
+de vetores $\begin {bmatrix}1&&0\\0&&1 \end{bmatrix}$
+https://www.3blue1brown.com/lessons/eigenvalues
+
+![[LinearTransformation.light.mp4]]
+
+Cisalhamento vertical
+
+$\begin{bmatrix}wi\\wj\end{bmatrix}=$$\begin{bmatrix}1&&k\\0&&1\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix}$
+
+mantemos os pés e mechemos a parte superior.
+
+Matriz de transformação
+
+$T:R_2$ -> $R_3$
+
+$T(x,y)= (x+y,y,x)$
+
+$\begin{bmatrix}x+y\\y\\x\end{bmatrix}=\begin{bmatrix}1&&1\\0&&1\\1&&0\end{bmatrix}\begin{bmatrix}x\\y\end{bmatrix}$
+
+
+Revisao de funcoes 
+podemos combinar funções em uma única transformação para esse objetivo
+$f(x)=x²+1$
+
+$g(x)=sen(x)$
+
+$g(f(x))= sen(x²+1)$ ou $g_of(x)$
+corrigir marcação
+
+Composição de transformações
+
+$T(vetX)=B$ -> $T:R^n$->$R^k$
+$S(vetX)=A$ ->$S:R^k$->$R^m$
+$S(T(x))=S_oT$ 
+				$:R^n >>R^m$
+
+$[B.A](vetX)$
+
+Exemplo requisitado:
+
+
+(1)
+$T(vetX):R²$->$R²$
+$T(x,y)=(x,-y)$
+$[T]=A=\begin{bmatrix}1&&0\\0 && -1\end {bmatrix}$
+
+$S(vetX):R²$->$R²$
+$S(x,y)=(-x,y)$
+(2)
+$[S]=B=\begin{bmatrix}-1&&0\\0 && 1\end {bmatrix}$
+
+multiplicando as matrizes obtemos a nossa matriz de transformação
+
+$S(T(vetX))=A*B=\begin{bmatrix}-1&&0\\0 && 1\end {bmatrix}*\begin{bmatrix}1&&0\\0 && -1\end {bmatrix}=\begin{bmatrix}-1&&0\\0 && -1\end {bmatrix}$
+	|->$S(T(vetX))$->$(x,y)=(-x,-y)$
+
+Exemplo para prática$S(T(x)):R²$->$R^4$ 
+
+$T(vetX)R^2$->$R³$
+$T(x,y)=(y-x,x+3y,x-y)$
+
+$[T]=\begin{bmatrix}-1&&1\\1&&3\\1&&-1\end{bmatrix}$
+
+$S(vetX):R^3$->$R⁴$
+
+$S(x,y,z)=(z,x,y,x-z)$
+
+$[S]=\begin{bmatrix}0&&0&&1\\1&&0&&0\\0&&1&&0\\1&&0&&-1\end{bmatrix}$
+
+$T(S(vetX))=[S]=\begin{bmatrix}0&&0&&1\\1&&0&&0\\0&&1&&0\\1&&0&&-1\end{bmatrix}*\begin{bmatrix}-1&&1\\1&&3\\1&&-1\end{bmatrix}=\begin{bmatrix}1&&-1\\-1&&1\\1&&3\\-2&&2\end{bmatrix}$
+
+Lei de formação $x,y=(x-y,-x+y,x+3y,-2x+2y)$
+
+Inversa de uma transformação
+
+respeitando as regras de  linearidade independente det≃0
+
+$T(vetX)^{-1}=[T]^{-1}$ $[T]$->é injetora
+
+$[T](x)\begin{bmatrix}cosX&&-senX\\senX&&cosX\end{bmatrix}$->  $det([T])=cos²X+sen²=1$ a matriz de rotação possui inversa.
+
+

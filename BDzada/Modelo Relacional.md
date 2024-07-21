@@ -91,7 +91,25 @@ a tupla inteira se torna apenas uma.
 
 os multivalorados podem ser uma relação com chave estrangeira referenciando a relação principal (como uma entidade fraca)
 
-para mais informações o livro do Elmasi.
+para mais informações o livro do Elmarsi navate.
+
+#<h3>Mapeamento da Generalização</h3>
+para o padrão de participação total todas as entidades da generalização se tornam relações,
+
+sobre o contexto de uma disjunção podemos fazer uma relação de "controle" com atributo de controle.
+
+para o caso de Sobreposição o O podemos tornar fazer com que o controle se torne em suporte identificador da nossa tupla(relação) de controle.
+
+chute o balde(cada um cada um 10000 relações)
+(interpretar o Slide)
+
+
+#<h3>Mapeamento de Agregação</h3>
+Tudo vira relação a relação com a agregação possuindo referencia das entidades que com dentro de sua relação relacionavam.
+
+Caso a relação dentro da agregação possua relacionamento com atributos esse relacionamento se torna uma relação.
+
+as chaves "estrangeiras" se tornam uma chave compostas e secundária.
 
 
 
