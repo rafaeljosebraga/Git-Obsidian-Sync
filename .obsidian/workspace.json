@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ff706ce5dd843d98",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -147,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d14722ad9b190c93",
+  "active": "ff706ce5dd843d98",
   "lastOpenFiles": [
     "BDzada/1-relacional.canvas",
     "Análise Numerica/IDEA.md",
