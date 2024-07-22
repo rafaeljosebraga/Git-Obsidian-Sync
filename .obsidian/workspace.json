@@ -11,15 +11,8 @@
             "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "BDzada/1-relacional.canvas",
-                "viewState": {
-                  "x": 51.5,
-                  "y": -145,
-                  "zoom": -1.4756809702823723
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -89,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BDzada/1-relacional.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDzada/1-relacional.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BDzada/1-relacional.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -160,10 +149,10 @@
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
+    "BDzada/1-relacional.canvas",
     "Análise Numerica/IDEA.md",
     "BDzada/2-relacional.canvas",
     "BDzada/Modelo Relacional.md",
-    "BDzada/1-relacional.canvas",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Teste algebra linear/transformações lineares.md",
     "Sem título.md",
