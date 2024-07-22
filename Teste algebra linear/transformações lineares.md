@@ -25,7 +25,7 @@ $\begin{vmatrix}z\\x-y\\-z \end{vmatrix}=$$\begin{vmatrix}0&0&1\\1&-1&0\\0&0&-1\
 
 
 
-$T(vetorG)=$Rotaciona um objeto em 90° no sentido anti-horário no 
+$T(vetorG)=$Faz a rotação de um objeto em 90° no sentido anti-horário no 
 
 $R²$
 $R_{90} = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix}$
@@ -36,12 +36,12 @@ $T(\begin{bmatrix} 0 \\ 1\end{bmatrix})=$
 
 Tomando consideração do circulo trigonométrico podemos observar
 
-que a transformação que bota as coisas em um angulo tem uma inferência direta entre os quadrantes onde no $R_{90}$ se pode observar como na verdade estamos transportando apenas para do quadrante 1 para o quadrante 2
+que a transformação que bota as coisas em um ângulo tem uma inferência direta entre os quadrantes onde no $R_{90}$ se pode observar como na verdade estamos transportando apenas para do quadrante 1 para o quadrante 2
 
 usando uma "versão" do $\begin{bmatrix}cos(x)&&-sen(x)\\ -sen(x)&&cos(x)\end{bmatrix}$
 
 
-Complementando o assunto temos autovalores e autovetores
+Complementando o assunto temos autovalores e auto-vetores
 esse site em inglês já tem uma boa exemplificação mas mesmo em caso de dúvida vou deixar um vídeo demonstrando uma transformação com valores que alteram tanto x e y
 de vetores $\begin {bmatrix}1&&0\\0&&1 \end{bmatrix}$
 https://www.3blue1brown.com/lessons/eigenvalues
