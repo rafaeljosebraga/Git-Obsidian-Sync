@@ -19,9 +19,11 @@
             "id": "ff706ce5dd843d98",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Teste algebra linear/transformações lineares.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teste algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teste algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teste algebra linear/transformações lineares.md"
+              }
             }
           },
           {
@@ -160,11 +166,11 @@
   },
   "active": "ff706ce5dd843d98",
   "lastOpenFiles": [
+    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
+    "BDzada/Modelo Relacional.md",
     "BDzada/1-relacional.canvas",
     "Análise Numerica/IDEA.md",
     "BDzada/2-relacional.canvas",
-    "BDzada/Modelo Relacional.md",
-    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Teste algebra linear/transformações lineares.md",
     "Sem título.md",
     "Videos",
