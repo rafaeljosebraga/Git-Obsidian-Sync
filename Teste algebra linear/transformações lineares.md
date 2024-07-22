@@ -2,7 +2,7 @@
 #
 ![[Pasted image 20240704111814.png]]
 A é o nosso domínio
-B é a "imagem" trasportada alterada pela transformação linear
+B é a "imagem" transportada alterada pela transformação linear
 
 característica de transformação->deve ser linear
 
@@ -11,7 +11,7 @@ quando a transformação e a:distributiva e - b: escalável
 ![[Pasted image 20240704112222.png]]
 ->Exemplos de transformações lineares são a derivada e a integral.
 
-Tati nos lembra do exemplo da maquininha que processa uma entrada e cospe uma saida.
+Tati nos lembra do exemplo da maquininha que processa uma entrada e cospe uma saída.
 
 #
 Partindo do conjunto dos reais.->o $R²$(duas dimensões).
