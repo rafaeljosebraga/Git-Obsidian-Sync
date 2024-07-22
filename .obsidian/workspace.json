@@ -11,8 +11,12 @@
             "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Teste algebra linear/transformações lineares.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teste algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teste algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teste algebra linear/transformações lineares.md"
+              }
             }
           },
           {
