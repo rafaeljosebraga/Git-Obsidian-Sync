@@ -21,14 +21,13 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "file": ".obsidian/workspace.json",
                 "staged": false,
                 "hash": "efe19aa72d625f96edc3e74d1a864b0b26f5bbb5"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -160,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff706ce5dd843d98",
+  "active": "d14722ad9b190c93",
   "lastOpenFiles": [
     "Teste algebra linear/transformações lineares.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
