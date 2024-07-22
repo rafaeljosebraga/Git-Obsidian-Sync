@@ -14,18 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "ff706ce5dd843d98",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false,
-                "hash": "efe19aa72d625f96edc3e74d1a864b0b26f5bbb5"
-              }
-            }
           }
         ],
         "stacked": true
