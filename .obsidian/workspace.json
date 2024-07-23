@@ -11,11 +11,9 @@
             "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Teste algebra linear/transformações lineares.md",
-                "mode": "source",
-                "source": false
+                "file": "imagens utilizadas/Pasted image 20240723121132.png"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste algebra linear/transformações lineares.md",
+                "file": "imagens utilizadas/Pasted image 20240723121132.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste algebra linear/transformações lineares.md",
+                "file": "imagens utilizadas/Pasted image 20240723121132.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste algebra linear/transformações lineares.md"
+                "file": "imagens utilizadas/Pasted image 20240723121132.png"
               }
             }
           },
@@ -158,21 +156,20 @@
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
-    "Pasted image 20240723121132.png",
-    "Pasted image 20240723120855.png",
-    "Pasted image 20240723120610.png",
-    "Pasted image 20240723115355.png",
-    "Pasted image 20240723115337.png",
-    "Pasted image 20240723114836.png",
-    "Pasted image 20240723113630.png",
-    "Sem título.md",
     "Teste algebra linear/transformações lineares.md",
+    "imagens utilizadas/Pasted image 20240723121132.png",
+    "imagens utilizadas/Pasted image 20240723120855.png",
+    "imagens utilizadas/Pasted image 20240723120610.png",
+    "imagens utilizadas/Pasted image 20240723115355.png",
+    "imagens utilizadas/Pasted image 20240723115337.png",
+    "imagens utilizadas/Pasted image 20240723114836.png",
+    "imagens utilizadas/Pasted image 20240723113630.png",
+    "Sem título.md",
     "Videos",
     "Videos/LinearTransformation.light.mp4",
     "imagens utilizadas/Pasted image 20240709103155.png",
     "imagens utilizadas/Pasted image 20240709102004.png",
     "imagens utilizadas/Pasted image 20240709101945.png",
-    "imagens utilizadas/Pasted image 20240709100117.png",
     "imagens utilizadas",
     "Teste algebra linear",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
