@@ -134,7 +134,8 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
 O nosso exemplo segue o padrão
-{Nome,Idade,ID,nomeC}
+
+<h>{Nome, Idade,ID, nomeCurso, IDcurso, cargaHora}</h>
 
 #<h3>Inclusão</h3>
 .
