@@ -180,11 +180,13 @@ Formalização
 #<h4>Análise Formal</h4>
 Dependência Funcional uma restrição entre dois conjuntos de atributos 
 	exemplo se em pessoa temos CPF vamos ter Nome.
+	
+	Devemos procurar essa comparação na Tupla ->sendo esse exemplo 
 	123 = Mário
 	234 = Jorge
 	123 = Mário
 	 654 = Lena
-	 devemos estar atento o sentido semântico.
+ devemos estar atento o sentido semântico.
 	 onde o atributo curso definindo a idade de alguem porem não faz muito sentido.
 
 Controlando Consistência
