@@ -117,11 +117,14 @@ viram entidades com todas as generalizações possuindo chaves estrangeiras
 
 Alt 2->io
 
-#<h3>Qualidade</h3>
+#<h3>Qualidade do Projeto Lógico</h3>
 
-Esquema do banco de dados->
+Análise informal->
+O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 
-SGBD->
-
-aplicativo->
-
+Analise Formal->
+Formalização
+	Projeto por análise
+		 podemos partir de cima para baixo onde buscamos a partir do agrupamento de atributos pelo projeto conceitual de mapeamento
+	 Projeto por síntese
+		 de baixopara
