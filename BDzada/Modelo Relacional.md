@@ -111,6 +111,9 @@ Caso a relação dentro da agregação possua relacionamento com atributos esse 
 
 as chaves "estrangeiras" se tornam uma chave compostas e secundária.
 
+#<h4>PPd_1</h4>
+Alt 1 -> disjunção padrão todas as entidades e as generalizações
+
 
 
 
