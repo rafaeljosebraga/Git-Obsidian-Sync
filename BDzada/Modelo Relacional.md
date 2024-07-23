@@ -146,7 +146,7 @@ Redundância->desperdiça espaço.
   (Pardal,11,<u>123</u>,Aviação,Ev12,100)
   (Kitano,68,<u>123</u>,Geografia,Gg13,80)
   ==inserida==->(Elésio,23,<u>123</u>,==EngPesca==,EP11,==80==)
-  nesse caso 
+  nesse caso ao incluir a tupla do Elésio temos uma anomalia pois apesar de engenharia
 #<h3>Alteração</h3>
 
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
