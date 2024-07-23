@@ -129,6 +129,7 @@ espaço linha ->Espaço vetorial definido dentro de uma matriz
 
 ![[Pasted image 20240723113630.png]]
 
-pode se perceber que a nossa matriz B quando escalonada e reduzida ela forma a matriz identidade
+Pode se perceber que a nossa matriz B quando escalonada e reduzida ela forma a matriz identidade -> significa que a nossa matriz é linearmente independente e pode servir de base para o $R³$
 
-podemos transformar uma matriz de vetores de base $R^3$ para $R⁴$  porem ainda dependemos de 
+Podemos transformar uma matriz de vetores de base $R^3$ para $R⁴$  porem ainda dependemos da quantidade de vetores iguais ou maiores ao do numero da base para gerar um subespaço da base.
+
