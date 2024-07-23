@@ -117,5 +117,11 @@ viram entidades com todas as generalizações possuindo chaves estrangeiras
 
 Alt 2->io
 
+#<h3>Qualidade</h3>
 
+Esquema do banco de dados->
+
+SGBD->
+
+aplicativo->
 
