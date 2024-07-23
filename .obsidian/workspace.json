@@ -11,24 +11,15 @@
             "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "10a37decc0fbefce",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Teste algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Teste algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Teste algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Teste algebra linear/transformações lineares.md"
               }
             }
           },
@@ -165,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10a37decc0fbefce",
+  "active": "d14722ad9b190c93",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "imagens utilizadas/Pasted image 20240723121132.png",
