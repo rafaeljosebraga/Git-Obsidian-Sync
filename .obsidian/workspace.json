@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste algebra linear/transformações lineares.md",
+                "file": "BDzada/Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste algebra linear/transformações lineares.md",
+                "file": "BDzada/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste algebra linear/transformações lineares.md",
+                "file": "BDzada/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste algebra linear/transformações lineares.md"
+                "file": "BDzada/Modelo Relacional.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
+    "Teste algebra linear/transformações lineares.md",
     "conflict-files-obsidian-git.md",
     "imagens utilizadas/Pasted image 20240723121132.png",
     "imagens utilizadas/Pasted image 20240723120855.png",
@@ -166,7 +167,6 @@
     "imagens utilizadas/Pasted image 20240723115337.png",
     "imagens utilizadas/Pasted image 20240723114836.png",
     "imagens utilizadas/Pasted image 20240723113630.png",
-    "Teste algebra linear/transformações lineares.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "BDzada/Modelo Relacional.md",
     "Análise Numerica/IDEA.md",
