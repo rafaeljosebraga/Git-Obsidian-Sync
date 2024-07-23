@@ -127,6 +127,7 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	 Entidades distintas não deve estar na relação,
 	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
 	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
+	Caso a explicação do projeto esteja complicada demais, ele provavelmente está incorreto e deve ser de refeito.
 
 
 
