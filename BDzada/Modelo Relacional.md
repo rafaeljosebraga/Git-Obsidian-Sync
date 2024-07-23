@@ -167,7 +167,8 @@ Alterado->(Dino,27,<u>243</u>,==Geografia,EP11==,60)
   (Kitano,68,<u>456</u>,Geografia,Gg13,80)
 
  Ao apagarmos Pardal perdemos totalmente a existência de Aviação seu código e carga horária gerando uma inconsistência.
- 
+
+Lúcio apontou 
  
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
