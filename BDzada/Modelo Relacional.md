@@ -181,7 +181,7 @@ Formalização
 Dependência Funcional uma restrição entre dois conjuntos de atributos 
 	exemplo se em pessoa temos CPF vamos ter Nome.
 	
-	Devemos procurar essa comparação na Tupla ->sendo esse exemplo 
+		Devemos procurar essa comparação na Tupla ->sendo esse exemplo ID para   Nome||A para B
 	123 = Mário
 	234 = Jorge
 	123 = Mário
