@@ -129,12 +129,14 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
 	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
 
-Redundância->desperdiça espaço.
-#<h4>Anomalia de Inclusão.</h4>
-Inclusão.
+
+
 	 
 	Exemplo:1,lucio,77,ciencia,doutor->nike
 		nike não parece fazer muito sentido para tupla
+Redundância->desperdiça espaço.
+#<h4>Anomalias.</h4>
+Inclusão.
 Analise Formal->
 Formalização
 	Projeto por análise
