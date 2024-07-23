@@ -154,6 +154,14 @@ Formalização
 		 Melhoramos as qualidades das relações obtidas.
 
 #<h4>Análise Formal</h4>
-Dependência Funcional->Propiedade semântica
-->Descoberta pelo projetista
-->Pode ser validada na instância do banco()
+Dependência Funcional uma restrição entre dois conjuntos de atributos 
+	exemplo se em pessoa temos CPF vamos ter Nome.
+	123 = Mário
+	234 = Jorge
+	123 = Mário
+	 654 = Lena
+	 
+
+->Propiedade semântica
+->Descoberta pelo projetista->estudada pelo projetista.
+->Pode ser validada na instância do banco.
