@@ -130,7 +130,7 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
 
 Redundância->desperdiça espaço.
-
+#<h4>Anomalia de Inclusão.</h4>
 Inclusão.
 	 
 	Exemplo:1,lucio,77,ciencia,doutor->nike
@@ -142,5 +142,5 @@ Formalização
 		 Encontramos as primeiras relações
 	 Projeto por síntese
 		 de baixo para cima temos os relacionamentos entre atributos para construir relações
-			 observa porquê uma tupla faz sentido sobre a relação dos atributos entre sí.
+			 observa porquê uma tupla faz sentido sobre a relação dos atributos entre si.
 		 Melhoramos as qualidades das relações obtidas.
