@@ -158,8 +158,9 @@ Redundância->desperdiça espaço.
 .
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
   (Dino,27,<u>123</u>,EngPesca,EP11,60)
-  (Pardal,11,<u>123</u>,Aviação,Ev12,100)
+  (Pardal,11,<u>123</u>,Aviação,AV12,100)
   (Kitano,68,<u>123</u>,Geografia,Gg13,80)
+  (Pardal,11,<u>123</u>,EngPesca,EP11,60)
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
 //mais detalhes são necessários
