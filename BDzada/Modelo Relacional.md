@@ -170,7 +170,7 @@ utilizando de uma relação para representar Curso e alterando a relação Pesso
 
 <h>Pessoa:{Nome, Idade, <u>ID</u>,IDcurso}</h>
 
-<h>Curso:{NomeCurso, IDcurso</u>, cargaHora}</h>
+<h>Curso:{NomeCurso, <u>IDcurso</u>, cargaHora}</h>
 
  
 <h4>Valores nulos.</h4>
