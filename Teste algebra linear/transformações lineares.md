@@ -136,4 +136,9 @@ Podemos transformar uma matriz de vetores de base $R^3$ para $R⁴$  porem ainda
 ![[Pasted image 20240723115355.png]]
 comparação com a transposta,existem vantagens de refatoração matricial em cálculos entre linhas de uma matriz transpostada
 
-#<h2></h2>
+#<h2>Espaço Nulo</h2>
+Espaço Nulo(Núcleo)
+
+representado por $T(vetX)=Ô$
+
+solucionamos esse problema utilizando multiplicação e inversa de matrizes tomando 
