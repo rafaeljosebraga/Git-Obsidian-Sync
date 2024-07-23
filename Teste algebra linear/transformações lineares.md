@@ -144,3 +144,7 @@ representado por $T(vetX)=Ô$
 solucionamos esse problema utilizando multiplicação e inversa de matrizes
 
 ![[Pasted image 20240723120610.png]]
+
+Comparação entre a "\ barrinha" e o rref para essa função.
+![[Pasted image 20240723121132.png]]
+
