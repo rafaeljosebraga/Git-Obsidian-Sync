@@ -163,9 +163,11 @@ Alterado->(Dino,27,<u>243</u>,==Geografia,EP11==,60)
 .
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
   (Dino,27,<u>243</u>,EngPesca,EP11,60)
-  (Pardal,11,<u>563</u>,Aviação,AV12,100)
-  (Pardal,11,<u>563</u>,EngPesca,EP11,60)
+  ~~(Pardal,11,563,Aviação,AV12,100)~~
+  ~~(Pardal,11,563,EngPesca,EP11,60)~~
   (Kitano,68,<u>456</u>,Geografia,Gg13,80)
+
+ Ao apagarmos p
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
 //mais detalhes são necessários
