@@ -177,5 +177,5 @@ Dependência Funcional uma restrição entre dois conjuntos de atributos
 Controlando Consistência
 
 ->Propiedade semântica:
-->Descoberta pelo projetista:estudada pelo projetista.
-->Pode ser validada na instância do banco:não faz muito sentido n.
+->Descoberta pelo projetista: estudada pelo projetista.
+->Pode ser validada na instância do banco: #Esqueci.
