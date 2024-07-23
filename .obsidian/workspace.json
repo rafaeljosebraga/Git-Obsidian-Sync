@@ -11,9 +11,11 @@
             "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240723121132.png"
+                "file": "BDzada/Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240723121132.png",
+                "file": "BDzada/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240723121132.png",
+                "file": "BDzada/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240723121132.png"
+                "file": "BDzada/Modelo Relacional.md"
               }
             }
           },
@@ -156,8 +158,11 @@
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
-    "Teste algebra linear/transformações lineares.md",
+    "BDzada/2-relacional.canvas",
+    "BDzada/1-relacional.canvas",
+    "BDzada/Modelo Relacional.md",
     "imagens utilizadas/Pasted image 20240723121132.png",
+    "Teste algebra linear/transformações lineares.md",
     "imagens utilizadas/Pasted image 20240723120855.png",
     "imagens utilizadas/Pasted image 20240723120610.png",
     "imagens utilizadas/Pasted image 20240723115355.png",
@@ -174,9 +179,6 @@
     "Teste algebra linear",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Calculo Varias Vars",
-    "BDzada/Modelo Relacional.md",
-    "BDzada/1-relacional.canvas",
-    "BDzada/2-relacional.canvas",
     "BDzada",
     "Análise Numerica/IDEA.md",
     "Análise Numerica",
