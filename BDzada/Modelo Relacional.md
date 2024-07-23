@@ -70,7 +70,7 @@ restrição de NULL segue o exemplo anterior
 tudo vira relação e o relacionamento em si se torna uma relação que herda chave de suas Entidades.
 
 
-#<h3>Se possível tirar foto o exemplo de lúcio junto a questão  no paso 5</h3>
+#<h3>Se possível tirar foto o exemplo de lúcio junto a questão  no passo 5</h3>
 5 Exemplo
 
 ((Imagem exemplar))
@@ -81,7 +81,7 @@ cuidado com as chaves!!
 
 6.1 Exemplo do aluno único
 
-a chave indentificadora de aluno se torna uma referencia  que será deslocada para outra relação e vir de lá a referencia.
+a chave identificadora de aluno se torna uma referencia  que será deslocada para outra relação e vir de lá a referencia.
 
 6.2Exemplo : da disciplina em relação ternaria com menos entidades 
 
@@ -120,7 +120,6 @@ Alt 2->io
 #<h3>Qualidade do Projeto Lógico</h3>
 
 #<h3>Análise informal</h3>->
-	Caso a explicação do projeto esteja complicada demais, ele provavelmente está incorreto e deve ser de refeito.
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
 		 sendo bom podendo ser descrito como lógico seja
