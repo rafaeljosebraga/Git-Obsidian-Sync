@@ -142,17 +142,17 @@ Redundância->desperdiça espaço.
 .
 
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
-  (Dino,27,<u>123</u>,EngPesca,EP11,60)
-  (Pardal,11,<u>123</u>,Aviação,Ev12,100)
-  (Kitano,68,<u>123</u>,Geografia,Gg13,80)
-  ==inserida==->(Elésio,23,<u>123</u>,==EngPesca==,EP11,==80==)
+  (Dino,27,<u>243</u>,EngPesca,EP11,60)
+  (Pardal,11,<u>563</u>,Aviação,Ev12,100)
+  (Kitano,68,<u>456</u>,Geografia,Gg13,80)
+  ==inserida==->(Elésio,23,<u>100</u>,==EngPesca==,EP11,==80==)
   nesse caso ao incluir a tupla do Elésio temos uma anomalia pois engenharia de pesca possui
   uma inconsistência na carga horária do Elésio. 
 #<h3>Alteração</h3>
 
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
-  (Dino,27,<u>123</u>,EngPesca,EP11,60)
-  (Pardal,11,<u>123</u>,Grog,Ev12,100)
+  (Dino,27,<u>243</u>,EngPesca,EP11,60)
+  (Pardal,11,<u>123</u>,Geografia,Ev12,100)
   (Kitano,68,<u>123</u>,Geografia,Gg13,80)
 #<h3>Exclusão</h3>
 .
