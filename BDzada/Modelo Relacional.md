@@ -120,7 +120,7 @@ Alt 2->io
 #<h3>Qualidade do Projeto Lógico</h3>
 
 Análise informal->
-	Caso a explicação do projeto está 
+	Caso a explicação do projeto esteja complicada demais, ele provavelmente está incorreto e deve ser de refeito.
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
 		 sendo bom podendo ser descrito como lógico seja
@@ -128,6 +128,10 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	 Entidades distintas não deve estar na relação,
 	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
 	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
+
+Redundância->desperdiça espaço.
+
+Inclusão.
 	 
 	Exemplo:1,lucio,77,ciencia,doutor->nike
 		nike não parece fazer muito sentido para tupla
