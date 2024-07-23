@@ -152,7 +152,7 @@ Redundância->desperdiça espaço.
 
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
   (Dino,27,<u>123</u>,EngPesca,EP11,60)
-  (Pardal,11,<u>123</u>,Aviação,Ev12,100)
+  (Pardal,11,<u>123</u>,Grog,Ev12,100)
   (Kitano,68,<u>123</u>,Geografia,Gg13,80)
 #<h3>Exclusão</h3>
 .
