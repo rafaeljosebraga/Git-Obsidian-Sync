@@ -176,6 +176,6 @@ Dependência Funcional uma restrição entre dois conjuntos de atributos
 
 Controlando Consistência
 
-->Propiedade semântica:
-->Descoberta pelo projetista: estudada pelo projetista.
+->Propiedade semântica: a tupla faz sentido com o contexto.
+->Descoberta pelo projetista: detalhes da tupla estudada pelo projetista.
 ->Pode ser validada na instância do banco: #Esqueci.
