@@ -144,7 +144,7 @@ Redundância->desperdiça espaço.
   (Ramon,20,123,EngPesca,EP11,60)
   (Dino,27,243,EngPesca,EP11,60)
   (Pardal,11,444,Aviação,Ev12,100)
-inserida->(Elésio,23,EngPesca,EP11,80)
+==inserida==->(Elésio,23,EngPesca,EP11,==80==)
   (Kitano,68,555,Geografia,Gg13,80)
 #<h3>Alteração</h3>
 
