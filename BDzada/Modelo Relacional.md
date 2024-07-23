@@ -153,7 +153,8 @@ Exclusão.
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
 #<h4>Tuplas ilegítima.</h4>
-relações as quais as tuplas estão inconsistentes é um sinal óbvio de que estamos criando tuplas ilegitimas
+relações as quais as tuplas estão inconsistentes é um sinal óbvio de que estamos criando tuplas   ilegítimas
+//mais detalhes são
 #<h3>Analise Formal</h3>->
 Formalização
 	Projeto por análise
@@ -176,6 +177,6 @@ Dependência Funcional uma restrição entre dois conjuntos de atributos
 
 Controlando Consistência
 
-->Propiedade semântica: a tupla faz sentido com o contexto.
+->Propriedade semântica: a tupla faz sentido com o contexto.
 ->Descoberta pelo projetista: detalhes da tupla estudada pelo projetista.
 ->Pode ser validada na instância do banco: #Esqueci.
