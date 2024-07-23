@@ -135,9 +135,9 @@ Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
 O nosso exemplo segue o padrão
 
-<h>{Nome, Idade,ID, nomeCurso, IDcurso, cargaHora}</h>
+<h>Pessoa:{Nome, Idade,ID, nomeCurso, IDcurso, cargaHora}</h>
 
-#<h3>Inclusão</h3>
+<h3>Inclusão</h3>
 (Ramon,20,<u>123</u>,EngPesca,EP11,==60==)
 (Dino,27,<u>243</u>,EngPesca,EP11,==60==)
 (Pardal,11,<u>563</u>,Aviação,Av12,100)
@@ -166,7 +166,7 @@ Alterado->(Dino,27,<u>243</u>,==Geografia,EP11==,60)
  Ao apagarmos Pardal perdemos totalmente a existência de Aviação seu código e carga horária gerando uma inconsistência.
 
 Lúcio apontou que uma possivel solução para os problemas apresentados 
-utilizando de uma relação para representar Curso
+utilizando de uma relação para representar Curso e alterando a relação Pessoa
  
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
