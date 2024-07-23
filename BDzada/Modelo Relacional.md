@@ -128,16 +128,13 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
 	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
 	Caso a explicação do projeto esteja complicada demais, ele provavelmente está incorreto e deve ser de refeito.
-
-
-
 	 
-	Exemplo:1,lucio,77,ciencia,doutor->nike
+	Exemplo:1,lucio,77,ciencia,doutor,nike
 		nike não parece fazer muito sentido para tupla
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
 O nosso exemplo segue o padrão
-
+{Nome,Idade,ID,nomeC}
 
 #<h3>Inclusão</h3>
 .
