@@ -119,7 +119,7 @@ Alt 2->io
 
 #<h3>Qualidade do Projeto Lógico</h3>
 
-Análise informal->
+#<h3>Análise informal</h3>->
 	Caso a explicação do projeto esteja complicada demais, ele provavelmente está incorreto e deve ser de refeito.
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
@@ -137,7 +137,13 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
 Inclusão.
-Analise Formal->
+Alteração.
+Exclusão.
+#<h4>Valores nulos.</h4>
+Os nulos podem ficar em uma relação separada 
+#<h4>Tuplas ilegítima.</h4>
+
+#<h3>Analise Formal</h3>->
 Formalização
 	Projeto por análise
 		 podemos partir de cima para baixo onde buscamos a partir do agrupamento de atributos pelo projeto conceitual de mapeamento
