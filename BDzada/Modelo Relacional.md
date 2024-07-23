@@ -138,10 +138,8 @@ O nosso exemplo segue o padrão
 <h>{Nome, Idade,ID, nomeCurso, IDcurso, cargaHora}</h>
 
 #<h3>Inclusão</h3>
-.
-
-  (Ramon,20,<u>123</u>,EngPesca,EP11,==60==)
- (Dino,27,<u>243</u>,EngPesca,EP11,==60==)
+(Ramon,20,<u>123</u>,EngPesca,EP11,==60==)
+(Dino,27,<u>243</u>,EngPesca,EP11,==60==)
 (Pardal,11,<u>563</u>,Aviação,Av12,100)
 (Kitano,68,<u>456</u>,Geografia,Gg13,80)
 ==inserida==->(Elésio,23,<u>100</u>,==EngPesca==,EP11,==80==)
