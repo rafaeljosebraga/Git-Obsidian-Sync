@@ -121,8 +121,12 @@ Alt 2->io
 
 Análise informal->
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
-	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relaç~
+	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
+		 sendo bom podendo ser descrito como lógico seja
+		 fácil de entender, que ajuda a formular consultas corretas e como físico seja armazenada eficientemente e acesso eficiente.
 
+	Exemplo:1,lucio,77,ciencia,->nike
+		nike n
 Analise Formal->
 Formalização
 	Projeto por análise
