@@ -125,5 +125,10 @@ $T(vetX)^{-1}=[T]^{-1}$ $[T]$->é injetora
 $[T](x)\begin{bmatrix}cosX&&-senX\\senX&&cosX\end{bmatrix}$->  $det([T])=cos²X+sen²=1$ a matriz de rotação possui inversa.
 
 #<h3> Aula Lab</h3>
+espaço linha ->Espaço vetorial definido dentro de uma matriz
 
+![[Pasted image 20240723113630.png]]
 
+pode se perceber que a nossa matriz B quando escalonada e reduzida ela forma a matriz identidade
+
+podemos transformar uma matriz de vetores de base $R^3$ para $R⁴$  porem ainda dependemos de 
