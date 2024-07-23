@@ -139,8 +139,8 @@ Redundância->desperdiça espaço.
 {Nome,idade,cpf,curso,cursoID,cargaHora}
 (Ramon,20,123,EngPesca,EP11,60)
 (Dino,27,243,EngPesca,EP11,60)
-(Ramon,20,123,EngPesca,EP11,60)
-(Ramon,20,123,EngPesca,EP11,60)
+(Pardal,11,444,EngPesca,EP11,60)
+(Kitano,68,555,EngPesca,EP11,60)
 Inclusão.
 
 Alteração.
