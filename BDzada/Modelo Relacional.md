@@ -146,15 +146,19 @@ Redundância->desperdiça espaço.
   (Pardal,11,<u>563</u>,Aviação,Av12,100)
   (Kitano,68,<u>456</u>,Geografia,Gg13,80)
   ==inserida==->(Elésio,23,<u>100</u>,==EngPesca==,EP11,==80==)
+  
   nesse caso ao incluir a tupla do Elésio temos uma anomalia pois engenharia de pesca possui
   uma inconsistência na carga horária do Elésio. 
+  
 #<h3>Alteração</h3>
 
   (Ramon,20,<u>123</u>,==EngPesca,EP11==,60)
 Alterado->(Dino,27,<u>243</u>,==Geografia,EP11==,60)
   (Pardal,11,<u>563</u>,Aviação,Av12,100)
   (Kitano,68,<u>456</u>,Geografia,Gg13,80)
+  
   Apesar de Dino ter alterado seu Curso o código permanece o mesmo gerando a inconsistência
+
 #<h3>Exclusão</h3>
 .
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
