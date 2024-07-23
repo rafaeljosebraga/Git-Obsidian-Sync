@@ -151,10 +151,10 @@ Redundância->desperdiça espaço.
 #<h3>Alteração</h3>
 
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
-  (Dino,27,<u>243</u>,EngPesca,EP11,60)
-  Alterado(Pardal,11,<u>563</u>,==Geografia==,==Ev12==,100)
+  Alterado->(Dino,27,<u>243</u>,EngPesca,EP11,60)
+  (Pardal,11,<u>563</u>,==Geografia==,==Ev12==,100)
   (Kitano,68,<u>456</u>,==Geografia==,==Gg13==,80)
-  Apesar de pardal ter o curso alterado o seu código permanece o mesmo trazendo uma consistência de alteração
+  
 #<h3>Exclusão</h3>
 .
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
