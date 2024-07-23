@@ -120,13 +120,17 @@ Alt 2->io
 #<h3>Qualidade do Projeto Lógico</h3>
 
 Análise informal->
+	Caso a explicação do projeto está 
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
 		 sendo bom podendo ser descrito como lógico seja
 		 fácil de entender, que ajuda a formular consultas corretas e como físico seja armazenada eficientemente e acesso eficiente.
-
-	Exemplo:1,lucio,77,ciencia,->nike
-		nike n
+	 Entidades distintas não deve estar na relação,
+	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
+	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
+	 
+	Exemplo:1,lucio,77,ciencia,doutor->nike
+		nike não parece fazer muito sentido para tupla
 Analise Formal->
 Formalização
 	Projeto por análise
