@@ -137,7 +137,10 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
 {Nome,idade,cpf,curso,cursoID,cargaHora}
-(Ramon,20,123,Engenharia)
+(Ramon,20,123,EngPesca,EP11,60)
+(Ramon,20,123,EngPesca,EP11,60)
+(Ramon,20,123,EngPesca,EP11,60)
+
 Inclusão.
 
 Alteração.
