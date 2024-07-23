@@ -140,24 +140,25 @@ Redundância->desperdiça espaço.
 
 #<h3>Inclusão</h3>
 .
-<u>123</u>
-  (Ramon,20,123,EngPesca,EP11,60)
-  (Dino,27,243,EngPesca,EP11,60)
-  (Pardal,11,444,Aviação,Ev12,100)
-==inserida==->(Elésio,23,==EngPesca==,EP11,==80==)
-  (Kitano,68,555,Geografia,Gg13,80)
+
+  (Ramon,20,<u>123</u>,EngPesca,EP11,60)
+  (Dino,27,<u>123</u>,EngPesca,EP11,60)
+  (Pardal,11,<u>123</u>,Aviação,Ev12,100)
+  (Kitano,68,<u>123</u>,Geografia,Gg13,80)
+  ==inserida==->(Elésio,23,<u>123</u>,==EngPesca==,EP11,==80==)
+  nesse caso 
 #<h3>Alteração</h3>
 
-(Ramon,20,123,EngPesca,EP11,60)
-(Dino,27,243,EngPesca,EP11,60)
-(Pardal,11,444,Aviação,Ev12,100)
-(Kitano,68,555,Geografia,Gg13,80)
+  (Ramon,20,<u>123</u>,EngPesca,EP11,60)
+  (Dino,27,<u>123</u>,EngPesca,EP11,60)
+  (Pardal,11,<u>123</u>,Aviação,Ev12,100)
+  (Kitano,68,<u>123</u>,Geografia,Gg13,80)
 #<h3>Exclusão</h3>
 .
-(Ramon,20,123,EngPesca,EP11,60)
-(Dino,27,243,EngPesca,EP11,60)
-(Pardal,11,444,Aviação,Ev12,100)
-(Kitano,68,555,Geografia,Gg13,80)
+  (Ramon,20,<u>123</u>,EngPesca,EP11,60)
+  (Dino,27,<u>123</u>,EngPesca,EP11,60)
+  (Pardal,11,<u>123</u>,Aviação,Ev12,100)
+  (Kitano,68,<u>123</u>,Geografia,Gg13,80)
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
 //mais detalhes são necessários
