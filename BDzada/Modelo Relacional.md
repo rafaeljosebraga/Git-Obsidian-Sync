@@ -115,5 +115,7 @@ as chaves "estrangeiras" se tornam uma chave compostas e secundária.
 Alt 1 -> disjunção padrão. Todas a entidade principal e as generalizações dela
 viram entidades com todas as generalizações possuindo chaves estrangeiras
 
+Alt 2->io
+
 
 
