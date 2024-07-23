@@ -137,6 +137,7 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
 Inclusão.
+
 Alteração.
 Exclusão.
 #<h4>Valores nulos.</h4>
