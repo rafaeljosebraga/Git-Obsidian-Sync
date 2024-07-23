@@ -160,8 +160,11 @@ Dependência Funcional uma restrição entre dois conjuntos de atributos
 	234 = Jorge
 	123 = Mário
 	 654 = Lena
-	 
+	 devemos estar atento o sentido semântico.
+	 onde o atributo curso definindo a idade de alguem porem não faz muito sentido.
 
-->Propiedade semântica
-->Descoberta pelo projetista->estudada pelo projetista.
-->Pode ser validada na instância do banco.
+Controlando Consistência
+
+->Propiedade semântica:
+->Descoberta pelo projetista:estudada pelo projetista.
+->Pode ser validada na instância do banco:não faz muito sentido n.
