@@ -136,6 +136,7 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 		nike não parece fazer muito sentido para tupla
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
+{Exemplo}
 Inclusão.
 
 Alteração.
