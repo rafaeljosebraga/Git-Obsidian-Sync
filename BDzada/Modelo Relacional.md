@@ -111,6 +111,60 @@ Caso a relação dentro da agregação possua relacionamento com atributos esse 
 
 as chaves "estrangeiras" se tornam uma chave compostas e secundária.
 
+#<h4>PPd_1</h4>
+Alt 1 -> disjunção padrão. Todas a entidade principal e as generalizações dela
+viram entidades com todas as generalizações possuindo chaves estrangeiras
+
+Alt 2->io
+
+#<h3>Qualidade do Projeto Lógico</h3>
+
+#<h3>Análise informal</h3>->
+	Caso a explicação do projeto esteja complicada demais, ele provavelmente está incorreto e deve ser de refeito.
+O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
+	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
+		 sendo bom podendo ser descrito como lógico seja
+		 fácil de entender, que ajuda a formular consultas corretas e como físico seja armazenada eficientemente e acesso eficiente.
+	 Entidades distintas não deve estar na relação,
+	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
+	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
 
 
 
+	 
+	Exemplo:1,lucio,77,ciencia,doutor->nike
+		nike não parece fazer muito sentido para tupla
+Redundância->desperdiça espaço.
+#<h4>Anomalias.</h4>
+Inclusão.
+Alteração.
+Exclusão.
+#<h4>Valores nulos.</h4>
+Os nulos podem ficar em uma relação separada 
+#<h4>Tuplas ilegítima.</h4>
+relações as quais as tuplas estão inconsistentes é um sinal óbvio de que estamos criando tuplas ilegitimas
+#<h3>Analise Formal</h3>->
+Formalização
+	Projeto por análise
+		 podemos partir de cima para baixo onde buscamos a partir do agrupamento de atributos pelo projeto conceitual de mapeamento
+		 Encontramos as primeiras relações
+	 Projeto por síntese
+		 de baixo para cima temos os relacionamentos entre atributos para construir relações
+			 observa porquê uma tupla faz sentido sobre a relação dos atributos entre si.
+		 Melhoramos as qualidades das relações obtidas.
+
+#<h4>Análise Formal</h4>
+Dependência Funcional uma restrição entre dois conjuntos de atributos 
+	exemplo se em pessoa temos CPF vamos ter Nome.
+	123 = Mário
+	234 = Jorge
+	123 = Mário
+	 654 = Lena
+	 devemos estar atento o sentido semântico.
+	 onde o atributo curso definindo a idade de alguem porem não faz muito sentido.
+
+Controlando Consistência
+
+->Propiedade semântica:
+->Descoberta pelo projetista:estudada pelo projetista.
+->Pode ser validada na instância do banco:não faz muito sentido n.

@@ -124,4 +124,27 @@ $T(vetX)^{-1}=[T]^{-1}$ $[T]$->é injetora
 
 $[T](x)\begin{bmatrix}cosX&&-senX\\senX&&cosX\end{bmatrix}$->  $det([T])=cos²X+sen²=1$ a matriz de rotação possui inversa.
 
+#<h3> Aula Lab</h3>
+espaço linha ->Espaço vetorial definido dentro de uma matriz
+
+![[Pasted image 20240723113630.png]]
+
+Pode se perceber que a nossa matriz B quando escalonada e reduzida ela forma a matriz identidade -> significa que a nossa matriz é linearmente independente e pode servir de base para o $R³$
+
+Podemos transformar uma matriz de vetores de base $R^3$ para $R⁴$  porem ainda dependemos da quantidade de vetores iguais ou maiores ao do numero da base para gerar um subespaço da base.
+
+![[Pasted image 20240723115355.png]]
+comparação com a transposta,existem vantagens de refatoração matricial em cálculos entre linhas de uma matriz transpostada
+
+#<h2>Espaço Nulo</h2>
+Espaço Nulo(Núcleo)
+
+representado por $T(vetX)=Ô$
+
+solucionamos esse problema utilizando multiplicação e inversa de matrizes
+
+![[Pasted image 20240723120610.png]]
+
+Comparação entre a "\ barrinha" e o rref para essa ideia .
+![[Pasted image 20240723121132.png]]
 

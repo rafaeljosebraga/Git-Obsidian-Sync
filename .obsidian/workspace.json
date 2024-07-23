@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "10a37decc0fbefce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -148,8 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d14722ad9b190c93",
+  "active": "10a37decc0fbefce",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "imagens utilizadas/Pasted image 20240723121132.png",
+    "imagens utilizadas/Pasted image 20240723120855.png",
+    "imagens utilizadas/Pasted image 20240723120610.png",
+    "imagens utilizadas/Pasted image 20240723115355.png",
+    "imagens utilizadas/Pasted image 20240723115337.png",
+    "imagens utilizadas/Pasted image 20240723114836.png",
+    "imagens utilizadas/Pasted image 20240723113630.png",
     "Teste algebra linear/transformações lineares.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "BDzada/Modelo Relacional.md",
@@ -162,18 +187,11 @@
     "imagens utilizadas/Pasted image 20240709103155.png",
     "imagens utilizadas/Pasted image 20240709102004.png",
     "imagens utilizadas/Pasted image 20240709101945.png",
-    "imagens utilizadas/Pasted image 20240709100117.png",
-    "imagens utilizadas/Pasted image 20240704112222.png",
-    "imagens utilizadas/Pasted image 20240704111814.png",
     "imagens utilizadas",
     "Teste algebra linear",
     "Calculo Varias Vars",
     "BDzada",
     "Análise Numerica",
-    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709103155.png",
-    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709102004.png",
-    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709101945.png",
-    "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709100117.png",
     "Git-Obsidian-Sync/imagens utilizadas",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/Teste algebra linear",
