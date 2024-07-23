@@ -138,9 +138,9 @@ Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
 {Nome,idade,cpf,curso,cursoID,cargaHora}
 (Ramon,20,123,EngPesca,EP11,60)
+(Dino,20,123,EngPesca,EP11,60)
 (Ramon,20,123,EngPesca,EP11,60)
 (Ramon,20,123,EngPesca,EP11,60)
-
 Inclusão.
 
 Alteração.
