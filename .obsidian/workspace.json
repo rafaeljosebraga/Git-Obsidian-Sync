@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b6d1926c7637959d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -81,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -159,23 +149,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b6d1926c7637959d",
+  "active": "e8c9411d6a7c9396",
   "lastOpenFiles": [
-    "Teste algebra linear/transformações lineares.md",
-    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
-    "BDzada/Modelo Relacional.md",
-    "BDzada/1-relacional.canvas",
-    "Análise Numerica/IDEA.md",
-    "BDzada/2-relacional.canvas",
     "Sem título.md",
+    "Teste algebra linear/transformações lineares.md",
     "Videos",
     "Videos/LinearTransformation.light.mp4",
     "imagens utilizadas/Pasted image 20240709103155.png",
@@ -186,8 +171,13 @@
     "imagens utilizadas/Pasted image 20240704111814.png",
     "imagens utilizadas",
     "Teste algebra linear",
+    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Calculo Varias Vars",
+    "BDzada/Modelo Relacional.md",
+    "BDzada/1-relacional.canvas",
+    "BDzada/2-relacional.canvas",
     "BDzada",
+    "Análise Numerica/IDEA.md",
     "Análise Numerica",
     "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709103155.png",
     "Git-Obsidian-Sync/imagens utilizadas/Pasted image 20240709102004.png",

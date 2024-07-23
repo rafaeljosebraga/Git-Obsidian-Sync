@@ -124,4 +124,6 @@ $T(vetX)^{-1}=[T]^{-1}$ $[T]$->é injetora
 
 $[T](x)\begin{bmatrix}cosX&&-senX\\senX&&cosX\end{bmatrix}$->  $det([T])=cos²X+sen²=1$ a matriz de rotação possui inversa.
 
+#<h3> Aula Lab</h3>
+
 
