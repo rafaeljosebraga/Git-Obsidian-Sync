@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6d1926c7637959d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -155,7 +166,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d14722ad9b190c93",
+  "active": "b6d1926c7637959d",
   "lastOpenFiles": [
     "Teste algebra linear/transformações lineares.md",
     "Videos",
