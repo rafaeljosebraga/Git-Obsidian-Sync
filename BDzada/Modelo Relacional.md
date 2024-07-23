@@ -141,8 +141,8 @@ Redundância->desperdiça espaço.
 #<h3>Inclusão</h3>
 .
 
-  (Ramon,20,<u>123</u>,EngPesca,EP11,60)
-  (Dino,27,<u>243</u>,EngPesca,EP11,60)
+  (Ramon,20,<u>123</u>,EngPesca,EP11,==60==)
+  (Dino,27,<u>243</u>,EngPesca,EP11,==60==)
   (Pardal,11,<u>563</u>,Aviação,Ev12,100)
   (Kitano,68,<u>456</u>,Geografia,Gg13,80)
   ==inserida==->(Elésio,23,<u>100</u>,==EngPesca==,EP11,==80==)
@@ -152,8 +152,9 @@ Redundância->desperdiça espaço.
 
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
   (Dino,27,<u>243</u>,EngPesca,EP11,60)
-  (Pardal,11,<u>123</u>,Geografia,Ev12,100)
-  (Kitano,68,<u>123</u>,Geografia,Gg13,80)
+  Alterado(Pardal,11,<u>563</u>,==Geografia==,==Ev12==,100)
+  (Kitano,68,<u>456</u>,==Geografia==,==Gg13==,80)
+  
 #<h3>Exclusão</h3>
 .
   (Ramon,20,<u>123</u>,EngPesca,EP11,60)
