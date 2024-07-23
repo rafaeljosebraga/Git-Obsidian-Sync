@@ -167,6 +167,11 @@ Alterado->(Dino,27,<u>243</u>,==Geografia,EP11==,60)
 
 Lúcio apontou que uma possivel solução para os problemas apresentados 
 utilizando de uma relação para representar Curso e alterando a relação Pessoa
+
+<h>Pessoa:{Nome, Idade,ID, nomeCurso, IDcurso, cargaHora}</h>
+
+<h>Curso:{Nome, Idade,ID, nomeCurso, IDcurso, cargaHora}</h>
+
  
 <h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
