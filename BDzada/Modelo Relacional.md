@@ -142,7 +142,7 @@ Exclusão.
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
 #<h4>Tuplas ilegítima.</h4>
-
+relações as quais as tuplas estão inconsistentes é um sinal óbvio 
 #<h3>Analise Formal</h3>->
 Formalização
 	Projeto por análise
