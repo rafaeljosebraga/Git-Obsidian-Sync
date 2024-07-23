@@ -136,25 +136,37 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 		nike não parece fazer muito sentido para tupla
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
-
+E
 { Nome, idade, Cpf, Curso, CursoID, CargaHora}
 (Ramon,20,123,EngPesca,EP11,60)
 (Dino,27,243,EngPesca,EP11,60)
 (Pardal,11,444,Aviação,Ev12,100)
 (Kitano,68,555,Geografia,Gg13,80)
 
+#<h2></h2>
 Inclusão.
 (Ramon,20,123,EngPesca,EP11,60)
 (Dino,27,243,EngPesca,EP11,60)
 (Pardal,11,444,Aviação,Ev12,100)
 (Kitano,68,555,Geografia,Gg13,80)
+#<h2></h2>
 Alteração.
+(Ramon,20,123,EngPesca,EP11,60)
+(Dino,27,243,EngPesca,EP11,60)
+(Pardal,11,444,Aviação,Ev12,100)
+(Kitano,68,555,Geografia,Gg13,80)
+#<h2></h2>
 Exclusão.
+(Ramon,20,123,EngPesca,EP11,60)
+(Dino,27,243,EngPesca,EP11,60)
+(Pardal,11,444,Aviação,Ev12,100)
+(Kitano,68,555,Geografia,Gg13,80)
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
+//mais detalhes são necessários
 #<h4>Tuplas ilegítima.</h4>
 relações as quais as tuplas estão inconsistentes é um sinal óbvio de que estamos criando tuplas   ilegítimas
-//mais detalhes são
+//mais detalhes são necessários
 #<h3>Analise Formal</h3>->
 Formalização
 	Projeto por análise
