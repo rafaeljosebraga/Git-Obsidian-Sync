@@ -142,7 +142,7 @@ Exclusão.
 #<h4>Valores nulos.</h4>
 Os nulos podem ficar em uma relação separada 
 #<h4>Tuplas ilegítima.</h4>
-relações as quais as tuplas estão inconsistentes é um sinal óbvio 
+relações as quais as tuplas estão inconsistentes é um sinal óbvio de que estamos criando tuplas ilegitimas
 #<h3>Analise Formal</h3>->
 Formalização
 	Projeto por análise
@@ -152,3 +152,8 @@ Formalização
 		 de baixo para cima temos os relacionamentos entre atributos para construir relações
 			 observa porquê uma tupla faz sentido sobre a relação dos atributos entre si.
 		 Melhoramos as qualidades das relações obtidas.
+
+#<h4>Análise Formal</h4>
+Dependência Funcional->Propiedade semântica
+->Descoberta pelo projetista
+->Pode ser validada na instância do banco()
