@@ -133,5 +133,7 @@ Pode se perceber que a nossa matriz B quando escalonada e reduzida ela forma a m
 
 Podemos transformar uma matriz de vetores de base $R^3$ para $R⁴$  porem ainda dependemos da quantidade de vetores iguais ou maiores ao do numero da base para gerar um subespaço da base.
 
-![[Pasted image 20240723115337.png]]
-comparação com a transposta
+![[Pasted image 20240723115355.png]]
+comparação com a transposta,existem vantagens de refatoração matricial em cálculos entre linhas de uma matriz transpostada
+
+#<h2></h2>
