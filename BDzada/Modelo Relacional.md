@@ -121,10 +121,14 @@ Alt 2->io
 
 Análise informal->
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
+	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relaç~
 
 Analise Formal->
 Formalização
 	Projeto por análise
 		 podemos partir de cima para baixo onde buscamos a partir do agrupamento de atributos pelo projeto conceitual de mapeamento
+		 Encontramos as primeiras relações
 	 Projeto por síntese
-		 de baixopara
+		 de baixo para cima temos os relacionamentos entre atributos para construir relações
+			 observa porquê uma tupla faz sentido sobre a relação dos atributos entre sí.
+		 Melhoramos as qualidades das relações obtidas.
