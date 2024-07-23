@@ -136,14 +136,18 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 		nike não parece fazer muito sentido para tupla
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
-{Nome,idade,cpf,curso,cursoID,cargaHora}
+
+{ Nome, idade, Cpf, Curso, CursoID, CargaHora}
 (Ramon,20,123,EngPesca,EP11,60)
 (Dino,27,243,EngPesca,EP11,60)
 (Pardal,11,444,Aviação,Ev12,100)
 (Kitano,68,555,Geografia,Gg13,80)
 
 Inclusão.
-
+(Ramon,20,123,EngPesca,EP11,60)
+(Dino,27,243,EngPesca,EP11,60)
+(Pardal,11,444,Aviação,Ev12,100)
+(Kitano,68,555,Geografia,Gg13,80)
 Alteração.
 Exclusão.
 #<h4>Valores nulos.</h4>
