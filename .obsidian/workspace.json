@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a50ba9ecb852f314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BDzada/Modelo Relacional.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDzada/Modelo Relacional.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDzada/Modelo Relacional.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,11 +169,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d14722ad9b190c93",
+  "active": "a50ba9ecb852f314",
   "lastOpenFiles": [
+    "BDzada/Modelo Relacional.md",
+    "conflict-files-obsidian-git.md",
     "BDzada/2-relacional.canvas",
     "BDzada/1-relacional.canvas",
-    "BDzada/Modelo Relacional.md",
     "imagens utilizadas/Pasted image 20240723121132.png",
     "Teste algebra linear/transformações lineares.md",
     "imagens utilizadas/Pasted image 20240723120855.png",
