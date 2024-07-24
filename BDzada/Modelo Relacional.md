@@ -176,7 +176,7 @@ utilizando de uma relação para representar Curso e alterando a relação Pesso
 
 <h>Curso:{NomeCurso, <u>IDcurso</u>, cargaHora}</h>
 (Aviação,Av12,100)
-(EngPesca,EP11)
+(EngPesca,EP11,60)
 
  
 <h4>Valores nulos.</h4>
