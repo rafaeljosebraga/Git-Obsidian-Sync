@@ -136,6 +136,7 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 		nike não parece fazer muito sentido para tupla
 Redundância->desperdiça espaço.
 #<h4>Anomalias.</h4>
+//Deve ser melhor compreendido.
 Inclusão.
 Alteração.
 Exclusão.
@@ -165,6 +166,6 @@ Dependência Funcional uma restrição entre dois conjuntos de atributos
 
 Controlando Consistência
 
-->Propiedade semântica:
+->Propriedade semântica:a sua idade é estereotipada pelo seu curso?
 ->Descoberta pelo projetista:estudada pelo projetista.
-->Pode ser validada na instância do banco:não faz muito sentido n.
+->Pode ser validada na instância do banco:não faz muito sentido não.
