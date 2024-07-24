@@ -171,8 +171,9 @@ Lúcio apontou que uma possivel solução para os problemas apresentados
 utilizando de uma relação para representar Curso e alterando a relação Pessoa
 
 <h>Pessoa:{Nome, Idade, <u>ID</u>,<u>IDcurso</u>(estrangeira)}</h>
-(Ramon,20,<u>123</u>,==EngPesca,EP11==,60)
+(Ramon,20,<u>123</u>,EngPesca,EP11,60)
 (Pardal,11,<u>563</u>,Av12)
+
 <h>Curso:{NomeCurso, <u>IDcurso</u>, cargaHora}</h>
 (Aviação,Av12,100)
 (EngPesca,EP11)
