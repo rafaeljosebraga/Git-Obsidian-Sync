@@ -93,6 +93,15 @@ os multivalorados podem ser uma relação com chave estrangeira referenciando a 
 
 para mais informações o livro do Elmarsi navate.
 
+
+<h3>Mapeamento de Agregação</h3>
+Tudo vira relação a relação com a agregação possuindo referencia das entidades que com dentro de sua relação relacionavam.
+
+Caso a relação dentro da agregação possua relacionamento com atributos esse relacionamento se torna uma relação.
+
+as chaves "estrangeiras" se tornam uma chave compostas e secundária.
+
+
 <h3>Mapeamento da Generalização</h3>
 para o padrão de participação total todas as entidades da generalização se tornam relações,
 
@@ -104,19 +113,11 @@ chute o balde(cada um cada um 10000 relações)
 (interpretar o Slide)
 
 
-<h3>Mapeamento de Agregação</h3>
-Tudo vira relação a relação com a agregação possuindo referencia das entidades que com dentro de sua relação relacionavam.
-
-Caso a relação dentro da agregação possua relacionamento com atributos esse relacionamento se torna uma relação.
-
-as chaves "estrangeiras" se tornam uma chave compostas e secundária.
-
 <h4>PPd_1</h4>
 Alt 1 -> disjunção padrão. Todas a entidade principal e as generalizações dela
 viram entidades com todas as generalizações possuindo chaves estrangeiras
 
 Alt 2->io
-
 
 <h3>Qualidade do Projeto Lógico</h3>
 
