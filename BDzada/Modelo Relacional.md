@@ -251,6 +251,7 @@ não depende da dependência total para funcionar
 
 Total
 depende da dependência total para referenciar
+
 {Ra,Disc}->nota
 
 Regras de inferência:
@@ -266,8 +267,32 @@ outros exemplos nos slides de Lúcio
 ex:
 
 Aluno={nome{nome_pais}}
-retiramos as relações aninhadas
+retiramos as relações aninhadas no caso "nome_pais"
 ->Aluno={nome,nome_pai,nome_mãe}
 
 $2^a$ Forma Normal
+
+Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto
+
+Turma= {<u>NúmeroT,Sigla</u>,Sala,No.Horas}->Incorreto a solução
+
+//
+Turma= {<u>NúmeroT,</u>,Sala}->Incorreto a solução
+
+adicionada->Disciplina{<u>Sigla</u>,No.horas}
+
+Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto se transitividade não gerasse inconsistência que solucionada
+
+na
+
+$3^a$Forma Normal
+
+Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc}
+
+//
+
+Ministra={<u>Professor,Sigla</u>,LivroTexto}
+retirando transitividade
+Livro={<u>LivroTexto</u>LivroExerc}
+
 
