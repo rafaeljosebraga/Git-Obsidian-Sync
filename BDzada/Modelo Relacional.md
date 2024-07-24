@@ -228,4 +228,46 @@ Controlando Consistência
 ->Descoberta pelo projetista: detalhes da tupla estudada pelo projetista.
 ->Pode ser validada na instância do banco: #Esqueci.
 
-Normalização->Reduzir
+Normalização->Reduzir conjuntos ruins para aumentar a consistência da relação
+
+Definiçoes iniciais
+
+[Dependência funcional]()
+Trivial
+X->Y
+ {Cod,Agencia}->Agencia
+ {Cod,Agencia}-Cod
+
+Transitiva
+
+{Cod,Agencia}->Endereço
+
+Atributo primário é uma chave candidata
+
+parcial
+não depende da dependência total para funcionar
+
+{Cod,Agencia}->Agencia
+
+Total
+depende da dependência total para referenciar
+{Ra,Disc}->nota
+
+Regras de inferência:
+REVER SLIDE.
+
+
+$1^a$ Forma Normal
+
+Atributos devem ser Atômicos e Monovalorados
+
+Normalizando perante a estes parâmetros
+outros exemplos nos slides de Lúcio
+ex:
+
+Aluno={nome{nome_pais}}
+retiramos as relações aninhadas
+->Aluno={nome,nome_pai,nome_mãe}
+
+$2^a$ Forma Normal
+
