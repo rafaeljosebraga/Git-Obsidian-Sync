@@ -209,22 +209,23 @@ Formalização
 Dependência Funcional uma restrição entre dois conjuntos de atributos 
 	exemplo se em pessoa temos CPF vamos ter Nome.
 	
-		Devemos procurar essa comparação na Tupla ->sendo esse exemplo ID para   Nome||A para B
+		Devemos procurar essa comparação na Tupla ->sendo esse exemplo ID para   Nome||A ou mais atributos para B ou mais atributos
+	Exemplo
 	123 = Mário
 	234 = Jorge
 	123 = Mário
 	 654 = Lena
+	 
  devemos estar atento o sentido semântico.
 	 onde o atributo curso definindo a idade de alguem porem não faz muito sentido.
 
 Controlando Consistência
 
-<<<<<<< HEAD
 ->Propriedade semântica:a sua idade é estereotipada pelo seu curso?
 ->Descoberta pelo projetista:estudada pelo projetista.
 ->Pode ser validada na instância do banco:não faz muito sentido não.
-=======
 ->Propriedade semântica: a tupla faz sentido com o contexto.
 ->Descoberta pelo projetista: detalhes da tupla estudada pelo projetista.
 ->Pode ser validada na instância do banco: #Esqueci.
->>>>>>> origin/main
+
+Normalização->Reduzir
