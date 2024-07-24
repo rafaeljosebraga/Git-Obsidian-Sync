@@ -159,8 +159,10 @@ Alterado->(Dino,27,<u>243</u>,==Geografia,EP11==,60)
 
 (Ramon,20,<u>123</u>,EngPesca,EP11,60)
 (Dino,27,<u>243</u>,EngPesca,EP11,60)
-~~(Pardal,11,563,Aviação,AV12,100)~~
-~~(Pardal,11,563,EngPesca,EP11,60)~~
+Apagados{
+  ~~(Pardal,11,563,Aviação,AV12,100)~~
+  ~~(Pardal,11,563,EngPesca,EP11,60)~~
+}
 (Kitano,68,<u>456</u>,Geografia,Gg13,80)
 
  Ao apagarmos Pardal perdemos totalmente a existência de Aviação seu código e carga horária gerando uma inconsistência.
@@ -173,7 +175,7 @@ utilizando de uma relação para representar Curso e alterando a relação Pesso
 (Pardal,11,<u>563</u>,Av12)
 <h>Curso:{NomeCurso, <u>IDcurso</u>, cargaHora}</h>
 (Aviação,Av12,100)
-(Eng)
+(EngPesca,EP11)
 
  
 <h4>Valores nulos.</h4>
