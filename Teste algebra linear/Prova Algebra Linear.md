@@ -42,5 +42,7 @@ $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}1
 $1*V_1+1*V_2$
 
 $V_2$  é o azul e o $V_1$  é o vermelho
-![[Pasted image 20240725194008.png]]
+![[Pasted image 20240725195002.png]]
+
+
 
