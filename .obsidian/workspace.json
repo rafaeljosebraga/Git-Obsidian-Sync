@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240725194008.png"
+                "file": "imagens utilizadas/Pasted image 20240725194008.png"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240725194008.png",
+                "file": "imagens utilizadas/Pasted image 20240725194008.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240725194008.png",
+                "file": "imagens utilizadas/Pasted image 20240725194008.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240725194008.png"
+                "file": "imagens utilizadas/Pasted image 20240725194008.png"
               }
             }
           },
@@ -156,18 +156,19 @@
   },
   "active": "cd21648d59d618f8",
   "lastOpenFiles": [
+    "imagens utilizadas/Untitled",
+    "imagens utilizadas/Pasted image 20240725193909.png",
+    "imagens utilizadas/Pasted image 20240725194008.png",
     "Untitled",
-    "Pasted image 20240725193909.png",
-    "Pasted image 20240725194008.png",
     "Teste algebra linear/Prova Algebra Linear.md",
-    "Pasted image 20240725190404.png",
-    "Pasted image 20240725190335.png",
-    "Pasted image 20240725190315.png",
-    "Pasted image 20240725190243.png",
-    "Pasted image 20240725190205.png",
-    "Pasted image 20240725190135.png",
-    "Pasted image 20240725190117.png",
-    "Pasted image 20240725185427.png",
+    "imagens utilizadas/Pasted image 20240725190404.png",
+    "imagens utilizadas/Pasted image 20240725190335.png",
+    "imagens utilizadas/Pasted image 20240725190315.png",
+    "imagens utilizadas/Pasted image 20240725190243.png",
+    "imagens utilizadas/Pasted image 20240725190205.png",
+    "imagens utilizadas/Pasted image 20240725190135.png",
+    "imagens utilizadas/Pasted image 20240725190117.png",
+    "imagens utilizadas/Pasted image 20240725185427.png",
     "conflict-files-obsidian-git.md",
     "Teste algebra linear/Núcleo e Imagem.md",
     "Teste algebra linear/transformações lineares.md",
@@ -191,7 +192,6 @@
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/Teste algebra linear",
     "Git-Obsidian-Sync/Sem título.md",
-    "Git-Obsidian-Sync/LinearTransformation.light.mp4",
     "Git-Obsidian-Sync/Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Git-Obsidian-Sync/BDzada/Modelo Relacional.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
