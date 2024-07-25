@@ -18,4 +18,9 @@ somando os vetores chegamos naquele "átomo" interpretado como vertice sendo a s
 
 ![[Pasted image 20240725185427.png]]
 <h3>Letra b)</h3>
-$\begin{bmatrix} 2\\1\end{bmatrix}%
+os átomos e seus pr
+$\begin{bmatrix} 1\\0\end{bmatrix}$
+
+$\begin{bmatrix} 0\\1\end{bmatrix}$
+
+$\begin{bmatrix} 2\\1\end{bmatrix}$
