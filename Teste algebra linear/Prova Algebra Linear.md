@@ -54,6 +54,7 @@ para "transitarmos" do átomo "0" até o "1"
 caminhamos 5 passos no $V_1$ e 2 passos no $V_2$ deste ponto é só fazer um jogo de adição com as coordenadas adquiridas na "letra b)" 
 assim conseguimos alcançar qualquer um dos átomos daquele hexágono em relação aquela posição.
 
+$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}$
 
 
 
