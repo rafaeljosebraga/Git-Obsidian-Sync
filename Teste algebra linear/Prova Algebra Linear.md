@@ -20,10 +20,10 @@ somando os vetores chegamos naquele "átomo" interpretado como vertices sendo a 
 <h3>Letra b)</h3>
 as coordenadas com seus respectivos átomos de chegada em evidência
 
-$\begin{bmatrix} 0\\0\end{bmatrix}$
+$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\0\end{bmatrix}$
 ![[Pasted image 20240725190135.png]]
 
-$\begin{bmatrix} 1\\0\end{bmatrix}$
+$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\0\end{bmatrix}$
 ![[Pasted image 20240725190205.png]]
 $\begin{bmatrix} 0\\1\end{bmatrix}$
 ![[Pasted image 20240725190243.png]]
