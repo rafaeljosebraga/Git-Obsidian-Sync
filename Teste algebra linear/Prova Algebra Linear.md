@@ -1,3 +1,5 @@
 
 <h2>Questão 2</h2>
-![[Pasted image 20240725182909.png]]
+
+<h3>Letra a)</h3>
+![[Pasted image 20240725183358.png]]
