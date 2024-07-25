@@ -20,7 +20,8 @@ somando os vetores chegamos naquele "átomo" interpretado como vertice sendo a s
 <h3>Letra b)</h3>
 as coordenadas  com seus respectivos átomos de chegada em evidência
 
-
+$\begin{bmatrix} 0\\0\end{bmatrix}$
+![[Pasted image 20240725190135.png]]
 
 $\begin{bmatrix} 1\\0\end{bmatrix}$
 
