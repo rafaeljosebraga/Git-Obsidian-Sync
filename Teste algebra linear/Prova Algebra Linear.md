@@ -33,5 +33,6 @@ $\begin{bmatrix} 2\\1\end{bmatrix}$
 ![[Pasted image 20240725190315.png]]
 $\begin{bmatrix} 2\\2\end{bmatrix}$
 
+![[Pasted image 20240725190404.png]]
 
 
