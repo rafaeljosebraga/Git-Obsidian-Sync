@@ -36,4 +36,5 @@ $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 
 ![[Pasted image 20240725190404.png]]
 
 <h3>Letra c)</h3>
-Pensando na soma de vetores e olhando para como foi feito na questão an 
+Pensando na soma de vetores e olhando para como foi feito na questão anterior podemos intuitivamente aferir
+$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bma}$
