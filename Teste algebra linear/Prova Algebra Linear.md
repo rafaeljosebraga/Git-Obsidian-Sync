@@ -3,7 +3,7 @@
 
 <h3>Letra a)</h3>
 <h4>i</h4> 
-Passarei a usar essa exemplificação para representar a interpretação de vetores.
+Passarei a usar essa exemplificação para representar a interpretação de vetores da base $B$.
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\0\end{bmatrix}$
 
 ![[Pasted image 20240725184340.png]]
@@ -49,6 +49,8 @@ para transicionarmos do ponto 0 ao 1 fazemos o seguinte movimento com os nossos 
 ![[Pasted image 20240725200908.png]]
 
 $5*V_1+2*V_2$ ou $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}$
+
+para transicionarmos da nossa 
 
 
 
