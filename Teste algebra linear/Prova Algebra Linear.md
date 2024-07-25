@@ -24,5 +24,11 @@ $\begin{bmatrix} 1\\0\end{bmatrix}$
 
 $\begin{bmatrix} 0\\1\end{bmatrix}$
 
+$\begin{bmatrix} 1\\2\end{bmatrix}$
+
 $\begin{bmatrix} 2\\1\end{bmatrix}$
+
+$\begin{bmatrix} 2\\2\end{bmatrix}$
+
+
 
