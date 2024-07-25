@@ -69,10 +69,10 @@ caminhamos 5 passos no $V_1$ e 2 passos no $V_2$ deste ponto é só fazer um jog
 assim conseguimos alcançar qualquer um dos átomos daquele hexágono em relação aquela posição.
 
 Tomando o exemplo:
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\1\end{bmatrix}$
-![[Pasted image 20240725190243.png]]
+$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\1\end{bmatrix}$
+![[Pasted image 20240725190315.png]]
 
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}+\begin{bmatrix}5\\2\end{bmatrix}$
+$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}+\begin{bmatrix}2\\1\end{bmatrix}$
 
 
 
