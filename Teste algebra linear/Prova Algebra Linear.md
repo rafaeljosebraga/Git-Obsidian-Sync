@@ -36,4 +36,4 @@ $\begin{bmatrix} 2\\2\end{bmatrix}$
 ![[Pasted image 20240725190404.png]]
 
 <h3>Letra c)</h3>
-Pensando na soma de vetores
+Pensando na soma de vetores podemso somar tanto 
