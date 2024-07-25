@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md"
+                "file": "Teste algebra linear/Prova Algebra Linear.md"
               }
             }
           },
@@ -148,25 +148,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
-    "Teste algebra linear/transformações lineares.md",
-    "Teste algebra linear/Posto e Nulidade.md",
+    "Pasted image 20240725182909.png",
     "BDzada/Modelo Relacional.md",
-    "BDzada/2-relacional.canvas",
+    "Teste algebra linear/Prova Algebra Linear.md",
+    "Teste algebra linear/Posto e Nulidade.md",
     "BDzada/3-relacional.canvas",
-    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
+    "Teste algebra linear/transformações lineares.md",
+    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
+    "Sem título.md",
     "conflict-files-obsidian-git.md",
-    "BDzada/1-relacional.canvas",
     "imagens utilizadas/Pasted image 20240723121132.png",
     "imagens utilizadas/Pasted image 20240723120855.png",
     "imagens utilizadas/Pasted image 20240723120610.png",
@@ -174,7 +175,9 @@
     "imagens utilizadas/Pasted image 20240723115337.png",
     "imagens utilizadas/Pasted image 20240723114836.png",
     "imagens utilizadas/Pasted image 20240723113630.png",
-    "Sem título.md",
+    "Análise Numerica/IDEA.md",
+    "BDzada/1-relacional.canvas",
+    "BDzada/2-relacional.canvas",
     "Videos",
     "Videos/LinearTransformation.light.mp4",
     "imagens utilizadas/Pasted image 20240709103155.png",
@@ -184,7 +187,6 @@
     "Teste algebra linear",
     "Calculo Varias Vars",
     "BDzada",
-    "Análise Numerica/IDEA.md",
     "Análise Numerica",
     "Git-Obsidian-Sync/imagens utilizadas",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
