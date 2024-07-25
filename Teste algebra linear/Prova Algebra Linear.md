@@ -28,9 +28,9 @@ $\begin{bmatrix} 1\\0\end{bmatrix}$
 $\begin{bmatrix} 0\\1\end{bmatrix}$
 ![[Pasted image 20240725190243.png]]
 $\begin{bmatrix} 1\\2\end{bmatrix}$
-
+![[Pasted image 20240725190335.png]]
 $\begin{bmatrix} 2\\1\end{bmatrix}$
-
+![[Pasted image 20240725190315.png]]
 $\begin{bmatrix} 2\\2\end{bmatrix}$
 
 
