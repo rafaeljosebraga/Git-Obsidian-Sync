@@ -12,7 +12,7 @@ $nul(A)$
 >>seja $A_{NxN}$ então
 >>->$nulidade(A)+posto(A)=N$
 >
->$\begin{bmatrix}->1&&0&&0&&2\\0&&->1&&0&&1\\0&&0&&->1&&3\\0&&0&&0&&->0\end{bmatrix}$
+>$A = \begin{bmatrix}->1&&0&&0&&2\\0&&->1&&0&&1\\0&&0&&->1&&3\\0&&0&&0&&->0\end{bmatrix}$
 >>$3+1=4$
 >>$nul(A)=1$
 >>$post(A)=3$
@@ -20,6 +20,11 @@ $nul(A)$
 
 >(3)$dim(nuc(A))=0$->$T(vetX)$ é injetora
 
->(4)$T(vetX)$ então é bijetora em $R^n$->$R^n$=>isomorfo que não se altera as caracteristicas 
+>(4)$T(vetX)$ então é bijetora em $R^n$->$R^n$=>isomorfo "que não se altera as características"
+>(4)$T(vetX)$ é injetora então $pos(A) + nul(A)=N$
+
+sendo o teorema abordado aqui equivalente de [[Núcleo e Imagem]] onde 
+
+$dim(nucleo)+dim(img)=dim$
 
 
