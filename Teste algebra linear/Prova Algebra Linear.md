@@ -14,4 +14,4 @@ $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 
 <h4>ii</h4>
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\1\end{bmatrix}$
 ![[Pasted image 20240725185118.png]]
-somando os vetores chegamos naquele átomo amare 
+somando os vetores chegamos naquele átomo amarelo sendo a seta vermelha $V_1$ a verde $V_2$ e a preta o resultado do da  
