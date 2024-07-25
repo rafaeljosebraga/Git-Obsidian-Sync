@@ -189,7 +189,6 @@ utilizando de uma relação para representar Curso e alterando a relação Pesso
 
  
 <h4>Valores nulos.</h4>
->>>>>>> origin/main
 Os nulos podem ficar em uma relação separada 
 //mais detalhes são necessários
 <h4>Tuplas ilegítima.</h4>
@@ -229,6 +228,8 @@ Controlando Consistência
 ->Pode ser validada na instância do banco: #Esqueci.
 
 Normalização->Reduzir conjuntos ruins para aumentar a consistência da relação
+
+para normalizar a partir da decomposição sem com que aconteça sem que se perca junção
 
 Definiçoes iniciais
 
@@ -277,13 +278,11 @@ Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto
 Turma= {<u>NúmeroT,Sigla</u>,Sala,No.Horas}->Incorreto a solução
 
 //
-Turma= {<u>NúmeroT,</u>,Sala}->Incorreto a solução
+Turma= {<u>NúmeroT,</u>Sigla,Sala}
 
 adicionada->Disciplina{<u>Sigla</u>,No.horas}
 
-Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto se transitividade não gerasse inconsistência que solucionada
-
-na
+Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto se transitividade não gerasse inconsistência que solucionada na->
 
 $3^a$Forma Normal
 
