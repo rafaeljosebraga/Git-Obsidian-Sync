@@ -23,17 +23,33 @@ as coordenadas com seus respectivos átomos de chegada em evidência
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\0\end{bmatrix}$
 ![[Pasted image 20240725190135.png]]
 
+
+
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\0\end{bmatrix}$
 ![[Pasted image 20240725190205.png]]
+
+
+
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\1\end{bmatrix}$
 ![[Pasted image 20240725190243.png]]
+
+
+
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\2\end{bmatrix}$
 ![[Pasted image 20240725190335.png]]
+
+
+
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\1\end{bmatrix}$
 ![[Pasted image 20240725190315.png]]
+
+
+
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\2\end{bmatrix}$
 
 ![[Pasted image 20240725190404.png]]
+
+
 
 <h3>Letra c)</h3>
 Pensando na soma de vetores e olhando para como foi feito na questão anterior podemos intuitivamente aferir
