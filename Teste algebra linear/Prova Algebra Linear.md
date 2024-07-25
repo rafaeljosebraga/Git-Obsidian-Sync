@@ -45,7 +45,7 @@ $V_2$  é o azul e o $V_1$  é o vermelho
 ![[Pasted image 20240725195002.png]]
 
 <h3>Letra d)</h3>
-
+para transicionarmos do ponto 0 ao 1 fazemos o seguinte movimento com os nossos vetores bs
 
 
 
