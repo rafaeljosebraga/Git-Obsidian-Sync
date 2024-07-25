@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md"
+                "file": "Teste algebra linear/Prova Algebra Linear.md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
+    "Pasted image 20240725184340.png",
     "Teste algebra linear/transformações lineares.md",
-    "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/Posto e Nulidade.md",
+    "Teste algebra linear/Prova Algebra Linear.md",
     "Pasted image 20240725183358.png",
     "Pasted image 20240725182909.png",
     "BDzada/Modelo Relacional.md",
