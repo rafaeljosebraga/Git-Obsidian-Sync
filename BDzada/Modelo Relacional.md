@@ -7,7 +7,7 @@ possa ser mapeado para o Modelo Relacional
 
 1.1 Toda entidade se torna em uma relação com todos os seus atributos(e caracteristicas?).
 
-1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial. sendo essa as chaves secundária,terciárias e em diante.
+1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial. sendo essa as chaves secundária, terciárias e em diante.
 
 2 -><h4>Entidades Fracas</h4>
 2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave #superchave com tanto suas chaves fracas e uma chave forte exterior
@@ -24,7 +24,7 @@ tanto do número da turma e a sigla da disciplina, pense que quanto maior a prof
 3<h3>Ordem e cardinalidade</h3>
 3.1 :cardinalidade 1 pra 1
 
-para mapearmos esse tipo de relacionamento escolhemos qual entidade que quando relação vai ficar com menos atributos nulos(null), os atributos não chave ficam na entidade escolha,incluindo atributos  criados dentro do relacionamento
+para mapearmos esse tipo de relacionamento escolhemos qual entidade que quando relação vai ficar com menos atributos nulos(null), os atributos não chave ficam na entidade escolha, incluindo atributos  criados dentro do relacionamento
 ->preservar a consistência do banco
 
 3.2:exemplo do Chefia
