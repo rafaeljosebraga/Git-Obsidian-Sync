@@ -86,5 +86,8 @@ $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}7
 <h3>Letra e)</h3>
 
 Centro de hexagono.
+$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}16\\4\end{bmatrix}$
+
 
 ![[Pasted image 20240725215946.png]]
+![[Pasted image 20240725220049.png]]
