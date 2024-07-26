@@ -39,7 +39,7 @@ não entendi.(Analise Semântica );
 
 Participação total possui prioridade a receber chaves e atributos do relacionamento quando mapeando.
 
-disclaimer -> temos uma Restrilçao de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências
+disclaimer -> temos uma Restriçao de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências
 
 3.4 Politica no campus vai chegar   
 
