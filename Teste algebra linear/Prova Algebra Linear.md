@@ -84,3 +84,5 @@ $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}7
 ![[Pasted image 20240725205702.png]]
 
 <h3>Letra e)</h3>
+
+Hexagono
