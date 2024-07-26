@@ -11,9 +11,11 @@
             "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240725220049.png"
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240725220049.png",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240725220049.png",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240725220049.png"
+                "file": "Teste algebra linear/Prova Algebra Linear.md"
               }
             }
           },
@@ -156,8 +158,8 @@
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
-    "(teste).md",
     "imagens utilizadas/Pasted image 20240725220049.png",
+    "(teste).md",
     "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/transformações lineares.md",
     "BDzada/Modelo Relacional.md",
