@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDzada/Modelo Relacional.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BDzada/Modelo Relacional.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDzada/Modelo Relacional.md",
+                "file": "Teste algebra linear/Prova Algebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDzada/Modelo Relacional.md"
+                "file": "Teste algebra linear/Prova Algebra Linear.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
+    "Teste algebra linear/transformações lineares.md",
+    "BDzada/Modelo Relacional.md",
     "BDzada/2-relacional.canvas",
     "BDzada/1-relacional.canvas",
-    "BDzada/Modelo Relacional.md",
     "Teste algebra linear/Núcleo e Imagem.md",
     "Teste algebra linear/Posto e Nulidade.md",
-    "Teste algebra linear/transformações lineares.md",
     "Teste algebra linear/Prova Algebra Linear.md",
     "Pasted image 20240725220049.png",
     "Pasted image 20240725215946.png",
