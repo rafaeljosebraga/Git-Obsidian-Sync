@@ -204,7 +204,7 @@ Formalização
 			 observa porquê uma tupla faz sentido sobre a relação dos atributos entre si.
 		 Melhoramos as qualidades das relações obtidas.
 
-<h4>Análise Formal</h4>
+<h3>Análise Formal</h3>
 Dependência Funcional uma restrição entre dois conjuntos de atributos 
 	exemplo se em pessoa temos CPF vamos ter Nome.
 	
@@ -292,6 +292,6 @@ Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc}
 
 Ministra={<u>Professor,Sigla</u>,LivroTexto}
 retirando transitividade
-Livro={<u>LivroTexto</u>LivroExerc}
+Livro={<u>LivroTexto</u>,LivroExerc}
 
 
