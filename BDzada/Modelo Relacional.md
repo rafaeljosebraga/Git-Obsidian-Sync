@@ -204,7 +204,8 @@ Formalização
 			 observa porquê uma tupla faz sentido sobre a relação dos atributos entre si.
 		 Melhoramos as qualidades das relações obtidas.
 
-<h3>Análise Formal</h3>
+<h3>Análise Formal(pt2)</h3>
+
 Dependência Funcional uma restrição entre dois conjuntos de atributos 
 	exemplo se em pessoa temos CPF vamos ter Nome.
 	
@@ -231,17 +232,17 @@ Normalização->Reduzir conjuntos ruins para aumentar a consistência da relaç�
 
 para normalizar a partir da decomposição sem com que aconteça sem que se perca junção
 
-Definiçoes iniciais
+Definição inicial
 
 [Dependência funcional]()
 Trivial
 X->Y
- {Cod,Agencia}->Agencia
- {Cod,Agencia}-Cod
+ {Cod, Agencia}->Agencia
+ {Cod, Agencia}-Cod
 
 Transitiva
 
-{Cod,Agencia}->Endereço
+{Cod, Agencia}->Endereço
 
 Atributo primário é uma chave candidata
 
