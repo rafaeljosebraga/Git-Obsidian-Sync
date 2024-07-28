@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste algebra linear/Prova Algebra Linear.md",
+                "file": "Análise Numérica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f2d1594c65e1abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análise Numérica.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste algebra linear/Prova Algebra Linear.md",
+                "file": "Análise Numérica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste algebra linear/Prova Algebra Linear.md",
+                "file": "Análise Numérica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste algebra linear/Prova Algebra Linear.md"
+                "file": "Análise Numérica.md"
               }
             }
           },
@@ -156,11 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "d14722ad9b190c93",
   "lastOpenFiles": [
+    "Pasted image 20240728184956.png",
+    "Teste algebra linear/Prova Algebra Linear.md",
+    "Análise Numérica.md",
     "imagens utilizadas/Pasted image 20240725220049.png",
     "(teste).md",
-    "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/transformações lineares.md",
     "BDzada/Modelo Relacional.md",
     "BDzada/2-relacional.canvas",
