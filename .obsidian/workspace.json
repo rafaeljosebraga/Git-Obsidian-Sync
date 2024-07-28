@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -168,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d14722ad9b190c93",
+  "active": "6f2d1594c65e1abe",
   "lastOpenFiles": [
+    "Pasted image 20240728193401.png",
+    "Pasted image 20240728193359.png",
     "Pasted image 20240728193240.png",
     "Pasted image 20240728184956.png",
     "Teste algebra linear/Prova Algebra Linear.md",
@@ -188,8 +191,6 @@
     "imagens utilizadas/Pasted image 20240725204750.png",
     "imagens utilizadas/Pasted image 20240725200908.png",
     "imagens utilizadas/Pasted image 20240725200906.png",
-    "imagens utilizadas/Pasted image 20240725195002.png",
-    "imagens utilizadas/Pasted image 20240725194008.png",
     "imagens utilizadas/Untitled",
     "Untitled",
     "conflict-files-obsidian-git.md",
