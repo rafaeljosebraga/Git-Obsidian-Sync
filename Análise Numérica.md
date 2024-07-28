@@ -14,3 +14,4 @@ para n=10
 para n=20
 ![[Pasted image 20240728193401.png]]
 
+b

@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -169,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f2d1594c65e1abe",
+  "active": "d14722ad9b190c93",
   "lastOpenFiles": [
     "Pasted image 20240728193401.png",
     "Pasted image 20240728193359.png",
