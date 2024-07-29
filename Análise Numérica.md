@@ -13,9 +13,9 @@ códigos alterados e utilizados na 1:
 2 antes das letras
 ![[Pasted image 20240728184956.png]]
 
-permanece esparça no mesmo padrão com a eliminação de gauss removendo a parte triangular i.
+permanece esparça no mesmo padrão com a eliminação de gauss removendo a parte triangular inferior.
 
-a
+letra a)
 
 $-y_{k-1} + 2y_k - y_{k+1} = 8 / (n + 1)^2,  k = 1, 2, ..., n$
 
