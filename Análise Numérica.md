@@ -1,5 +1,7 @@
 
+
 1
+códigos alterados e utilizados na 1:
 
 2
 ![[Pasted image 20240728184956.png]]
