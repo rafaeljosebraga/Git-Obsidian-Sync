@@ -30,6 +30,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240728184956.png",
+                "file": "Análise Numérica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240728184956.png",
+                "file": "Análise Numérica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240728184956.png"
+                "file": "Análise Numérica.md"
               }
             }
           },
@@ -166,15 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "6f2d1594c65e1abe",
   "lastOpenFiles": [
+    "imagens utilizadas/Pasted image 20240728184956.png",
     "Análise Numérica.md",
     "imagens utilizadas/Pasted image 20240728205032.png",
     "imagens utilizadas/Pasted image 20240728204543.png",
     "imagens utilizadas/Pasted image 20240728193401.png",
     "imagens utilizadas/Pasted image 20240728193359.png",
     "imagens utilizadas/Pasted image 20240728193240.png",
-    "imagens utilizadas/Pasted image 20240728184956.png",
     "Teste algebra linear/Prova Algebra Linear.md",
     "imagens utilizadas/Pasted image 20240725220049.png",
     "(teste).md",
