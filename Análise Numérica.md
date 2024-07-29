@@ -1,5 +1,5 @@
 
-
+Rafael José Braga Coelho
 1 letra A.![[Pasted image 20240728234753.png]]
 conjunto solução![[Pasted image 20240728234824.png]]
 
