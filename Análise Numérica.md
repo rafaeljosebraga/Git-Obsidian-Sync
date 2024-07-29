@@ -10,10 +10,10 @@ conjunto solução![[Pasted image 20240728234955.png]]
 
 códigos alterados e utilizados na 1:
 
-2
+2 antes das letras
 ![[Pasted image 20240728184956.png]]
 
-permanece esparça no mesmo padrão.
+permanece esparça no mesmo padrão com a eliminação de gauss removendo a parte triangular i.
 
 a
 
