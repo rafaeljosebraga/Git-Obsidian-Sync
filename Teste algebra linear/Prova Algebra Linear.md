@@ -34,7 +34,7 @@ $$
 
 <h3>Letra C</h3>
 
-$inv(P_B)*x=\begin {bmatrix}x_1-x2\\x_2-x_3\\x_3-x_4\\x_4=x_5\\x_5-x_6\\x_6 \end {bmatrix}$
+$inv(P_B)*x=\begin {bmatrix}x_1-x2\\x_2-x_3\\x_3-x_4\\x_4-x_5\\x_5-x_6\\x_6 \end {bmatrix}$
 
 
 		  $\begin {bmatrix}c_1=x_1-x2\\c_2=x_2-x_3\\c_3=x_3-x_4\\c_4=x_4=x_5\\c_5=x_5-x_6\\c_6=x_6 \end {bmatrix}$
