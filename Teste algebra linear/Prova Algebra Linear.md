@@ -1,4 +1,4 @@
-Dupla:Rafael José,Luiz
+Dupla: Rafael José, Luis Fhilipe.
 
 <h3>Letra A</h3>
 
