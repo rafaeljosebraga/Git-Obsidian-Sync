@@ -44,8 +44,9 @@ R: O coeficiente c2 representa a diferença entre os valores de escala de cinza 
 
 <h3>Letra D</h3>
 
-$x=[\begin{array}25-34\\34-30\\30-45\\45-190\\190-200\\200\end{array}]$
+${X}_B=\begin{bmatrix}25-34\\34-30\\30-45\\45-190\\190-200\\200\end{bmatrix}$
 
+$$
 
 <h2>Questão 2</h2>
 
