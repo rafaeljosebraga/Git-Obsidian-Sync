@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f2d1594c65e1abe",
+  "active": "cd21648d59d618f8",
   "lastOpenFiles": [
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Análise Numérica.md",
