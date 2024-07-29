@@ -1,8 +1,9 @@
 
 
-1![[Pasted image 20240728234753.png]]
+1 letra A.![[Pasted image 20240728234753.png]]
 conjunto solução![[Pasted image 20240728234824.png]]
 
+letra B
 
 códigos alterados e utilizados na 1:
 
