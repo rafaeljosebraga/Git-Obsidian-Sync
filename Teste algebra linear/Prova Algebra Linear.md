@@ -1,7 +1,9 @@
 <h2>Questão 1</h2>
 
 $P_B=[v1 v2 v3 v4 v5 v6]$
-$P_B = \begin{bmatrix}  
+$P_B =$
+
+$$P_B = \begin{bmatrix}  
 1 & 1 & 1 & 1 & 1 & 1 \  
 0 & 1 & 1 & 1 & 1 & 1 \  
 0 & 0 & 1 & 1 & 1 & 1 \  
