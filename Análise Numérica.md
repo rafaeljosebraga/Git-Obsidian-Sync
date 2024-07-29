@@ -1,6 +1,9 @@
 
 
-1
+1![[Pasted image 20240728234753.png]]
+conjunto solução![[Pasted image 20240728234824.png]]
+
+
 códigos alterados e utilizados na 1:
 
 2
