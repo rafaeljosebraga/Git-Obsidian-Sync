@@ -9,8 +9,85 @@ conjunto solução![[Pasted image 20240728234955.png]]
 
 
 códigos alterados e utilizados na 1:
+function [coeficientes, constantes]=escalonar(coeficientes, constantes)
+    n_linhas = size(coeficientes)(1);
+    n_colunas = size(coeficientes)(2);
+    
+    for k=1: n_linhas-1 // Linha pivô atual
+    
+        for i = k+1: n_linhas // Linhas abaixo da linha do pivô
+            m = coeficientes(i,k)/coeficientes(k,k);    
+            
+            for j=k: n_colunas // Elementos da linha atual
+                coeficientes(i,j) = coeficientes(i,j) - m*coeficientes(k,j);
+            end
+            
+            
+            constantes(i) = constantes(i) - m*constantes(k);
+        end
+    end
+end
 
-2 antes das letras
+function [copia_coeficientes, copia_constantes]=eliminacao_gaussiana_pivotamento_parcial(coeficientes, constantes)
+    n_linhas = size(coeficientes)(1);
+    
+    copia_coeficientes = coeficientes;
+    copia_constantes = constantes;
+    
+    for k=1: n_linhas-1
+        pivo = copia_coeficientes(k,k);
+        
+        p = k;
+        
+        for i=k+1: n_linhas // Procurando se há algum elemento que é maior em módulo que o pivô
+            
+            if abs(copia_coeficientes(i,k)) > abs(copia_coeficientes(k,k))  
+                pivo = copia_coeficientes(i,k);
+                p = i;
+            end         
+        end
+        
+        // Se há algum elemento que é maior em módulo que o pivô, trocaremos as linhas, de modo que
+        // a linha desse elemento será a nova linha com o pivô
+        if p ~= k 
+            [copia_coeficientes, copia_constantes] = trocar_linhas(copia_coeficientes, copia_constantes, k, p);
+        end
+        
+        // Escalonamento comum
+        [copia_coeficientes, copia_constantes] = escalonar(copia_coeficientes, copia_constantes);
+    end
+end
+
+function r=CalculaSolucao(M, R)
+    //Retorna solucao dos metodos interativos
+    aux = 0
+    nlinhas = size(M, 1) //Pega o numero de linhas da matriz
+    ncol = size(M, 2) //Pega o numero de colunas da matriz
+
+    R(nlinhas) = R(nlinhas) / M(nlinhas,ncol) // Calcula o ultimo x
+    for i = nlinhas-1 : -1:  1  // Varia da ultima a primeira linha
+        for j = ncol : -1 : i+1   // Vare cada coluna substituindo as solucoes
+            aux = aux + M(i,j)*R(j)
+        end
+        R(i) = (R(i) - aux) / M(i,i)
+        aux=0
+    end
+    r = R
+endfunction
+
+//criando matriz de hilbert
+A=zeros(12,12);
+i=1;j=1;
+  for i = 1:12
+    for j = 1:12
+        
+      A(i,j)=round((1/((i)+(j)+1)) * 1e4) / 1e4;
+
+    end
+  end
+
+
+questão 2 antes das letras
 ![[Pasted image 20240728184956.png]]
 
 permanece esparça no mesmo padrão com a eliminação de gauss removendo a parte triangular inferior.
@@ -18,6 +95,8 @@ permanece esparça no mesmo padrão com a eliminação de gauss removendo a part
 letra a)
 
 $-y_{k-1} + 2y_k - y_{k+1} = 8 / (n + 1)^2,  k = 1, 2, ..., n$
+
+
 
 ![[Pasted image 20240728204543.png]]
 
