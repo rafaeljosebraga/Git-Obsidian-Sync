@@ -1,4 +1,5 @@
-<h2>Questão 1</h2>
+Dupla:Rafael José,Luiz
+
 <h3>Letra A</h3>
 
 $P_B=[v1 v2 v3 v4 v5 v6]$
