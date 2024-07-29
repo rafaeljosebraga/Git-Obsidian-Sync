@@ -50,6 +50,7 @@ ${X}_B=\begin{bmatrix}-9\\4\\-15\\-145\\-10\\200\end{bmatrix}$
 
 <h3>Letra E</h3>
 
+R: Cada coeficiente ${x}B$ mensura a diferença entre os valores de x adjacentes, sendo assim, a mudança nos valores de escala de cinza dos pixels consecutivos. Portanto, se o valor absoluto do ci for alto, isso indica que houve um salto de brilho entre os pixels, já que eles bruscamente se aproximam do valor da cor branca.
 <h2>Questão 2</h2>
 
 <h3>Letra a)</h3>
