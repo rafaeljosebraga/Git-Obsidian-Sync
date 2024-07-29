@@ -37,6 +37,7 @@ $inv(P_b)*x=\begin {bmatrix}x_1-x2\\x_2-x_3\\x_3-x_4\\x_4=x_5\\x_5-x_6\\x_6 \end
 
 		  $\begin {bmatrix}c_1=x_1-x2\\c_2=x_2-x_3\\c_3=x_3-x_4\\c_4=x_4=x_5\\c_5=x_5-x_6\\c_6=x_6 \end {bmatrix}$
 
+R:: O coeficiente c2 representa a diferença entre os valores de escala de cinza dos pixels x2 e x3, ou seja, a variação de escala de cinza entre esses dois pixels. O mesmo vale para c4 que mensura essa variação, mas entre os pixels x4 e x5
 <h2>Questão 2</h2>
 
 <h3>Letra a)</h3>
