@@ -32,7 +32,7 @@ $$
 
 <h3>Letra B</h3>
 
-
+$\begin {bmatrix}x1-x2$
 <h2>Questão 2</h2>
 
 <h3>Letra a)</h3>
