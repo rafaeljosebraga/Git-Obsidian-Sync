@@ -32,7 +32,7 @@ $$
 
 <h3>Letra B</h3>
 
-$\begin {bmatrix}x_1-x2\\x_2-x_3\\x3-x$
+$\begin {bmatrix}x_1-x2\\x_2-x_3\\x_3-x_4\\x_4=x_5\\x_5-x_6\\x_6 \end {bmatrix}$
 <h2>Questão 2</h2>
 
 <h3>Letra a)</h3>
