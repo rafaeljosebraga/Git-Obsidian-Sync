@@ -299,4 +299,15 @@ Livro={<u>LivroTexto</u>,LivroExerc}
 
 extensão da $3^a$ forma
 
-BCNF->um atribuco que não é superchave definindo uma chave, e todo atributo tem de estar definindo por uma superchave.
+BCNF->um atributo que não é superchave definindo uma chave, e todo atributo tem de estar definindo por uma superchave.
+
+$4^a$ Forma Normal baseada em dependências Multivaloradas.
+
+é a dependencia entre dois conjuntos de atributos sendo essa dependencia extremamente semantica
+
+Dependencia Multivalorada Não trivial:
+
+para cada depencdencia não trivial-> ela separa e se torna uma nova relação
+
+
+
