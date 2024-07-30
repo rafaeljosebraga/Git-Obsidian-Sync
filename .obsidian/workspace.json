@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4be6b2b9ffd6567c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Teste algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Teste algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Teste algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Teste algebra linear/transformações lineares.md"
               }
             }
           },
@@ -169,8 +157,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4be6b2b9ffd6567c",
+  "active": "d14722ad9b190c93",
   "lastOpenFiles": [
+    "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/Posto e Nulidade.md",
     "conflict-files-obsidian-git.md",
     "imagens utilizadas/Pasted image 20240728205032.png",
@@ -184,7 +173,6 @@
     "imagens utilizadas/Pasted image 20240725205702.png",
     "imagens utilizadas/Pasted image 20240725204752.png",
     "Análise Numérica.md",
-    "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/transformações lineares.md",
     "Teste algebra linear/Núcleo e Imagem.md",
     "BDzada/Modelo Relacional.md",

@@ -148,3 +148,21 @@ solucionamos esse problema utilizando multiplicação e inversa de matrizes
 Comparação entre a "\ barrinha" e o rref para essa ideia .
 ![[Pasted image 20240723121132.png]]
 
+#<h3>Transformações Em Espaços Q.Q</h3>
+$R^3$->$R^2$
+
+$T(x,y,z)=(x+y,2z)$
+
+$T(1,0,0)=(1,0)$
+
+$T(0,1,0)=(1,0)$
+
+$T(0,0,1)=(0,2)$
+
+$\begin{bmatrix}1&1&0\\0&0&2\end{bmatrix}$
+
+Agora mudando a perspectiva podemos interpretar polinômios em função de vetores com base canônica
+
+(1)  $P_2$->$P_2$
+
+$B{1,x²,x³}$
