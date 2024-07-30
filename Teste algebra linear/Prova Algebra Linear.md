@@ -115,14 +115,14 @@ para transicionarmos do ponto 0 ao 1 fazemos o seguinte movimento com os nossos 
 $V_1*4+V_2*2$ 
 
 A diferença do átomo "0" até o "1" 
-caminhamos 4 passos no $V_1$ e 2 passos no $V_2$  ,deste ponto é só fazer um jogo de adição com os  adquiridas na "letra b)" assim aprendemos a sair do local de "origem" e fomos para outro local denominado "1" onde podemos fazer as mesmas operações de antes para conseguir que os nossos vetores possam ir ao local desejado.
+caminhamos 4 passos no $V_1$ e 2 passos no $V_2$  ,deste ponto é só fazer um jogo de adição com os vetores adquiridos na "letra b)" assim aprendemos a sair do local de "origem" e fomos para outro local denominado "1" onde podemos fazer as mesmas operações de antes para conseguir que os nossos vetores possam ir ao local desejado.
 assim conseguimos alcançar qualquer um dos átomos daquele hexágono em relação aquela posição.
 
 Tomando o exemplo:
 $V_1*2+V_2*1$
 ![[Pasted image 20240725190315.png]]
 
-representação com as somas:
+ao fazer a adição dos vetores com o de ir para o "1"representação com as somas:
 $(V_1*4+V_2*2)$+$(V_1*2+V_2*1)$
 
 ![[Pasted image 20240725204752.png]]
