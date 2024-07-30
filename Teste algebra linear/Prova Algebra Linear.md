@@ -57,6 +57,7 @@ R: Cada coeficiente ${x}B$ mensura a diferença entre os valores de x adjacentes
 <h3>Letra a)</h3>
 <h4>i</h4> 
 Passarei a usar essa exemplificação para representar a interpretação de vetores da base $B$.
+$V-1*1+V$
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\0\end{bmatrix}$
 
 ![[Pasted image 20240725184340.png]]
