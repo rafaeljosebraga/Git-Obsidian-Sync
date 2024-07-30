@@ -128,7 +128,7 @@ $(V_1*4+V_2*2)$+$(V_1*2+V_2*1)$
 ![[Pasted image 20240725204752.png]]
 
 
-Representação com as somas mais diretas
+Representação das somas diretas
 $(V_1*6+V_2*3)$
 
 
