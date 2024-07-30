@@ -130,7 +130,7 @@ $(V_1*5+V_2*2)$+$(V_1*2+V_2*1)$
 
 Representação com as somas mais diretas
 $(V_1*7+V_2*3)$
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}7\\3\end{bmatrix}$
+
 
 ![[Pasted image 20240725205702.png]]
 
@@ -139,5 +139,4 @@ $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}7
 Centro de hexagono.
 $(V_1*16+V_2*4)$
 
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}16\\4\end{bmatrix}$
 ![[Pasted image 20240725220049.png]]
