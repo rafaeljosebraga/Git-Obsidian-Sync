@@ -112,7 +112,7 @@ para transicionarmos do ponto 0 ao 1 fazemos o seguinte movimento com os nossos 
 ![[Pasted image 20240725200908.png]]
 
 
-$V_1*+V_2*2$
+$V_1*4+V_2*2$ 
 
 para "transitarmos" do átomo "0" até o "1" 
 caminhamos 4 passos no $V_1$ e 2 passos no $V_2$ deste ponto é só fazer um jogo de adição com as coordenadas adquiridas na "letra b)" 
