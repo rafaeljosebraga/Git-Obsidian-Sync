@@ -65,7 +65,8 @@ $V_1*0+V_2*1$
 
 ![[Pasted image 20240725184458.png]]
 <h4>iii</h4>
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\1\end{bmatrix}$
+$V_1*2+V_2*1$
+
 ![[Pasted image 20240725185118.png]]
 somando os vetores chegamos naquele "átomo" interpretado como vertices sendo a seta vermelha $V_1$ a verde $V_2$ e a preta o resultado  que é o caminho direto. 
 
