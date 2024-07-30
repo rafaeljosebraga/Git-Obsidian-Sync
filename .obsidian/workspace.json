@@ -11,9 +11,11 @@
             "id": "d14722ad9b190c93",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240728234753.png"
+                "file": "BDzada/Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -28,7 +30,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240728234753.png",
+                "file": "BDzada/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240728234753.png",
+                "file": "BDzada/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240728234753.png"
+                "file": "BDzada/Modelo Relacional.md"
               }
             }
           },
@@ -165,11 +166,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "d14722ad9b190c93",
   "lastOpenFiles": [
+    "Teste algebra linear/transformações lineares.md",
     "imagens utilizadas/Pasted image 20240728234753.png",
     "BDzada/Modelo Relacional.md",
-    "Teste algebra linear/transformações lineares.md",
     "Teste algebra linear/Atividade para casa.md",
     "Teste algebra linear/Posto e Nulidade.md",
     "Teste algebra linear/Prova Algebra Linear.md",
@@ -184,7 +185,6 @@
     "imagens utilizadas/Pasted image 20240725220049.png",
     "imagens utilizadas/Pasted image 20240725215946.png",
     "imagens utilizadas/Pasted image 20240725205702.png",
-    "imagens utilizadas/Pasted image 20240725204752.png",
     "Teste algebra linear/Núcleo e Imagem.md",
     "BDzada/2-relacional.canvas",
     "BDzada/3-relacional.canvas",

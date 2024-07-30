@@ -192,7 +192,11 @@ utilizando de uma relação para representar Curso e alterando a relação Pesso
 Os nulos podem ficar em uma relação separada 
 //mais detalhes são necessários
 <h4>Tuplas ilegítima.</h4>
-relações as quais as tuplas estão inconsistentes é um sinal óbvio de que estamos criando tuplas   ilegítimas
+relações as quais as tuplas estão inconsistentes (em exemplo uma tabela com uma chave estrangeira) é um sinal óbvio de que estamos criando tuplas   ilegítimas 
+
+Aluno ={<u>Nifnmg</u>,Nome,Idade,Curso}
+Matrícula= {}
+
 //mais detalhes são necessários
 <h3>Analise Formal</h3>->
 Formalização
@@ -294,7 +298,4 @@ Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc}
 Ministra={<u>Professor,Sigla</u>,LivroTexto}
 retirando transitividade
 Livro={<u>LivroTexto</u>,LivroExerc}
-
-
-
 
