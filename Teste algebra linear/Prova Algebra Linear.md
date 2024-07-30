@@ -78,13 +78,12 @@ $V_1*0+V_2*0$
 ![[Pasted image 20240725190135.png]]
 
 
-
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\0\end{bmatrix}$
+$V_1*1+V_2*0$
 ![[Pasted image 20240725190205.png]]
 
 
 
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\1\end{bmatrix}$
+$V_1*0+V_2*1$
 ![[Pasted image 20240725190243.png]]
 
 
