@@ -96,7 +96,6 @@ $V_1*2+V_2*1$
 
 
 $V_1*2+V_2*2$
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\2\end{bmatrix}$
 
 ![[Pasted image 20240725190404.png]]
 
@@ -112,7 +111,8 @@ $V_2$  é o azul e o $V_1$  é o vermelho
 para transicionarmos do ponto 0 ao 1 fazemos o seguinte movimento com os nossos vetores base
 ![[Pasted image 20240725200908.png]]
 
-$5*V_1+2*V_2$ ou $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}$
+
+$5*V_1+2*V_2$ 
 
 para "transitarmos" do átomo "0" até o "1" 
 caminhamos 5 passos no $V_1$ e 2 passos no $V_2$ deste ponto é só fazer um jogo de adição com as coordenadas adquiridas na "letra b)" 
