@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -159,8 +158,10 @@
   },
   "active": "d14722ad9b190c93",
   "lastOpenFiles": [
-    "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/Posto e Nulidade.md",
+    "Teste algebra linear/Prova Algebra Linear.md",
+    "Análise Numérica.md",
+    "Teste algebra linear/transformações lineares.md",
     "conflict-files-obsidian-git.md",
     "imagens utilizadas/Pasted image 20240728205032.png",
     "imagens utilizadas/Pasted image 20240728204543.png",
@@ -172,8 +173,6 @@
     "imagens utilizadas/Pasted image 20240725215946.png",
     "imagens utilizadas/Pasted image 20240725205702.png",
     "imagens utilizadas/Pasted image 20240725204752.png",
-    "Análise Numérica.md",
-    "Teste algebra linear/transformações lineares.md",
     "Teste algebra linear/Núcleo e Imagem.md",
     "BDzada/Modelo Relacional.md",
     "BDzada/2-relacional.canvas",

@@ -44,6 +44,7 @@ usando uma "versão" do $\begin{bmatrix}cos(x)&&-sen(x)\\ -sen(x)&&cos(x)\end{bm
 Complementando o assunto temos autovalores e auto-vetores
 esse site em inglês já tem uma boa exemplificação mas mesmo em caso de dúvida vou deixar um vídeo demonstrando uma transformação com valores que alteram tanto x e y
 de vetores $\begin {bmatrix}1&&0\\0&&1 \end{bmatrix}$
+
 https://www.3blue1brown.com/lessons/eigenvalues
 
 ![[LinearTransformation.light.mp4]]
@@ -165,4 +166,21 @@ Agora mudando a perspectiva podemos interpretar polinômios em função de vetor
 
 (1)  $P_2$->$P_2$
 
-$B{1,x²,x³}$
+$B-(chaves)> 1,x²,x³$
+
+$T(1)=1-1=0$->$0.1+0.x+0x²$
+
+$T(1)=(x+1)-x=1$->$1.1+0.x+0x²$
+
+$T(1)=(x+1)²=2x+1$->$1.1+2.x+0x²$
+
+$\begin{bmatrix}0&1&1\\0&0&2\\0&0&0\end{bmatrix}$
+
+Exemplo :
+
+$M_2$->$M_2$
+
+	matriz no caderno
+
+
+
