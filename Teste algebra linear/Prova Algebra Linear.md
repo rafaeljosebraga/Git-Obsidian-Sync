@@ -122,7 +122,7 @@ Tomando o exemplo:
 $V_1*2+V_2*1$
 ![[Pasted image 20240725190315.png]]
 
-ao fazer a adição dos vetores com o de ir para o "1" e  o de $iii$ podemos chegar ao átomo desejado e ir para o canto especifico do hexágono segue a representação com as somas:
+ao fazer a adição dos vetores com o de ir para o "1" e  o de $iii$ podemos chegar ao átomo desejado e ir para aquele canto especifico do hexágono só que em relação a vértice de ""  segue a representação com as somas:
 $(V_1*4+V_2*2)$+$(V_1*2+V_2*1)$
 
 ![[Pasted image 20240725204752.png]]
