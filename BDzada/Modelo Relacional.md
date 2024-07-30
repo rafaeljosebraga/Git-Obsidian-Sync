@@ -192,10 +192,8 @@ utilizando de uma relação para representar Curso e alterando a relação Pesso
 Os nulos podem ficar em uma relação separada 
 //mais detalhes são necessários
 <h4>Tuplas ilegítima.</h4>
-relações as quais as tuplas estão inconsistentes (em exemplo uma tabela com uma chave estrangeira) é um sinal óbvio de que estamos criando tuplas   ilegítimas 
+relações as quais as tuplas estão inconsistentes (em exemplo uma tabela com uma chave estrangeira essa a qual é um atributo pode se ter um problema de uma referencia ) é um sinal óbvio de que estamos criando tuplas   ilegítimas 
 
-Aluno ={<u>Nifnmg</u>,Nome,Idade,Curso}
-Matrícula= {}
 
 //mais detalhes são necessários
 <h3>Analise Formal</h3>->
@@ -264,7 +262,7 @@ Regras de inferência:
 REVER SLIDE.
 
 
-$1^a$ Forma Normal
+$1^a$ Forma Normal também se aplica a chaves secundárias
 
 Atributos devem ser Atômicos e Monovalorados
 
@@ -290,7 +288,7 @@ adicionada->Disciplina{<u>Sigla</u>,No.horas}
 Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto se transitividade não gerasse inconsistência que solucionada na->
 
 $3^a$Forma Normal
-
+se restringe apenas ao caso da transitividade ser feita com atributos e não chaves.
 Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc}
 
 //
@@ -299,3 +297,6 @@ Ministra={<u>Professor,Sigla</u>,LivroTexto}
 retirando transitividade
 Livro={<u>LivroTexto</u>,LivroExerc}
 
+extensão da $3^a$ forma
+
+BCNF->um atribuco que não é superchave definindo uma chave, e todo atributo tem de estar definindo por uma superchave.
