@@ -112,17 +112,18 @@ para transicionarmos do ponto 0 ao 1 fazemos o seguinte movimento com os nossos 
 ![[Pasted image 20240725200908.png]]
 
 
-$5*V_1+2*V_2$ 
+$V_1*2+V_2*1$
 
 para "transitarmos" do átomo "0" até o "1" 
 caminhamos 5 passos no $V_1$ e 2 passos no $V_2$ deste ponto é só fazer um jogo de adição com as coordenadas adquiridas na "letra b)" 
 assim conseguimos alcançar qualquer um dos átomos daquele hexágono em relação aquela posição.
 
 Tomando o exemplo:
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\1\end{bmatrix}$
+$V_1*2+V_2*1$
 ![[Pasted image 20240725190315.png]]
 
 representação com as somas:
+$V_1*2+V_2*1$+$(V_1*2+V_2*1)$
 $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}+\begin{bmatrix}2\\1\end{bmatrix}$
 
 ![[Pasted image 20240725204752.png]]
