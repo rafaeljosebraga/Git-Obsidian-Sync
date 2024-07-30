@@ -56,7 +56,7 @@ R: Cada coeficiente ${x}B$ mensura a diferença entre os valores de x adjacentes
 
 <h3>Letra a)</h3>
 <h4>i</h4> 
-Passarei a usar essa exemplificação para representar dessa forma os vetores da base $B$ como não temos valores deles mas.
+Passarei a usar essa exemplificação para representar dessa forma os vetores da base $B$ como não temos valores deles mas apenas a direção de onde estão indo em relação aos átomos/hexagonos.
 $V_1*1+V_2*0$
 
 ![[Pasted image 20240725184340.png]]
@@ -74,7 +74,7 @@ somando os vetores chegamos naquele "átomo" interpretado como vertices sendo a 
 <h3>Letra b)</h3>
 as coordenadas com seus respectivos átomos de chegada em evidência
 
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\0\end{bmatrix}$
+$V_1*0+V_2*0$
 ![[Pasted image 20240725190135.png]]
 
 
