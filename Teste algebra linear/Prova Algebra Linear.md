@@ -129,7 +129,7 @@ $(V_1*4+V_2*2)$+$(V_1*2+V_2*1)$
 
 
 Representação com as somas mais diretas
-$(V_1*7+V_2*3)$
+$(V_1*6+V_2*3)$
 
 
 ![[Pasted image 20240725205702.png]]
