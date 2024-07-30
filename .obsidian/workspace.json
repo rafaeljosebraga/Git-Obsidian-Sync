@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4be6b2b9ffd6567c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste algebra linear/Posto e Nulidade.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,29 +169,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d14722ad9b190c93",
+  "active": "4be6b2b9ffd6567c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Teste algebra linear/Posto e Nulidade.md",
-    "Pasted image 20240725185427.png",
-    "Pasted image 20240725185118.png",
-    "imagens utilizadas/Pasted image 20240725184458.png",
-    "imagens utilizadas/Pasted image 20240725184340.png",
-    "imagens utilizadas/Pasted image 20240725183358.png",
-    "imagens utilizadas/Pasted image 20240725182909.png",
+    "conflict-files-obsidian-git.md",
+    "imagens utilizadas/Pasted image 20240728205032.png",
+    "imagens utilizadas/Pasted image 20240728204543.png",
+    "imagens utilizadas/Pasted image 20240728193401.png",
+    "imagens utilizadas/Pasted image 20240728193359.png",
+    "imagens utilizadas/Pasted image 20240728193240.png",
+    "imagens utilizadas/Pasted image 20240728184956.png",
+    "imagens utilizadas/Pasted image 20240725220049.png",
+    "imagens utilizadas/Pasted image 20240725215946.png",
+    "imagens utilizadas/Pasted image 20240725205702.png",
+    "imagens utilizadas/Pasted image 20240725204752.png",
+    "Análise Numérica.md",
     "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/transformações lineares.md",
     "Teste algebra linear/Núcleo e Imagem.md",
-    "Pasted image 20240725120342.png",
     "BDzada/Modelo Relacional.md",
     "BDzada/2-relacional.canvas",
     "BDzada/3-relacional.canvas",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
     "BDzada/1-relacional.canvas",
-    "imagens utilizadas/Pasted image 20240723121132.png",
-    "imagens utilizadas/Pasted image 20240723120855.png",
-    "imagens utilizadas/Pasted image 20240723120610.png",
     "Sem título.md",
     "Videos",
     "Videos/LinearTransformation.light.mp4",
