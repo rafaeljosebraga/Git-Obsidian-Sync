@@ -192,9 +192,8 @@ F($\begin{bmatrix}0&0\\1&0\end{bmatrix})$=$\begin{bmatrix}0&0\\2&0\end{bmatrix}$
 
 F($\begin{bmatrix}0&0\\0&1\end{bmatrix}$)=$\begin{bmatrix}0&0\\0&2\end{bmatrix}$
 
-[F]=$\begin{bmatrix}2 & 1\end{bmatrix}$
+[F]=$\begin{bmatrix}2 & 1 & 0 & 0\\0 & 2 & 0 & 0\\0 & 0 & 2 & 0\\0 & 0 & 0 & 2\end{bmatrix}$
 
-Algoritmo->separar todas as bases->traduzir a base
+Algoritmo->separar a base canônica->ache as imagens a partir da transformação->traduzir a base para a imagem
 
-
-
+[[Atividade para casa]]
