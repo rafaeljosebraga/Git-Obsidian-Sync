@@ -104,7 +104,6 @@ $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 
 
 <h3>Letra c)</h3>
 Pensando na soma de vetores e olhando para como foi feito na questão anterior podemos intuitivamente aferir
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}1\\1\end{bmatrix}$
 
 $1*V_1+1*V_2$
 
