@@ -56,7 +56,7 @@ R: Cada coeficiente ${x}B$ mensura a diferença entre os valores de x adjacentes
 
 <h3>Letra a)</h3>
 <h4>i</h4> 
-Passarei a usar essa exemplificação para representar dessa forma os vetores da base $B$ como não temos valores deles mas apenas a direção de onde estão indo em relação aos átomos/hexagonos.
+Passarei a usar essa exemplificação para representar dessa forma os vetores da base $B$ como não temos valores deles mas apenas a direção de onde estão indo em relação aos átomos/hexágonos.
 $V_1*1+V_2*0$
 
 ![[Pasted image 20240725184340.png]]
@@ -122,7 +122,7 @@ Tomando o exemplo:
 $V_1*2+V_2*1$
 ![[Pasted image 20240725190315.png]]
 
-ao fazer a adição dos vetores com o de ir para o "1" e  o de $iii$ podemos chegar ao átomo desejado e ir para o canto especifico do hexagono segue a representação com as somas:
+ao fazer a adição dos vetores com o de ir para o "1" e  o de $iii$ podemos chegar ao átomo desejado e ir para o canto especifico do hexágono segue a representação com as somas:
 $(V_1*4+V_2*2)$+$(V_1*2+V_2*1)$
 
 ![[Pasted image 20240725204752.png]]
