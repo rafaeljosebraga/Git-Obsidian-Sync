@@ -115,7 +115,7 @@ para transicionarmos do ponto 0 ao 1 fazemos o seguinte movimento com os nossos 
 $V_1*4+V_2*2$ 
 
 A diferença do átomo "0" até o "1" 
-caminhamos 4 passos no $V_1$ e 2 passos no $V_2$  ,deste ponto é só fazer um jogo de adição com as coordenadas adquiridas na "letra b)" assim aprendemos a sair do local de "origem" e fomos para outro local denominado "1" onde podemos fazer as mesmas operações de antes para conseguir que  nossos vetores no.
+caminhamos 4 passos no $V_1$ e 2 passos no $V_2$  ,deste ponto é só fazer um jogo de adição com as coordenadas adquiridas na "letra b)" assim aprendemos a sair do local de "origem" e fomos para outro local denominado "1" onde podemos fazer as mesmas operações de antes para conseguir que os nossos vetores possam ir ao local desejado.
 assim conseguimos alcançar qualquer um dos átomos daquele hexágono em relação aquela posição.
 
 Tomando o exemplo:
