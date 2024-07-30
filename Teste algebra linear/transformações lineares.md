@@ -180,7 +180,21 @@ Exemplo :
 
 $M_2$->$M_2$
 
-	matriz no caderno
+F($\begin{bmatrix}a&b\\c&d\end{bmatrix}$)=$\begin{bmatrix}2a+b&2b\\2c&2d\end{bmatrix}$
+
+
+
+F($\begin{bmatrix}1&0\\0&0\end{bmatrix}$)=$\begin{bmatrix}1&2\\0&0\end{bmatrix}$
+
+F($\begin{bmatrix}0&1\\0&0\end{bmatrix}$)=$\begin{bmatrix}0&2\\0&0\end{bmatrix}$
+
+F($\begin{bmatrix}0&0\\1&0\end{bmatrix})$=$\begin{bmatrix}0&0\\2&0\end{bmatrix}$
+
+F($\begin{bmatrix}0&0\\0&1\end{bmatrix}$)=$\begin{bmatrix}0&0\\0&2\end{bmatrix}$
+
+[F]=$\begin{bmatrix}2 & 1\end{bmatrix}$
+
+Algoritmo->separar todas as bases->traduzir a base
 
 
 
