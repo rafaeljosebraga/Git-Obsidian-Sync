@@ -123,7 +123,7 @@ $V_1*2+V_2*1$
 ![[Pasted image 20240725190315.png]]
 
 representação com as somas:
-$(V_1*5+V_2*2)$+$(V_1*2+V_2*1)$
+$(V_1*4+V_2*2)$+$(V_1*2+V_2*1)$
 
 ![[Pasted image 20240725204752.png]]
 
