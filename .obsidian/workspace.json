@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise Numerica/Método das potencias.md",
+                "file": "BDzada/Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#superchave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/Método das potencias.md",
+                "file": "BDzada/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/Método das potencias.md",
+                "file": "BDzada/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/Método das potencias.md"
+                "file": "BDzada/Modelo Relacional.md"
               }
             }
           },
@@ -156,10 +157,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d14722ad9b190c93",
+  "active": "6ede56452f833768",
   "lastOpenFiles": [
-    "Análise Numérica.md",
     "Análise Numerica/Método das potencias.md",
+    "Análise Numérica.md",
     "Análise Numerica/Sem título",
     "Teste algebra linear/Autovalores e Autovetores.md",
     "Teste algebra linear/transformações lineares.md",
