@@ -56,16 +56,17 @@ R: Cada coeficiente ${x}B$ mensura a diferença entre os valores de x adjacentes
 
 <h3>Letra a)</h3>
 <h4>i</h4> 
-Passarei a usar essa exemplificação para representar a interpretação de vetores da base $B$.
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\0\end{bmatrix}$
+Passarei a usar essa exemplificação para representar dessa forma os vetores da base $B$ como não temos valores deles mas apenas a direção de onde estão indo em relação aos átomos/hexágonos.
+$V_1*1+V_2*0$
 
 ![[Pasted image 20240725184340.png]]
 <h4>ii</h4>
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\1\end{bmatrix}$
+$V_1*0+V_2*1$
 
 ![[Pasted image 20240725184458.png]]
 <h4>iii</h4>
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\1\end{bmatrix}$
+$V_1*2+V_2*1$
+
 ![[Pasted image 20240725185118.png]]
 somando os vetores chegamos naquele "átomo" interpretado como vertices sendo a seta vermelha $V_1$ a verde $V_2$ e a preta o resultado  que é o caminho direto. 
 
@@ -73,38 +74,33 @@ somando os vetores chegamos naquele "átomo" interpretado como vertices sendo a 
 <h3>Letra b)</h3>
 as coordenadas com seus respectivos átomos de chegada em evidência
 
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\0\end{bmatrix}$
+$V_1*0+V_2*0$
 ![[Pasted image 20240725190135.png]]
 
 
-
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\0\end{bmatrix}$
+$V_1*1+V_2*0$
 ![[Pasted image 20240725190205.png]]
 
 
 
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 0\\1\end{bmatrix}$
+$V_1*0+V_2*1$
 ![[Pasted image 20240725190243.png]]
 
 
-
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 1\\2\end{bmatrix}$
+$V_1*1+V_2*2$
 ![[Pasted image 20240725190335.png]]
 
 
-
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\1\end{bmatrix}$
+$V_1*2+V_2*1$
 ![[Pasted image 20240725190315.png]]
 
 
-
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\2\end{bmatrix}$
+$V_1*2+V_2*2$
 
 ![[Pasted image 20240725190404.png]]
 
 <h3>Letra c)</h3>
 Pensando na soma de vetores e olhando para como foi feito na questão anterior podemos intuitivamente aferir
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}1\\1\end{bmatrix}$
 
 $1*V_1+1*V_2$
 
@@ -115,30 +111,33 @@ $V_2$  é o azul e o $V_1$  é o vermelho
 para transicionarmos do ponto 0 ao 1 fazemos o seguinte movimento com os nossos vetores base
 ![[Pasted image 20240725200908.png]]
 
-$5*V_1+2*V_2$ ou $\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}$
 
-para "transitarmos" do átomo "0" até o "1" 
-caminhamos 5 passos no $V_1$ e 2 passos no $V_2$ deste ponto é só fazer um jogo de adição com as coordenadas adquiridas na "letra b)" 
+$V_1*4+V_2*2$ 
+
+A diferença do átomo "0" até o "1" 
+caminhamos 4 passos no $V_1$ e 2 passos no $V_2$  ,deste ponto é só fazer um jogo de adição com os vetores adquiridos na "letra b)" assim aprendemos a sair do local de "origem" e fomos para outro local denominado "1" onde podemos fazer as mesmas operações de antes para conseguir que os nossos vetores possam ir ao local desejado.
 assim conseguimos alcançar qualquer um dos átomos daquele hexágono em relação aquela posição.
 
 Tomando o exemplo:
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix} 2\\1\end{bmatrix}$
+$V_1*2+V_2*1$
 ![[Pasted image 20240725190315.png]]
 
-representação com as somas:
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}+\begin{bmatrix}2\\1\end{bmatrix}$
+ao fazer a adição dos vetores com o de ir para o "1" e  o de $iii$ podemos chegar ao átomo desejado e ir para aquele canto especifico do hexágono só que em relação a vértice de "1",  segue a representação com as somas:
+$(V_1*4+V_2*2)$+$(V_1*2+V_2*1)$
 
 ![[Pasted image 20240725204752.png]]
+no nosso plano carte
 
+Representação das somas diretas
+$(V_1*6+V_2*3)$
 
-Representação com as somas mais diretas
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}7\\3\end{bmatrix}$
 
 ![[Pasted image 20240725205702.png]]
+
 
 <h3>Letra e)</h3>
 
 Centro de hexagono.
+$(V_1*16+V_2*4)$
 
-$\begin{bmatrix} V_{x1}&&V_{y1}\\ V_{x2}&& V_{y2} \end{bmatrix}=\begin{bmatrix}16\\4\end{bmatrix}$
 ![[Pasted image 20240725220049.png]]

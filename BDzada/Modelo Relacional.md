@@ -303,11 +303,13 @@ BCNF->um atributo que não é superchave definindo uma chave, e todo atributo te
 
 $4^a$ Forma Normal baseada em dependências Multivaloradas.
 
-é a dependencia entre dois conjuntos de atributos sendo essa dependencia extremamente semantica
+é a dependência entre dois conjuntos de atributos sendo essa dependência extremamente semântica
 
 Dependencia Multivalorada Não trivial:
 
-para cada depencdencia não trivial-> ela separa e se torna uma nova relação
+para cada dependência não trivial-> ela separa e se torna uma nova relação
 
+
+O BD é considerado normalizado quando ele está em todas a formas normais desde a primeira até a BCNF/$4^a$ forma normal
 
 
