@@ -15,5 +15,9 @@ $1^a$->Todos os passos apresentados podem ser multiplicados por um escalar que v
 
 $2^a$->Podemos dividir $x_k$ por $|x_k|$ assim obtemos uma iteração na forma unitária(normalizada)
 
-->do exemplo de tati podemos ver que 
+
+
+
+<h2>codigo Scilab</h2>
+
 
