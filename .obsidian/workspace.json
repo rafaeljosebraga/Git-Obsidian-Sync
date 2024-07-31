@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#superchave",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -157,7 +157,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6ede56452f833768",
+  "active": "cd21648d59d618f8",
   "lastOpenFiles": [
     "Análise Numerica/Método das potencias.md",
     "Análise Numérica.md",
