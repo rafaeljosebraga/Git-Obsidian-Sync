@@ -15,8 +15,23 @@ $vetV$ != $vetNULL$
 
 A Busca Pelo Autoespaço
 
-estamos procurando onde o sistema onde dentro de -> $det(A-(lambida)*I(dentidade))$possui pelo menos uma ou infintas soluções
+estamos procurando onde o sistema onde dentro de 
 
-$$
+-> $det(A-(lambida)*I(dentidade))$
 
+possui pelo menos uma ou infintas soluções
+
+dessa equação 
+
+Autovetor dominante e Autovalor dominante:
+
+->
+
+Formação de uma matriz quer representa um Autoespaço, vou chamar de Automatriz
+
+$(lambida)=-5$             $vet_1=\begin{bmatrix}-1\\2\end{bmatrix}$
+
+$(lambida)=10$              $vet_2=\begin{bmatrix}2\\1\end{bmatrix}$
+
+$P=\begin{bmatrix}-1&2\\2&1\end{bmatrix}$-> $P^{-1}$
 
