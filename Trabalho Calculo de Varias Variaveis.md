@@ -1,6 +1,8 @@
 
 
-![[Pasted image 20240802200528.png]]
+
+<h2>Cap 14.1</2h>
+
 ![[1.jpg]]
 ![[Pasted image 20240802200604.png]]
 ![[2.jpg]]
@@ -23,6 +25,6 @@
 
 
 
-<h3>Cap 14.3</3h>
+<h2>Cap 14.3</2h>
 
 ![[Pasted image 20240802201330.png]]
