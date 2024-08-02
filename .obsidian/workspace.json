@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2eefca03f85cf848",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "020fa0d0c29cd2fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trabalho Calculo de Varias Variaveis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
         "id": "98984f7614a55683",
         "type": "tabs",
         "children": [
@@ -32,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Trabalho Calculo de Varias Variaveis.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Trabalho Calculo de Varias Variaveis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Trabalho Calculo de Varias Variaveis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Trabalho Calculo de Varias Variaveis.md"
               }
             }
           },
