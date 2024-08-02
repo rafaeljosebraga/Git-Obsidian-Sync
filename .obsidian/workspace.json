@@ -21,6 +21,24 @@
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "98984f7614a55683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcec482c63c96c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabalho Calculo de Varias Variaveis.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabalho Calculo de Varias Variaveis.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabalho Calculo de Varias Variaveis.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -156,10 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "020fa0d0c29cd2fa",
+  "active": "dcec482c63c96c70",
   "lastOpenFiles": [
-    "Teste algebra linear/Prova Algebra Linear.md",
     "Trabalho Calculo de Varias Variaveis.md",
+    "Untitled.md",
+    "2.jpg",
+    "Pasted image 20240802200604.png",
+    "1.jpg",
+    "Untitled",
+    "Pasted image 20240802200528.png",
+    "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/transformações lineares.md",
     "Análise Numérica.md",
     "Pasted image 20240729140101.png",
@@ -170,10 +194,6 @@
     "Pasted image 20240728234933.png",
     "Pasted image 20240728234824.png",
     "imagens utilizadas/Pasted image 20240728184956.png",
-    "imagens utilizadas/Pasted image 20240728205032.png",
-    "imagens utilizadas/Pasted image 20240728204543.png",
-    "imagens utilizadas/Pasted image 20240728193401.png",
-    "imagens utilizadas/Pasted image 20240728193359.png",
     "(teste).md",
     "BDzada/Modelo Relacional.md",
     "BDzada/2-relacional.canvas",
@@ -181,7 +201,6 @@
     "Teste algebra linear/Núcleo e Imagem.md",
     "Teste algebra linear/Posto e Nulidade.md",
     "imagens utilizadas/Untitled",
-    "Untitled",
     "conflict-files-obsidian-git.md",
     "BDzada/3-relacional.canvas",
     "Sem título.md",
