@@ -33,3 +33,4 @@
 
 ![[Pasted image 20240802201606.png]]
 
+![[Pasted image 20240802201618.png]]
