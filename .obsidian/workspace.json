@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f2d1594c65e1abe",
+            "id": "020fa0d0c29cd2fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste algebra linear/Prova Algebra Linear.md",
+                "file": "Trabalho Calculo de Varias Variaveis.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste algebra linear/Prova Algebra Linear.md",
+                "file": "Trabalho Calculo de Varias Variaveis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste algebra linear/Prova Algebra Linear.md",
+                "file": "Trabalho Calculo de Varias Variaveis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste algebra linear/Prova Algebra Linear.md"
+                "file": "Trabalho Calculo de Varias Variaveis.md"
               }
             }
           },
@@ -156,24 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f2d1594c65e1abe",
+  "active": "020fa0d0c29cd2fa",
   "lastOpenFiles": [
-    "Teste algebra linear/Atividade para casa.md",
-    "Pasted image 20240729140101.png",
-    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
+    "Teste algebra linear/Prova Algebra Linear.md",
+    "Trabalho Calculo de Varias Variaveis.md",
+    "Teste algebra linear/transformações lineares.md",
     "Análise Numérica.md",
+    "Pasted image 20240729140101.png",
+    "Pasted image 20240728234753.png",
+    "Teste algebra linear/Atividade para casa.md",
+    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Pasted image 20240728234955.png",
     "Pasted image 20240728234933.png",
     "Pasted image 20240728234824.png",
-    "Pasted image 20240728234753.png",
     "imagens utilizadas/Pasted image 20240728184956.png",
     "imagens utilizadas/Pasted image 20240728205032.png",
     "imagens utilizadas/Pasted image 20240728204543.png",
     "imagens utilizadas/Pasted image 20240728193401.png",
     "imagens utilizadas/Pasted image 20240728193359.png",
-    "Teste algebra linear/Prova Algebra Linear.md",
     "(teste).md",
-    "Teste algebra linear/transformações lineares.md",
     "BDzada/Modelo Relacional.md",
     "BDzada/2-relacional.canvas",
     "BDzada/1-relacional.canvas",
