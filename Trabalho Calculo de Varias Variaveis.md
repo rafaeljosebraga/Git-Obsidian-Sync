@@ -19,3 +19,10 @@
 ![[Pasted image 20240802201206.png]]
 ![[49.jpg]]
 ![[Pasted image 20240802201225.png]]
+
+
+
+
+<h3>Cap 14.3</3h>
+
+![[Pasted image 20240802201330.png]]
