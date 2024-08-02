@@ -34,5 +34,8 @@
 ![[Pasted image 20240802201606.png]]
 
 ![[Pasted image 20240802201618.png]]
-<>
+<h2>Cap 14.5</h2>
+
 ![[Pasted image 20240802202906.png]]
+
+![[Pasted image 20240802203003.png]]
