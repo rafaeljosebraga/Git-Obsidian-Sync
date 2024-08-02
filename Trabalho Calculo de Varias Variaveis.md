@@ -49,4 +49,4 @@
 ![[Pasted image 20240802203336.png]]
 ![[Pasted image 20240802203355.png]]
 ![[Pasted image 20240802203402.png]]
-<h2>Cap 14.6</h2>
+<h2>Cap 14.6</h2>![[Pasted image 20240802203542.png]]
