@@ -9,3 +9,6 @@
 ![[8.jpg]]
 ![[Pasted image 20240802200759.png]]
 ![[11.jpg]]
+![[Pasted image 20240802200846.png]]
+![[15.jpg]]
+![[Pasted image 20240802200909.png]]
