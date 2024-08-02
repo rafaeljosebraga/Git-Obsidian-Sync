@@ -28,3 +28,8 @@
 <h2>Cap 14.3</2h>
 
 ![[Pasted image 20240802201330.png]]
+![[Pasted image 20240802201516.png]]
+![[Pasted image 20240802201542.png]]
+
+![[Pasted image 20240802201606.png]]
+
