@@ -11,6 +11,8 @@ Felipe Gomes Amaral:Ciência da computação
 ![[Pasted image 20240802213056.png]]
 
 
+
+
 <h2>Cap 14.1</2h>
 
 ![[1.jpg]]
