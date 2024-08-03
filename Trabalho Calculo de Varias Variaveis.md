@@ -1,6 +1,16 @@
 
 
-Alunos:
+
+
+[Membros do grupo]: Rafael José Braga Coelho:Ciência da computação
+
+ Sarah de Oliveira Vieira:Ciência da computação
+
+Ana Caroline Pereira Aguiar:Ciência da computação
+
+Felipe Gomes Amaral:Ciência da computação
+
+
 <h2>Cap 14.1</2h>
 
 ![[1.jpg]]
