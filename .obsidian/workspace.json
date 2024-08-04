@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf143f047ecab385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematica/Trigonometria/Introdução.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
+                "file": "Matematica/Trigonometria/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
+                "file": "Matematica/Trigonometria/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md"
+                "file": "Matematica/Trigonometria/Introdução.md"
               }
             }
           },
@@ -155,10 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "cf143f047ecab385",
   "lastOpenFiles": [
-    "Análise Numérica.md",
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
+    "Matematica/Trigonometria/Introdução.md",
+    "Matematica/Trigonometria",
+    "Matematica",
+    "Análise Numérica.md",
     "imagens utilizadas/49.jpg",
     "imagens utilizadas/Pasted image 20240802213056.png",
     "imagens utilizadas/Pasted image 20240802204115.png",
@@ -169,7 +186,6 @@
     "imagens utilizadas/Pasted image 20240802212440.png",
     "imagens utilizadas/Pasted image 20240802212329.png",
     "imagens utilizadas/Pasted image 20240802212256.png",
-    "Untitled.md",
     "Untitled",
     "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/transformações lineares.md",
@@ -192,8 +208,6 @@
     "Teste algebra linear",
     "Calculo Varias Vars",
     "BDzada",
-    "Análise Numerica",
-    "Git-Obsidian-Sync/imagens utilizadas",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/Sem título.md",
     "Git-Obsidian-Sync/Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
