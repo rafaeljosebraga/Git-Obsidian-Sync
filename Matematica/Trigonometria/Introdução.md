@@ -16,3 +16,5 @@ uma reta que passa de baixo para cima no ponto (1,0) tangenciando o circulo
 se quisermos definir a medida na diagonal acima ao angulo $x$
 no exemplo dado, até a reta tangente, teremos de achar a $sec(x)$
 
+
+
