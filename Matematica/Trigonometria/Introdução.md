@@ -13,4 +13,4 @@ uma reta que passa de baixo para cima no ponto (1,0) tangenciando o circulo
 
 ![[Pasted image 20240803221701.png]]
 
-se quisermos definir a medida na diagonal
+se quisermos definir a medida na diagonal acima ao ang
