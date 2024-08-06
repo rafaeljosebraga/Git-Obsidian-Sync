@@ -11,9 +11,11 @@
             "id": "c84a6d4dfb0f7c62",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Videos/LinearTransformation.light.mp4"
+                "file": "Análise Numerica/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/LinearTransformation.light.mp4",
+                "file": "Análise Numerica/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/LinearTransformation.light.mp4",
+                "file": "Análise Numerica/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/LinearTransformation.light.mp4"
+                "file": "Análise Numerica/Untitled.md"
               }
             }
           },
@@ -153,14 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "c84a6d4dfb0f7c62",
   "lastOpenFiles": [
     "Análise Numerica/IDEA.md",
+    "Análise Numerica/Untitled.md",
     "Análise Numerica/Análise Numérica.md",
+    "Algebra linear/Resoluções/Prova Algebra Linear.md",
+    "Atividade para casa.md",
+    "Videos/LinearTransformation.light.mp4",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/transformações lineares.md",
-    "Algebra linear/Resoluções/Prova Algebra Linear.md",
     "Algebra linear/Resoluções",
     "2024-08-06.md",
     "imagens utilizadas/circulo-trigonometrico-seno-cosseno-2.webp",
@@ -192,7 +197,6 @@
     "Banco de Dados/3-relacional.canvas",
     "Sem título.md",
     "Videos",
-    "Videos/LinearTransformation.light.mp4",
     "imagens utilizadas",
     "Algebra linear",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
