@@ -1,6 +1,7 @@
 
 
 <h2>Chaves no Modelo Relacional</h2>
+#superchave definido como conjunto de atributos que definem aquela tupla como 
 #chaves no modelo relacional é definido 
 
 <h2>Mapeamento entre Esquemas</h2>
@@ -14,7 +15,7 @@ possa ser mapeado para o Modelo Relacional
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial. sendo essa as chaves secundária, terciárias e em diante.
 
 2 -><h4>Entidades Fracas</h4>
-2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave #superchave com tanto suas chaves fracas e uma chave forte exterior
+2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave com tanto suas chaves fracas e uma chave forte exterior
 
 disclaimer(nós pegamos a chave usando a relação mais próxima e não diretamente de sua Entidade não mapeada)
 
