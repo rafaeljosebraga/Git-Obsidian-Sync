@@ -10,6 +10,7 @@
 
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
+
 possa ser mapeado para o Modelo Relacional
 
 1 -> <h4>Entidades normais</h4>
@@ -201,7 +202,9 @@ utilizando de uma relação para representar Curso e alterando a relação Pesso
 Os nulos podem ficar em uma relação separada 
 //mais detalhes são necessários
 <h4>Tuplas ilegítima.</h4>
-relações as quais as tuplas estão inconsistentes é um sinal óbvio de que estamos criando tuplas   ilegítimas
+relações as quais as tuplas estão inconsistentes (em exemplo uma tabela com uma chave estrangeira essa a qual é um atributo pode se ter um problema de uma referencia ) é um sinal óbvio de que estamos criando tuplas   ilegítimas 
+
+
 //mais detalhes são necessários
 <h3>Analise Formal</h3>->
 Formalização
@@ -269,7 +272,7 @@ Regras de inferência:
 REVER SLIDE.
 
 
-$1^a$ Forma Normal
+$1^a$ Forma Normal também se aplica a chaves secundárias
 
 Atributos devem ser Atômicos e Monovalorados
 
@@ -295,7 +298,7 @@ adicionada->Disciplina{<u>Sigla</u>,No.horas}
 Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto se transitividade não gerasse inconsistência que solucionada na->
 
 $3^a$Forma Normal
-
+se restringe apenas ao caso da transitividade ser feita com atributos e não chaves.
 Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc}
 
 //
@@ -304,6 +307,20 @@ Ministra={<u>Professor,Sigla</u>,LivroTexto}
 retirando transitividade
 Livro={<u>LivroTexto</u>,LivroExerc}
 
+extensão da $3^a$ forma
 
+BCNF->um atributo que não é superchave definindo uma chave, e todo atributo tem de estar definindo por uma superchave.
+
+$4^a$ Forma Normal baseada em dependências Multivaloradas.
+
+é a dependência entre dois conjuntos de atributos sendo essa dependência extremamente semântica
+
+Dependencia Multivalorada Não trivial:
+
+para cada dependência não trivial-> ela separa e se torna uma nova relação
+
+
+
+O BD é considerado normalizado quando ele está em todas a formas normais desde a primeira até a BCNF/$4^a$ forma normal
 
 
