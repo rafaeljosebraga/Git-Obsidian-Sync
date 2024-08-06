@@ -1,1 +1,1 @@
-Apos a nossa introdução começamos a aprofundar os detalhes da matéria nas [[Algebra Linear]]
+Após a nossa introdução começamos a aprofundar os detalhes da matéria nas [[transformações lineares]] que definem nossas operações a partir de leis de formação e m
