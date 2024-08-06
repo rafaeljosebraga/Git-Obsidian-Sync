@@ -1,17 +1,26 @@
 
-#<h2>Mapeamento entre Esquemas</h2>
+
+<h2>Chaves no Modelo Relacional</h2>
+#superchave é definido como conjunto de atributos que definem aquela tupla como  única.
+
+#chaves é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
+
+<h3>Chaves Candidatas</h3>
+![[Pasted image 20240806191624.png]]
+
+<h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
 possa ser mapeado para o Modelo Relacional
 
 1 -> <h4>Entidades normais</h4>
 
-1.1 Toda entidade se torna em uma relação com todos os seus atributos(e caracteristicas?).
+1.1 Toda entidade se torna em uma relação com todos os seus atributos(e características?).
 
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial. sendo essa as chaves secundária, terciárias e em diante.
 
 2 -><h4>Entidades Fracas</h4>
-2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave #superchave com tanto suas chaves fracas e uma chave forte exterior
+2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave com tanto suas chaves fracas e uma chave forte exterior
 
 disclaimer(nós pegamos a chave usando a relação mais próxima e não diretamente de sua Entidade não mapeada)
 
@@ -19,7 +28,7 @@ disclaimer(nós pegamos a chave usando a relação mais próxima e não diretame
 
 ((INSERIR IMAGEM))
 
-no exemplo vemos que temos duas entidades fracas em sequencia a turma recebe normalmente de Disciplina a chave sigla,porem aula prática precisa das duas informações 
+no exemplo vemos que temos duas entidades fracas em sequencia a turma recebe normalmente de Disciplina a chave sigla, porem aula prática precisa das duas informações 
 tanto do número da turma e a sigla da disciplina, pense que quanto maior a profundidade maior a quantidade de chaves estrangeiras referenciando o caminho passado como uma lista em C com todos os elementos apontando para seus anteriores.
 
 3<h3>Ordem e cardinalidade</h3>
