@@ -1,7 +1,7 @@
 
 
-
-#chave
+<>
+#chaves
 
 #<h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
