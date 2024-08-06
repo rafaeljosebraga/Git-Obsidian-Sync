@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#superchave",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,6 +157,7 @@
   },
   "active": "dcec482c63c96c70",
   "lastOpenFiles": [
+    "BDzada/Modelo Relacional.md",
     "Teste algebra linear/Achando a Automatriz.md",
     "circulo-trigonometrico-seno-cosseno-2.webp",
     "Teste algebra linear/Exemplos",
@@ -180,7 +181,6 @@
     "Teste algebra linear/Atividade para casa.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
-    "BDzada/Modelo Relacional.md",
     "BDzada/2-relacional.canvas",
     "BDzada/1-relacional.canvas",
     "Teste algebra linear/Núcleo e Imagem.md",
