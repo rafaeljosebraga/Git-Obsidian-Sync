@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#superchave",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,6 +157,7 @@
   },
   "active": "dcec482c63c96c70",
   "lastOpenFiles": [
+    "Pasted image 20240806191624.png",
     "BDzada/Modelo Relacional.md",
     "Teste algebra linear/Achando a Automatriz.md",
     "circulo-trigonometrico-seno-cosseno-2.webp",
