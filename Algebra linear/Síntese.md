@@ -1,1 +1,0 @@
-Apos a nossa introdução começamos a aprofundar os detalhes da matéria nas [[Algebra linear/Síntese]]
