@@ -23,11 +23,9 @@
             "id": "cf143f047ecab385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Matematica/Trigonometria/Introdução.md",
-                "mode": "source",
-                "source": false
+                "file": "circulo-trigonometrico-seno-cosseno-2.webp"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Trigonometria/Introdução.md",
+                "file": "circulo-trigonometrico-seno-cosseno-2.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Trigonometria/Introdução.md",
+                "file": "circulo-trigonometrico-seno-cosseno-2.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/Trigonometria/Introdução.md"
+                "file": "circulo-trigonometrico-seno-cosseno-2.webp"
               }
             }
           },
@@ -168,24 +166,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf143f047ecab385",
+  "active": "cd21648d59d618f8",
   "lastOpenFiles": [
+    "Análise Numérica.md",
+    "Matematica/Trigonometria/Introdução.md",
     "Pasted image 20240803224540.png",
     "Pasted image 20240803221701.png",
     "Pasted image 20240803221153.png",
-    "Análise Numérica.md",
     "circulo-trigonometrico-seno-cosseno-2.webp",
     "png-clipart-circle-cercle-trigonometrique-angle-trigonometry-point-circle-symmetry-trigo.png",
     "Pasted image 20240803220724.jpg",
     "Pasted image 20240803220739.png",
-    "Matematica/Trigonometria/Introdução.md",
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
     "Matematica/Trigonometria",
     "Matematica",
     "imagens utilizadas/49.jpg",
     "imagens utilizadas/Pasted image 20240802213056.png",
     "imagens utilizadas/Pasted image 20240802204115.png",
-    "imagens utilizadas/Pasted image 20240802213054.png",
     "Untitled",
     "Teste algebra linear/Prova Algebra Linear.md",
     "Teste algebra linear/transformações lineares.md",
