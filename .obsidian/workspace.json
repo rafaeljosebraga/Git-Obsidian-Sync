@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise Numerica/Untitled.md",
+                "file": "Análise Numerica/Síntese.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/Untitled.md",
+                "file": "Análise Numerica/Síntese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/Untitled.md",
+                "file": "Análise Numerica/Síntese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/Untitled.md"
+                "file": "Análise Numerica/Síntese.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "c84a6d4dfb0f7c62",
   "lastOpenFiles": [
-    "Análise Numerica/IDEA.md",
-    "Análise Numerica/Untitled.md",
+    "Análise Numerica/A ser repassado para a sintese.md",
+    "Análise Numerica/Síntese.md",
     "Análise Numerica/Análise Numérica.md",
     "Algebra linear/Resoluções/Prova Algebra Linear.md",
     "Atividade para casa.md",
