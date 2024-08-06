@@ -5,7 +5,7 @@ possa ser mapeado para o Modelo Relacional
 
 1 -> <h4>Entidades normais</h4>
 
-1.1 Toda entidade se torna em uma relação com todos os seus atributos(e caracteristicas?).
+1.1 Toda entidade se torna em uma relação com todos os seus atributos(e características?).
 
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial. sendo essa as chaves secundária, terciárias e em diante.
 
@@ -18,7 +18,7 @@ disclaimer(nós pegamos a chave usando a relação mais próxima e não diretame
 
 ((INSERIR IMAGEM))
 
-no exemplo vemos que temos duas entidades fracas em sequencia a turma recebe normalmente de Disciplina a chave sigla,porem aula prática precisa das duas informações 
+no exemplo vemos que temos duas entidades fracas em sequencia a turma recebe normalmente de Disciplina a chave sigla, porem aula prática precisa das duas informações 
 tanto do número da turma e a sigla da disciplina, pense que quanto maior a profundidade maior a quantidade de chaves estrangeiras referenciando o caminho passado como uma lista em C com todos os elementos apontando para seus anteriores.
 
 3<h3>Ordem e cardinalidade</h3>
