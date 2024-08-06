@@ -1,9 +1,9 @@
 
 
 <h2>Chaves no Modelo Relacional</h2>
-#superchave p definido como conjunto de atributos que definem aquela tupla como  única.
+#superchave é definido como conjunto de atributos que definem aquela tupla como  única.
 
-#chaves é uma #superchave definida no contexto de chave pelos modelos ER e ERX identificando a tupla em questão como única.
+#chaves é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única.
 
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
