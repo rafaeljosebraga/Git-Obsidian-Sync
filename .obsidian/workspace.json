@@ -130,12 +130,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcec482c63c96c70",
+  "active": "84fc9b66bf69fb35",
   "lastOpenFiles": [
     "BDzada/Modelo Relacional.md",
     "Pasted image 20240806191624.png",
