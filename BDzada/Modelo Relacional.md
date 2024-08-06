@@ -1,9 +1,9 @@
 
 
-<>
-#chaves
+<h2>Chaves no Modelo Relacional</h2>
+#chaves no modelo relacional é definido 
 
-#<h2>Mapeamento entre Esquemas</h2>
+<h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 possa ser mapeado para o Modelo Relacional
 
