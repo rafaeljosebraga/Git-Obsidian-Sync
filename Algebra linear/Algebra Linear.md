@@ -1,0 +1,1 @@
+Após a nossa introdução começamos a aprofundar os detalhes da matéria nas [[transformações lineares]] que definem nossas operações a partir de leis de formação e matrizes de transformação que conseguem moldar a forma como podemos resolver problemas matemáticos

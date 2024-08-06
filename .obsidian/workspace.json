@@ -11,8 +11,12 @@
             "id": "b02d1c6704fa43c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -151,6 +159,16 @@
   "active": "b02d1c6704fa43c0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Banco de Dados/Modelo Relacional.md",
+    "Banco de Dados/3-relacional.canvas",
+    "Banco de Dados/2-relacional.canvas",
+    "Banco de Dados/1-relacional.canvas",
+    "Banco de Dados",
+    "Atividade para casa.md",
+    "Análise Numerica/Atividade Análise Numérica.md",
+    "Análise Numerica/Analise Numérica.md",
+    "Análise Numerica/A ser repassado para a sintese.md",
+    "Algebra linear/Algebra Linear.md",
     "Teste algebra linear/Exemplos/Achando a \"Automatriz\".md",
     "imagens utilizadas/circulo-trigonometrico-seno-cosseno-2.webp",
     "imagens utilizadas/Pasted image 20240806191624.png",
@@ -186,18 +204,12 @@
     "Teste algebra linear/transformações lineares.md",
     "Teste algebra linear/Exemplos/Atividade para casa.md",
     "Análise Numerica/Método das potencias.md",
-    "Análise Numérica.md",
     "Análise Numerica/Sem título",
     "BDzada/2-relacional.canvas",
     "BDzada/3-relacional.canvas",
-    "(teste).md",
     "BDzada/1-relacional.canvas",
-    "Sem título.md",
     "Videos",
     "Videos/LinearTransformation.light.mp4",
-    "imagens utilizadas",
-    "Análise Numerica/IDEA.md",
-    "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
