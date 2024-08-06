@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b977a7a98b04e75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "BDzada/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "BDzada/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "BDzada/Modelo Relacional.md"
               }
             }
           },
@@ -168,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b977a7a98b04e75d",
+  "active": "c84a6d4dfb0f7c62",
   "lastOpenFiles": [
-    "BDzada/Modelo Relacional.md",
     "conflict-files-obsidian-git.md",
+    "BDzada/Modelo Relacional.md",
     "2024-08-06.md",
     "Teste algebra linear/Atividade para casa.md",
     "Teste algebra linear/Untitled.md",
