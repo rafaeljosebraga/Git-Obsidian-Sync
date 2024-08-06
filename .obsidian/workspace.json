@@ -23,9 +23,11 @@
             "id": "cf143f047ecab385",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "circulo-trigonometrico-seno-cosseno-2.webp"
+                "file": "Teste algebra linear/Achando a Automatriz.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "circulo-trigonometrico-seno-cosseno-2.webp",
+                "file": "Teste algebra linear/Achando a Automatriz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "circulo-trigonometrico-seno-cosseno-2.webp",
+                "file": "Teste algebra linear/Achando a Automatriz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "circulo-trigonometrico-seno-cosseno-2.webp"
+                "file": "Teste algebra linear/Achando a Automatriz.md"
               }
             }
           },
@@ -165,15 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "cf143f047ecab385",
   "lastOpenFiles": [
+    "circulo-trigonometrico-seno-cosseno-2.webp",
+    "Teste algebra linear/Achando a Automatriz.md",
     "Teste algebra linear/Exemplos",
     "Análise Numérica.md",
     "Matematica/Trigonometria/Introdução.md",
     "Pasted image 20240803224540.png",
     "Pasted image 20240803221701.png",
     "Pasted image 20240803221153.png",
-    "circulo-trigonometrico-seno-cosseno-2.webp",
     "png-clipart-circle-cercle-trigonometrique-angle-trigonometry-point-circle-symmetry-trigo.png",
     "Pasted image 20240803220724.jpg",
     "Pasted image 20240803220739.png",
@@ -204,7 +207,6 @@
     "imagens utilizadas",
     "Teste algebra linear",
     "Calculo Varias Vars",
-    "BDzada",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/Sem título.md",
     "Git-Obsidian-Sync/Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
