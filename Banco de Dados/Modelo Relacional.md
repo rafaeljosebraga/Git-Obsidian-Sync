@@ -17,7 +17,9 @@ Ao fazer uma relação no nosso modelo lógico temos a seguinte definição
 ![[Pasted image 20240806223128.png]]
 dado pelo exemplo:
 ![[Pasted image 20240806223147.png]]
-podemos começar  a modelar a partir desta definição,sendo que .
+podemos começar  a modelar a partir desta definição, sendo que quanto mais atributos maior será o nivel de grau.
+
+o grau é definido pela quantidade de atributos("tipos valores"), que aquela relação suporta.
 <h2>Chaves no Modelo Relacional</h2>
 
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
