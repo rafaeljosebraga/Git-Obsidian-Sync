@@ -3,8 +3,10 @@
  um #atributo é pode  formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
 
 <h4>Domínio de Dados</h4>
-separamos cada tipo de atributo da tupla pelo seu valor semântico, ou tipo de informação
+separamos cada tipo de atributo da tupla pelo seu valor semântico, ou tipo de informação  tendo este seu domínio um 
 ![[Pasted image 20240806221855.png]]
+![[Pasted image 20240806222611.png]]
+
 com todo e qualquer tipo de valor tendo como base a ideia de que são
 
 Atômicos -> se  está escrito endereço é o endereço como um todo (exemplo: Rua Esmeralda não pode ser recuperado como Rua, Esmeralda /*eu sei, é um péssimo exemplo*/).
