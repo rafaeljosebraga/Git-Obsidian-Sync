@@ -30,8 +30,7 @@ Ao fazer uma relação no nosso modelo lógico temos a seguinte definição
 ![[Pasted image 20240806223128.png]]
 dado pelo exemplo:
 ![[Pasted image 20240806223147.png]]
-podemos fazer com que 
-
+podemos modelar a partir desta defini
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
