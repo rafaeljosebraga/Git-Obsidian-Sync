@@ -7,7 +7,7 @@ separamos cada tipo de atributo da tupla pelo seu valor semântico, ou tipo de i
 ![[Pasted image 20240806221855.png]]
 com todo e qualquer tipo de valor tendo como base a ideia de que são
 
-Atômicos -> 
+Atômicos -> se  está escrito endereço é o endereço como um todo 
 <h2>Chaves no Modelo Relacional</h2>
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
 
