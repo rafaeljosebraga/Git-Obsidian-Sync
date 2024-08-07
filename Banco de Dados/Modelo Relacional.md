@@ -81,7 +81,7 @@ disclaimer(nós pegamos a chave usando a relação mais próxima e não diretame
 no exemplo vemos que temos duas entidades fracas em sequencia a turma recebe normalmente de Disciplina a chave sigla, porem aula prática precisa das duas informações 
 tanto do número da turma e a sigla da disciplina, pense que quanto maior a profundidade maior a quantidade de chaves estrangeiras referenciando o caminho passado como uma lista em C com todos os elementos apontando para seus anteriores.
 ![[Pasted image 20240807001446.png]]
-
+sigla segue percorrendo referenciando do ultimo(aula pratica) até disciplina de lá sendo a chave que é referenciada.
 <h3>3->Ordem e cardinalidade</h3>
 
 3.1 :cardinalidade 1 pra 1
