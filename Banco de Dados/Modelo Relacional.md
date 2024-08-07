@@ -59,14 +59,16 @@ uma #chaveEstrangeira não pode referenciar a uma chave nula
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 possa ser mapeado para o Modelo Relacional
 
-1 -> <h4>Entidades normais</h4>
+<h4>1 -> Entidades normais</h4>
 
 1.1 Toda entidade se torna em uma relação com todos os seus atributos
 
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial.
 ![[Pasted image 20240806234149.png]]
  sendo essa as chaves secundária, terciárias e em diante, com essas chaves obedecendo as restrições de chave.
-2 -><h4>Entidades Fracas</h4>
+ ![[Pasted image 20240806234615.png]]
+
+<h4>2 ->Entidades Fracas</h4>
 2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave com tanto suas chaves fracas e uma chave forte exterior
 
 disclaimer(nós pegamos a chave usando a relação mais próxima e não diretamente de sua Entidade não mapeada)
