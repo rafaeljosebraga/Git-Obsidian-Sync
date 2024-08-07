@@ -65,7 +65,7 @@ possa ser mapeado para o Modelo Relacional
 
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial.
 ![[Pasted image 20240806234149.png]]
- sendo essa as chaves secundária, terciárias e em diante, com essas chaves obedecendo as restrições de chave.
+ sendo essa as chaves secundária, terciárias e em diante, com essas chaves obedecendo as restrições de chave. segue o exemplo:
  ![[Pasted image 20240806234615.png]]
 
 <h4>2 ->Entidades Fracas</h4>
@@ -80,7 +80,8 @@ disclaimer(nós pegamos a chave usando a relação mais próxima e não diretame
 no exemplo vemos que temos duas entidades fracas em sequencia a turma recebe normalmente de Disciplina a chave sigla, porem aula prática precisa das duas informações 
 tanto do número da turma e a sigla da disciplina, pense que quanto maior a profundidade maior a quantidade de chaves estrangeiras referenciando o caminho passado como uma lista em C com todos os elementos apontando para seus anteriores.
 
-3<h3>Ordem e cardinalidade</h3>
+<h3>3->Ordem e cardinalidade</h3>
+
 3.1 :cardinalidade 1 pra 1
 
 para mapearmos esse tipo de relacionamento escolhemos qual entidade que quando relação vai ficar com menos atributos nulos(null), os atributos não chave ficam na entidade escolha, incluindo atributos  criados dentro do relacionamento
