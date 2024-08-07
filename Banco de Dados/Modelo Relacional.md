@@ -3,7 +3,7 @@
  um #atributo é pode  formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
 
 <h4>Domínio de Dados</h4>
-separamos cada tipo de atributo da tupla pelo seu valor semântico, ou tipo de informação  tendo este seu domínio um 
+separamos cada tipo de atributo da tupla pelo seu valor semântico, ou tipo de informação tendo cada atributo seu domínio definido por Nome,Definição Lógica  
 ![[Pasted image 20240806221855.png]]
 ![[Pasted image 20240806222611.png]]
 
