@@ -1,7 +1,7 @@
 
 
 <h2>Chaves no Modelo Relacional</h2>
-#superchave é definido como conjunto de atributos que definem aquela tupla como  única.
+A #superchave é definido como conjunto de atributos que definem aquela tupla como  única.
 
 #chaves é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
 
@@ -11,7 +11,7 @@
 <h4>Restrições de Integridade</h2>
 Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar a tupla a chave não pode Não pode repetir em outras tuplas.
 
-Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo
+Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo.
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 

@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#superchave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c84a6d4dfb0f7c62",
+  "active": "6ede56452f833768",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Banco de Dados/Modelo Relacional.md",
