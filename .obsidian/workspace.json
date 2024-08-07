@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#relação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c84a6d4dfb0f7c62",
+  "active": "6ede56452f833768",
   "lastOpenFiles": [
     "Pasted image 20240806234615.png",
     "Pasted image 20240806234149.png",

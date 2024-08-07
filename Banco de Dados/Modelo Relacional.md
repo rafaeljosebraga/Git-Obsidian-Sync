@@ -61,7 +61,7 @@ possa ser mapeado para o Modelo Relacional
 
 <h4>1 -> Entidades normais</h4>
 
-1.1 Toda entidade se torna em uma relação com todos os seus atributos
+1.1 Toda #entidade se torna em uma #relação com todos os seus atributos
 
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial.
 ![[Pasted image 20240806234149.png]]
