@@ -62,11 +62,11 @@ possa ser mapeado para o Modelo Relacional
 1 -> <h4>Entidades normais</h4>
 
 1.1 Toda entidade se torna em uma relação com todos os seus atributos
-![[Pasted image 20240806234149.png]]
+
 
 
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial. sendo essa as chaves secundária, terciárias e em diante.
-
+![[Pasted image 20240806234149.png]]
 2 -><h4>Entidades Fracas</h4>
 2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave com tanto suas chaves fracas e uma chave forte exterior
 
