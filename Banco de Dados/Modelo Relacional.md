@@ -3,7 +3,7 @@
  um #atributo é pode  formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
 
 <h4>Domínio de Dados</h4>
-o domínio dos atributos 
+separamos cada tipo de atribu
 <h2>Chaves no Modelo Relacional</h2>
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
 
