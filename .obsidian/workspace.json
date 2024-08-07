@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   "active": "03cb7baec011b119",
   "lastOpenFiles": [
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
+    "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
+    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
     "Banco de Dados/Modelo Relacional.md",
     "conflict-files-obsidian-git.md",
@@ -172,7 +174,6 @@
     "imagens utilizadas/Pasted image 20240806230552.png",
     "imagens utilizadas/Pasted image 20240806225325.png",
     "imagens utilizadas/Pasted image 20240806225237.png",
-    "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/intro_an_num.pdf",
     "Análise Numerica/calculo_numerico.pdf",
@@ -204,9 +205,7 @@
     "Teste algebra linear/Posto e Nulidade.md",
     "Teste algebra linear/Prova Algebra Linear.md",
     "BDzada/Modelo Relacional.md",
-    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Teste algebra linear/transformações lineares.md",
-    "Teste algebra linear/Exemplos/Atividade para casa.md",
     "BDzada/2-relacional.canvas",
     "BDzada/3-relacional.canvas",
     "BDzada/1-relacional.canvas",
