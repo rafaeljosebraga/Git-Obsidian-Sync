@@ -24,8 +24,8 @@ A #superchave é um tipo de #atributo definido como conjunto de atributos que de
 Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar a tupla a chave não pode Não pode repetir em outras tuplas.
 
 Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo.
-
-Ao fazer uma relação no nosso modelo relacional temos a serguinte 
+<h2>Ferramentas do
+Ao fazer uma relação no nosso modelo relacional temos a seguinte definição
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
