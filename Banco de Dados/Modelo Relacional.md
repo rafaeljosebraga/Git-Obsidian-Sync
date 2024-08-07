@@ -9,7 +9,9 @@
 ![[Pasted image 20240806191624.png]]
 
 <h4>Restrições de Integridade</h2>
-Restrição de idUnicidade: Por fazer o papel de identificar a tupla a chave não pode Não pode repetir em outras tuplas.
+Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar a tupla a chave não pode Não pode repetir em outras tuplas.
+
+Restrição de integridade da Entidade: a chave primária 
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
