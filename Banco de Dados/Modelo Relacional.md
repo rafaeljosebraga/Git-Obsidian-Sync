@@ -47,7 +47,9 @@ Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar
 Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo.
 
 <h3>Chave Estrangeira</h3>
-A #chaveEstrangeira tem seu domínio definido ao mapeamento exato de uma #chave que vem de uma outra relação sendo aquilo que vai servir de referencia para uma 
+A #chaveEstrangeira tem seu domínio definido ao mapeamento exato de uma #chave que vem de uma outra relação sendo aquilo que vai servir de referencia de uma relação a outra.
+<h4>Restrições de Integridade referencial</h2>
+uma #chaveEstrangeira  não pode referenciar 
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
