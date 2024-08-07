@@ -73,8 +73,6 @@ possa ser mapeado para o Modelo Relacional
 ![[Pasted image 20240807001806.png]]
 
 
-disclaimer(nós pegamos a chave usando a relação mais próxima e não diretamente de sua Entidade não mapeada)
-
 2.2 Exemplo:
 
 ![[Pasted image 20240807001241.png]]
@@ -199,13 +197,14 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Exemplo:1,lucio,77,ciencia,doutor,nike
 		nike não parece fazer muito sentido para tupla
 Redundância->desperdiça espaço.
-#<h4>Anomalias.</h4>
+#<h3>Anomalias.</h4>
 <<<<<<< HEAD
 //Deve ser melhor compreendido.
 Inclusão.
 Alteração.
 Exclusão.
-#<h4>Valores nulos.</h4>
+
+<h4>Valores nulos.</h4>
 =======
 O nosso exemplo usa a seguinte relação
 
