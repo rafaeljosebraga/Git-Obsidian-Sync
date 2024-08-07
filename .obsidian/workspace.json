@@ -11,11 +11,9 @@
             "id": "03cb7baec011b119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md",
-                "mode": "source",
-                "source": false
+                "file": "Análise Numerica/Aula 7/Slides.pdf"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/calculo_numerico.pdf",
+                "file": "Análise Numerica/Aula 7/Slides.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/calculo_numerico.pdf",
+                "file": "Análise Numerica/Aula 7/Slides.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/calculo_numerico.pdf"
+                "file": "Análise Numerica/Aula 7/Slides.pdf"
               }
             }
           },
@@ -191,14 +189,14 @@
       }
     ]
   },
-  "active": "f50e42730c05e0c9",
+  "active": "03cb7baec011b119",
   "lastOpenFiles": [
+    "Análise Numerica/calculo_numerico.pdf",
+    "Análise Numerica/Aula 7/Slides.pdf",
     "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
-    "Análise Numerica/Aula 7/Slides.pdf",
     "Análise Numerica/Aula 7/Sintese.md",
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
-    "Análise Numerica/calculo_numerico.pdf",
     "Análise Numerica/A ser repassado para a sintese.md",
     "imagens utilizadas/Pasted image 20240709100117.png",
     "Análise Numerica/intro_an_num.pdf",
