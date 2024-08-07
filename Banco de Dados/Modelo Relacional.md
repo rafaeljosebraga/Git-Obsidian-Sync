@@ -11,7 +11,7 @@ com todo e qualquer tipo de valor tendo como base a ideia de que são
 
 Atômicos -> se  está escrito endereço é o endereço como um todo (exemplo: Rua Esmeralda não pode ser recuperado como Rua, Esmeralda /*eu sei, é um péssimo exemplo*/).
 
-Monovalorado -> Pode ter apenas um valor incluso("uma pessoa pode ter mais de um numero de telefone, assim podendo assim haver um valor multivalorado, mas para o nosso banco de dados esse numero de telefone só é um").
+Monovalorado -> Pode ter apenas um valor incluso("uma pessoa pode ter mais de um numero de telefone, assim podendo assim haver um valor multivalorado, mas para o nosso banco de dados esse numero de telefone só é um caso contrário temos um problema que SPOILER será um problema a ser lidado").
 
 <h2>Ferramentas do Modelo Relacional</h2>
 
