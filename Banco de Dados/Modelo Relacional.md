@@ -69,7 +69,7 @@ possa ser mapeado para o Modelo Relacional
  ![[Pasted image 20240806234615.png]]
 
 <h4>2 ->Entidades Fracas</h4>
-2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave com tanto suas chaves fracas e uma chave forte exterior
+2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave com tanto suas chaves e uma chave forte exterior
 
 disclaimer(nós pegamos a chave usando a relação mais próxima e não diretamente de sua Entidade não mapeada)
 
