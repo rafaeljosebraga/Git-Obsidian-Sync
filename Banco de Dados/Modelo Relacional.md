@@ -75,7 +75,8 @@ disclaimer(nós pegamos a chave usando a relação mais próxima e não diretame
 
 2.2 Exemplo:
 
-((INSERIR IMAGEM))
+![[Pasted image 20240807001241.png]]
+
 
 no exemplo vemos que temos duas entidades fracas em sequencia a turma recebe normalmente de Disciplina a chave sigla, porem aula prática precisa das duas informações 
 tanto do número da turma e a sigla da disciplina, pense que quanto maior a profundidade maior a quantidade de chaves estrangeiras referenciando o caminho passado como uma lista em C com todos os elementos apontando para seus anteriores.
