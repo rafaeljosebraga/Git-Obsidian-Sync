@@ -7,8 +7,10 @@ separamos cada tipo de atributo da tupla pelo seu valor semântico, ou tipo de i
 ![[Pasted image 20240806221855.png]]
 com todo e qualquer tipo de valor tendo como base a ideia de que são
 
-Atômicos -> se  está escrito endereço é o endereço como um todo (exemplo: Rua Esmeralda não pode ser recuperado como Rua, Esmeralda /*eu sei é um péssimo exemplo)
+Atômicos -> se  está escrito endereço é o endereço como um todo (exemplo: Rua Esmeralda não pode ser recuperado como Rua, Esmeralda /*eu sei, é um péssimo exemplo*/).
+
 <h2>Chaves no Modelo Relacional</h2>
+
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
 
 #chaves é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
