@@ -180,7 +180,7 @@ chute o balde(cada um cada um 10000 relações)
 Alt 1 -> disjunção padrão. Todas a entidade principal e as generalizações dela
 viram entidades com todas as generalizações possuindo chaves estrangeiras
 
-Alt 2->io
+Alt 2->
 
 <h3>Qualidade do Projeto Lógico</h3>
 
@@ -188,7 +188,7 @@ Alt 2->io
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
 		 sendo interessante poder ser descrito como lógico,
-		 fácil de entender, que ajuda a formular consultas corretas e como físico seja armazenada e  de forma eficiente juntamente a um  eficiente.
+		 fácil de entender, que ajuda a formular consultas corretas e como físico seja armazenada e acesso de forma eficiente.
 	 Entidades distintas não deve estar na relação,
 	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
 	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
