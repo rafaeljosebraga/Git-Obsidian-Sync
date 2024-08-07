@@ -1,11 +1,11 @@
 
 <h2>Atributos</h2>
-os #Atributos são formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
+ um #atributo é pode  formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
 
 <h4>Domínio de Dados</h4>
 o domínio dos atributos 
 <h2>Chaves no Modelo Relacional</h2>
-A #superchave é definido como conjunto de atributos que definem aquela tupla como  única.
+A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
 
 #chaves é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
 

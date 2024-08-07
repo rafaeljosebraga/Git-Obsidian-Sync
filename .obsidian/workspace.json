@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#superchave",
+                "query": "tag:#atributo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
