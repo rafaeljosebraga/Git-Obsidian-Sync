@@ -69,7 +69,7 @@ possa ser mapeado para o Modelo Relacional
  ![[Pasted image 20240806234615.png]]
 
 <h4>2 ->Entidades Fracas</h4>
-2.1 As entidades fracas se tornam uma relação que herda sim todos os seus atributos e chaves  #chaveEstrangeira 
+2.1 As entidades fracas se tornam uma relação que herda sim todos os seus atributos e chaves com apenas o adicional de uma #chaveEstrangeira referenciando uma relação provinda de uma entidade não fraca.
 ![[Pasted image 20240807001806.png]]
 
 
