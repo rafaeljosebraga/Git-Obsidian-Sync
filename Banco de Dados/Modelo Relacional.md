@@ -84,7 +84,7 @@ tanto do número da turma e a sigla da disciplina, pense que quanto maior a prof
 
 sigla segue percorrendo referenciando do ultimo(aula pratica) até disciplina de lá sendo a chave que é referenciada.
 <h3>3->Ordem e cardinalidade</h3>
-
+s
 3.1 :cardinalidade 1 pra 1
 
 para mapearmos esse tipo de relacionamento escolhemos qual entidade que quando relação vai ficar com menos atributos nulos(null), os atributos não chave ficam na entidade escolha, incluindo atributos  criados dentro do relacionamento
