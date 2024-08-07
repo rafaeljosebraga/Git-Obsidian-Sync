@@ -11,6 +11,8 @@ com todo e qualquer tipo de valor tendo como base a ideia de que são
 
 Atômicos -> se  está escrito endereço é o endereço como um todo (exemplo: Rua Esmeralda não pode ser recuperado como Rua, Esmeralda /*eu sei, é um péssimo exemplo*/).
 
+Monovalorado -> Pode ter apenas um valor incluso("caso").
+
 <h2>Ferramentas do Modelo Relacional</h2>
 
 Ao fazer uma relação no nosso modelo lógico temos a seguinte definição
