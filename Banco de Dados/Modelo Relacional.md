@@ -1,4 +1,7 @@
-Vou atribuir a ideia de uma a relação a uma Tablea 
+Vou atribuir a ideia de uma a #relação a uma Tabela
+![[Pasted image 20240806230841.png]]
+
+tabela esta que é comp
 <h2>Atributos</h2>
  um #atributo é pode  formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
 
