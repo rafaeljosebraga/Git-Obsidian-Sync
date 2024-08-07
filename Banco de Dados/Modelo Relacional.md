@@ -5,7 +5,9 @@
 <h4>Domínio de Dados</h4>
 separamos cada tipo de atributo da tupla pelo seu valor semântico, ou tipo de informação
 ![[Pasted image 20240806221855.png]]
-com todo e qualquer tipo de valor tendo como base uma  ideia 
+com todo e qualquer tipo de valor tendo como base a ideia de 
+
+Atomicidade:
 <h2>Chaves no Modelo Relacional</h2>
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
 
