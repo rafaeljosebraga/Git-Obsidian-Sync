@@ -1,7 +1,7 @@
 Vou atribuir a ideia de uma a #relação a uma Tabela
 ![[Pasted image 20240806230841.png]]
 
-tabela esta que é composta de Atributos valorados e definidos a partir de seus domínios definidos dentro das {}.
+tabela esta que é composta de Atributos valorados e definidos a partir de seus domínios definidos dentro das {.,.,.} nas tuplas.
 <h2>Atributos</h2>
  um #atributo é pode  formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
 
@@ -55,7 +55,7 @@ A #chaveEstrangeira tem seu domínio definido ao mapeamento exato de uma #chave 
 uma #chaveEstrangeira não pode referenciar a uma chave nula
 ![[Pasted image 20240806230552.png]]
 
-<h2>Mapeamento entre Esquemas</h2>
+<h2>Mapeamento do ER e ERX para o  </h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
 possa ser mapeado para o Modelo Relacional
