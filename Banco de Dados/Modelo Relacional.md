@@ -55,9 +55,8 @@ A #chaveEstrangeira tem seu domínio definido ao mapeamento exato de uma #chave 
 uma #chaveEstrangeira não pode referenciar a uma chave nula
 ![[Pasted image 20240806230552.png]]
 
-<h2>Mapeamento do ER e ERX para o  </h2>
+<h2>Mapeamento do ER e ERX Para o Modelo Relacional</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
-
 possa ser mapeado para o Modelo Relacional
 
 1 -> <h4>Entidades normais</h4>
