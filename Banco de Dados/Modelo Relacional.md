@@ -92,13 +92,6 @@ temos a prioridade semântica onde fazemos referência sobre qual a qual foi dec
 ![[Pasted image 20240807205510.png]]
 
 
-
-3.2:exemplo do Chefia
-
-((imagem exemplar))
-
-não entendi.(Analise Semântica );
-
 3.3:exemplo gerencia
 
 ((imagem exemplar))
