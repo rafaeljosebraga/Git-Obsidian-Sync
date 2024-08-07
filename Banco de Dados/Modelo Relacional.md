@@ -65,7 +65,7 @@ possa ser mapeado para o Modelo Relacional
 
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial.
 ![[Pasted image 20240806234149.png]]
- sendo essa as chaves secundária, terciárias e em diante, com para definirmos a nossa regra.
+ sendo essa as chaves secundária, terciárias e em diante, com essas chaves sendo delcar.
 2 -><h4>Entidades Fracas</h4>
 2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave com tanto suas chaves fracas e uma chave forte exterior
 
