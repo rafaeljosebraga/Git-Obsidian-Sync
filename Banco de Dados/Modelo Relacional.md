@@ -36,7 +36,7 @@ a representação dessas relações em instâncias:
 
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
 
-#chaves é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
+#chave é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
 
 <h3>Chaves Candidatas</h3>
 ![[Pasted image 20240806191624.png]]
@@ -47,7 +47,7 @@ Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar
 Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo.
 
 <h3>Chave Estrangeira</h3>
-A #chaveEstrangeira tem seu domínio definido  
+A #chaveEstrangeira tem seu domínio definido ao mapeamento exato de uma #chave 
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
