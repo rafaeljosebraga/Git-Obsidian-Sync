@@ -137,13 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +155,11 @@
   },
   "active": "c84a6d4dfb0f7c62",
   "lastOpenFiles": [
+    "Algebra linear/Algebra Linear.md",
+    "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/transformações lineares.md",
-    "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Algebra Linear.md",
+    "Banco de Dados/Modelo Relacional.md",
     "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/A ser repassado para a sintese.md",
     "Análise Numerica/Atividade Análise Numérica.md",
@@ -179,7 +178,6 @@
     "imagens utilizadas/Pasted image 20240802200743.png",
     "imagens utilizadas/Pasted image 20240802203038.png",
     "imagens utilizadas/Pasted image 20240802202906.png",
-    "Banco de Dados/Modelo Relacional.md",
     "conflict-files-obsidian-git.md",
     "Teste algebra linear/Atividade para casa.md",
     "Teste algebra linear/Untitled.md",
