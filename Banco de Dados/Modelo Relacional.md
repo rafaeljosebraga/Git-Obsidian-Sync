@@ -19,7 +19,7 @@ dado pelo exemplo:
 ![[Pasted image 20240806223147.png]]
 podemos começar  a modelar a partir desta definição, sendo que quanto mais atributos maior será o nivel de grau.
 
-o grau é definido pela quantidade de atributos("tipos valores"), que aquela relação suporta, no exemplo de Alunos acima o nosso grau é definido em 3, pois são 3 atributos , .
+o grau é definido pela quantidade de atributos("tipos valores"), que aquela relação suporta, no exemplo de Alunos acima o nosso grau é definido em 3, pois são 3 atributos sendo estes "Nome, RG, Idade" .
 <h2>Chaves no Modelo Relacional</h2>
 
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
