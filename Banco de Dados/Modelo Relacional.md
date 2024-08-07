@@ -86,7 +86,10 @@ sigla segue percorrendo referenciando do ultimo(aula pratica) até disciplina de
 <h3>3->Ordem e cardinalidade</h3>
 
 3.1 :cardinalidade 1 pra 1
-A ideia principal é diminuir a quantidade de tuplças com valor nulo,em outras palavras é a ideia de fazer a escolha sobre qual das entidades vai herdar a referência e se for o caso 
+A ideia principal é diminuir a quantidade de tuplas com valor nulo,em outras palavras é a ideia de fazer a escolha sobre qual das entidades/relações vai herdar a referência da outra e se for o caso, também herda os atributos da relação entre eles.
+
+temos a prioridade semântica onde fazemos referência sobre qual a qual.
+
 ->preservar a consistência do banco
 
 3.2:exemplo do Chefia

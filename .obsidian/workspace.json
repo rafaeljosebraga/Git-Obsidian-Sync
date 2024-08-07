@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md"
+                "file": "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "03cb7baec011b119",
   "lastOpenFiles": [
+    "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
+    "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
+    "Banco de Dados/Modelo Relacional.md",
     "conflict-files-obsidian-git.md",
     "imagens utilizadas/Pasted image 20240807001806.png",
     "imagens utilizadas/Pasted image 20240807001702.png",
@@ -176,7 +179,6 @@
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Análise Numerica/Aula 7/Slides.pdf",
     "Análise Numerica/Aula 7",
-    "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/2-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
@@ -190,7 +192,6 @@
     "Matematica/Trigonometria/Introdução.md",
     "Matematica/Trigonometria",
     "Matematica",
-    "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
     "Análise Numerica/Análise Numérica.md",
     "Algebra linear/Resoluções/Prova Algebra Linear.md",
     "Algebra linear/Exemplos/Atividade para casa.md",
