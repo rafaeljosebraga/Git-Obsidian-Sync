@@ -1,39 +1,90 @@
+Vou atribuir a ideia de uma a #relação a uma Tabela
+![[Pasted image 20240806230841.png]]
 
+tabela esta que é composta de Atributos valorados e definidos a partir de seus domínios definidos dentro das {.,.,.} nas tuplas.
+<h2>Atributos</h2>
+ um #atributo é pode  formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
+
+<h4>Domínio de Dados</h4>
+separamos cada tipo de #atributo atributo da tupla pelo seu valor semântico, ou tipo de informação tendo cada atributo seu domínio definido por Nome, Definição Lógica, Tipo de dado e Formato. segue o exemplo->  
+![[Pasted image 20240806221855.png]]
+![[Pasted image 20240806222611.png]]
+
+com todo e qualquer tipo de valor tendo como base a ideia de que são
+
+Atômicos -> se  está escrito endereço é o endereço como um todo (exemplo: Rua Esmeralda não pode ser recuperado como Rua, Esmeralda /*eu sei, é um péssimo exemplo*/).
+
+Monovalorado -> Pode ter apenas um valor, ("uma pessoa pode ter mais de um numero de telefone, assim podendo assim haver um valor multivalorado, mas para o nosso banco de dados esse numero de telefone só é um caso contrário temos um problema que SPOILER será um problema a ser lidado").
+
+curiosidade: O significado do nulo/null
+![[Pasted image 20240806225044.png]]
+
+<h2>Forma de representar as relações do Modelo Relacional</h2>
+
+Ao fazer uma relação no nosso modelo lógico temos a seguinte definição
+![[Pasted image 20240806223128.png]]
+dado pelo exemplo:
+![[Pasted image 20240806223147.png]]
+
+
+podemos começar  a modelar a partir desta definição, sendo que quanto mais atributos maior será o nivel de grau.
+
+o grau é definido pela quantidade de atributos("tipos valores"), que aquela relação suporta, no exemplo de Alunos acima o nosso grau é definido em 3, pois são 3 atributos sendo estes "Nome, RG, Idade" .
+
+a representação dessas relações em instâncias:
+
+![[Pasted image 20240806225325.png]]
 
 <h2>Chaves no Modelo Relacional</h2>
-#superchave é definido como conjunto de atributos que definem aquela tupla como  única.
 
-#chaves é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
+A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
+
+#chave é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
 
 <h3>Chaves Candidatas</h3>
 ![[Pasted image 20240806191624.png]]
 
-<h4>Restrições de Integridade</h2>
-Unicidade: Por fazer o papel de identificar a tupla a chave não pode Não pode repetir em outras tuplas.
-<h2>Mapeamento entre Esquemas</h2>
-A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
+<h4>Restrições de Integridade em Chaves</h2>
+Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar a tupla a chave não pode Não pode repetir em outras tuplas.
 
+Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo.
+
+<h3>Chave Estrangeira</h3>
+A #chaveEstrangeira tem seu domínio definido ao mapeamento exato de uma #chave que vem de uma outra relação sendo aquilo que vai servir de referencia de uma relação a outra.
+<h4>Restrições de Integridade referencial</h2>
+uma #chaveEstrangeira não pode referenciar a uma chave nula
+![[Pasted image 20240806230552.png]]
+
+<h2>Mapeamento do ER e ERX Para o Modelo Relacional</h2>
+A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 possa ser mapeado para o Modelo Relacional
 
-1 -> <h4>Entidades normais</h4>
+<h4>1 -> Entidades normais</h4>
 
-1.1 Toda entidade se torna em uma relação com todos os seus atributos(e características?).
+1.1 Toda #entidade se torna em uma #relação com todos os seus atributos
 
-1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial. sendo essa as chaves secundária, terciárias e em diante.
+1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial.
+![[Pasted image 20240806234149.png]]
+ sendo essa as chaves secundária, terciárias e em diante, com essas chaves obedecendo as restrições de chave. segue o exemplo:
+ ![[Pasted image 20240806234615.png]]
 
-2 -><h4>Entidades Fracas</h4>
-2.1 Se torna uma relação porem deve receber uma chave estrangeira onde se concatena uma chave com tanto suas chaves fracas e uma chave forte exterior
+<h4>2 ->Entidades Fracas</h4>
+2.1 As entidades fracas se tornam uma relação que herda sim todos os seus atributos e chaves com apenas o adicional de uma #chaveEstrangeira referenciando uma relação provinda de uma entidade não fraca.
+![[Pasted image 20240807001806.png]]
 
-disclaimer(nós pegamos a chave usando a relação mais próxima e não diretamente de sua Entidade não mapeada)
 
 2.2 Exemplo:
 
-((INSERIR IMAGEM))
+![[Pasted image 20240807001241.png]]
+
 
 no exemplo vemos que temos duas entidades fracas em sequencia a turma recebe normalmente de Disciplina a chave sigla, porem aula prática precisa das duas informações 
 tanto do número da turma e a sigla da disciplina, pense que quanto maior a profundidade maior a quantidade de chaves estrangeiras referenciando o caminho passado como uma lista em C com todos os elementos apontando para seus anteriores.
+![[Pasted image 20240807001702.png]]
 
-3<h3>Ordem e cardinalidade</h3>
+sigla segue percorrendo referenciando do ultimo(aula pratica) até disciplina de lá sendo a chave que é referenciada.
+<h3>3->Ordem e cardinalidade</h3>
+s
 3.1 :cardinalidade 1 pra 1
 
 para mapearmos esse tipo de relacionamento escolhemos qual entidade que quando relação vai ficar com menos atributos nulos(null), os atributos não chave ficam na entidade escolha, incluindo atributos  criados dentro do relacionamento
@@ -129,15 +180,15 @@ chute o balde(cada um cada um 10000 relações)
 Alt 1 -> disjunção padrão. Todas a entidade principal e as generalizações dela
 viram entidades com todas as generalizações possuindo chaves estrangeiras
 
-Alt 2->io
+Alt 2->
 
 <h3>Qualidade do Projeto Lógico</h3>
 
 <h3>Análise informal</h3>->
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
-		 sendo bom podendo ser descrito como lógico seja
-		 fácil de entender, que ajuda a formular consultas corretas e como físico seja armazenada eficientemente e acesso eficiente.
+		 sendo interessante poder ser descrito como lógico,
+		 fácil de entender, que ajuda a formular consultas corretas e como físico seja armazenada e acesso de forma eficiente.
 	 Entidades distintas não deve estar na relação,
 	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
 	 Atributos de entidades e relacionamentos devem ser  mantidos separadamente tanto quanto possível.
@@ -146,13 +197,14 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Exemplo:1,lucio,77,ciencia,doutor,nike
 		nike não parece fazer muito sentido para tupla
 Redundância->desperdiça espaço.
-#<h4>Anomalias.</h4>
-<<<<<<< HEAD
+<h3>Anomalias.</h3>
+
 //Deve ser melhor compreendido.
 Inclusão.
 Alteração.
 Exclusão.
-#<h4>Valores nulos.</h4>
+
+<h4>Valores nulos.</h4>
 =======
 O nosso exemplo usa a seguinte relação
 

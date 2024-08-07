@@ -1,2 +1,3 @@
-Para esta matéria e usado os conteúdos e materiais aprendidos durante a materia de  [[Algebra Linear]]
+Para esta matéria e usado os conteúdos e materiais aprendidos durante a materia de  [[Algebra Linear]], utilizarei como materia e referência inicialmete o site [Cálculo Numérico - Um Livro Colaborativo - Versão Scilab (ufrgs.br)](https://www.ufrgs.br/reamat/CalculoNumerico/livro-sci/main.html)
+
 
