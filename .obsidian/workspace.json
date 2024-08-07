@@ -11,15 +11,24 @@
             "id": "c84a6d4dfb0f7c62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
-                "mode": "source",
-                "source": false
+                "file": "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf"
+              }
+            }
+          },
+          {
+            "id": "b9c6b9c5804b63b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md"
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
               }
             }
           },
@@ -155,52 +163,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c84a6d4dfb0f7c62",
+  "active": "b9c6b9c5804b63b8",
   "lastOpenFiles": [
-    "Pasted image 20240807001806.png",
-    "Pasted image 20240807001702.png",
-    "Pasted image 20240807001446.png",
-    "Pasted image 20240807001241.png",
-    "Pasted image 20240806234615.png",
-    "Pasted image 20240806234149.png",
-    "Pasted image 20240806230841.png",
-    "Pasted image 20240806230552.png",
+    "Calculo Varias Vars/Calculo 2 - James Stewart - 7 Edição - Volume 2.pdf",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Análise Numerica/intro_an_num.pdf",
+    "Análise Numerica/calculo_numerico.pdf",
+    "Análise Numerica/Analise Numérica.md",
+    "Análise Numerica/A ser repassado para a sintese.md",
+    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
+    "Análise Numerica/Aula 7/Slides.pdf",
+    "Análise Numerica/Aula 7",
+    "Atividade para casa.md",
+    "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
+    "imagens utilizadas/Pasted image 20240806221851.png",
     "Banco de Dados/Modelo Relacional.md",
-    "Pasted image 20240806225325.png",
-    "Pasted image 20240806225237.png",
-    "Pasted image 20240806225044.png",
+    "imagens utilizadas/Pasted image 20240807001806.png",
+    "imagens utilizadas/Pasted image 20240807001702.png",
+    "imagens utilizadas/Pasted image 20240807001446.png",
+    "imagens utilizadas/Pasted image 20240807001241.png",
+    "imagens utilizadas/Pasted image 20240806234615.png",
+    "imagens utilizadas/Pasted image 20240806234149.png",
+    "imagens utilizadas/Pasted image 20240806230841.png",
+    "imagens utilizadas/Pasted image 20240806230552.png",
+    "imagens utilizadas/Pasted image 20240806225325.png",
     "conflict-files-obsidian-git.md",
     "Algebra linear/Algebra Linear.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/transformações lineares.md",
-    "Análise Numerica/Analise Numérica.md",
-    "Análise Numerica/A ser repassado para a sintese.md",
     "Análise Numerica/Atividade Análise Numérica.md",
     "Algebra linear/Resoluções/Prova Algebra Linear.md",
-    "Atividade para casa.md",
     "Videos/LinearTransformation.light.mp4",
     "Algebra linear/Resoluções",
     "2024-08-06.md",
     "Teste algebra linear/Atividade para casa.md",
     "Teste algebra linear/Untitled.md",
     "Teste algebra linear/Achando a Automatriz.md",
-    "Algebra linear/Exemplos",
     "Matematica/Trigonometria/Introdução.md",
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
-    "Matematica/Trigonometria",
-    "Matematica",
-    "Untitled",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
     "Banco de Dados/2-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
-    "imagens utilizadas/Untitled",
     "Banco de Dados/3-relacional.canvas",
     "Sem título.md",
-    "Videos",
-    "imagens utilizadas",
-    "Algebra linear",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/Sem título.md",
     "Git-Obsidian-Sync/Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
