@@ -61,7 +61,7 @@ possa ser mapeado para o Modelo Relacional
 
 1 -> <h4>Entidades normais</h4>
 
-1.1 Toda entidade se torna em uma relação com todos os seus atributos(e características?).
+1.1 Toda entidade se torna em uma relação com todos os seus atributos
 
 1.2 Toda chave da entidade se torna chave da relação e agora podemos definir melhor todas as outras chaves em potencial. sendo essa as chaves secundária, terciárias e em diante.
 
