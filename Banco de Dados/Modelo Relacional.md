@@ -187,7 +187,7 @@ Alt 2->io
 <h3>Análise informal</h3>->
 O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Projetar um banco de dados relacional->agrupar atributos para formar "bons" esquemas de relações
-		 sendo bom podendo ser descrito como lógico seja
+		 sendo interessante poder ser descrito como lógico,
 		 fácil de entender, que ajuda a formular consultas corretas e como físico seja armazenada eficientemente e acesso eficiente.
 	 Entidades distintas não deve estar na relação,
 	 apenas chaves estrangeiras devem ser usadas para referenciar outras entidades,
@@ -197,8 +197,8 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 	Exemplo:1,lucio,77,ciencia,doutor,nike
 		nike não parece fazer muito sentido para tupla
 Redundância->desperdiça espaço.
-#<h3>Anomalias.</h4>
-<<<<<<< HEAD
+<h3>Anomalias.</h3>
+
 //Deve ser melhor compreendido.
 Inclusão.
 Alteração.
