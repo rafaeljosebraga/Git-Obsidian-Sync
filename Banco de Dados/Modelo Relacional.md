@@ -1,9 +1,9 @@
 
 <h2>Atributos</h2>
-os São formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
+os #Atributos são formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
 
 <h4>Domínio de Dados</h4>
-
+o domínio dos atributos 
 <h2>Chaves no Modelo Relacional</h2>
 A #superchave é definido como conjunto de atributos que definem aquela tupla como  única.
 
