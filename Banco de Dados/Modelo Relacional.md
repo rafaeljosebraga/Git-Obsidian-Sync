@@ -11,6 +11,13 @@ com todo e qualquer tipo de valor tendo como base a ideia de que são
 
 Atômicos -> se  está escrito endereço é o endereço como um todo (exemplo: Rua Esmeralda não pode ser recuperado como Rua, Esmeralda /*eu sei, é um péssimo exemplo*/).
 
+<h2>Ferramentas do Modelo Relacional</h2>
+
+Ao fazer uma relação no nosso modelo lógico temos a seguinte definição
+![[Pasted image 20240806223128.png]]
+dado pelo exemplo:
+![[Pasted image 20240806223147.png]]
+podemos começar  a modelar a partir desta definição,sendo que .
 <h2>Chaves no Modelo Relacional</h2>
 
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
@@ -24,13 +31,7 @@ A #superchave é um tipo de #atributo definido como conjunto de atributos que de
 Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar a tupla a chave não pode Não pode repetir em outras tuplas.
 
 Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo.
-<h2>Ferramentas do Modelo Relacional</h2>
 
-Ao fazer uma relação no nosso modelo lógico temos a seguinte definição
-![[Pasted image 20240806223128.png]]
-dado pelo exemplo:
-![[Pasted image 20240806223147.png]]
-podemos modelar a partir desta defini
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
