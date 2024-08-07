@@ -46,7 +46,8 @@ Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar
 
 Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo.
 
-<>
+<h3>Chave Estrangeira</h3>
+
 <h2>Mapeamento entre Esquemas</h2>
 A ideia é fazer com que nosso modelo de ER(entidade e relacionamento)
 
