@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8bb1a4f0bfdfeed",
+        "id": "ed9b6fe88c338ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "48800e7520dc32ad",
+            "id": "6435a22c2a860ac2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -148,7 +156,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "48800e7520dc32ad",
+  "active": "6435a22c2a860ac2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Banco de Dados/Modelo Relacional.md",
