@@ -85,7 +85,8 @@ tanto do número da turma e a sigla da disciplina, pense que quanto maior a prof
 sigla segue percorrendo referenciando do ultimo(aula pratica) até disciplina de lá sendo a chave que é referenciada.
 <h3>3->Ordem e cardinalidade</h3>
 
-3.1 :cardinalidade 1 pra 1
+3.1 :
+<h2>Cardinalidade 1 pra 1
 A ideia principal é diminuir a quantidade de tuplas com valor nulo,em outras palavras é a ideia de fazer a escolha sobre qual das entidades/relações vai herdar a referência da outra e se for o caso, também herda os atributos da relação entre eles.
 
 temos a prioridade semântica onde fazemos referência sobre qual a qual foi decidido a prioridade semântica.
