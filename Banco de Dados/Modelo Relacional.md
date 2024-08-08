@@ -101,26 +101,25 @@ Participação total possui prioridade a receber chaves e atributos do relaciona
 
 Disclaimer -> temos uma Restrição de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências, portanto Projeto deve ser definido como não nulo.
 
-
-
 3.4 Politica no campus vai chegar   
 
-((imagem exemplar))
-
 Diretor recebe o nome de diretor anterior
+![[Pasted image 20240808103955.png]]
+
 
 3.5 participação total para os dois lados
+em teoria seria o algoritmo a ser seguido pelo padrão onde escolhemos a prioridade semântica. 
+entretanto vamos seguir um mapeamento alternativo
+Mapeamento alternativo -> agregação em uma única relação("agregação").
 
-((Imagem exemplar))
+![[Pasted image 20240808104146.png]]
 
-Mapeamento alternativo -> agregação em uma única relação("agregação")
-
-4 <h4>1:N</h4>
+4 <h4>Mapeamento de 1:N</h4>
 4.1 Professor e Disciplina 
 
-((Imagem exemplar))
+![[Pasted image 20240808105343.png]]
 
-O lado onde chegamos em N possui prioridade 
+varias disciplinas se referem a um professor,mostramos isso com uma referencia de professor dentro de professor.
 
 4.2 Professor e Disciplina(participação total)
 
