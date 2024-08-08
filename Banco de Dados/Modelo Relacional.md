@@ -146,7 +146,7 @@ só possuo a minha tentativa de modelar o passo 5, um exemplo concreto se torna 
 relacionamentos ternários ou com mais entidades 
 para o caso N:N:N 
 
-segue a regra do N:M todos se tornam relações,
+segue a regra do N:M todos se tornam relações e a relação entre as entidades se torna uma relação que faz referência,
 
 6.1 Exemplo do aluno único
 
