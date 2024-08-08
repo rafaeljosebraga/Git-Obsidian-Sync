@@ -136,6 +136,7 @@ tudo vira relação e o relacionamento em si se torna uma relação que herda ch
 5 Exemplo
 
 ((Imagem exemplar)) 
+só possuo a minha tentativa de modelar o passo 5
 
 6 -> TERNÁRIO? RELAÇÃO PRA TODO LADO 
 
