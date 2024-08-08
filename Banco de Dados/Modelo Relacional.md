@@ -118,16 +118,13 @@ Mapeamento alternativo -> agregação em uma única relação("agregação").
 
 ![[Pasted image 20240808105343.png]]
 
-varias disciplinas se referem a um professor,mostramos isso com uma referencia de professor dentro de professor.
+varias disciplinas se referem a um professor, mostramos isso com uma referencia de professor dentro de professor.
 
 4.2 Professor e Disciplina(participação total)
 ![[Pasted image 20240808105531.png]]
 
-
 restrição de NULL segue o exemplo anterior
 o atributo professor em Disciplina não pode ser nulo por causa da participação total.
-
-
 
 4.3 <h5>N:N</h5>
 ((imagem exemplar))
