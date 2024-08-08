@@ -113,7 +113,7 @@ Mapeamento alternativo -> agregação em uma única relação("agregação").
 
 ![[Pasted image 20240808104146.png]]
 
-4 <h4>Mapeamento de 1:N</h4>
+<h4>4 Mapeamento de 1:N</h4>
 4.1 Professor e Disciplina 
 
 ![[Pasted image 20240808105343.png]]
