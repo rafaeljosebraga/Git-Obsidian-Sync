@@ -21,9 +21,11 @@
             "id": "b9c6b9c5804b63b8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
+                "file": "Banco de Dados/Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -165,6 +167,7 @@
   },
   "active": "b9c6b9c5804b63b8",
   "lastOpenFiles": [
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Modelo Relacional.md",
     "Pasted image 20240808200219.png",
     "Pasted image 20240808200052.png",
@@ -176,7 +179,6 @@
     "imagens utilizadas/Pasted image 20240808105343.png",
     "imagens utilizadas/Pasted image 20240808105337.png",
     "imagens utilizadas/Pasted image 20240808103955.png",
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
     "Análise Numerica/Aula 7/Sintese.md",
