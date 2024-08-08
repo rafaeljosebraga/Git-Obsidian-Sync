@@ -127,10 +127,10 @@ restrição de NULL segue o exemplo anterior
 o atributo professor em Disciplina não pode ser nulo por causa da participação total.
 
 4.3 <h5>N:N ou M:N</h5>
-((imagem exemplar))
+![[Pasted image 20240808164320.png]]
+
 
 tudo vira relação e o relacionamento em si se torna uma relação que herda chave de suas Entidades.
-
 
 <h3>Se possível tirar foto o exemplo de lúcio junto a questão  no passo 5</h3>
 5 Exemplo
