@@ -130,7 +130,7 @@ o atributo professor em Disciplina não pode ser nulo por causa da participaçã
 ![[Pasted image 20240808164320.png]]
 
 
-tudo vira relação e o relacionamento em si se torna uma relação que herda chave de suas Entidades.
+tudo vira relação e o relacionamento em si se torna uma relação que herda chave de suas Entidades. 
 
 <h3>Se possível tirar foto o exemplo de lúcio junto a questão  no passo 5</h3>
 5 Exemplo
