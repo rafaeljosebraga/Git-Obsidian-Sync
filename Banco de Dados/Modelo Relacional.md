@@ -146,7 +146,7 @@ só possuo a minha tentativa de modelar o passo 5, um exemplo concreto se torna 
 relacionamentos ternários ou com mais entidades 
 para o caso N:N:N 
 
-segue a regra do N:M todos vbi
+segue a regra do N:M todos se tornam relações,
 
 6.1 Exemplo do aluno único
 
