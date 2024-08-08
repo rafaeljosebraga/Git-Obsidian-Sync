@@ -138,9 +138,7 @@ tudo vira relação e o relacionamento em si se torna uma relação que herda ch
 ((Imagem exemplar)) 
 só possuo a minha tentativa de modelar o passo 5
 
-6 -> TERNÁRIO? RELAÇÃO PRA TODO LADO 
-
-cuidado com as chaves!!
+6 -> Relacionamentos de M
 
 6.1 Exemplo do aluno único
 
