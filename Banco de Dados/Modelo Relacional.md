@@ -126,7 +126,7 @@ varias disciplinas se referem a um professor, mostramos isso com uma referencia 
 restrição de NULL segue o exemplo anterior
 o atributo professor em Disciplina não pode ser nulo por causa da participação total.
 
-4.3 <h5>N:N ou M:N</h5>
+5<h5>Cardinalidade N:N ou M:N</h5>
 ![[Pasted image 20240808164320.png]]
 
 
@@ -139,7 +139,7 @@ tudo vira relação e o relacionamento em si se torna uma relação que herda ch
 
 ![[Pasted image 20240808200052.png]]
 
-só possuo a minha tentativa de modelar o passo 5
+só possuo a minha tentativa de modelar o passo 5, um exemplo concreto se 
 
 6 -> 
 <h3>Relacionamentos de Maior grau</h3>
