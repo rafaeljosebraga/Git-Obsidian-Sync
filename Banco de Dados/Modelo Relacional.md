@@ -88,15 +88,9 @@ sigla segue percorrendo referenciando do ultimo(aula pratica) até disciplina de
 3.1 :cardinalidade 1 pra 1
 A ideia principal é diminuir a quantidade de tuplas com valor nulo,em outras palavras é a ideia de fazer a escolha sobre qual das entidades/relações vai herdar a referência da outra e se for o caso, também herda os atributos da relação entre eles.
 
-temos a prioridade semântica onde fazemos referência sobre qual a qual.
+temos a prioridade semântica onde fazemos referência sobre qual a qual foi decidido a prioridade semântica.
+![[Pasted image 20240807205510.png]]
 
-->preservar a consistência do banco
-
-3.2:exemplo do Chefia
-
-((imagem exemplar))
-
-não entendi.(Analise Semântica );
 
 3.3:exemplo gerencia
 
