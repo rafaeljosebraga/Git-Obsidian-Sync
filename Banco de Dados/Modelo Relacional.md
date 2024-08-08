@@ -94,11 +94,9 @@ Temos a prioridade semântica onde fazemos referência sobre qual a qual foi dec
 
 será melhor compreendido quando feita as atividades de transformar de um modelo para outro.
 
-Participação total possui prioridade a receber chaves e atributos do relacionamento quando mapeando.
-
+A relação da entidade em participação total possui prioridade a receber chaves estrangeiras e atributos do relacionamento quando mapeando.
 
 ![[Pasted image 20240808095652.png]]
-
 
 Disclaimer -> temos uma Restrição de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências, portanto Projeto deve ser definido como não nulo.
 
