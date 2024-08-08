@@ -91,14 +91,15 @@ A ideia principal é diminuir a quantidade de tuplas com valor nulo,em outras pa
 temos a prioridade semântica onde fazemos referência sobre qual a qual foi decidido a prioridade semântica.
 ![[Pasted image 20240807205510.png]]
 
-
-3.3:exemplo gerencia
-
-((imagem exemplar))
+será melhor compreendido quando feita as atividades de transformar de um modelo para outro.
 
 Participação total possui prioridade a receber chaves e atributos do relacionamento quando mapeando.
 
+
+
 disclaimer -> temos uma Restriçao de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências
+
+
 
 3.4 Politica no campus vai chegar   
 
