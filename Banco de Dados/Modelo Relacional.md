@@ -113,7 +113,7 @@ Mapeamento alternativo -> agregação em uma única relação("agregação").
 
 ![[Pasted image 20240808104146.png]]
 
-<h4>4 Mapeamento de 1:N</h4>
+<h4>4 >Mapeamento de 1:N</h4>
 4.1 Professor e Disciplina 
 
 ![[Pasted image 20240808105343.png]]
@@ -126,7 +126,7 @@ varias disciplinas se referem a um professor, mostramos isso com uma referencia 
 restrição de NULL segue o exemplo anterior
 o atributo professor em Disciplina não pode ser nulo por causa da participação total.
 
-4.3 <h5>N:N</h5>
+4.3 <h5>N:N ou M:N</h5>
 ((imagem exemplar))
 
 tudo vira relação e o relacionamento em si se torna uma relação que herda chave de suas Entidades.
