@@ -144,7 +144,10 @@ só possuo a minha tentativa de modelar o passo 5, um exemplo concreto se torna 
 6 -> 
 <h3>Relacionamentos de Maior grau</h3>
 relacionamentos ternários ou com mais entidades 
-para o caso N:N:N ,
+para o caso N:N:N 
+
+segue a regra do N:M todos vbi
+
 6.1 Exemplo do aluno único
 
 a chave identificadora de aluno se torna uma referencia  que será deslocada para outra relação e vir de lá a referencia.
