@@ -140,6 +140,7 @@ só possuo a minha tentativa de modelar o passo 5
 
 6 -> 
 <h3>Relacionamentos de Maior grau</h3>
+relacionamentos ternários ou com mais entidades 
 
 6.1 Exemplo do aluno único
 
