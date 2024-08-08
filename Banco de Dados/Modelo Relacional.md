@@ -134,6 +134,8 @@ tudo vira relação e o relacionamento em si se torna uma relação que herda ch
 
 <h3>Se possível tirar foto o exemplo de lúcio junto a questão  no passo 5</h3>
 5 Exemplo
+![[Pasted image 20240808200219.png]]
+
 
 ![[Pasted image 20240808200052.png]]
 
