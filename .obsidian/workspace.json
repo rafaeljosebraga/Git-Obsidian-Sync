@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/Aula 7/Slides.pdf",
+                "file": "Análise Numerica/calculo_numerico.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/Aula 7/Slides.pdf",
+                "file": "Análise Numerica/calculo_numerico.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/Aula 7/Slides.pdf"
+                "file": "Análise Numerica/calculo_numerico.pdf"
               }
             }
           },
@@ -189,10 +189,10 @@
       }
     ]
   },
-  "active": "03cb7baec011b119",
+  "active": "f50e42730c05e0c9",
   "lastOpenFiles": [
-    "Análise Numerica/calculo_numerico.pdf",
     "Análise Numerica/Aula 7/Slides.pdf",
+    "Análise Numerica/calculo_numerico.pdf",
     "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
     "Análise Numerica/Aula 7/Sintese.md",
