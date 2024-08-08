@@ -96,8 +96,10 @@ será melhor compreendido quando feita as atividades de transformar de um modelo
 Participação total possui prioridade a receber chaves e atributos do relacionamento quando mapeando.
 
 
+![[Pasted image 20240808095652.png]]
 
-disclaimer -> temos uma Restrição de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências
+
+Disclaimer -> temos uma Restrição de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências, portanto Projeto deve ser definido como não nulo.
 
 
 
