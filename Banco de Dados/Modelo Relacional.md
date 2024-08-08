@@ -97,7 +97,7 @@ Participação total possui prioridade a receber chaves e atributos do relaciona
 
 
 
-disclaimer -> temos uma Restriçao de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências
+disclaimer -> temos uma Restrição de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências
 
 
 
