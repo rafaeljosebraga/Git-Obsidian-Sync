@@ -138,7 +138,8 @@ tudo vira relação e o relacionamento em si se torna uma relação que herda ch
 ((Imagem exemplar)) 
 só possuo a minha tentativa de modelar o passo 5
 
-6 -> Relacionamentos de M
+6 -> 
+<h3>Relacionamentos de Maior grau</h3>
 
 6.1 Exemplo do aluno único
 
