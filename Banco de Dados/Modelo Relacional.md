@@ -139,7 +139,7 @@ tudo vira relação e o relacionamento em si se torna uma relação que herda ch
 
 ![[Pasted image 20240808200052.png]]
 
-só possuo a minha tentativa de modelar o passo 5, um exemplo concreto se 
+só possuo a minha tentativa de modelar o passo 5, um exemplo concreto se torna necessário.
 
 6 -> 
 <h3>Relacionamentos de Maior grau</h3>
