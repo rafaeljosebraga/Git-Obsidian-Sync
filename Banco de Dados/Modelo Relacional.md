@@ -200,6 +200,7 @@ viram entidades com todas as generalizações possuindo chaves estrangeiras
 
 Alt 2->
 
+
 <h3>Qualidade do Projeto Lógico</h3>
 
 <h3>Análise informal</h3>->
