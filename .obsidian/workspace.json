@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -200,10 +200,11 @@
       }
     ]
   },
-  "active": "7da03813a1500586",
+  "active": "b9c6b9c5804b63b8",
   "lastOpenFiles": [
-    "Banco de Dados/Modelo Relacional.md",
+    "Pasted image 20240809112754.png",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Banco de Dados/Modelo Relacional.md",
     "Pasted image 20240809102452.png",
     "Pasted image 20240809095001.png",
     "Pasted image 20240809094516.png",

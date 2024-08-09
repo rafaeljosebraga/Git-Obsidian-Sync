@@ -167,8 +167,7 @@ Esse tópico se torna mais claro quando analisamos as restrições e as regrinha
 
 Exercício-mapear para o Modelo Relacional:
 ![[Pasted image 20240809102452.png]]
-
-
+![[Pasted image 20240809112754.png]]
 
 para mais informações o livro do Elmarsi navate.
 
