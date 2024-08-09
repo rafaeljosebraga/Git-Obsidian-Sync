@@ -177,6 +177,7 @@ para mais informações o livro do Elmarsi navate.
 
 <h3>Mapeamento de Agregação</h3>
 Tudo vira relação a relação com a agregação possuindo referencia das entidades que com dentro de sua relação relacionavam.
+![[Pasted image 20240809142927.png]]
 
 Caso a relação dentro da agregação possua relacionamento com atributos esse relacionamento se torna uma relação.
 
