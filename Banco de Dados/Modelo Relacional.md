@@ -110,7 +110,7 @@ Diretor recebe o nome de diretor anterior
 
 3.5 participação total para os dois lados
 em teoria seria o algoritmo a ser seguido pelo padrão onde escolhemos a prioridade semântica. 
-entretanto temos duas participações totais, estas que vão conflitar pois vamos precisar  vamos seguir um mapeamento alternativo
+entretanto temos duas participações totais, estas que vão conflitar, pois vamos precisar de referencia para os dois lados, sendo assim vamos seguir um mapeamento alternativo
 Mapeamento alternativo -> agregação em uma única relação("agregação").
 
 ![[Pasted image 20240808104146.png]]
