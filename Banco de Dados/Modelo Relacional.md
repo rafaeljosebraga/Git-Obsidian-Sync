@@ -92,7 +92,7 @@ A ideia principal é diminuir a quantidade de tuplas com valor nulo, em outras p
 Temos a prioridade semântica onde fazemos referência sobre qual a qual foi decidido a prioridade semântica.
 ![[Pasted image 20240807205510.png]]
 
-será melhor compreendido quando feita as atividades de transformar de um modelo para outro.
+aqui existe um problema, são duas interpretações, porem uma parece ser mais correta que a outra de acordo com l
 
 A relação da entidade em participação total possui prioridade a receber chaves estrangeiras e atributos do relacionamento quando mapeando.
 
