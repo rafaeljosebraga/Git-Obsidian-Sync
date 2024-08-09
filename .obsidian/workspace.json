@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Untitled 1.canvas",
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Untitled 1.canvas",
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Untitled 1.canvas"
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
               }
             }
           },
@@ -211,15 +211,15 @@
         "y": 0,
         "width": 960,
         "height": 1040,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "b9c6b9c5804b63b8",
+  "active": "2893371c11fdfa0e",
   "lastOpenFiles": [
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Untitled 1.canvas",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Untitled.canvas",
