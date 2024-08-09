@@ -166,6 +166,7 @@ os multivalorados podem ser uma relação com chave estrangeira referenciando a 
 Esse tópico se torna mais claro quando analisamos as restrições e as regrinhas do (link) 
 
 Exercício-mapear para o Modelo Relacional:
+![[Pasted image 20240809102452.png]]
 
 
 
