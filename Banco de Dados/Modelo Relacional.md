@@ -151,7 +151,7 @@ segue a regra do N:M todos se tornam relações e a relação entre as entidades
 
 6.1 quando 1:N:N
 
-O exemplo do Aluno 
+O exemplo de um Aluno para vários professores e disciplinas  
 
 6.2Exemplo : da disciplina em relação ternaria com menos entidades 
 
