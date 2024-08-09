@@ -206,6 +206,7 @@ Alt 1 ->
 ![[Pasted image 20240809180720.png]]
 
 Alt 2->
+	Na alternativa 2 todas as relações continuam fazendo referencia a relação pai porem a 
 ![[Pasted image 20240809181929.png]]
 
 Alt 3->
