@@ -214,7 +214,7 @@ Alt 3->
 ![[Pasted image 20240809183643.png]]
 
 <h4>PPd_2</h4>
-Acumulamos todas as especializações em apenas uma relação, com a vantagem da relação se manter e não se alterar muito as referências e relações que se relacionam com CEG, representamos as outras relações meramente como atributos de CEG, ganhando pelo fato de permanecermos com apenas uma relação, _NÃO COMTENPLA PARTICIPA_.
+Acumulamos todas as especializações em apenas uma relação, com a vantagem da relação se manter e não se alterar muito as referências e relações que se relacionam com CEG, representamos as outras relações meramente como atributos de CEG, ganhando pelo fato de permanecermos com apenas uma relação, _NÃO  PARTICIPA_.
 Alt 4 -> 
 	
 ![[Pasted image 20240809184258.png]]
