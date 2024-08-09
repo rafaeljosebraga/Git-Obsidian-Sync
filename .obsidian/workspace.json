@@ -18,21 +18,6 @@
             }
           },
           {
-            "id": "b9c6b9c5804b63b8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Banco de Dados/Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
@@ -44,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
+                "file": "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
+                "file": "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
+                "file": "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf"
               }
             }
           },
@@ -216,7 +200,7 @@
       }
     ]
   },
-  "active": "2893371c11fdfa0e",
+  "active": "c84a6d4dfb0f7c62",
   "lastOpenFiles": [
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
