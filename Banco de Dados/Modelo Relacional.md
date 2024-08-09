@@ -155,6 +155,8 @@ O exemplo de um aluno para vários professores e disciplinas, acontece as mesmas
 ![[Pasted image 20240808233422.png]]
 
 6.2Exemplo : Ternário com uma auto relação assim como definido o exemplo de sucessor e antecessor nesse caso temos uma situação de muitos para muitos, como regra participa tem duas referencias para a disciplina.
+![[Pasted image 20240809094516.png]]
+
 
 7 Multivalorados
 
