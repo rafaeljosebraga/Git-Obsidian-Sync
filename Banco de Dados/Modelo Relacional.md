@@ -203,8 +203,21 @@ viram entidades com todas as generalizações possuindo chaves estrangeiras
 
 Alt 2->
 
+Alt 3->
 
+<h4>PPd_2</h4>
+Alt 1 -> 
 
+Alt 2->
+
+Alt 3->
+
+<h4>PPd_3</h4>
+Alt 1 -> 
+
+Alt 2->
+
+Alt 3->
 
 
 
