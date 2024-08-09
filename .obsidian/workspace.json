@@ -33,14 +33,11 @@
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Banco de Dados/3-relacional.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Banco de Dados/Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -111,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/3-relacional.canvas",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/3-relacional.canvas",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/3-relacional.canvas"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -217,6 +214,7 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/2-relacional.canvas",
     "imagens utilizadas/Pasted image 20240809112754.png",
@@ -261,7 +259,6 @@
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
-    "Banco de Dados/3-relacional.canvas",
     "Sem título.md",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/Sem título.md",
