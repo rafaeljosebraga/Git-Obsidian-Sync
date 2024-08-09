@@ -194,5 +194,5 @@ para cada dependência não trivial-> ela separa e se torna uma nova relação
 
 O BD é considerado normalizado quando ele está em todas a formas normais desde a primeira até a BCNF/$4^a$ forma normal
 
-sabemos 
+sabemos que existem mais formas normais, porem não 
 
