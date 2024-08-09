@@ -214,7 +214,10 @@ Alt 3->
 ![[Pasted image 20240809183643.png]]
 
 <h4>PPd_2</h4>
+Acumulamos todas as especializações em apenas um
 Alt 4 -> 
+	![[Pasted image 20240809184258.png]]
+	
 
 Alt 5->
 
