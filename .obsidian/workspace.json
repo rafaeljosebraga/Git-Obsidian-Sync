@@ -33,11 +33,14 @@
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
-                "mode": "source",
-                "source": false
+                "file": "Banco de Dados/3-relacional.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -108,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Banco de Dados/3-relacional.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Banco de Dados/3-relacional.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md"
+                "file": "Banco de Dados/3-relacional.canvas"
               }
             }
           },
@@ -214,15 +217,17 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
-    "Banco de Dados/Normalização.md",
+    "Banco de Dados/1-relacional.canvas",
+    "Banco de Dados/2-relacional.canvas",
+    "imagens utilizadas/Pasted image 20240809112754.png",
+    "imagens utilizadas/Pasted image 20240809102452.png",
     "Banco de Dados/Modelo Relacional.md",
-    "Pasted image 20240809112754.png",
+    "Banco de Dados/Normalização.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Pasted image 20240809102452.png",
-    "Pasted image 20240809095001.png",
-    "Pasted image 20240809094516.png",
-    "Pasted image 20240808233422.png",
-    "Pasted image 20240808232515.png",
+    "imagens utilizadas/Pasted image 20240809095001.png",
+    "imagens utilizadas/Pasted image 20240809094516.png",
+    "imagens utilizadas/Pasted image 20240808233422.png",
+    "imagens utilizadas/Pasted image 20240808232515.png",
     "imagens utilizadas/Pasted image 20240808200219.png",
     "imagens utilizadas/Pasted image 20240808200052.png",
     "imagens utilizadas/Pasted image 20240808164320.png",
@@ -256,13 +261,10 @@
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
-    "Banco de Dados/2-relacional.canvas",
-    "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
     "Sem título.md",
     "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/Sem título.md",
-    "Git-Obsidian-Sync/Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
