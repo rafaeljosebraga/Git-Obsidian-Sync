@@ -92,7 +92,9 @@ A ideia principal é diminuir a quantidade de tuplas com valor nulo, em outras p
 Temos a prioridade semântica onde fazemos referência sobre qual a qual foi decidido a prioridade semântica.
 ![[Pasted image 20240807205510.png]]
 
-aqui existe um problema, são duas interpretações, porem uma parece ser mais correta que a outra de acordo com l
+aqui existe um problema, são duas interpretações, porem uma parece ser mais correta que a outra.
+
+De acordo com a explicação de Lucio podemos afirmar que um empregado chefia um departamento ou que um departamento é chefia
 
 A relação da entidade em participação total possui prioridade a receber chaves estrangeiras e atributos do relacionamento quando mapeando.
 
