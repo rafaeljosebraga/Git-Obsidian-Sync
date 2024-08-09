@@ -198,6 +198,7 @@ chute o balde(cada um cada um 10000 relações)
 
 
 <h4>PPd_1</h4>
+O primeiro procedimento padrão se apega n 
 Alt 1 -> 
 
 Alt 2->
