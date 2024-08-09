@@ -210,6 +210,8 @@ Alt 2->
 ![[Pasted image 20240809181929.png]]
 
 Alt 3->
+	Na alternativa 3 se continua em overlap, porem o Atributo de controle(AtC) 
+![[Pasted image 20240809183643.png]]
 
 <h4>PPd_2</h4>
 Alt 4 -> 
