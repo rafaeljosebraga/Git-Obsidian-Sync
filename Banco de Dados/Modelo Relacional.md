@@ -96,7 +96,7 @@ aqui existe um problema, são duas interpretações, porem uma parece ser mais c
 
 De acordo com a explicação de Lucio podemos afirmar que um empregado chefia um departamento ou que um departamento é chefiado por um empregado/"Chefe", porem no modelo relacional vamos entender que dada a primeira forma temos vários empregados podendo chefiar departamento, sendo que a nossa implicação é de 1 pra 1 é queremos um departamento sendo chefiado por este um alguem, mesmo com espaços abertos a interpretação, é mais cabível  a segunda forma pois o departamento referenciar o seu chefe(no singular), nos permite falar que cada departamento este que seja um único departamento referencie o seu único chefe.
 <h4>Cardinalidade 1:1-> Participação Total</h4>
-A relação da entidade em participação total possui prioridade a receber chaves estrangeiras e atributos do relacionamento quando mapeando, mesmo considerando o nosso exemplo anterior onde provavelmente cada projeto receberia referencia para seu .
+A relação da entidade em participação total possui prioridade a receber chaves estrangeiras e atributos do relacionamento quando mapeando, mesmo considerando o nosso exemplo anterior onde provavelmente cada projeto receberia referencia para seu gerente, nesse caso a participação total indica prioridade.
 
 ![[Pasted image 20240808095652.png]]
 
