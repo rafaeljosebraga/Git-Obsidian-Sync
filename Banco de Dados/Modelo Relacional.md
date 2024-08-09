@@ -210,7 +210,7 @@ Alt 2->
 ![[Pasted image 20240809181929.png]]
 
 Alt 3->
-	Na alternativa 3 se continua em overlap, porem o Atributo de controle(AtC) é multivalorado portanto, em função de manter a nossa vá
+	Na alternativa 3 se continua em overlap, porem o Atributo de controle(AtC) é multivalorado portanto, em função de manter a nossa variável de controle ela é levada para uma outra relação criada justamente para fazer o controle 
 ![[Pasted image 20240809183643.png]]
 
 <h4>PPd_2</h4>
