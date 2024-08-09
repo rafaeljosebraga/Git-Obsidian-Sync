@@ -183,6 +183,8 @@ Caso a relação dentro da agregação possua relacionamento com atributos esse 
 
 as chaves "estrangeiras" se tornam uma chave compostas e secundária.
 
+![[Pasted image 20240809143116.png]]
+
 
 <h3>Mapeamento da Generalização</h3>
 para o padrão de participação total todas as entidades da generalização se tornam relações,
