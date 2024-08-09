@@ -77,7 +77,8 @@ relações as quais as tuplas estão inconsistentes (em exemplo uma tabela com u
 
 
 //mais detalhes são necessários
-<h3>Analise Formal</h3>->
+<h3>Analise Formal</h3>
+->
 Formalização
 	Projeto por análise
 		 podemos partir de cima para baixo onde buscamos a partir do agrupamento de atributos pelo projeto conceitual de mapeamento
