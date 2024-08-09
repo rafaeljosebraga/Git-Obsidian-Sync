@@ -206,7 +206,7 @@ Alt 1 ->
 ![[Pasted image 20240809180720.png]]
 
 Alt 2->
-	Na alternativa 2 todas as relações continuam fazendo referencia a relação pai porem o atributo de controle não é usado pois é usado o $O$ de overlap assim tirando o sentido de especificar , 
+	Na alternativa 2 todas as relações continuam fazendo referencia a relação pai porem o atributo de controle não é usado pois é usado o $O$ de overlap assim tirando o sentido de especificar as subrelações,   
 ![[Pasted image 20240809181929.png]]
 
 Alt 3->
