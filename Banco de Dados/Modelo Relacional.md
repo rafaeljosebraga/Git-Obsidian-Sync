@@ -153,7 +153,7 @@ segue a regra do N:M todos se tornam relações e a relação entre as entidades
 
 6.1 quando 1:N:N
 
-O exemplo de um aluno para vários professores e disciplinas, acontece as mesmas coisas  da relação anterior, porem na referencia de aluno em monitora(ria) não é uma chave.
+O exemplo de um aluno para vários professores e disciplinas, acontece as mesmas coisas  da relação anterior, porem na referencia de aluno em monitora(ria) não é uma chave dada a regra de mapeamento 1:1.
 ![[Pasted image 20240808233422.png]]
 
 6.2Exemplo : Ternário com uma auto relação assim como definido o exemplo de sucessor e antecessor nesse caso temos uma situação de muitos para muitos dentro de um ternário, como regra participa tem duas referencias para a disciplina e uma para curso.
