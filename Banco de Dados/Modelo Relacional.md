@@ -151,7 +151,8 @@ segue a regra do N:M todos se tornam relações e a relação entre as entidades
 
 6.1 quando 1:N:N
 
-O exemplo de um aluno para vários professores e disciplinas, acontece as mesmas coisas  da relação anterior, porem na referencia de aluno em monitora(ria) não é u
+O exemplo de um aluno para vários professores e disciplinas, acontece as mesmas coisas  da relação anterior, porem na referencia de aluno em monitora(ria) não é uma chave.
+![[Pasted image 20240808233422.png]]
 
 6.2Exemplo : da disciplina em relação ternaria com menos entidades 
 
