@@ -202,5 +202,10 @@ Alt 2->
 
 
 
+
+
+
+
+
 em função de garantir consistência do banco de dados   
 é necessário ser feita uma [[Normalização]] para que o nosso modelo se mantenha conciso.
