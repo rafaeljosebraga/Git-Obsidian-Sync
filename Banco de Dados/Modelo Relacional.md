@@ -145,6 +145,7 @@ só possuo a minha tentativa de modelar o passo 5, um exemplo concreto se torna 
 <h3>Relacionamentos de Maior grau</h3>
 relacionamentos ternários ou com mais entidades 
 para o caso N:N:N 
+![[Pasted image 20240808232515.png]]
 
 segue a regra do N:M todos se tornam relações e a relação entre as entidades se torna uma relação que faz referência,
 
