@@ -21,9 +21,11 @@
             "id": "b9c6b9c5804b63b8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
+                "file": "Banco de Dados/Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -163,16 +165,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9c6b9c5804b63b8",
+  "floating": {
+    "id": "22412c64d6347a9a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bd2d2e82b7348aba",
+        "type": "window",
+        "children": [
+          {
+            "id": "1d38b626a0878917",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7da03813a1500586",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7da03813a1500586",
   "lastOpenFiles": [
     "Banco de Dados/Modelo Relacional.md",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Pasted image 20240809102452.png",
     "Pasted image 20240809095001.png",
     "Pasted image 20240809094516.png",
     "Pasted image 20240808233422.png",
     "Pasted image 20240808232515.png",
     "imagens utilizadas/Pasted image 20240808200219.png",
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "imagens utilizadas/Pasted image 20240808200052.png",
     "imagens utilizadas/Pasted image 20240808164320.png",
     "imagens utilizadas/Pasted image 20240808105531.png",
