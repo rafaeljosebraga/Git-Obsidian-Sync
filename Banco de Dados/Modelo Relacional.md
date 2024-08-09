@@ -100,7 +100,7 @@ A relação da entidade em participação total possui prioridade a receber chav
 
 ![[Pasted image 20240808095652.png]]
 
-Disclaimer -> temos uma Restrição de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências, portanto Projeto deve ser definido como não nulo.
+Disclaimer -> temos uma Restrição de null (um "hazard") pois nesse caso gerente por participação total não pode constar inconsistências, portanto codProjeto deve ser definido como não nulo ->.
 
 3.4 Politica no campus vai chegar   
 
