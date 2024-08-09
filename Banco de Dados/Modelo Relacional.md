@@ -168,6 +168,7 @@ Esse tópico se torna mais claro quando analisamos as restrições e as regrinha
 Exercício-mapear para o Modelo Relacional:
 
 
+
 para mais informações o livro do Elmarsi navate.
 
 
