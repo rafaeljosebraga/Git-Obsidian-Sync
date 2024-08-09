@@ -21,11 +21,14 @@
             "id": "b9c6b9c5804b63b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
-                "mode": "source",
-                "source": false
+                "file": "Banco de Dados/Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -108,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
+                "file": "Banco de Dados/Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
+                "file": "Banco de Dados/Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
+                "file": "Banco de Dados/Untitled 1.canvas"
               }
             }
           },
@@ -203,21 +206,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 607,
-        "y": 164,
+        "x": 656,
+        "y": 0,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "2893371c11fdfa0e",
+  "active": "b9c6b9c5804b63b8",
   "lastOpenFiles": [
     "Banco de Dados/Modelo Relacional.md",
+    "Banco de Dados/Untitled 1.canvas",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Untitled.canvas",
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Pasted image 20240809143116.png",
     "Pasted image 20240809142927.png",
     "Pasted image 20240809142903.png",
