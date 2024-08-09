@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c84a6d4dfb0f7c62",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf"
-              }
-            }
-          },
-          {
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Normalização.md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -191,21 +181,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": true,
+        "x": 743,
+        "y": 245,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "c84a6d4dfb0f7c62",
+  "active": "70195167103446bd",
   "lastOpenFiles": [
-    "Banco de Dados/Untitled 1.canvas",
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/Normalização.md",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
+    "Banco de Dados/Untitled 1.canvas",
+    "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/Untitled.canvas",
     "Pasted image 20240809143116.png",
     "Pasted image 20240809142927.png",
@@ -228,7 +219,6 @@
     "Análise Numerica/calculo_numerico.pdf",
     "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/A ser repassado para a sintese.md",
-    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Análise Numerica/Aula 7/Slides.pdf",
     "Análise Numerica/Aula 7",
     "Atividade para casa.md",
