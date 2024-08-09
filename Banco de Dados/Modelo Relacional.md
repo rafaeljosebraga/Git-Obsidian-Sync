@@ -128,7 +128,7 @@ varias disciplinas se referem a um professor, mostramos isso com uma referencia 
 restrição de NULL segue o exemplo anterior
 o atributo professor em Disciplina não pode ser nulo por causa da participação total.
 
-5<h5>Cardinalidade N:N ou M:N</h5>
+<h5>5->Cardinalidade N:N ou M:N</h5>
 ![[Pasted image 20240808164320.png]]
 
 
@@ -206,14 +206,14 @@ Alt 2->
 Alt 3->
 
 <h4>PPd_2</h4>
-Alt 1 -> 
+Alt 4 -> 
 
-Alt 2->
+Alt 5->
 
-Alt 3->
+Alt 6->
 
 <h4>PPd_3</h4>
-Alt 1 -> 
+Alt 7 -> 
 
 Alt 2->
 
