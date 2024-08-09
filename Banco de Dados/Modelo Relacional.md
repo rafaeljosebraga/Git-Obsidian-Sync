@@ -149,9 +149,9 @@ para o caso N:N:N
 
 segue a regra do N:M todos se tornam relações e a relação entre as entidades se torna uma relação que faz referência,
 
-6.1 Exemplo do aluno único
+6.1 quando 1:N:N
 
-a chave identificadora de aluno se torna uma referencia  que será deslocada para outra relação e vir de lá a referencia.
+O exemplo do Aluno 
 
 6.2Exemplo : da disciplina em relação ternaria com menos entidades 
 
