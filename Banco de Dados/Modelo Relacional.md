@@ -169,6 +169,7 @@ Exercício-mapear para o Modelo Relacional:
 ![[Pasted image 20240809102452.png]]
 ![[Pasted image 20240809112754.png]]
 Erro encontrado-> "refreg" não é chave, pois em relações 1:1 não se cria chaves.
+
 para mais informações o livro do Elmarsi navate.
 
 
