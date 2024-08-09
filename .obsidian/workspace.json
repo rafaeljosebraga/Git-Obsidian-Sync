@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Matematica/Trigonometria/Introdução.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Matematica/Trigonometria/Introdução.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Matematica/Trigonometria/Introdução.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md"
+                "file": "Matematica/Trigonometria/Introdução.md"
               }
             }
           },
@@ -154,43 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "22412c64d6347a9a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fa66832ccb0e6fab",
-        "type": "window",
-        "children": [
-          {
-            "id": "05f7c6a2f8d8bb75",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2893371c11fdfa0e",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 743,
-        "y": 245,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Banco de Dados/Modelo Relacional.md",
     "Pasted image 20240809184258.png",
     "Pasted image 20240809183712.png",
     "Pasted image 20240809183643.png",
@@ -200,7 +166,6 @@
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Banco de Dados/Untitled 1.canvas",
-    "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/Untitled.canvas",
     "Pasted image 20240809143116.png",
     "Pasted image 20240809142927.png",
@@ -210,7 +175,6 @@
     "Banco de Dados/2-relacional.canvas",
     "imagens utilizadas/Pasted image 20240809112754.png",
     "imagens utilizadas/Pasted image 20240809102452.png",
-    "imagens utilizadas/Pasted image 20240809095001.png",
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
     "Análise Numerica/Aula 7/Sintese.md",
