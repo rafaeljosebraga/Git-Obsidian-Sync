@@ -202,7 +202,7 @@ O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
 onde ela continua capaz de fazer as sua relações normalmente garantindo referencia de suas relações/entidades filhas ou especializações
 
 Alt 1 -> 
-	Na alternativa 1 todas as relações fazem referência a chave relação pai, contemplando as entidades especializadas e mantendo as relações com a entidade pai, a relação pai possui um indicador. 
+	Na alternativa 1 todas as relações fazem referência a chave relação pai, contemplando as entidades especializadas e mantendo as relações com a entidade pai, a relação pai possui um indicador para saber qual é a classe. 
 ![[Pasted image 20240809180720.png]]
 
 Alt 2->
