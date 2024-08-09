@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -206,10 +207,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 656,
+        "x": 960,
         "y": 0,
-        "width": 1024,
-        "height": 800,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
@@ -217,9 +218,9 @@
   },
   "active": "b9c6b9c5804b63b8",
   "lastOpenFiles": [
-    "Banco de Dados/Modelo Relacional.md",
-    "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Banco de Dados/Untitled 1.canvas",
+    "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Untitled.canvas",
     "Pasted image 20240809143116.png",
