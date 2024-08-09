@@ -200,4 +200,7 @@ viram entidades com todas as generalizações possuindo chaves estrangeiras
 
 Alt 2->
 
-em função de garantir que 
+
+
+em função de garantir consistência do banco de dados   
+é 
