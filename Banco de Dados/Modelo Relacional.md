@@ -198,8 +198,7 @@ chute o balde(cada um cada um 10000 relações)
 
 
 <h4>PPd_1</h4>
-Alt 1 -> Disjunção padrão. Todas a entidade principal e as generalizações dela
-viram entidades com todas as generalizações possuindo chaves estrangeiras.
+Alt 1 -> 
 
 Alt 2->
 
