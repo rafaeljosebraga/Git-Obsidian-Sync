@@ -165,7 +165,8 @@ os multivalorados podem ser uma relação com chave estrangeira referenciando a 
 
 Esse tópico se torna mais claro quando analisamos as restrições e as regrinhas do (link) 
 
-Exercício mapear para o Modelo relacional
+Exercício-mapear para o Modelo Relacional:
+
 
 para mais informações o livro do Elmarsi navate.
 
