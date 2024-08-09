@@ -161,6 +161,8 @@ O exemplo de um aluno para vários professores e disciplinas, acontece as mesmas
 7 Multivalorados
 
 os multivalorados podem ser uma relação com chave estrangeira referenciando a relação principal (como uma entidade fraca)
+![[Pasted image 20240809095001.png]]
+
 
 para mais informações o livro do Elmarsi navate.
 
