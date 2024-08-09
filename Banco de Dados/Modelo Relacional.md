@@ -198,7 +198,8 @@ chute o balde(cada um cada um 10000 relações)
 
 
 <h4>PPd_1</h4>
-O primeiro procedimento padrão se apega n 
+O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
+
 Alt 1 -> 
 
 Alt 2->
