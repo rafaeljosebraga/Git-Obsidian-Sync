@@ -94,7 +94,7 @@ Temos a prioridade semântica onde fazemos referência sobre qual a qual foi dec
 
 aqui existe um problema, são duas interpretações, porem uma parece ser mais correta que a outra.
 
-De acordo com a explicação de Lucio podemos afirmar que um empregado chefia um departamento ou que um departamento é chefia
+De acordo com a explicação de Lucio podemos afirmar que um empregado chefia um departamento ou que um departamento é chefiado por um empregado/"Chefe" esta, 
 
 A relação da entidade em participação total possui prioridade a receber chaves estrangeiras e atributos do relacionamento quando mapeando.
 
