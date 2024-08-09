@@ -94,7 +94,7 @@ Temos a prioridade semântica onde fazemos referência sobre qual a qual foi dec
 
 aqui existe um problema, são duas interpretações, porem uma parece ser mais correta que a outra.
 
-De acordo com a explicação de Lucio podemos afirmar que um empregado chefia um departamento ou que um departamento é chefiado por um empregado/"Chefe", porem no modelo relacional vamos entender que dada a primeira forma temos vários empregados podendo chefiar departamento, sendo que a nossa implicação é de 1 pra 1 é queremos um departamento sendo chefiado por este um alguem, mesmo com espaços abertos a interpretação, é preferivel a segun
+De acordo com a explicação de Lucio podemos afirmar que um empregado chefia um departamento ou que um departamento é chefiado por um empregado/"Chefe", porem no modelo relacional vamos entender que dada a primeira forma temos vários empregados podendo chefiar departamento, sendo que a nossa implicação é de 1 pra 1 é queremos um departamento sendo chefiado por este um alguem, mesmo com espaços abertos a interpretação, é mais cabível  a segunda forma pois o departamento referenciar o seu chefe(no singular)
 
 A relação da entidade em participação total possui prioridade a receber chaves estrangeiras e atributos do relacionamento quando mapeando.
 
