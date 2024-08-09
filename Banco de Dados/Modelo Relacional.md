@@ -163,7 +163,9 @@ O exemplo de um aluno para vários professores e disciplinas, acontece as mesmas
 os multivalorados podem ser uma relação com chave estrangeira referenciando a relação principal (como uma entidade fraca)
 ![[Pasted image 20240809095001.png]]
 
-Esse tópico se torna mais claro quando analisamos as restrições e as regrinhas da () 
+Esse tópico se torna mais claro quando analisamos as restrições e as regrinhas do (link) 
+
+Exercício mapear para o Modelo relacional
 
 para mais informações o livro do Elmarsi navate.
 
