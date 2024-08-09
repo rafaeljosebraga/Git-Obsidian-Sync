@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"970a8ad7bf4b21df","x":20,"y":-100,"width":116,"height":70,"type":"text","text":"carro"},
-		{"id":"bc26089d72bf6393","x":-188,"y":45,"width":128,"height":75,"type":"text","text":"guerra"}
+		{"id":"970a8ad7bf4b21df","x":-60,"y":-80,"width":116,"height":70,"type":"text","text":"carro"}
 	],
 	"edges":[]
 }
