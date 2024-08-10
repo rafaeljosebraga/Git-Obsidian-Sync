@@ -217,6 +217,8 @@ Alt 4 ->
 
 
 Alt 5->
+![[Pasted image 20240810194434.png]]
+
 
 Alt 6->
 
