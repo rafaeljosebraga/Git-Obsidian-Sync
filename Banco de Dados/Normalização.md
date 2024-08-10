@@ -16,7 +16,7 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 Redundância->desperdiça espaço.
 <h3>Anomalias.</h3>
 
-Os exemplos a seguir  a seguinte relação
+Os exemplos a seguir vão fazer uso da seguinte relação
 
 <h>Pessoa:{Nome, Idade,ID, nomeCurso, IDcurso, cargaHora}</h>
 
@@ -43,7 +43,7 @@ Alterado->(Dino,27,<u>243</u>,==Geografia,EP11==,60)
 (Ramon,20,<u>123</u>,EngPesca,EP11,60)
 (Dino,27,<u>243</u>,EngPesca,EP11,60)
 Apagados{
-  ~~(Pardal,11,563,Aviação,AV12,100)~~
+  ~~(Pardal,11,563,==Aviação==,AV12,100)~~
   ~~(Pardal,11,563,EngPesca,EP11,60)~~
 }
 (Kitano,68,<u>456</u>,Geografia,Gg13,80)
