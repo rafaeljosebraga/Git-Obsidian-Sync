@@ -147,11 +147,11 @@ ex:
 
 Aluno={nome{nome_pais}}
 retiramos as relações aninhadas no caso "nome_pais"
-->Aluno={nome,nome_pai,nome_mãe}
+->Aluno={nome, nome_pai, nome_mãe}
 
 $2^a$ Forma Normal
 
-Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto
+Ministra={<u>Professor,Sigla</u>,LivroTexto, LivroExerc} ->correto
 
 Turma= {<u>NúmeroT,Sigla</u>,Sala,No.Horas}->Incorreto a solução
 
