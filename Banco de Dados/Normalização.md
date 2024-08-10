@@ -152,23 +152,23 @@ retiramos as relações aninhadas no caso "nome_pais"
 ex2:
 Aluno={nome, Alergias}
 
-
+Aluno={nome,}
 $2^a$ Forma Normal
 
 Ministra={<u>Professor,Sigla</u>,LivroTexto, LivroExerc} ->correto
 
-Turma= {<u>NúmeroT,Sigla</u>,Sala,No.Horas}->Incorreto a solução
+Turma= {<u>NúmeroT,Sigla</u>,Sala, No.Horas}->Incorreto a solução
 
 //
-Turma= {<u>NúmeroT,</u>Sigla,Sala}
+Turma= {<u>NúmeroT,</u>Sigla, Sala}
 
 adicionada->Disciplina{<u>Sigla</u>,No.horas}
 
-Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc} ->correto se transitividade não gerasse inconsistência que solucionada na->
+Ministra={<u>Professor,Sigla</u>, LivroTexto, LivroExerc} ->correto se transitividade não gerasse inconsistência que solucionada na->
 
 $3^a$Forma Normal
 se restringe apenas ao caso da transitividade ser feita com atributos e não chaves.
-Ministra={<u>Professor,Sigla</u>,LivroTexto,LivroExerc}
+Ministra={<u>Professor, Sigla</u>, LivroTexto, LivroExerc}
 
 //
 
