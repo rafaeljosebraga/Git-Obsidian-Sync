@@ -11,9 +11,11 @@
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240810194434.png"
+                "file": "Banco de Dados/Normalização.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240810194434.png",
+                "file": "Banco de Dados/Normalização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240810194434.png",
+                "file": "Banco de Dados/Normalização.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "imagens utilizadas/Pasted image 20240810194434.png"
+                "file": "Banco de Dados/Normalização.md"
               }
             }
           },
@@ -152,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "70195167103446bd",
   "lastOpenFiles": [
+    "imagens utilizadas/Pasted image 20240810194434.png",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Modelo Relacional.md",
-    "imagens utilizadas/Pasted image 20240810194434.png",
     "Matematica/Trigonometria/Introdução.md",
     "imagens utilizadas/Pasted image 20240809184258.png",
     "imagens utilizadas/Pasted image 20240809183712.png",

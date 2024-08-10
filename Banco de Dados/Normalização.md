@@ -33,7 +33,7 @@ Os exemplos a seguir vão fazer uso da seguinte relação
 <h3>Alteração</h3>
 (Ramon,20,<u>123</u>,==EngPesca,EP11==,60)
 
-Alterado->(Dino,27,<u>243</u>,==Geografia,EP11==,60)
+Alterado->(Dino,27,<u>243</u>,==Geografia,EP11,60)
 
 (Pardal,11,<u>563</u>,Aviação,Av12,100)
 (Kitano,68,<u>456</u>,Geografia,Gg13,80)
