@@ -11,11 +11,9 @@
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
-                "mode": "source",
-                "source": false
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md"
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
               }
             }
           },
@@ -157,11 +154,11 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Banco de Dados/Modelo Relacional.md",
     "Pasted image 20240810194434.png",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Matematica/Trigonometria/Introdução.md",
-    "Banco de Dados/Modelo Relacional.md",
     "Pasted image 20240809184258.png",
     "Pasted image 20240809183712.png",
     "Pasted image 20240809183643.png",
@@ -177,7 +174,6 @@
     "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/2-relacional.canvas",
     "imagens utilizadas/Pasted image 20240809112754.png",
-    "imagens utilizadas/Pasted image 20240809102452.png",
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
     "Análise Numerica/Aula 7/Sintese.md",
