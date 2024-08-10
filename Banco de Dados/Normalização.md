@@ -16,14 +16,7 @@ O famoso boca a boca , buscamos informações de outros que o fazem e colaboram
 Redundância->desperdiça espaço.
 <h3>Anomalias.</h3>
 
-//Deve ser melhor compreendido.
-Inclusão.
-Alteração.
-Exclusão.
-
-<h4>Valores nulos.</h4>
-=======
-O nosso exemplo usa a seguinte relação
+Os exemplos a seguir  a seguinte relação
 
 <h>Pessoa:{Nome, Idade,ID, nomeCurso, IDcurso, cargaHora}</h>
 
