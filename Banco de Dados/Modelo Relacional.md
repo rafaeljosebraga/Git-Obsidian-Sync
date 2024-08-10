@@ -181,7 +181,7 @@ Tudo vira relação a relação com a agregação possuindo referencia das entid
 
 Caso a relação dentro da agregação possua relacionamento com atributos esse relacionamento se torna uma relação e então vamos ter ambas as relações servindo de conjuntura para nossa relação N:M assim tratamos a agregação como algo externo a nossa relação sendo criada apenas referenciando as suas tabelas/tuplas pais.
 
-as chaves "estrangeiras" se tornam uma chave compostas e secundária.
+as chaves "estrangeiras" vão virar uma chave composta e secundária.
 
 ![[Pasted image 20240809143116.png]]
 
