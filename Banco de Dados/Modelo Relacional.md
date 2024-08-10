@@ -193,10 +193,6 @@ sobre o contexto de uma disjunção podemos fazer uma relação de "controle" co
 
 para o caso de Sobreposição o O podemos tornar fazer com que o controle se torne em suporte identificador da nossa tupla(relação) de controle.
 
-chute o balde(cada um cada um 10000 relações)
-(interpretar o Slide)
-
-
 <h4>PPd_1</h4>
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
 onde ela continua capaz de fazer as sua relações normalmente garantindo referencia de suas relações/entidades filhas ou especializações
