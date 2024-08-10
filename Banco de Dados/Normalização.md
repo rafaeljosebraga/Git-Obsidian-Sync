@@ -146,7 +146,9 @@ outros exemplos nos slides de Lúcio
 ex:
 
 Aluno={nome, ==nomes_pais==}
+
 retiramos as relações aninhadas no caso "nome_pais"
+
 ->Aluno={nome, nome_pai, nome_mãe}
 
 ex2:
