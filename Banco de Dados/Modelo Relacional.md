@@ -228,7 +228,7 @@ PPdr 6->
 <h4>Alt 3</h4>
 
 PPdr 7 -> 
-Particularmente, eu Rafael chamo esse procedimento aqui de "Botão de pânico" 
+Particularmente, eu Rafael chamo esse procedimento aqui de "Botão de pânico"  no livro do Elmasri,Navathe
 ![[Pasted image 20240810225101.png]]
 ![[Pasted image 20240810225017.png]]
 
