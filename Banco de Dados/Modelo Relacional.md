@@ -184,7 +184,7 @@ nesse caso especifico de N:N percebe-se que consulta é totalmente capaz de subs
 ![[Pasted image 20240809142927.png]]
 
 Porem nesse caso abaixo temos uma mais uma exceção, onde atende possui um atributo.
-neste caso a modelagem anterior não contemplaria DataPrimeiraC, consideramos tanto consulta como atende sendo elas relações diferente com cada uma portando seus atributos.
+neste caso a modelagem anterior não contemplaria DataPrimeiraC, assim consideramos tanto consulta e atende como sendo relações diferentes com cada uma portando seus atributos conforme o modelo ERX.
 
 ![[Pasted image 20240809143116.png]]
 
