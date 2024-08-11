@@ -189,7 +189,7 @@ neste caso a modelagem anterior não contemplaria DataPrimeiraC, assim considera
 ![[Pasted image 20240809143116.png]]
 
 <h3>Mapeamento da Generalização</h3>
-Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio
+Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio.
 	CEG=
 	CEE=
 	AG=
@@ -198,7 +198,6 @@ Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos pad
 	Ch=
 	BCEE=
 	CEC=
-
 <h4>Alt 1</h4>
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
 onde ela continua capaz de fazer as sua relações normalmente garantindo referencia de suas relações/entidades filhas ou especializações
