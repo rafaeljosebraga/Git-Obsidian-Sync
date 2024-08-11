@@ -211,9 +211,9 @@ PPdr 3->
 ![[Pasted image 20240809183643.png]]
 
 <h4>Alt 2</h4>
-Acumulamos todas as especializações em apenas uma relação, com a vantagem da relação se manter e não se alterar o formato de como as relações de CEG 
+Acumulamos todas as especializações em apenas uma relação, com a vantagem da relação se manter e não se alterar o formato das relações de CEG, porem gerando várias tuplas cheias de nulls
 PPdr 4 -> 
-	
+	Disjuntiva onde controlamos os atributos de ceg
 ![[Pasted image 20240809184258.png]]
 
 
