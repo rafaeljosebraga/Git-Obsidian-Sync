@@ -217,7 +217,7 @@ PPdr 4 ->
 ![[Pasted image 20240809184258.png]]
 
 PPdr 5->
-	 para o exemplo resolvidos pelo Procedimento Padrão 3, nesse caso é apenas ne
+	 para o exemplo resolvidos pelo Procedimento Padrão 3, nesse exemplo somos capazes de de identificar quais especializações foram feitas a partir de quais 
 ![[Pasted image 20240810213933.png]]
 
 
