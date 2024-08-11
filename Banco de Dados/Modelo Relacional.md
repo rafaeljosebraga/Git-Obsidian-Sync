@@ -236,7 +236,7 @@ Generalização mutuamente exclusiva de acordo com O GPT:
 ![[Pasted image 20240810225017.png]]
 
 PPdr 8->
-	Para tratar essa disjunção em participação total vamos definir uma relação de somente de Controle onde ela usa a chave estrangeira referenciando 
+	Para tratar essa disjunção em participação total vamos definir uma relação de somente de Controle onde ela usa a chave estrangeira referenciando a CEE
 ![[Pasted image 20240810232356.png]]
 PPdr 9->
 
