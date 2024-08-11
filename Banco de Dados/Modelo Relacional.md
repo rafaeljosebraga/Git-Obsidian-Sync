@@ -206,7 +206,8 @@ Alt 2->
 ![[Pasted image 20240809181929.png]]
 
 Alt 3->
-	Na alternativa 3 se continua com o mesmo algoritmo do overlap, porem o Atributo de controle(AtC) é multivalorado portanto, em função de manter a nossa variável de controle ela é levada para uma outra relação criada justamente para fazer o controle das especializações referenciando a relação pai(CEG),assim podemos afirmar com maior especificidade quais são as especializações daquela relação
+	Na alternativa 3 se continua com o mesmo algoritmo do overlap, porem o Atributo de controle(AtC) é multivalorado portanto, em função de manter a nossa variável de controle ela é levada para uma outra relação criada justamente para fazer o controle das especializações referenciando a relação pai(CEG),assim podemos afirmar com maior especificidade quais são as especializações daquela relação (em poucas palavras é uma aprimoração)
+	
 ![[Pasted image 20240809183643.png]]
 
 <h4>PPd_2</h4>
