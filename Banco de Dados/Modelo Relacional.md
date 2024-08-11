@@ -192,6 +192,11 @@ neste caso a modelagem anterior não contemplaria DataPrimeiraC, assim considera
 Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio
 	CEG
 	CEE
+	AG
+	AE
+	AtC
+	Ch
+	BC
 
 <h4>Alt 1</h4>
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
