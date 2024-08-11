@@ -243,7 +243,9 @@ PPdr 9->
 ![[Pasted image 20240811011720.png]]
 
 
-
+1-> Disjunção, participação parcial.
+2->Sobreposição, participação parcial.
+3->S
 ![[Pasted image 20240811011651.png]]
 
 em função de garantir consistência do banco de dados   
