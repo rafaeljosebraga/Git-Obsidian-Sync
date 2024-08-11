@@ -239,10 +239,11 @@ PPdr 8->
 	Para tratar essa disjunção em participação total vamos definir uma relação de somente de Controle onde ela usa a chave estrangeira referenciando a chave primaria de CEE, e utiliza de um atributo de controle para indicar a especialização. 
 ![[Pasted image 20240810232356.png]]
 PPdr 9->
+	Essa solução resolve de forma parecida o a sobreposição especificada 
+![[Pasted image 20240811011720.png]]
 
 
 
-
-
+![[Pasted image 20240811011651.png]]
 em função de garantir consistência do banco de dados   
 é necessário ser feita uma [[Normalização]] para que o nosso modelo se mantenha conciso.
