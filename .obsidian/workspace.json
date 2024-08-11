@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -156,6 +157,7 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Pasted image 20240811182049.png",
     "Pasted image 20240811174600.png",
     "Pasted image 20240811174359.png",
     "Banco de Dados/Normalização.md",
@@ -170,7 +172,6 @@
     "Pasted image 20240811011651.png",
     "Pasted image 20240810232356.png",
     "Pasted image 20240810225101.png",
-    "Pasted image 20240810225017.png",
     "Matematica/Trigonometria/Introdução.md",
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Banco de Dados/Untitled 1.canvas",

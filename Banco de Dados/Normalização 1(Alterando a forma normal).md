@@ -84,7 +84,8 @@ Formalização
 		 Melhoramos as qualidades das relações obtidas.
 
 <h3>Análise Formal(pt2)</h3>
-
+[BD: Aula 19 - O que é Dependência Funcional? (youtube.com)](https://www.youtube.com/watch?v=u6JYYOR_o6E&list=PLqsF5rntN2nZ71PyONJCmTry6p4myI2Sb)
+playlist do goat.
 Dependência Funcional uma restrição entre dois conjuntos de atributos 
 	exemplo se em pessoa temos CPF vamos ter Nome.
 	
@@ -142,7 +143,8 @@ Todos os atributos multivalorados se tornam outras relações.
 tem outros casos onde a quantidade de atributos, é pequena e pode estar como uma quantidade facilmente representável como outros atributos.
 ![[Pasted image 20240811174600.png]]
 $2^a$ Forma Normal
-
+relações que possuem uma representação parcial
+![[Pasted image 20240811182049.png]]
 $3^a$Forma Normal
 
 extensão da $3^a$ forma
