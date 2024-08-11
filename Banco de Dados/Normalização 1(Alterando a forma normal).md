@@ -125,7 +125,7 @@ Transitiva
 
 Atributo primário é uma chave candidata
 
-parcial
+parcial:
 não depende da dependência total para funcionar
 
 {Cod,Agencia}->Agencia
@@ -135,11 +135,9 @@ depende da dependência total para referenciar
 
 {Ra,Disc}->nota
 
-Regras de inferência:
-
 
 $1^a$ Forma Normal
-
+Todos 
 $2^a$ Forma Normal
 
 $3^a$Forma Normal
