@@ -156,7 +156,8 @@ retiramos as relações aninhadas no caso "nome_pais"
 ex2:
 Aluno={nome, Alergias}
 
-Aluno={nome,}
+Alergia
+
 $2^a$ Forma Normal
 
 Ministra={<u>Professor,Sigla</u>,LivroTexto, LivroExerc} ->correto
