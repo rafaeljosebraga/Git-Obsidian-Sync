@@ -147,22 +147,18 @@ Normalizando perante a estes parâmetros
 outros exemplos nos slides de Lúcio
 ex:
 
-Aluno={nome, ==nomes_pais==}
-
+![[Pasted image 20240811170323.png]]
 retiramos as relações aninhadas no caso "nome_pais"
 
 ->Aluno={nome, nome_pai, nome_mãe}
 
 ex2:
-Aluno={nome, Alergias}
-
-Alergia
+![[Pasted image 20240811170259.png]]
+criamos uma nova relação para as alergias.
 
 $2^a$ Forma Normal
 
-Ministra={<u>Professor,Sigla</u>,LivroTexto, LivroExerc} ->correto
-
-Turma= {<u>NúmeroT,Sigla</u>,Sala, No.Horas}->Incorreto a solução
+![[Pasted image 20240811170451.png]]
 
 //
 Turma= {<u>NúmeroT,</u>Sigla, Sala}
