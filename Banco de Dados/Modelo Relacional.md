@@ -187,7 +187,7 @@ As chaves "estrangeiras" vão virar uma chave composta.
 ![[Pasted image 20240809143116.png]]
 
 <h3>Mapeamento da Generalização</h3>
-Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia
+Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio
 	
 
 <h4>Alt 1</h4>
@@ -199,7 +199,7 @@ PPdr 1 ->
 ![[Pasted image 20240809180720.png]]
 
 PPdr 2->
-	Na alternativa 2 todas as relações continuam fazendo referencia a relação pai porem o atributo de controle(AtC) não é usado pois é usado o $O$ de overlap assim tirando o sentido de especificar as subrelações. 
+	Na alternativa 2 todas as relações continuam fazendo referencia a relação pai porem o atributo de controle(AtC) não é usado pois temos um $O$ de sobreposição assim tirando o sentido de especificar as subrelações. 
 ![[Pasted image 20240809181929.png]]
 
 PPdr 3->
