@@ -197,39 +197,39 @@ para o caso de Sobreposição o O podemos tornar fazer com que o controle se tor
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
 onde ela continua capaz de fazer as sua relações normalmente garantindo referencia de suas relações/entidades filhas ou especializações
 
-Alt 1 -> 
+PPdr 1 -> 
 	Na alternativa 1 todas as relações fazem referência a chave relação pai, contemplando as entidades especializadas e mantendo as relações com a entidade pai, a relação pai possui um indicador para saber qual é a classe. 
 ![[Pasted image 20240809180720.png]]
 
-Alt 2->
+PPdr 2->
 	Na alternativa 2 todas as relações continuam fazendo referencia a relação pai porem o atributo de controle(AtC) não é usado pois é usado o $O$ de overlap assim tirando o sentido de especificar as subrelações. 
 ![[Pasted image 20240809181929.png]]
 
-Alt 3->
+PPdr 3->
 	Na alternativa 3 se continua com o mesmo algoritmo do overlap, porem o Atributo de controle(AtC) é multivalorado portanto, em função de manter a nossa variável de controle ela é levada para uma outra relação criada justamente para fazer o controle das especializações referenciando a relação pai(CEG),assim podemos afirmar com maior especificidade quais são as especializações daquela relação (em poucas palavras é uma aprimoramento da Alternativa2).
 	
 ![[Pasted image 20240809183643.png]]
 
-<h4>PPd_2</h4>
+<h4>Alt 2</h4>
 Acumulamos todas as especializações em apenas uma relação, com a vantagem da relação se manter e não se alterar muito as referências e relações que se relacionam com CEG, representamos as outras relações meramente como atributos de CEG, ganhando pelo fato de permanecermos com apenas uma relação,  _NÃO PARTICIPA_.
-Alt 4 -> 
+PPdr 4 -> 
 	
 ![[Pasted image 20240809184258.png]]
 
 
-Alt 5->
+PPdr 5->
 ![[Pasted image 20240810194434.png]]
 
 
-Alt 6->
+PPdr 6->
 
-<h4>PPd_3</h4>
+<h4>Alt 3</h4>
 
-Alt 7 -> 
+PPdr 7 -> 
 
-Alt 8->
+PPdr 8->
 
-Alt 9->
+PPdr 9->
 
 
 
