@@ -137,7 +137,10 @@ depende da dependência total para referenciar
 
 
 $1^a$ Forma Normal
-Todos 
+Todos os atributos multivalorados se tornam outras relações.
+![[Pasted image 20240811174359.png]]
+tem outros casos onde a quantidade de atributos, é pequena e pode estar como uma quantidade facilmente representável como outros atributos.
+![[Pasted image 20240811174600.png]]
 $2^a$ Forma Normal
 
 $3^a$Forma Normal
