@@ -239,7 +239,7 @@ PPdr 8->
 	Para tratar essa disjunção em participação total vamos definir uma relação de somente de Controle onde ela usa a chave estrangeira referenciando a chave primaria de CEE, e utiliza de um atributo de controle para indicar a especialização. 
 ![[Pasted image 20240810232356.png]]
 PPdr 9->
-	Essa solução resolve de forma parecida o a sobreposição especificada por um multivalorado na alternativa 1 procedimento 3, onde tornamos AtC chave para identificar várias especializações utilizando a mesma chave Ch enquanto no PPdr8 CEC só poderia identificar uma especialização aqui podemos identificar mais tupla
+	Essa solução resolve de forma parecida o a sobreposição especificada por um multivalorado na alternativa 1 procedimento 3, onde tornamos AtC chave para identificar várias especializações utilizando a mesma chave Ch enquanto no PPdr8 CEC só se poderia identificar uma especialização.
 ![[Pasted image 20240811011720.png]]
 
 
