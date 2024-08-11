@@ -183,9 +183,7 @@ analisando de forma separada a agregação vai ter chaves estrangeiras de suas r
 nesse caso especifico de N:N percebe-se que consulta é totalmente capaz de substituir atende, então atende não é modelado e sim apenas consulta.
 ![[Pasted image 20240809142927.png]]
 
-Caso a relação dentro da agregação possua relacionamento com atributos esse relacionamento se torna uma relação e então vamos ter ambas as relações servindo de conjuntura para nossa relação N:M assim tratamos a agregação como algo externo a nossa relação sendo criada apenas referenciando as suas tabelas/tuplas pais.
-
-As chaves "estrangeiras" vão virar uma chave composta.
+Porem nesse caso abaixo temos uma mais uma exceção, onde atende possui
 
 ![[Pasted image 20240809143116.png]]
 
