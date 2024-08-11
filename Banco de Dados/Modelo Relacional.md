@@ -205,7 +205,7 @@ PPdr 2->
 ![[Pasted image 20240809181929.png]]
 
 PPdr 3->
-	Na alternativa 3 se continua com o mesmo algoritmo do overlap, porem o Atributo de controle(AtC) é multivalorado portanto, em função de manter a nossa variável de controle ela é levada para uma outra relação criada justamente para fazer o controle das especializações referenciando a relação pai(CEG),assim podemos afirmar com maior especificidade quais são as especializações daquela relação (em poucas palavras é uma aprimoramento da Alternativa2).
+	Na alternativa 3 se continua com o mesmo algoritmo do overlap, porem o Atributo de controle(AtC) é multivalorado portanto, em função de manter a nossa variável de controle ela é levada para uma outra relação de e somente de controle criada justamente para fazer o controlar as especializações referenciando a relação pai(CEG),assim podemos afirmar com maior especificidade quais são as especializações daquela relação (em poucas palavras é uma aprimoramento da Alternativa2).
 	
 ![[Pasted image 20240809183643.png]]
 
@@ -236,6 +236,7 @@ Generalização mutuamente exclusiva de acordo com O GPT:
 ![[Pasted image 20240810225017.png]]
 
 PPdr 8->
+
 ![[Pasted image 20240810232356.png]]
 PPdr 9->
 
