@@ -217,12 +217,10 @@ PPdr 4 ->
 ![[Pasted image 20240809184258.png]]
 
 PPdr 5->
-	 para o exemplo resolvidos pelo Procedimento Padrão 3, nesse exemplo somos capazes de de identificar quais especializações foram feitas a partir de quais atributos da entidade especializada não foram nulificados, ja que não podemos representar AtC multivalorado diretamente em CEG.
+	 para o exemplo resolvidos pelo Procedimento Padrão 3, nesse exemplo somos capazes de de identificar quais especializações foram feitas a partir de quais atributos da entidade especializada não foram nulificados, ja que não podemos representar AtC multivalorado diretamente em CEG, a grande implicação é que a .
 ![[Pasted image 20240810213933.png]]
-
-
-
 PPdr 6->
+![[Pasted image 20240810214554.png]]
 
 <h4>Alt 3</h4>
 
