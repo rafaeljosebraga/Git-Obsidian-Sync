@@ -234,7 +234,7 @@ PPdr 6->
 <h4>Alt 3</h4>
 
 PPdr 7 -> 
-Particularmente, eu Rafael chamo esse procedimento aqui de "Botão de pânico"  no livro do Elmasri, Navathe é dito que este modelo é capaz de suportar todo tipo de generalização seja parcial ou total disjunção ou sobreposição, porem na interpretação de lúcio não possibilita generalização mutuamente exclusiva
+Particularmente, eu Rafael chamo esse procedimento aqui de "Botão de pânico"  no livro do Elmasri, Navathe é dito que este modelo é capaz de suportar todo tipo de generalização seja parcial ou total disjunção ou sobreposição, porem na interpretação de lúcio não possibilita generalização mutuamente exclusiva.
 
 Generalização mutuamente exclusiva de acordo com O GPT:
 	Basicamente uma disjunção.

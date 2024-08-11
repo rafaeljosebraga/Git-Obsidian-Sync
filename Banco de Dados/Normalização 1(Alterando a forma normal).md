@@ -136,51 +136,20 @@ depende da dependência total para referenciar
 {Ra,Disc}->nota
 
 Regras de inferência:
-REVER SLIDE.
 
 
-$1^a$ Forma Normal também se aplica a chaves secundárias
-
-Atributos devem ser Atômicos e Monovalorados
-
-Normalizando perante a estes parâmetros
-outros exemplos nos slides de Lúcio
-ex:
-
-![[Pasted image 20240811170323.png]]
-retiramos as relações aninhadas no caso "nome_pais"
-
-->Aluno={nome, nome_pai, nome_mãe}
-
-ex2:
-![[Pasted image 20240811170259.png]]
-criamos uma nova relação para as alergias.
+$1^a$ Forma Normal
 
 $2^a$ Forma Normal
 
-![[Pasted image 20240811170451.png]]
-
-//
-Turma= {<u>NúmeroT,</u>Sigla, Sala}
-
-adicionada->Disciplina{<u>Sigla</u>,No.horas}
-
-Ministra={<u>Professor,Sigla</u>, LivroTexto, LivroExerc} ->correto se transitividade não gerasse inconsistência que solucionada na->
-
 $3^a$Forma Normal
-se restringe apenas ao caso da transitividade ser feita com atributos e não chaves.
-Ministra={<u>Professor, Sigla</u>, LivroTexto, LivroExerc}
-
-//
-
-Ministra={<u>Professor,Sigla</u>,LivroTexto}
-retirando transitividade
-Livro={<u>LivroTexto</u>,LivroExerc}
 
 extensão da $3^a$ forma
 
 BCNF->um atributo que não é superchave definindo uma chave, e todo atributo tem de estar definindo por uma superchave.
 
+
+//FDS
 $4^a$ Forma Normal baseada em dependências Multivaloradas.
 
 é a dependência entre dois conjuntos de atributos sendo essa dependência extremamente semântica
