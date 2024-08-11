@@ -187,11 +187,7 @@ As chaves "estrangeiras" vão virar uma chave composta.
 ![[Pasted image 20240809143116.png]]
 
 <h3>Mapeamento da Generalização</h3>
-para o padrão de participação total todas as entidades da generalização se tornam relações,
-
-sobre o contexto de uma disjunção podemos fazer uma relação de "controle" com atributo de controle.
-
-para o caso de Sobreposição o O podemos tornar fazer com que o controle se torne em suporte identificador da nossa tupla(relação) de controle.
+Lucio separou essa materia 
 
 <h4>Alt 1</h4>
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
