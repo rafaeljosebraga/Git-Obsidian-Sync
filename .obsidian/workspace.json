@@ -11,11 +11,9 @@
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
-                "mode": "source",
-                "source": false
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md"
+                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
               }
             }
           },
@@ -156,6 +154,7 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Banco de Dados/Modelo Relacional.md",
     "Pasted image 20240810214554.png",
     "Pasted image 20240810214552.png",
     "Pasted image 20240810214550.png",
@@ -163,7 +162,6 @@
     "Banco de Dados/Normalização.md",
     "imagens utilizadas/Pasted image 20240810194434.png",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Banco de Dados/Modelo Relacional.md",
     "Matematica/Trigonometria/Introdução.md",
     "imagens utilizadas/Pasted image 20240809184258.png",
     "imagens utilizadas/Pasted image 20240809183712.png",
@@ -173,7 +171,6 @@
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
-    "imagens utilizadas/Pasted image 20240809143116.png",
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/2-relacional.canvas",
