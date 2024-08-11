@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Normalização.md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Normalização.md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Normalização.md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Normalização.md"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -156,12 +156,12 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Banco de Dados/Normalização.md",
     "Banco de Dados/Modelo Relacional.md",
     "Pasted image 20240811011720.png",
     "Pasted image 20240811011651.png",
     "Pasted image 20240810232356.png",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Banco de Dados/Normalização.md",
     "Pasted image 20240810225101.png",
     "Pasted image 20240810225017.png",
     "Pasted image 20240810214554.png",
