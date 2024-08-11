@@ -177,7 +177,7 @@ para mais informações o livro do Elmarsi navate.
 
 <h3>Mapeamento de Agregação</h3>
 
-Tudo vira relação a relação com a agregação possuindo referencia das entidades que com dentro de sua relação relacionavam, a agregação se torna o  "substituto/símbolo" da relação entre as entidades servindo de referencia entre as tabelas.
+fazendo uma
 ![[Pasted image 20240809142927.png]]
 
 Caso a relação dentro da agregação possua relacionamento com atributos esse relacionamento se torna uma relação e então vamos ter ambas as relações servindo de conjuntura para nossa relação N:M assim tratamos a agregação como algo externo a nossa relação sendo criada apenas referenciando as suas tabelas/tuplas pais.
