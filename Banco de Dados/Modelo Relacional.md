@@ -187,7 +187,7 @@ As chaves "estrangeiras" vão virar uma chave composta.
 ![[Pasted image 20240809143116.png]]
 
 <h3>Mapeamento da Generalização</h3>
-Lucio separou essa materia 
+Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões 
 
 <h4>Alt 1</h4>
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
