@@ -236,7 +236,7 @@ Generalização mutuamente exclusiva de acordo com O GPT:
 ![[Pasted image 20240810225017.png]]
 
 PPdr 8->
-
+![[Pasted image 20240810232356.png]]
 PPdr 9->
 
 
