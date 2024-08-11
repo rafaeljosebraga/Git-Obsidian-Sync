@@ -249,7 +249,8 @@ PPdr 9->
 4->Disjunção, participação parcial
 5->Sobreposição, participação parcial(nulos definem a sobreposição)
 6->Sobreposição, participação parcial(substitui os nulos por booleanos)
-7->Botão de pânico, participação total
+7->Botão de pânico, participação total (implementa e cria quantas relações são necessárias)
+8->
 ![[Pasted image 20240811011651.png]]
 
 em função de garantir consistência do banco de dados   
