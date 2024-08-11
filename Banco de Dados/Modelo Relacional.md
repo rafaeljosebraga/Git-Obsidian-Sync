@@ -216,7 +216,6 @@ PPdr 4 ->
 	Disjuntiva onde controlamos os atributos das CEEs a partir de AtC, assim fica com vários atributos AEs nulos e apenas aqueles pelo qual indicado pelo AtC poderiam conter informações não nulas sobre a especialização. 
 ![[Pasted image 20240809184258.png]]
 
-
 PPdr 5->
 	
 
