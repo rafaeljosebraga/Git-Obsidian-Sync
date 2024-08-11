@@ -218,8 +218,10 @@ PPdr 4 ->
 
 PPdr 5->
 	 para o exemplo resolvidos pelo Procedimento Padrão 3, nesse exemplo somos capazes de de identificar quais especializações foram feitas a partir de quais atributos da entidade especializada não foram nulificados, ja que não podemos representar AtC multivalorado diretamente em CEG.  
-	 A grande implicação é que os atributos os quais as a nossa CEG foi especializado não podem ser nulos, pois perdemos a informação de que possíveis CEEs a qual a nossa instância da CEG foi especializa .
+	 
 ![[Pasted image 20240810213933.png]]
+Explicação:
+	A grande implicação é que os atributos os quais as a nossa CEG foi especializado não podem ser nulos, pois perdemos a informação de que possíveis CEEs a qual a nossa instância da CEG foi especializada.
 PPdr 6->
 ![[Pasted image 20240810214554.png]]
 
