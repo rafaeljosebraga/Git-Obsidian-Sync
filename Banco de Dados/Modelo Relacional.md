@@ -211,9 +211,9 @@ PPdr 3->
 ![[Pasted image 20240809183643.png]]
 
 <h4>Alt 2</h4>
-Acumulamos todas as especializações em apenas uma relação, com a vantagem da relação se manter e não se alterar o formato das relações de CEG, porem gerando várias tuplas cheias de nulls
+Acumulamos todas as especializações em apenas uma relação, com a vantagem da relação se manter e não se alterar o formato das relações de CEG, porem gerando várias tuplas cheias de nulls, porem não emprega __Parti__
 PPdr 4 -> 
-	Disjuntiva onde controlamos os atributos das CEEs a partir de Atc, assim fica com vários atributos AEs nulos e apenas aquele pelo qual indicado pelo AtC
+	Disjuntiva onde controlamos os atributos das CEEs a partir de AtC, assim fica com vários atributos AEs nulos e apenas aqueles pelo qual indicado pelo AtC poderiam conter informações nao nulas sobre a especialização. 
 ![[Pasted image 20240809184258.png]]
 
 
