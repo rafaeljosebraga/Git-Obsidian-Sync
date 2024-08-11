@@ -167,3 +167,5 @@ O BD é considerado normalizado quando ele está em todas a formas normais desde
 
 sabemos que existem mais formas normais, porem não 
 
+Vinicera é o cara
+![[resolucao_da_lista_normalizacao.png]]
