@@ -183,7 +183,8 @@ analisando de forma separada a agregação vai ter chaves estrangeiras de suas r
 nesse caso especifico de N:N percebe-se que consulta é totalmente capaz de substituir atende, então atende não é modelado e sim apenas consulta.
 ![[Pasted image 20240809142927.png]]
 
-Porem nesse caso abaixo temos uma mais uma exceção, onde atende possui um atributo, neste caso a modelagem anterior não contemplaria, neste caso consideramos tanto consulta como atende sendo elas relações dif
+Porem nesse caso abaixo temos uma mais uma exceção, onde atende possui um atributo.
+neste caso a modelagem anterior não contemplaria DataPrimeiraC, consideramos tanto consulta como atende sendo elas relações diferente com cada uma portando seus atributos.
 
 ![[Pasted image 20240809143116.png]]
 
