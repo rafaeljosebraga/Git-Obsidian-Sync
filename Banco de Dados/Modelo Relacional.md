@@ -219,7 +219,7 @@ PPdr 4 ->
 
 PPdr 5->
 	
-![[Pasted image 20240810194434.png]]
+
 
 
 PPdr 6->
@@ -227,6 +227,7 @@ PPdr 6->
 <h4>Alt 3</h4>
 
 PPdr 7 -> 
+![[Pasted image 20240810194434.png]]
 
 PPdr 8->
 
