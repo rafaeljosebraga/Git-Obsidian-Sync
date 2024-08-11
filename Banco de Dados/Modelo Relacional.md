@@ -178,7 +178,9 @@ para mais informações o livro do Elmarsi navate.
 <h3>Mapeamento de Agregação</h3>
 
 Para generalizarmos o problema, vamos separar o contexto, pois devemos implementar as relações de forma independente da agregação para só depois focarmos na agregação, 
-analisando de forma sepa a agregação vai ter chaves 
+analisando de forma separada a agregação vai ter chaves estrangeiras de suas relações geradoras.
+
+nesse caso especifico de N:N perceb
 ![[Pasted image 20240809142927.png]]
 
 Caso a relação dentro da agregação possua relacionamento com atributos esse relacionamento se torna uma relação e então vamos ter ambas as relações servindo de conjuntura para nossa relação N:M assim tratamos a agregação como algo externo a nossa relação sendo criada apenas referenciando as suas tabelas/tuplas pais.
