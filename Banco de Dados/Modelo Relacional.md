@@ -246,7 +246,7 @@ PPdr 9->
 1-> Disjunção, participação parcial.
 2->Sobreposição, participação parcial.
 3->Sobreposição, participação parcial(upgrade da 2).
-4->
+4->Mo
 ![[Pasted image 20240811011651.png]]
 
 em função de garantir consistência do banco de dados   
