@@ -229,6 +229,8 @@ PPdr 6->
 
 PPdr 7 -> 
 
+![[Pasted image 20240810225101.png]]
+![[Pasted image 20240810225017.png]]
 
 PPdr 8->
 
