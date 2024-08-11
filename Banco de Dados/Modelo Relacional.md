@@ -223,7 +223,7 @@ PPdr 5->
 ==Implicação==:
 	A questão é que os atributos os quais as a nossa CEG foi especializado não podem ser nulos, pois perdemos a informação de que possíveis CEEs a qual a nossa instância da CEG foi especializada.
 PPdr 6->
-	Resolvemos o mesmo problema anterior, porem retiramos a ==Implicação== adicionando bits booleanos para cada uma das especializações CEEs possíveis   
+	Resolvemos o mesmo problema anterior, porem retiramos a ==Implicação== adicionando bits booleanos na CEG para cada uma das especializações/CEEs possíveis.   
 ![[Pasted image 20240810214554.png]]
 
 <h4>Alt 3</h4>
