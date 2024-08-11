@@ -190,7 +190,8 @@ neste caso a modelagem anterior não contemplaria DataPrimeiraC, assim considera
 
 <h3>Mapeamento da Generalização</h3>
 Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio
-	
+	CEG
+	CEE
 
 <h4>Alt 1</h4>
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
@@ -243,15 +244,15 @@ PPdr 9->
 ![[Pasted image 20240811011720.png]]
 
 
-1-> Disjunção, participação parcial.
+1->Disjunção, participação parcial.
 2->Sobreposição, participação parcial.
 3->Sobreposição, participação parcial(upgrade da 2).
-4->Disjunção, participação parcial
-5->Sobreposição, participação parcial(nulos definem a sobreposição)
-6->Sobreposição, participação parcial(substitui os nulos por booleanos)
-7->Botão de pânico, participação total (implementa e cria quantas relações são necessárias, funciona para todos os modelos)
-8->Disjunção, participação total
-9->Sobreposição,
+4->Disjunção, participação parcial.
+5->Sobreposição, participação parcial(nulos definem a sobreposição).
+6->Sobreposição, participação parcial(substitui os nulos por booleanos).
+7->Botão de pânico, participação total (implementa e cria quantas relações são necessárias, funciona para todos os modelos).
+8->Disjunção, participação total.
+9->Sobreposição, participação total.
 ![[Pasted image 20240811011651.png]]
 
 em função de garantir consistência do banco de dados   
