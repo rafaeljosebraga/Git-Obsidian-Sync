@@ -16,7 +16,7 @@ Atômicos -> se  está escrito endereço é o endereço como um todo (exemplo: R
 
 Monovalorado -> Pode ter apenas um valor, ("uma pessoa pode ter mais de um numero de telefone, assim podendo assim haver um valor multivalorado, mas para o nosso banco de dados esse numero de telefone só é um caso contrário temos um problema que SPOILER será um problema a ser lidado").
 
-curiosidade: O significado do nulo/null
+curiosidade: Os significados do nulo/null
 ![[Pasted image 20240806225044.png]]
 
 <h2>Forma de representar as relações do Modelo Relacional</h2>
