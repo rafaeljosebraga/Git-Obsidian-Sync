@@ -260,5 +260,8 @@ PPdr 9->
 9->Sobreposição, participação total.
 ![[Pasted image 20240811011651.png]]
 
+Agora que compreendido as formas de mapeamento, a sequencia do algoritmo de mapeamento do ERX para o Modelo Relacional.
+![[Pasted image 20240812125151.png]]
+
 em função de garantir consistência do banco de dados   
 é necessário ser feita uma [[Normalização]] para que o nosso modelo se mantenha conciso.

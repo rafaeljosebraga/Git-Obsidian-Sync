@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Normalização 1(Alterando a forma normal).md"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
-    "().md",
+    "Pasted image 20240812125151.png",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+    "().md",
     "resolucao_da_lista_normalizacao.png",
     "Pasted image 20240811182049.png",
     "Pasted image 20240811174600.png",
@@ -206,7 +207,6 @@
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
     "Sem título.md",
-    "Git-Obsidian-Sync/Teste algebra linear/transformações lineares.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
