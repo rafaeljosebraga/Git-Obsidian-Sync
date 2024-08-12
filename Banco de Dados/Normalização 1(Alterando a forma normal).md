@@ -143,7 +143,7 @@ Todos os atributos multivalorados se tornam outras relações.
 tem outros casos onde a quantidade de atributos, é pequena e pode estar como uma quantidade facilmente representável como outros atributos.
 ![[Pasted image 20240811174600.png]]
 $2^a$ Forma Normal
-relações que possuem uma representação parcial
+relações que possuem uma representação parcial pelas suas chaves
 ![[Pasted image 20240811182049.png]]
 $3^a$Forma Normal
 
