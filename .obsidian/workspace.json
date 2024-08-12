@@ -11,14 +11,11 @@
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Banco de Dados/2-relacional.canvas",
-                "viewState": {
-                  "x": -414.1458257223388,
-                  "y": 235.52894167697218,
-                  "zoom": -1.088388729310868
-                }
+                "file": "Banco de Dados/Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/2-relacional.canvas",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/2-relacional.canvas",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/2-relacional.canvas"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -160,12 +156,12 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+    "Banco de Dados/2-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/Modelo Relacional.md",
-    "Banco de Dados/2-relacional.canvas",
     "Pasted image 20240812125151.png",
-    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "().md",
     "resolucao_da_lista_normalizacao.png",
     "Pasted image 20240811182049.png",
