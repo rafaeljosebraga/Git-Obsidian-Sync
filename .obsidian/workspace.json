@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+                "file": "Banco de Dados/Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Normalização 1(Alterando a forma normal).md"
+                "file": "Banco de Dados/Modelo Relacional.md"
               }
             }
           },
@@ -156,9 +156,10 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Modelo Relacional.md",
-    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/2-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
@@ -168,7 +169,6 @@
     "Pasted image 20240811182049.png",
     "Pasted image 20240811174600.png",
     "Pasted image 20240811174359.png",
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Pasted image 20240811170451.png",
     "Pasted image 20240811170437.png",
     "Pasted image 20240811170323.png",
