@@ -11,11 +11,9 @@
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
-                "mode": "source",
-                "source": false
+                "file": "resolucao_da_lista_normalizacao.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "resolucao_da_lista_normalizacao.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md",
+                "file": "resolucao_da_lista_normalizacao.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Modelo Relacional.md"
+                "file": "resolucao_da_lista_normalizacao.png"
               }
             }
           },
@@ -154,12 +152,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70195167103446bd",
+  "floating": {
+    "id": "083079e126d20c3f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a0b23ddd83db2df3",
+        "type": "window",
+        "children": [
+          {
+            "id": "a5404ee98284d1f9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d9529261a8138a72",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "resolucao_da_lista_normalizacao.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 569,
+        "y": -21,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d9529261a8138a72",
   "lastOpenFiles": [
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
-    "Banco de Dados/Normalização.md",
     "Banco de Dados/Modelo Relacional.md",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Banco de Dados/Normalização.md",
     "Banco de Dados/2-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
