@@ -1,6 +1,6 @@
 Vou atribuir a ideia de uma a #relação a uma Tabela
 ![[Pasted image 20240806230841.png]]
-![[Fundamentals of Database Systems.pdf]]
+
 tabela esta que é composta de Atributos valorados e definidos a partir de seus domínios definidos dentro das {.,.,.} nas tuplas.
 <h2>Atributos</h2>
  um #atributo é pode  formados por valores que por sua vez são dados da vida real abstraídos em valores numéricos, cadeias de caracteres, booleanos...etc. 
@@ -115,7 +115,7 @@ Mapeamento alternativo -> agregação em uma única relação("agregação").
 
 ![[Pasted image 20240808104146.png]]
 
-<h4>4 >Mapeamento de 1:N</h4>
+<h4>Mapeamento de 1:N</h4>
 4.1 Professor e Disciplina 
 
 ![[Pasted image 20240808105343.png]]
