@@ -11,9 +11,11 @@
             "id": "70195167103446bd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "resolucao_da_lista_normalizacao.png"
+                "file": "Algebra linear/Posto e Nulidade.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resolucao_da_lista_normalizacao.png",
+                "file": "Algebra linear/Posto e Nulidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resolucao_da_lista_normalizacao.png",
+                "file": "Algebra linear/Posto e Nulidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resolucao_da_lista_normalizacao.png"
+                "file": "Algebra linear/Posto e Nulidade.md"
               }
             }
           },
@@ -152,43 +154,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "floating": {
-    "id": "083079e126d20c3f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a0b23ddd83db2df3",
-        "type": "window",
-        "children": [
-          {
-            "id": "a5404ee98284d1f9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d9529261a8138a72",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "resolucao_da_lista_normalizacao.png"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 342,
-        "y": 27,
-        "width": 1024,
-        "height": 741,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d9529261a8138a72",
+  "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Algebra linear/transformações lineares.md",
+    "Algebra linear/Núcleo e Imagem.md",
+    "Algebra linear/Posto e Nulidade.md",
+    "Algebra linear/Autovalores e Autovetores.md",
+    "Algebra linear/Algebra Linear.md",
+    "Análise Numerica/Atividade Análise Numérica.md",
+    "Análise Numerica/Analise Numérica.md",
+    "resolucao_da_lista_normalizacao.png",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
@@ -198,7 +173,6 @@
     "Banco de Dados/3-relacional.canvas",
     "Pasted image 20240812125151.png",
     "().md",
-    "resolucao_da_lista_normalizacao.png",
     "Pasted image 20240811182049.png",
     "Pasted image 20240811174600.png",
     "Pasted image 20240811174359.png",
@@ -217,18 +191,12 @@
     "Calculo Varias Vars/Calculo 2 - James Stewart - 7 Edição - Volume 2.pdf",
     "Análise Numerica/intro_an_num.pdf",
     "Análise Numerica/calculo_numerico.pdf",
-    "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/A ser repassado para a sintese.md",
     "Análise Numerica/Aula 7/Slides.pdf",
     "Análise Numerica/Aula 7",
     "Atividade para casa.md",
     "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
     "conflict-files-obsidian-git.md",
-    "Algebra linear/Algebra Linear.md",
-    "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/transformações lineares.md",
-    "Análise Numerica/Atividade Análise Numérica.md",
     "Algebra linear/Resoluções/Prova Algebra Linear.md",
     "Videos/LinearTransformation.light.mp4",
     "2024-08-06.md",
