@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Posto e Nulidade.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Posto e Nulidade.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Posto e Nulidade.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Posto e Nulidade.md"
+                "file": "Algebra linear/transformações lineares.md"
               }
             }
           },
@@ -156,11 +156,11 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Algebra linear/Posto e Nulidade.md",
+    "Algebra linear/Algebra Linear.md",
     "Algebra linear/transformações lineares.md",
     "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/Autovalores e Autovetores.md",
-    "Algebra linear/Algebra Linear.md",
     "Análise Numerica/Atividade Análise Numérica.md",
     "Análise Numerica/Analise Numérica.md",
     "resolucao_da_lista_normalizacao.png",
