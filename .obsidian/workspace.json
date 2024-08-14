@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Análise Numerica/Analise Numérica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ccc7cc9fa4e2ec6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1de2bf1e62a207c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interpolação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Interpolação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Interpolação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/transformações lineares.md"
+                "file": "Interpolação.md"
               }
             }
           },
@@ -154,18 +172,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "70195167103446bd",
+  "active": "b1de2bf1e62a207c",
   "lastOpenFiles": [
+    "Análise Numerica/Analise Numérica.md",
+    "Interpolação.md",
+    "Análise Numerica/Atividade Análise Numérica.md",
+    "Banco de Dados/Modelo Relacional.md",
+    "Algebra linear/transformações lineares.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/Algebra Linear.md",
-    "Algebra linear/transformações lineares.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Autovalores e Autovetores.md",
-    "Análise Numerica/Atividade Análise Numérica.md",
-    "Análise Numerica/Analise Numérica.md",
     "resolucao_da_lista_normalizacao.png",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
-    "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/2-relacional.canvas",
@@ -206,7 +225,6 @@
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
-    "Sem título.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
