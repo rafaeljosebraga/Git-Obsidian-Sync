@@ -4,40 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0bcdc44cd8d581",
+        "id": "d6f265869c466549",
         "type": "tabs",
         "children": [
           {
-            "id": "70195167103446bd",
+            "id": "ec7755602a2489c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md",
+                "file": "Algebra linear/Algebra Linear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2d1118bff8f49a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra linear/Autovalores e Autovetores.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "ccc7cc9fa4e2ec6a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b1de2bf1e62a207c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análise Numerica/Analise Numérica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md",
+                "file": "Algebra linear/Autovalores e Autovetores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md",
+                "file": "Algebra linear/Autovalores e Autovetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md"
+                "file": "Algebra linear/Autovalores e Autovetores.md"
               }
             }
           },
@@ -172,20 +167,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b1de2bf1e62a207c",
+  "active": "f2d1118bff8f49a2",
   "lastOpenFiles": [
+    "Algebra linear/transformações lineares.md",
+    "Algebra linear/Algebra Linear.md",
+    "Análise Numerica/Analise Numérica.md",
     "interpolacao.sce~",
     "interpolacao.sce",
     "Análise Numerica/AulaInterpolação/interpolacao.sce~",
     "Interpolação.md",
     "Análise Numerica/AulaInterpolação/interpolacao.sce",
     "Análise Numerica/AulaInterpolação",
-    "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/Atividade Análise Numérica.md",
     "Banco de Dados/Modelo Relacional.md",
-    "Algebra linear/transformações lineares.md",
     "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/Algebra Linear.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "resolucao_da_lista_normalizacao.png",
@@ -214,7 +209,6 @@
     "Análise Numerica/Aula 7/Sintese.md",
     "Calculo Varias Vars/Calculo 2 - James Stewart - 7 Edição - Volume 2.pdf",
     "Análise Numerica/intro_an_num.pdf",
-    "Análise Numerica/calculo_numerico.pdf",
     "Análise Numerica/A ser repassado para a sintese.md",
     "Atividade para casa.md",
     "conflict-files-obsidian-git.md",

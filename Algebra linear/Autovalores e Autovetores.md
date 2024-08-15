@@ -35,3 +35,6 @@ $(lambida)=10$              $vet_2=\begin{bmatrix}2\\1\end{bmatrix}$
 
 $P=\begin{bmatrix}-1&2\\2&1\end{bmatrix}$-> $P^{-1}$
 
+
+Atualizações são necessárias a este contexto, é preciso que seja feita uma ideia clara para encontrar autovalores e autovetores, para achar o auto espaço.
+
