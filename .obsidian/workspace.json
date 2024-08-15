@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Banco de Dados/Trabalho 2 BD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Banco de Dados/Trabalho 2 BD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Banco de Dados/Trabalho 2 BD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "Banco de Dados/Trabalho 2 BD.md"
               }
             }
           },
@@ -156,11 +156,13 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
+    "Pasted image 20240815200946.png",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Banco de Dados/Trabalho 2 BD.md",
     "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/Atividade Análise Numérica.md",
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Análise Numerica/Atividade de Analise Numerica.md",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
@@ -205,7 +207,6 @@
     "Teste algebra linear/Achando a Automatriz.md",
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
-    "(teste).md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
