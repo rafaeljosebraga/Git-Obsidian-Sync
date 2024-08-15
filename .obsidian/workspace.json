@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise Numerica/Atividade de Analise Numerica.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/Atividade de Analise Numerica.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/Atividade de Analise Numerica.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/Atividade de Analise Numerica.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "70195167103446bd",
   "lastOpenFiles": [
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Análise Numerica/Analise Numérica.md",
+    "Análise Numerica/Atividade Análise Numérica.md",
+    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Análise Numerica/Atividade de Analise Numerica.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
@@ -177,7 +180,6 @@
     "imagens utilizadas/Pasted image 20240811170451.png",
     "imagens utilizadas/Pasted image 20240811170437.png",
     "Matematica/Trigonometria/Introdução.md",
-    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
@@ -186,7 +188,6 @@
     "Calculo Varias Vars/Calculo 2 - James Stewart - 7 Edição - Volume 2.pdf",
     "Análise Numerica/intro_an_num.pdf",
     "Análise Numerica/calculo_numerico.pdf",
-    "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/A ser repassado para a sintese.md",
     "Análise Numerica/Aula 7/Slides.pdf",
     "Análise Numerica/Aula 7",
@@ -196,7 +197,6 @@
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/transformações lineares.md",
-    "Análise Numerica/Atividade Análise Numérica.md",
     "Algebra linear/Resoluções/Prova Algebra Linear.md",
     "Videos/LinearTransformation.light.mp4",
     "2024-08-06.md",
@@ -206,7 +206,6 @@
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "(teste).md",
-    "Sem título.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
