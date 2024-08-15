@@ -1,1 +1,3 @@
 Após a nossa introdução começamos a aprofundar os detalhes da matéria nas [[transformações lineares]] que definem nossas operações a partir de leis de formação e matrizes de transformação que conseguem moldar a forma como podemos resolver problemas matemáticos
+
+se uma matriz possui determinante diferente de zero->ela possui inversa->o núcleo só possui o vetor nulo dentro(->portanto é injetora)->o Núcleo é igual a zero->a imagem é o  própio

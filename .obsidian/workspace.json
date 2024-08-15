@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Autovalores e Autovetores.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Autovalores e Autovetores.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Autovalores e Autovetores.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Autovalores e Autovetores.md"
+                "file": "Algebra linear/Algebra Linear.md"
               }
             }
           },
@@ -169,7 +169,12 @@
   },
   "active": "f2d1118bff8f49a2",
   "lastOpenFiles": [
+    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+    "Algebra linear/Resoluções/Prova Algebra Linear.md",
+    "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/transformações lineares.md",
+    "Algebra linear/Núcleo e Imagem.md",
+    "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Algebra Linear.md",
     "Análise Numerica/Analise Numérica.md",
     "interpolacao.sce~",
@@ -180,9 +185,6 @@
     "Análise Numerica/AulaInterpolação",
     "Análise Numerica/Atividade Análise Numérica.md",
     "Banco de Dados/Modelo Relacional.md",
-    "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Autovalores e Autovetores.md",
     "resolucao_da_lista_normalizacao.png",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
@@ -212,7 +214,6 @@
     "Análise Numerica/A ser repassado para a sintese.md",
     "Atividade para casa.md",
     "conflict-files-obsidian-git.md",
-    "Algebra linear/Resoluções/Prova Algebra Linear.md",
     "2024-08-06.md",
     "Teste algebra linear/Atividade para casa.md",
     "Teste algebra linear/Untitled.md",
