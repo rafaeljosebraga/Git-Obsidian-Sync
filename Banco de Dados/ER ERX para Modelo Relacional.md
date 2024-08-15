@@ -190,16 +190,18 @@ neste caso a modelagem anterior não contemplaria DataPrimeiraC, assim considera
 ![[Pasted image 20240809143116.png]]
 
 <h3>Mapeamento da Generalização</h3>
-<h2></h2>
-Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio.
-CEG=entidade geral	
-CEE=entidade especializada	
-AG=atributos gerais	
-AE=atributos da especialização	
-AtC=atributo de controle	
-Ch=chave	
-BCEE=booleano de controle de entidade	
-CEC=relação de controle
+<h4>Terminologia</h4>
+IDEA
+
+	Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio.
+CEG=entidade geral;
+CEE=entidade especializada;
+AG=atributos gerais;
+AE=atributos da especialização;
+AtC=atributo de controle;
+Ch=chave;
+BCEE=booleano de controle de entidade;
+CEC=relação de controle;
 <h4>Alt 1</h4>
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
 onde ela continua capaz de fazer as sua relações normalmente garantindo referencia de suas relações/entidades filhas ou especializações
