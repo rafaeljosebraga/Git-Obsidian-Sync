@@ -14,6 +14,7 @@ function x=no_inverso(C, x0, tol, max_iter)
     end
     disp("Solução não convergiu em " + string( max_iter) + " iterações.");
 endfunction
+
 //código para receber o valor positivo de C
 controle=0
 while(controle~=1)
@@ -23,5 +24,4 @@ while(controle~=1)
     end
 end
 x=no_inverso(C, 0.1, 1e-6,500);
-
 disp(x);
