@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md"
+                "file": "Algebra linear/transformações lineares.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "85234ca733ad5d1a",
   "lastOpenFiles": [
+    "Algebra linear/Algebra Linear.md",
     "Análise Numerica/Analise Numérica.md",
     "conflict-files-obsidian-git.md",
     "Análise Numerica/calculo_numerico.pdf",
@@ -207,7 +208,6 @@
     "Análise Numerica/Aula 7/Sintese.md",
     "Calculo Varias Vars/Calculo 2 - James Stewart - 7 Edição - Volume 2.pdf",
     "Análise Numerica/A ser repassado para a sintese.md",
-    "Algebra linear/Algebra Linear.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/transformações lineares.md",
