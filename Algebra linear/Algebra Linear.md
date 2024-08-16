@@ -15,11 +15,4 @@ a primeira questão da prova é sobre ler a lei escrever a matriz de transforma�
 achar os autovalores da inversa e da transposta.
 
 
-$A = [ 4  -1   0  -1   0   0   0   0   0;
-     -1   4  -1   0  -1   0   0   0   0;
-      0  -1   4   0   0  -1   0   0   0;
-     -1   0   0   4  -1   0  -1   0   0;
-      0  -1   0  -1   4  -1   0  -1   0;
-      0   0  -1   0  -1   4   0   0  -1;
-      0   0   0  -1   0   0   4  -1   0;
-      0   0   0   0  -1   0  -1   4  -1;0   0   0   0   0  -1   0  -1   4 ]$
+$A=\begin{bmatrix}1\end{bmatrix}$
