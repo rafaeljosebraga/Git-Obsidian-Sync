@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Trabalho 2 BD.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Trabalho 2 BD.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Trabalho 2 BD.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Trabalho 2 BD.md"
+                "file": "Algebra linear/Algebra Linear.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "85234ca733ad5d1a",
   "lastOpenFiles": [
+    "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
@@ -190,7 +191,6 @@
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Análise Numerica/intro_an_num.pdf",
     "Análise Numerica/rtCA - algoritimos.pdf",
-    "Banco de Dados/Trabalho 2 BD.md",
     "Pasted image 20240815200946.png",
     "Análise Numerica/Atividade Análise Numérica.md",
     "Análise Numerica/Atividade de Analise Numerica.md",
