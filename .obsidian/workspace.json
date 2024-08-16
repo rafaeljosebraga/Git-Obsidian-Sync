@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "247d92c2b91e633b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md"
+                "file": "Algebra linear/transformações lineares.md"
               }
             }
           },
@@ -165,8 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85234ca733ad5d1a",
+  "active": "247d92c2b91e633b",
   "lastOpenFiles": [
+    "Algebra linear/Algebra Linear.md",
+    "Algebra linear/transformações lineares.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Normalização.md",
@@ -176,10 +190,8 @@
     "Banco de Dados/Tentativas de mapeamento",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
-    "Algebra linear/transformações lineares.md",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
-    "Algebra linear/Algebra Linear.md",
     "Análise Numerica/Analise Numérica.md",
     "conflict-files-obsidian-git.md",
     "Análise Numerica/calculo_numerico.pdf",
