@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Banco de Dados/Trabalho 2 BD.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Banco de Dados/Trabalho 2 BD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Banco de Dados/Trabalho 2 BD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/transformações lineares.md"
+                "file": "Banco de Dados/Trabalho 2 BD.md"
               }
             }
           },
@@ -167,6 +167,17 @@
   },
   "active": "85234ca733ad5d1a",
   "lastOpenFiles": [
+    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+    "Banco de Dados/Normalização.md",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
+    "Banco de Dados/Tentativas de mapeamento",
+    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
+    "Banco de Dados/3-relacional.canvas",
+    "Algebra linear/transformações lineares.md",
+    "Banco de Dados/Untitled 1.canvas",
+    "Banco de Dados/Untitled.canvas",
     "Algebra linear/Algebra Linear.md",
     "Análise Numerica/Analise Numérica.md",
     "conflict-files-obsidian-git.md",
@@ -181,14 +192,8 @@
     "Análise Numerica/rtCA - algoritimos.pdf",
     "Banco de Dados/Trabalho 2 BD.md",
     "Pasted image 20240815200946.png",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Análise Numerica/Atividade Análise Numérica.md",
     "Análise Numerica/Atividade de Analise Numerica.md",
-    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
-    "Banco de Dados/Normalização.md",
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Banco de Dados/2-relacional.canvas",
-    "Banco de Dados/3-relacional.canvas",
     "imagens utilizadas/Pasted image 20240813201121.png",
     "imagens utilizadas/resolucao_da_lista_normalizacao.png",
     "imagens utilizadas/Pasted image 20240812125151.png",
@@ -196,22 +201,17 @@
     "imagens utilizadas/2.jpg",
     "().md",
     "Atividade para casa.md",
-    "Banco de Dados/1-relacional.canvas",
     "imagens utilizadas/Pasted image 20240811182049.png",
     "imagens utilizadas/Pasted image 20240811174600.png",
     "imagens utilizadas/Pasted image 20240811174359.png",
     "imagens utilizadas/Pasted image 20240811170451.png",
     "Matematica/Trigonometria/Introdução.md",
-    "Banco de Dados/Untitled 1.canvas",
-    "Banco de Dados/Untitled.canvas",
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
     "Análise Numerica/Aula 7/Sintese.md",
-    "Calculo Varias Vars/Calculo 2 - James Stewart - 7 Edição - Volume 2.pdf",
     "Análise Numerica/A ser repassado para a sintese.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/transformações lineares.md",
-    "Algebra linear/Resoluções/Prova Algebra Linear.md",
+    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "2024-08-06.md",
     "Teste algebra linear/Atividade para casa.md",
     "Teste algebra linear/Untitled.md",
