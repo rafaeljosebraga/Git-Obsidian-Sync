@@ -115,7 +115,7 @@ Mapeamento alternativo -> agregação em uma única relação("agregação").
 
 ![[Pasted image 20240808104146.png]]
 
-<h4>4 >Mapeamento de 1:N</h4>
+<h4>Mapeamento de 1:N</h4>
 4.1 Professor e Disciplina 
 
 ![[Pasted image 20240808105343.png]]
@@ -186,18 +186,22 @@ nesse caso especifico de N:N percebe-se que consulta é totalmente capaz de subs
 Porem nesse caso abaixo temos uma mais uma exceção, onde atende possui um atributo.
 neste caso a modelagem anterior não contemplaria DataPrimeiraC, assim consideramos tanto consulta e atende como sendo relações diferentes com cada uma portando seus atributos conforme o modelo ERX.
 
+
 ![[Pasted image 20240809143116.png]]
 
 <h3>Mapeamento da Generalização</h3>
-Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio.
-	CEG=
-	CEE=
-	AG=
-	AE=
-	AtC=
-	Ch=
-	BCEE=
-	CEC=
+<h4>Terminologia</h4>
+IDEA
+
+	Lucio separou as soluções em Alternativas acompanhadas pelos procedimentos padrões, com isso irei dar uma breve explicação da terminologia apresentada pelos SLIDES de lúcio.
+CEG=entidade geral;
+CEE=entidade especializada;
+AG=atributos gerais;
+AE=atributos da especialização;
+AtC=atributo de controle;
+Ch=chave;
+BCEE=booleano de controle de entidade;
+CEC=relação de controle;
 <h4>Alt 1</h4>
 O primeiro procedimento padrão se apega na CEG(A entidade "superclasse")
 onde ela continua capaz de fazer as sua relações normalmente garantindo referencia de suas relações/entidades filhas ou especializações
@@ -264,4 +268,4 @@ Agora que compreendido as formas de mapeamento, a sequencia do algoritmo de mape
 ![[Pasted image 20240812125151.png]]
 
 em função de garantir consistência do banco de dados   
-é necessário ser feita uma [[Normalização]] para que o nosso modelo se mantenha conciso.
+é necessário ser feita uma [[Normalização]] para que o nosso modelo se mantenha conciso e eficiente.
