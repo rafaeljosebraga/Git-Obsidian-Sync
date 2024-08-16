@@ -13,3 +13,13 @@ o posto é o 'n' do $R^n$ que é o domínio da imagem,a nulidade é definido pel
 a primeira questão da prova é sobre ler a lei escrever a matriz de transformação.
 
 achar os autovalores da inversa e da transposta.
+
+
+$A = [ 4  -1   0  -1   0   0   0   0   0;
+     -1   4  -1   0  -1   0   0   0   0;
+      0  -1   4   0   0  -1   0   0   0;
+     -1   0   0   4  -1   0  -1   0   0;
+      0  -1   0  -1   4  -1   0  -1   0;
+      0   0  -1   0  -1   4   0   0  -1;
+      0   0   0  -1   0   0   4  -1   0;
+      0   0   0   0  -1   0  -1   4  -1;0   0   0   0   0  -1   0  -1   4 ]$
