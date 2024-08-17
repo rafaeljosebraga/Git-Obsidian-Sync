@@ -33,9 +33,11 @@
             "id": "247d92c2b91e633b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf"
+                "file": "Algebra linear/transformações lineares.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+                "file": "Algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+                "file": "Algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf"
+                "file": "Algebra linear/transformações lineares.md"
               }
             }
           },
@@ -177,6 +179,7 @@
   },
   "active": "247d92c2b91e633b",
   "lastOpenFiles": [
+    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Algebra linear/transformações lineares.md",
     "Algebra linear/Algebra Linear.md",
     "Banco de Dados/Trabalho 2 BD.md",
@@ -197,7 +200,6 @@
     "Interpolação.md",
     "Análise Numerica/AulaInterpolação/interpolacao.sce",
     "Análise Numerica/AulaInterpolação",
-    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Análise Numerica/intro_an_num.pdf",
     "Análise Numerica/rtCA - algoritimos.pdf",

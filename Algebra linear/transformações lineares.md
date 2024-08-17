@@ -55,8 +55,11 @@ $\begin{bmatrix}wi\\wj\end{bmatrix}=$$\begin{bmatrix}1&&k\\0&&1\end{bmatrix}\beg
 
 mantemos os pés e mechemos a parte superior.
 
-Matriz de transformação
 
+
+
+Matriz de transformação
+0)
 $T:R_2$ -> $R_3$
 
 $T(x,y)= (x+y,y,x)$
