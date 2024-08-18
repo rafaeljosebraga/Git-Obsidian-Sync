@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/transformações lineares.md"
+                "file": "Algebra linear/Algebra Linear.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   "active": "247d92c2b91e633b",
   "lastOpenFiles": [
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
-    "Algebra linear/transformações lineares.md",
     "Algebra linear/Algebra Linear.md",
+    "Algebra linear/transformações lineares.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Normalização.md",
