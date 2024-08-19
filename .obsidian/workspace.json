@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md"
+                "file": "Algebra linear/transformações lineares.md"
               }
             }
           },
@@ -179,8 +179,12 @@
   },
   "active": "247d92c2b91e633b",
   "lastOpenFiles": [
+    "Algebra linear/Posto e Nulidade.md",
+    "Algebra linear/Núcleo e Imagem.md",
+    "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Algebra linear/Algebra Linear.md",
+    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Algebra linear/transformações lineares.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
@@ -221,14 +225,10 @@
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
     "Análise Numerica/Aula 7/Sintese.md",
     "Análise Numerica/A ser repassado para a sintese.md",
-    "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "2024-08-06.md",
     "Teste algebra linear/Atividade para casa.md",
     "Teste algebra linear/Untitled.md",
     "Teste algebra linear/Achando a Automatriz.md",
-    "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
