@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Posto e Nulidade.md",
+                "file": "Algebra linear/Núcleo e Imagem.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Posto e Nulidade.md",
+                "file": "Algebra linear/Núcleo e Imagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Posto e Nulidade.md",
+                "file": "Algebra linear/Núcleo e Imagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Posto e Nulidade.md"
+                "file": "Algebra linear/Núcleo e Imagem.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "247d92c2b91e633b",
   "lastOpenFiles": [
-    "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Posto e Nulidade.md",
+    "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/transformações lineares.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
