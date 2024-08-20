@@ -44,8 +44,20 @@ A união é nada mais que a união de tuplas das relações funcionando da forma
 
 <h3>Diferença de Conjuntos</h3>
 A diferença é dada pelo que já de diferente entre dois conjuntos, considerando o que resta da tabela a esquerda do operador $(-)$
+tabela laranja do $Aluno-Professor$,tabela vermelha do $Professor-Aluno$
 ![[Pasted image 20240820150133.png]]
 
 <h3>Produto Cartesiano</h3>
-
+O produto cartesiano gera uma tabela relacionando cada tupla para cada tupla onde no caso de 3x2 é gerado 6 tuplas totais;
 ![[Pasted image 20240820150701.png]]
+Agora dado todos os operadores básicos podemos formar combinações dos mesmo em função da eficiência
+
+detalhar sobre atividades relacionadas com os tópicos acima
+<h2>Junção</h2>
+
+Tambem chamada como "join" temos a do dado slide, a junção é a combinação de operações dentro do modelo físico podendo conseguimos .
+de forma simples a junção é formada da mesma forma que os outros operadores, dando uma ideia de uma função, 
+de fato a unica dcoisa que uda de verdade é a condição colocada em pequeno no meio onde fazemos uma separação desprojetando todas as tuplas com valores iguais em uma de suas tabelas
+
+<h3>Junções Internas</h3>
+<h3>Junções Externas</h3>
