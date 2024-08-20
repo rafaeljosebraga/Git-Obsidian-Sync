@@ -38,6 +38,14 @@ Criando a tabela de alunos de computação
 ![[Pasted image 20240820144833.png]]
 <h2>Operações sobre Conjuntos</h2>
 ![[Pasted image 20240820145234.png]]
-<h3>União</h3>
-a
+<h3>Onion</h3>
+A união é nada mais que a união de tuplas das relações funcionando da forma mais intuitiva o possível junta as tuplas porem por via de regra repetidos não podem ser representados.
 ![[Pasted image 20240820145404.png]]
+
+<h3>Diferença de Conjuntos</h3>
+A diferença é dada pelo que já de diferente entre dois conjuntos, considerando o que resta da tabela a esquerda do operador $(-)$
+![[Pasted image 20240820150133.png]]
+
+<h3>Produto Cartesiano</h3>
+
+![[Pasted image 20240820150701.png]]
