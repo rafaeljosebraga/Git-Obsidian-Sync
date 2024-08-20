@@ -60,6 +60,7 @@ de forma simples a junção é formada da mesma forma que os outros operadores, 
 de fato a unica dcoisa que uda de verdade é a condição colocada em pequeno no meio onde fazemos uma separação desprojetando todas as tuplas com valores iguais em uma de suas tabelas
 ((Slide))
 <h3>Junções Internas</h3>
+onde puxamos os resultados que possuem apenas valores iguais entre sí.
 ((slide))
 <h4>Theta Junção</h4>
 junção padrão onde NomeA=Nome 
@@ -68,5 +69,17 @@ junção padrão onde NomeA=Nome
 <h4>Equi Junção</h4>
 funciona de forma similar a Junção theta,((Não compreendi))
 <h4>Junção Natural</h4>
-Compara as duas tabelas onde fazemos os conjuntso referências 
+Compara as duas tabelas onde fazemos os conjuntos de atributos que são iguais e relatamos ambos como se fossem apenas um. 
 <h3>Junções Externas</h3>
+tambem conhecido como outer join.
+Retornar os valores 
+<h4>Junção Externa (a Esquerda)</h4>
+Faz o mesmo procedimento de ua junção interna porem aqueles que estariam de fora recebem seus valores NULLs entrando assim de forma forasteira("Externa ") dentro da tabela resulatdo
+
+
+<h4>Junção Externa (a Direita)</h4>
+repete o texto acima nesse caso o null troca a sua referência
+
+<h4>Junção Externa completa</h4> 
+assim como a junção externa a esquerda e a direita fazemos a interna porem nesse caso a externa referencia e cria nullos para os dois lados do trajeto.
+
