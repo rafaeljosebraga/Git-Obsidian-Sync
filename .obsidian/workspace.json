@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
               }
             }
           },
@@ -169,11 +169,13 @@
   },
   "active": "f2d1118bff8f49a2",
   "lastOpenFiles": [
+    "Banco de Dados/Sem título.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Algebra linear/Algebra Linear.md",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento",
     "conflict-files-obsidian-git.md",
-    "Algebra linear/Algebra Linear.md",
     "imagens utilizadas/resolucao_da_lista_normalizacao.png",
     "imagens utilizadas/Pasted image 20240813201121.png",
     "imagens utilizadas/Pasted image 20240812125151.png",
@@ -185,7 +187,6 @@
     "imagens utilizadas/Pasted image 20240811170323.png",
     "imagens utilizadas/Pasted image 20240811170259.png",
     "Banco de Dados/Trabalho 2 BD.md",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Análise Numerica/Atividade de Analise Numerica.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Análise Numerica/rtCA - algoritimos.pdf",
