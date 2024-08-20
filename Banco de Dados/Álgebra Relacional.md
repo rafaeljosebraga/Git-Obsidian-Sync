@@ -16,7 +16,7 @@ buscamos todas as tuplas na tabela que possua o valor no atributo curso="Computa
 ![[Pasted image 20240820142452.png]]
 
 \\\\(Fazer um exemplo para com o OR)
-
+<h2>Projeção</h2>
 ![[Pasted image 20240820143420.png]]
 
 De forma simples é recuperar apenas colunas de atributos especificados pela projeção
@@ -24,3 +24,20 @@ De forma simples é recuperar apenas colunas de atributos especificados pela pro
 De toda forma é bom estar atento pois esta operação não retorna valores repetidos ou seja, dependendo se tivermos dois alunos que estão cursando computação só será referido apenas um computação dado o exemplo:
 ![[Pasted image 20240820143944.png]]
 
+Com o próximo exemplo podemos ver a combinação de mais de uma operação com uma precedência dada pelos parenteses.
+Passo_1:
+![[Pasted image 20240820144201.png]]
+Passo_2:
+![[Pasted image 20240820144224.png]]
+
+entender comutação.
+![[Pasted image 20240820144456.png]]
+<h2>Renomear</h2>
+![[Pasted image 20240820144624.png]]
+Criando a tabela de alunos de computação
+![[Pasted image 20240820144833.png]]
+<h2>Operações sobre Conjuntos</h2>
+![[Pasted image 20240820145234.png]]
+<h3>União</h3>
+a
+![[Pasted image 20240820145404.png]]
