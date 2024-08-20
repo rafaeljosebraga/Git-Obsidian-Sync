@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0bcdc44cd8d581",
+        "id": "d6f265869c466549",
         "type": "tabs",
         "children": [
           {
-            "id": "70195167103446bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Análise Numerica/calculo_numerico.pdf"
-              }
-            }
-          },
-          {
-            "id": "85234ca733ad5d1a",
+            "id": "ec7755602a2489c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "247d92c2b91e633b",
+            "id": "f2d1118bff8f49a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Autovalores e Autovetores.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Autovalores e Autovetores.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Autovalores e Autovetores.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Autovalores e Autovetores.md"
+                "file": "Algebra linear/Algebra Linear.md"
               }
             }
           },
@@ -169,66 +159,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "247d92c2b91e633b",
+  "active": "f2d1118bff8f49a2",
   "lastOpenFiles": [
-    "Algebra linear/transformações lineares.md",
-    "Atividade para casa.md",
-    "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/Autovalores e Autovetores.md",
-    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
-    "Algebra linear/Algebra Linear.md",
-    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
-    "Banco de Dados/Trabalho 2 BD.md",
-    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
-    "Banco de Dados/Normalização.md",
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento",
-    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
-    "Banco de Dados/3-relacional.canvas",
-    "Banco de Dados/Untitled 1.canvas",
-    "Banco de Dados/Untitled.canvas",
-    "Análise Numerica/Analise Numérica.md",
     "conflict-files-obsidian-git.md",
-    "Análise Numerica/calculo_numerico.pdf",
-    "interpolacao.sce",
-    "Interpolação.md",
-    "Análise Numerica/AulaInterpolação/interpolacao.sce",
-    "Análise Numerica/AulaInterpolação",
-    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
-    "Análise Numerica/intro_an_num.pdf",
-    "Análise Numerica/rtCA - algoritimos.pdf",
-    "Pasted image 20240815200946.png",
-    "Análise Numerica/Atividade Análise Numérica.md",
-    "Análise Numerica/Atividade de Analise Numerica.md",
-    "imagens utilizadas/Pasted image 20240813201121.png",
+    "Algebra linear/Algebra Linear.md",
     "imagens utilizadas/resolucao_da_lista_normalizacao.png",
+    "imagens utilizadas/Pasted image 20240813201121.png",
     "imagens utilizadas/Pasted image 20240812125151.png",
-    "imagens utilizadas/1.jpg",
-    "imagens utilizadas/2.jpg",
-    "().md",
     "imagens utilizadas/Pasted image 20240811182049.png",
     "imagens utilizadas/Pasted image 20240811174600.png",
     "imagens utilizadas/Pasted image 20240811174359.png",
     "imagens utilizadas/Pasted image 20240811170451.png",
-    "Matematica/Trigonometria/Introdução.md",
-    "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
+    "imagens utilizadas/Pasted image 20240811170437.png",
+    "imagens utilizadas/Pasted image 20240811170323.png",
+    "imagens utilizadas/Pasted image 20240811170259.png",
+    "Banco de Dados/Trabalho 2 BD.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Análise Numerica/Atividade de Analise Numerica.md",
+    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+    "Análise Numerica/rtCA - algoritimos.pdf",
+    "Análise Numerica/Método das potencias.md",
+    "Análise Numerica/Atividade Análise Numérica.md",
+    "Análise Numerica/Aula 7/Slides.pdf",
     "Análise Numerica/Aula 7/Sintese.md",
+    "Algebra linear/Resoluções/Prova Algebra Linear.md",
+    "Algebra linear/Posto e Nulidade.md",
+    "Algebra linear/transformações lineares.md",
+    "Algebra linear/Núcleo e Imagem.md",
+    "Algebra linear/Autovalores e Autovetores.md",
+    "Análise Numerica/Analise Numérica.md",
+    "interpolacao.sce~",
+    "interpolacao.sce",
+    "Análise Numerica/AulaInterpolação/interpolacao.sce~",
+    "Interpolação.md",
+    "Análise Numerica/AulaInterpolação/interpolacao.sce",
+    "Análise Numerica/AulaInterpolação",
+    "Banco de Dados/Modelo Relacional.md",
+    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Banco de Dados/Normalização.md",
+    "Banco de Dados/2-relacional.canvas",
+    "Banco de Dados/1-relacional.canvas",
+    "Banco de Dados/3-relacional.canvas",
+    "().md",
+    "Matematica/Trigonometria/Introdução.md",
+    "Banco de Dados/Untitled 1.canvas",
+    "Banco de Dados/Untitled.canvas",
+    "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
     "Análise Numerica/A ser repassado para a sintese.md",
+    "Atividade para casa.md",
     "2024-08-06.md",
     "Teste algebra linear/Atividade para casa.md",
-    "Teste algebra linear/Untitled.md",
-    "Teste algebra linear/Achando a Automatriz.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
