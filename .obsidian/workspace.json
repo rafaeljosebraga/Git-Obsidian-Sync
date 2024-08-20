@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "Banco de Dados/Álgebra Relacional.md"
               }
             }
           },
@@ -169,8 +170,14 @@
   },
   "active": "f2d1118bff8f49a2",
   "lastOpenFiles": [
-    "Banco de Dados/Sem título.md",
+    "Pasted image 20240820142452.png",
+    "Pasted image 20240820141925.png",
+    "Pasted image 20240820141719.png",
+    "Pasted image 20240820141638.png",
+    "Pasted image 20240820141429.png",
+    "Pasted image 20240820141402.png",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Banco de Dados/Álgebra Relacional.md",
     "Algebra linear/Algebra Linear.md",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
@@ -181,11 +188,6 @@
     "imagens utilizadas/Pasted image 20240812125151.png",
     "imagens utilizadas/Pasted image 20240811182049.png",
     "imagens utilizadas/Pasted image 20240811174600.png",
-    "imagens utilizadas/Pasted image 20240811174359.png",
-    "imagens utilizadas/Pasted image 20240811170451.png",
-    "imagens utilizadas/Pasted image 20240811170437.png",
-    "imagens utilizadas/Pasted image 20240811170323.png",
-    "imagens utilizadas/Pasted image 20240811170259.png",
     "Banco de Dados/Trabalho 2 BD.md",
     "Análise Numerica/Atividade de Analise Numerica.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
@@ -221,7 +223,6 @@
     "Análise Numerica/A ser repassado para a sintese.md",
     "Atividade para casa.md",
     "2024-08-06.md",
-    "Teste algebra linear/Atividade para casa.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
