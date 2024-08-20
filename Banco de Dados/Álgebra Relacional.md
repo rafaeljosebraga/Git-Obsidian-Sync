@@ -58,6 +58,15 @@ detalhar sobre atividades relacionadas com os tópicos acima
 Tambem chamada como "join" temos a do dado slide, a junção é a combinação de operações dentro do modelo físico podendo conseguimos .
 de forma simples a junção é formada da mesma forma que os outros operadores, dando uma ideia de uma função, 
 de fato a unica dcoisa que uda de verdade é a condição colocada em pequeno no meio onde fazemos uma separação desprojetando todas as tuplas com valores iguais em uma de suas tabelas
-
+((Slide))
 <h3>Junções Internas</h3>
+((slide))
+<h4>Theta Junção</h4>
+junção padrão onde NomeA=Nome 
+->projeta toda tupla onde os valores ditados são iguais.
+((Slide))//com erro 
+<h4>Equi Junção</h4>
+funciona de forma similar a Junção theta,((Não compreendi))
+<h4>Junção Natural</h4>
+Compara as duas tabelas onde fazemos os conjuntso referências 
 <h3>Junções Externas</h3>
