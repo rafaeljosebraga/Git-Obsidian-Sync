@@ -83,3 +83,5 @@ repete o texto acima nesse caso o null troca a sua referência
 <h4>Junção Externa completa</h4> 
 assim como a junção externa a esquerda e a direita fazemos a interna porem nesse caso a externa referencia e cria nullos para os dois lados do trajeto.
 
+<h3>Divisão Relacional</h3>
+utilizando simbolo da divisão lúcio passa ideia de todos basicamente todos que repetem mais de uma  
