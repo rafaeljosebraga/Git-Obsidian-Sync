@@ -2,7 +2,7 @@
 
 ![[Pasted image 20240820141429.png]]
 <h2>Seleção</h2>
-Segue o modelo de como é contruído uma seleção
+Segue o modelo de como é construído uma seleção
 ![[Pasted image 20240820143240.png]]
 Considerando a seguinte  relação 
 ![[Pasted image 20240820141638.png]]
@@ -53,6 +53,8 @@ O produto cartesiano gera uma tabela relacionando cada tupla para cada tupla ond
 Agora dado todos os operadores básicos podemos formar combinações dos mesmo em função da eficiência
 
 detalhar sobre atividades relacionadas com os tópicos acima
+
+
 <h2>Junção</h2>
 
 Tambem chamada como "join" temos a do dado slide, a junção é a combinação de operações dentro do modelo físico podendo conseguimos .
@@ -85,3 +87,4 @@ assim como a junção externa a esquerda e a direita fazemos a interna porem nes
 
 <h3>Divisão Relacional</h3>
 utilizando simbolo da divisão lúcio passa ideia de todos basicamente todos que repetem mais de uma  
+

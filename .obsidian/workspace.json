@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b15319ed21c8854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atividade Álgebra Relacional.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Atividade Álgebra Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md",
+                "file": "Atividade Álgebra Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Algebra Linear.md"
+                "file": "Atividade Álgebra Relacional.md"
               }
             }
           },
@@ -155,14 +169,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "2b15319ed21c8854",
   "lastOpenFiles": [
+    "Banco de Dados/Álgebra Relacional.md",
+    "Atividade Álgebra Relacional.md",
+    "Sem título.md",
+    "Algebra linear/Algebra Linear.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
-    "Banco de Dados/Álgebra Relacional.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Excalidraw/Drawing 2024-08-21 12.06.22.excalidraw.md",
     "Excalidraw",
@@ -172,7 +189,6 @@
     "imagens utilizadas/Pasted image 20240820143240.png",
     "imagens utilizadas/Pasted image 20240820144224.png",
     "Análise Numerica/Aula 7/Sintese.md",
-    "Algebra linear/Algebra Linear.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Algebra linear/transformações lineares.md",
     "imagens utilizadas/Pasted image 20240820150645.png",
@@ -208,7 +224,6 @@
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
-    "Análise Numerica/A ser repassado para a sintese.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
