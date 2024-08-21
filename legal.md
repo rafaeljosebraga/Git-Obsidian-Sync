@@ -2,4 +2,4 @@
 
 π name,dept_name(department⨝(σsalary>85000instructor))
 
-a lógica não se aplica a esta coisa bizarra.
+a lógica não se aplica a esta coisa bizarra.p
