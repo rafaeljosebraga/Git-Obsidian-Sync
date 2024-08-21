@@ -2,8 +2,13 @@
   "obsidian-git",
   "better-export-pdf",
   "obsidian-export-image",
+<<<<<<< HEAD
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "quick-latex",
   "various-complements"
+=======
+  "various-complements",
+  "obsidian-excalidraw-plugin"
+>>>>>>> origin/main
 ]

@@ -42,6 +42,28 @@
             }
           },
           {
+            "id": "39a9c891e3151ab6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawn.md"
+              }
+            }
+          },
+          {
+            "id": "96fcd9d1282d921d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a22cf5c04d3c8ac7",
             "type": "leaf",
             "state": {
@@ -60,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -196,18 +218,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "247d92c2b91e633b",
+  "active": "96fcd9d1282d921d",
   "lastOpenFiles": [
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Excalidraw/Drawn.md",
+    "Excalidraw/Drawing 2024-08-21 12.06.22.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "legal.md",
+    "imagens utilizadas/Pasted image 20240820150701.png",
+    "imagens utilizadas/Pasted image 20240820150645.png",
+    "imagens utilizadas/Pasted image 20240820150609.png",
+    "imagens utilizadas/Pasted image 20240820150133.png",
+    "imagens utilizadas/Pasted image 20240820145404.png",
+    "imagens utilizadas/Pasted image 20240820145234.png",
+    "imagens utilizadas/Pasted image 20240820144833.png",
+    "imagens utilizadas/Pasted image 20240820144624.png",
+    "imagens utilizadas/Pasted image 20240820144456.png",
+    "imagens utilizadas/Pasted image 20240820144224.png",
+    "Sem título.md",
+    "Banco de Dados/Álgebra Relacional.md",
+    "Atividade Álgebra Relacional.md",
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Trabalho 2 BD.md",
-    "Pasted image 20240815200946.png",
     "().md",
     "Atividade para casa.md",
     "Interpolação.md",
-    "Excalidraw/Drawing 2024-08-20 20.04.54.excalidraw.md",
     "Excalidraw/Drawing 2024-08-20 20.41.33.excalidraw.md",
     "Excalidraw/Drawing 2024-08-20 19.56.42.excalidraw.md",
     "Algebra linear/transformações lineares.md",
@@ -226,7 +263,6 @@
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
     "Análise Numerica/Analise Numérica.md",
-    "conflict-files-obsidian-git.md",
     "interpolacao.sce",
     "Análise Numerica/AulaInterpolação/interpolacao.sce",
     "Análise Numerica/AulaInterpolação",
@@ -234,20 +270,7 @@
     "Análise Numerica/intro_an_num.pdf",
     "Análise Numerica/Atividade Análise Numérica.md",
     "Análise Numerica/Atividade de Analise Numerica.md",
-    "imagens utilizadas/Pasted image 20240813201121.png",
-    "imagens utilizadas/resolucao_da_lista_normalizacao.png",
-    "imagens utilizadas/Pasted image 20240812125151.png",
-    "imagens utilizadas/1.jpg",
-    "imagens utilizadas/2.jpg",
-    "imagens utilizadas/Pasted image 20240811182049.png",
-    "imagens utilizadas/Pasted image 20240811174600.png",
-    "imagens utilizadas/Pasted image 20240811174359.png",
-    "imagens utilizadas/Pasted image 20240811170451.png",
     "Matematica/Trigonometria/Introdução.md",
-    "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
-    "Análise Numerica/Aula 7/Sintese.md",
-    "Análise Numerica/A ser repassado para a sintese.md",
-    "2024-08-06.md",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
