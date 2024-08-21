@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Análise Numerica/Aula 7/Sintese.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Análise Numerica/Aula 7/Sintese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Análise Numerica/Aula 7/Sintese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md"
+                "file": "Análise Numerica/Aula 7/Sintese.md"
               }
             }
           },
@@ -170,6 +169,11 @@
   },
   "active": "f2d1118bff8f49a2",
   "lastOpenFiles": [
+    "Algebra linear/Algebra Linear.md",
+    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
+    "Algebra linear/transformações lineares.md",
+    "Banco de Dados/Normalização.md",
+    "Banco de Dados/Álgebra Relacional.md",
     "Pasted image 20240820150701.png",
     "Pasted image 20240820150645.png",
     "Pasted image 20240820150609.png",
@@ -178,12 +182,9 @@
     "Pasted image 20240820145234.png",
     "Pasted image 20240820144833.png",
     "Pasted image 20240820144624.png",
-    "Banco de Dados/Álgebra Relacional.md",
     "Pasted image 20240820144456.png",
     "Pasted image 20240820144224.png",
-    "Pasted image 20240820144201.png",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
-    "Algebra linear/Algebra Linear.md",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento",
@@ -198,7 +199,6 @@
     "Análise Numerica/Aula 7/Sintese.md",
     "Algebra linear/Resoluções/Prova Algebra Linear.md",
     "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/transformações lineares.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Análise Numerica/Analise Numérica.md",
@@ -211,7 +211,6 @@
     "Banco de Dados/Modelo Relacional.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Banco de Dados/Normalização.md",
     "Banco de Dados/2-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
