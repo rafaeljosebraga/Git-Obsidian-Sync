@@ -28,6 +28,28 @@
                 "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "4ea61b9085e889e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sintese Algebra linear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6490962cabe8a3d0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240822111842.png"
+              }
+            }
           }
         ]
       }
@@ -79,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -162,15 +183,16 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "600b4a9b269e5680",
   "lastOpenFiles": [
+    "Pasted image 20240822111842.png",
+    "Sintese Algebra linear.md",
+    "Síntese aula de POO conexão MySQL.md",
     "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
     "Pasted Image 20240822085556_554.png",
-    "Síntese aula de POO conexão MySQL.md",
     "Pasted image 20240822085334.png",
     "Pasted image 20240822084822.png",
     "Pasted image 20240822084333.png",
@@ -179,7 +201,6 @@
     "Pasted Image 20240822083055_367.png",
     "Pasted image 20240822083032.png",
     "Pasted image 20240822082957.png",
-    "Pasted image 20240822082238.png",
     "conflict-files-obsidian-git.md",
     "legal.md",
     "Banco de Dados/Álgebra Relacional.md",
@@ -213,7 +234,6 @@
     "interpolacao.sce~",
     "interpolacao.sce",
     "Análise Numerica/AulaInterpolação/interpolacao.sce~",
-    "Interpolação.md",
     "Análise Numerica/AulaInterpolação/interpolacao.sce",
     "Banco de Dados/2-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",

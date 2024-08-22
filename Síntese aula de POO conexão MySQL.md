@@ -31,6 +31,7 @@ Diferente dos outros métodos composeSaveOrUpdateStatement tem como principal fu
 ![[Pasted image 20240822083332.png]]
 
 ((Perguntar sobre ExtractObject))
+resposta->ExtractObject serve para refatorar o retorno de uma tupla feita pelo banco de dados, alocando esta informação em um objeto.
 
 podemos exigir que a variável genérica seja uma herança por obrigatoriedade, afirmamos isso no local em especificado. 
 ![[Pasted image 20240822084001.png]]
@@ -48,4 +49,4 @@ esse método presente em Dao ele possui mais detalhes e sua utilização
 ![[Pasted image 20240822085334.png]]
 
 
-Essa foi uma breve apresentação do GuissJConnect a 
+Essa foi uma breve apresentação do #GuissJConnect que será a framework utilizada para construir a nossa conexão com o banco de dados e operar sobre. 
