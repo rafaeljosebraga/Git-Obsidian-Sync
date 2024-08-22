@@ -53,19 +53,9 @@
             "id": "c541f86e04c40451",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f857c49b8ce2dd2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md"
               }
             }
           },
@@ -88,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md"
               }
             }
           },
@@ -224,16 +214,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f857c49b8ce2dd2f",
+  "active": "c541f86e04c40451",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Atividade para casa.md",
+    "Sintese Algebra linear.md",
+    "Sem título.md",
+    "Síntese aula de POO conexão MySQL.md",
+    "Ortogonalidade.md",
+    "Interpolação.md",
+    "Espaço vetorial.md",
     "Atividade Álgebra Relacional.md",
+    "Atividade para casa.md",
+    "conflict-files-obsidian-git.md",
     "().md",
     "imagens utilizadas/Pasted image 20240822111842.png",
     "imagens utilizadas/Pasted Image 20240822085556_554.png",
-    "Síntese aula de POO conexão MySQL.md",
-    "Sintese Algebra linear.md",
     "imagens utilizadas/Pasted image 20240822085334.png",
     "imagens utilizadas/Pasted image 20240822084822.png",
     "imagens utilizadas/Pasted image 20240822084333.png",
@@ -242,20 +236,16 @@
     "imagens utilizadas/Pasted image 20240822083032.png",
     "imagens utilizadas/Pasted image 20240822082957.png",
     "imagens utilizadas/Pasted image 20240822082238.png",
-    "Ortogonalidade.md",
     "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
-    "Espaço vetorial.md",
     "Excalidraw/Drawn.md",
     "Excalidraw/Drawing 2024-08-21 12.06.22.excalidraw.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "legal.md",
-    "Sem título.md",
     "Banco de Dados/Álgebra Relacional.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Normalização.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Trabalho 2 BD.md",
-    "Interpolação.md",
     "Excalidraw/Drawing 2024-08-20 20.41.33.excalidraw.md",
     "Excalidraw/Drawing 2024-08-20 19.56.42.excalidraw.md",
     "Algebra linear/transformações lineares.md",
