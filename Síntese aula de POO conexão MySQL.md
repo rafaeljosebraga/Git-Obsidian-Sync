@@ -27,3 +27,13 @@ neste ponto Guisso analisa as classes que já aprendemos durante as aulas
 
 ponto interessante, Boolean concluded, um atributo derivado da situação daquele objeto /instância.
 ![[Pasted image 20240822082238.png]]
+Diferente dos outros métodos composeSaveOrUpdateStatement tem como principal funcionalidade de montar a nossa sentença SQL, assim rodando o comando ao banco de dados para fazer uma das 2 funcionalidades citadas.
+![[Pasted image 20240822083332.png]]
+
+((Perguntar sobre ExtractObject))
+
+podemos exigir que a variável genérica seja uma herança por obrigatoriedade, afirmamos isso no local em especificado. 
+![[Pasted image 20240822084001.png]]
+
+saveOrUpdate tem como capacidade indicar que  uma entidade será armazenada no banco de dados ou atualizar ela 
+![[Pasted image 20240822084333.png]]
