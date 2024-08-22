@@ -55,7 +55,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md"
+                "file": "Excalidraw/Drawn.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
+                "file": "Excalidraw/Drawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
+                "file": "Excalidraw/Drawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md"
+                "file": "Excalidraw/Drawn.md"
               }
             }
           },
@@ -216,11 +216,14 @@
   },
   "active": "c541f86e04c40451",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
+    "Ortogonalidade.md",
+    "Interpolação.md",
+    "Banco de Dados/Trabalho 2 BD.md",
+    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Sintese Algebra linear.md",
     "Sem título.md",
     "Síntese aula de POO conexão MySQL.md",
-    "Ortogonalidade.md",
-    "Interpolação.md",
     "Espaço vetorial.md",
     "Atividade Álgebra Relacional.md",
     "Atividade para casa.md",
@@ -236,7 +239,6 @@
     "imagens utilizadas/Pasted image 20240822083032.png",
     "imagens utilizadas/Pasted image 20240822082957.png",
     "imagens utilizadas/Pasted image 20240822082238.png",
-    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
     "Excalidraw/Drawn.md",
     "Excalidraw/Drawing 2024-08-21 12.06.22.excalidraw.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
@@ -244,8 +246,6 @@
     "Banco de Dados/Álgebra Relacional.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Normalização.md",
-    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
-    "Banco de Dados/Trabalho 2 BD.md",
     "Excalidraw/Drawing 2024-08-20 20.41.33.excalidraw.md",
     "Excalidraw/Drawing 2024-08-20 19.56.42.excalidraw.md",
     "Algebra linear/transformações lineares.md",

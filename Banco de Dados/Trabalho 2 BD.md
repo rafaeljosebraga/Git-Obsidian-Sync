@@ -1,1 +1,1 @@
-[[Pasted image 20240815200946.png]]
+dicionário,terminar modelinho só meter o n pra n olhar oq é zero
