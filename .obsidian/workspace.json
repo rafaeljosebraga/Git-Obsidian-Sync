@@ -45,8 +45,12 @@
             "id": "39a9c891e3151ab6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algebra linear/transformações lineares.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -78,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawn.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawn.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawn.md"
+                "file": "Algebra linear/transformações lineares.md"
               }
             }
           },
@@ -214,17 +218,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c541f86e04c40451",
+  "active": "85234ca733ad5d1a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
+    "Análise Numerica/calculo_numerico.pdf",
+    "Algebra linear/transformações lineares.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Algebra linear/Algebra Linear.md",
+    "Sintese Algebra linear.md",
     "Ortogonalidade.md",
+    "Espaço vetorial.md",
+    "Excalidraw/Drawn.md",
+    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
     "Interpolação.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
-    "Sintese Algebra linear.md",
     "Sem título.md",
     "Síntese aula de POO conexão MySQL.md",
-    "Espaço vetorial.md",
     "Atividade Álgebra Relacional.md",
     "Atividade para casa.md",
     "conflict-files-obsidian-git.md",
@@ -239,20 +248,15 @@
     "imagens utilizadas/Pasted image 20240822083032.png",
     "imagens utilizadas/Pasted image 20240822082957.png",
     "imagens utilizadas/Pasted image 20240822082238.png",
-    "Excalidraw/Drawn.md",
     "Excalidraw/Drawing 2024-08-21 12.06.22.excalidraw.md",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "legal.md",
     "Banco de Dados/Álgebra Relacional.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Normalização.md",
     "Excalidraw/Drawing 2024-08-20 20.41.33.excalidraw.md",
     "Excalidraw/Drawing 2024-08-20 19.56.42.excalidraw.md",
-    "Algebra linear/transformações lineares.md",
-    "Análise Numerica/calculo_numerico.pdf",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Excalidraw",
-    "Algebra linear/Algebra Linear.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Algebra linear/Núcleo e Imagem.md",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
