@@ -35,5 +35,17 @@ Diferente dos outros métodos composeSaveOrUpdateStatement tem como principal fu
 podemos exigir que a variável genérica seja uma herança por obrigatoriedade, afirmamos isso no local em especificado. 
 ![[Pasted image 20240822084001.png]]
 
-saveOrUpdate tem como capacidade indicar que  uma entidade será armazenada no banco de dados ou atualizar ela 
+saveOrUpdate tem como capacidade indicar que  uma entidade será armazenada ou atualizada no banco de dados a partir da informação recebida por ID
+
 ![[Pasted image 20240822084333.png]]
+((Verificar a estrutura try))
+Try with resources-> é um bagulhoCabuloso
+![[Pasted image 20240822084822.png]]
+
+a partir do JDBC podemos utilizar da ideia de conexão com o banco de dados a partir da forma de organização do tal dito.
+
+esse método presente em Dao ele possui mais detalhes e sua utilização 
+![[Pasted image 20240822085334.png]]
+
+
+Essa foi uma breve apresentação do GuissJConnect a 
