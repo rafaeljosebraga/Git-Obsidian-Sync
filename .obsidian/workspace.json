@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -277,8 +277,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f671fb46323406d7",
+  "active": "c541f86e04c40451",
   "lastOpenFiles": [
+    "Algebra linear/Espaço vetorial.md",
+    "Algebra linear/Interpolação.md",
+    "Excalidraw/Drawn.md",
     "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
     "Síntese aula de POO conexão MySQL.md",
     "Atividade para casa.md",
@@ -288,8 +291,6 @@
     "Algebra linear/Ortogonalidade.md",
     "legal.md",
     "Sem título.md",
-    "Algebra linear/Espaço vetorial.md",
-    "Algebra linear/Interpolação.md",
     "Algebra linear/transformações lineares.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/Núcleo e Imagem.md",
@@ -297,7 +298,6 @@
     "Algebra linear/Algebra Linear.md",
     "Análise Numerica/calculo_numerico.pdf",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
-    "Excalidraw/Drawn.md",
     "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
