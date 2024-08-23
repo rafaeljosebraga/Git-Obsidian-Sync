@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "0d485393b6a04f7f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "247d92c2b91e633b",
             "type": "leaf",
             "state": {
@@ -82,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/transformações lineares.md"
+                "file": "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md"
               }
             }
           },
@@ -218,10 +228,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85234ca733ad5d1a",
+  "active": "0d485393b6a04f7f",
   "lastOpenFiles": [
     "Análise Numerica/calculo_numerico.pdf",
     "Algebra linear/transformações lineares.md",
+    "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Algebra Linear.md",
     "Sintese Algebra linear.md",
@@ -258,7 +269,6 @@
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Excalidraw",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
-    "Algebra linear/Núcleo e Imagem.md",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
