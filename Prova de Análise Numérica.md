@@ -54,7 +54,7 @@ x = U\y;
 disp(x);
 ```
 
-Aqui está o resultado x:
+Aqui está o resultado da resolução do sistema de $T_1$ até $T_9$:
    67.857143
    71.428571
    67.857143
