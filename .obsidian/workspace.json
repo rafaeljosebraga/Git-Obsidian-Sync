@@ -18,131 +18,19 @@
             }
           },
           {
-            "id": "85234ca733ad5d1a",
+            "id": "30177953796a4a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Prova de Análise Numérica.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0d485393b6a04f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/transformações lineares.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1f0a781d5c05fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/Espaço vetorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "275d8ee77a21f264",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/Interpolação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "695b82883ba5afc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/Espaço vetorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f671fb46323406d7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawn.md"
-              }
-            }
-          },
-          {
-            "id": "247d92c2b91e633b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39a9c891e3151ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/transformações lineares.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c541f86e04c40451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Síntese aula de POO conexão MySQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a22cf5c04d3c8ac7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a3507877b321ba6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Banco de Dados/Fundamentals of Database Systems.pdf"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawn.md",
+                "file": "Prova de Análise Numérica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawn.md",
+                "file": "Prova de Análise Numérica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawn.md"
+                "file": "Prova de Análise Numérica.md"
               }
             }
           },
@@ -279,14 +167,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f671fb46323406d7",
+  "active": "30177953796a4a6f",
   "lastOpenFiles": [
+    "Prova de Análise Numérica.md",
+    "Análise Numerica/calculo_numerico.pdf",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Algebra linear/transformações lineares.md",
     "Síntese aula de POO conexão MySQL.md",
-    "Excalidraw/Drawn.md",
-    "Pasted Image 20240823163542_255.jpg",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Interpolação.md",
+    "Excalidraw/Drawn.md",
+    "Untitled.md",
+    "Pasted Image 20240823163542_255.jpg",
     "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
     "Atividade para casa.md",
     "Atividade Álgebra Relacional.md",
@@ -295,13 +188,10 @@
     "Algebra linear/Ortogonalidade.md",
     "legal.md",
     "Sem título.md",
-    "Algebra linear/transformações lineares.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Algebra Linear.md",
-    "Análise Numerica/calculo_numerico.pdf",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
@@ -317,7 +207,6 @@
     "imagens utilizadas/Pasted image 20240822082957.png",
     "Excalidraw/Drawing 2024-08-21 12.06.22.excalidraw.md",
     "Banco de Dados/Álgebra Relacional.md",
-    "Banco de Dados/Normalização.md",
     "Excalidraw",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
