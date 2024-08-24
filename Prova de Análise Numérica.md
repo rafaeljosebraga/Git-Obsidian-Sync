@@ -25,3 +25,24 @@ $-T_5 - T_7 + 4T_8 - T_9 = 0$
 $-T_6 - T_8 + 4T_9 = 50$
 
 <h3>Letra B</h3>
+
+A representação do sistema em forma de matriz fica desta forma, onde todos os $Tn$ que não estão na soma são representados como zero.
+```
+A = [ 4  -1   0  -1   0   0   0   0   0;
+     -1   4  -1   0  -1   0   0   0   0;
+      0  -1   4   0   0  -1   0   0   0;
+     -1   0   0   4  -1   0  -1   0   0;
+      0  -1   0  -1   4  -1   0  -1   0;
+      0   0  -1   0  -1   4   0   0  -1;
+      0   0   0  -1   0   0   4  -1   0;
+      0   0   0   0  -1   0  -1   4  -1;
+      0   0   0   0   0  -1   0  -1   4 ];
+
+b = [ 150; 100; 150;  50;   0;  50;  50;   0;  50 ];
+
+[L, U] = lu(A);
+y = L\b;
+x = U\y;
+disp(x);
+```
+
