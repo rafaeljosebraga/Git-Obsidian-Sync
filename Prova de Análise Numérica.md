@@ -64,3 +64,7 @@ Aqui está o resultado da resolução do sistema de $T_1$ até $T_9$:
    32.142857
    28.571429
    32.142857
+
+<h3>Letra C</h3>
+
+Utilizando o método iterativo de Gauss Seidel vamos ficar  o seguinte código 
