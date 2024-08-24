@@ -167,7 +167,7 @@ a + b + c = -1
 */
 
 Para construir o sistema linear vamos usar $P(x)=ax^2bx+c$  .
-
-$P(-1)=ax^2bx+c$
-$P(1)=ax^2bx+c$
-$P(2)=ax^2bx+c$
+substituindo o x pelos equivalentes nos pontos (**x**,y) assim fazemos  as 3 linhas do sistema com vetor de termos independentes sendo o y dos pontos (x,****) 
+$P(-1): a-b+c=-3$
+$P(1):a+b+c=-1$
+$P(2): 4a+2b+c=9$
