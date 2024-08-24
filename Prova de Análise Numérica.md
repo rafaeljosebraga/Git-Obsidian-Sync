@@ -246,5 +246,10 @@ b = 0.9999990
 c =-4.9999952
 
 $P(x)=ax^2bx+c$
+![[Janela gráfica número 0.png]]
+coeficiente a : como é positivo tem sua concavidade virada para cima.
 
-quando arredondando os valores para a melhor escrita, é possivel ver que a para
+coeficiente b : arredondando esse coeficiente é igual a 1, afetando a parabola inclinando ela um pouco para cima.
+
+coeficiente c : é possivel ver que a parabola tem y=-5 quando x=0.
+
