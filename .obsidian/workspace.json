@@ -21,9 +21,11 @@
             "id": "30177953796a4a6f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md"
+                "file": "Prova de Análise Numérica.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
+                "file": "Prova de Análise Numérica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
+                "file": "Prova de Análise Numérica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md"
+                "file": "Prova de Análise Numérica.md"
               }
             }
           },
@@ -166,26 +168,26 @@
   },
   "active": "30177953796a4a6f",
   "lastOpenFiles": [
+    "Sem título.md",
+    "Untitled.md",
+    "Síntese aula de POO conexão MySQL.md",
+    "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
     "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
     "Prova de Análise Numérica.md",
     "Análise Numerica/calculo_numerico.pdf",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Algebra linear/transformações lineares.md",
-    "Síntese aula de POO conexão MySQL.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Interpolação.md",
     "Excalidraw/Drawn.md",
-    "Untitled.md",
     "Pasted Image 20240823163542_255.jpg",
-    "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
     "Atividade para casa.md",
     "Atividade Álgebra Relacional.md",
     "().md",
     "Algebra linear/Sintese Algebra linear.md",
     "Algebra linear/Ortogonalidade.md",
     "legal.md",
-    "Sem título.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Autovalores e Autovetores.md",

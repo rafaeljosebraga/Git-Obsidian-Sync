@@ -12,7 +12,7 @@ $T_7 = (50 + T_4 + T_8 + 0) / 4$
 $T_8 = (T_5 + T_7 + T_9 + 0) / 4$
 $T_9 = (T_6 + T_8 + 50 + 0) / 4$
 
-o sistema fica com essa a
+o sistema fica com essa cara
 
  $4T_1 - T_2 - T_4 = 150$
 $-T_1 + 4T_2 - T_3 - T_5 = 100$
@@ -24,3 +24,4 @@ $-T_4 + 4T_7 - T_8 = 50$
 $-T_5 - T_7 + 4T_8 - T_9 = 0$
 $-T_6 - T_8 + 4T_9 = 50$
 
+<h3>Letra B</h3>
