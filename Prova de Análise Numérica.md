@@ -143,31 +143,92 @@ com 30 iterações chegamos ao mesmo resultado da letra A
 
 <h3>Letra A</h3>
 
-// Questão 02 - A
-// para amontagem do sitema linear, vamos subtitui primeira os pontos na equaçoes para fazer a montagem do sistemas
-/*
-Função
-P(x) = ax^2 + bx + c
-No ponto (-1,-3)
-a(-1)^2 + b(-1) + c = -3
-    a - b + c = -3
-
-No ponto (1,-1)
-a(1)^2 + b(1) + c = -1
-    a + b + c = -1
-
-No ponto (2,9)
-a(2)^2 + b(2) + c = 9
-    4a + 2b + c = 9
-*/
-// Sistema linear
-/*a - b + c = -3
-a + b + c = -1
-4a + 2b + c = 9
-*/
-
 Para construir o sistema linear vamos usar $P(x)=ax^2bx+c$  .
-substituindo o x pelos equivalentes nos pontos (**x**,y) assim fazemos  as 3 linhas do sistema com vetor de termos independentes sendo o y dos pontos (x,****) 
+substituindo o x pelos equivalentes nos pontos (**x**,y) assim fazemos  as 3 linhas do sistema com vetor de termos independentes sendo o y dos pontos (x,**y**).
+
+chegamos neste sistema.
 $P(-1): a-b+c=-3$
 $P(1):a+b+c=-1$
 $P(2): 4a+2b+c=9$
+
+$$\start{bmatrix}4&2&1\end{bmatrix}$$
+
+A = [4 2 1;
+     1 1 1;
+     1 -1 1];
+     
+B = [9; -1; -3];
+
+```
+function [x, iter]=gauss_seidel(A, b, x0, tol, max_iter)
+    n = length(b);
+    x = x0;
+    disp("Chute inicial.")
+    disp(x);
+    for iter = 1:max_iter
+        x_old = x;
+        for i = 1:n
+            sigma = 0;
+            for j = 1:n
+                if j ~= i
+                    sigma = sigma + A(i, j) * x(j);
+                end
+            end
+            x(i) = (b(i) - sigma) / A(i, i);
+        end
+        
+        // Imprime a solução a cada iteração
+        //printf("Iteração %d: ", iter);
+        //disp(x);
+        
+        if norm(x - x_old, "inf") < tol
+            return;
+        end
+    end
+endfunction
+
+A = [4 2 1;
+     1 1 1;
+     1 -1 1];
+     
+B = [9; -1; -3];
+
+tol = 10^-5;
+qtdMaxIter = 1000;
+x0 = zeros(3, 1);
+
+[result, qtdIter] = gauss_seidel(A, B, x0, tol, qtdMaxIter);
+
+disp("Os valores de A B C ");
+disp(result);
+disp("QTD de iteraçoes: ");
+disp(qtdIter);
+
+```
+
+Código para plotar o gráfico na tela:
+```
+a = result(1);
+b = result(2);
+c = result(3);
+
+function y=P(x)
+    y =  a.*x.*x + b.*x + c;
+endfunction
+
+// eixo fornecidos pelo problema
+eixoX = [-1, 1, 2];
+eixoY = [-3, -1, 9];
+
+X = -6: 0.1 : 4;
+eixoYPoli = P(X);
+plot(X, eixoYPoli, 'b-');
+xlabel("Eixo X");
+ylabel("Eixo Y - P(x)");
+xtitle('Gauss-Seidel - Para encontra valores dos coeficientes A B C');
+
+plot(X, eixoYPoli, 'b-');
+plot(eixoX, eixoY, 'ro');
+legend('Polinomio', 'Pontos fornecidos');
+
+```
