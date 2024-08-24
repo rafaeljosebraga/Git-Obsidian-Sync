@@ -210,6 +210,7 @@ o resultado retornado pela método iterativo de Gauss-Seidel é
 o valor final da desta convergência é alcançado após 40 iterações
 
 <h3>Letra B</h3>
+
 Código para plotar o gráfico na tela:
 ```
 a = result(1);
