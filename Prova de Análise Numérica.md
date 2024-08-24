@@ -27,6 +27,11 @@ $-T_6 - T_8 + 4T_9 = 50$
 <h3>Letra B</h3>
 
 A representação do sistema em forma de matriz fica desta forma, onde todos os $Tn$ que não estão na soma são representados como zero.
+
+A= a nossa matriz com as variáveis.
+b= o vetor de termos independentes.
+
+Utilizando a decomposição LU disponível pelo scilab o código permanece com esta aparência
 ```
 A = [ 4  -1   0  -1   0   0   0   0   0;
      -1   4  -1   0  -1   0   0   0   0;
@@ -45,4 +50,3 @@ y = L\b;
 x = U\y;
 disp(x);
 ```
-
