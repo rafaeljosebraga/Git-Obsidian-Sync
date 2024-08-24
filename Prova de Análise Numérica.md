@@ -237,3 +237,14 @@ plot(eixoX, eixoY, 'ro');
 legend('Polinomio', 'Pontos fornecidos');
 
 ```
+
+a interpretação do resultado é literalmente o fato de que são os coeficientes da parabola
+
+onde:
+a = 2.9999943
+b = 0.9999990
+c =-4.9999952
+
+$P(x)=ax^2bx+c$
+
+quando arredondando os valores para a melhor escrita, é possivel ver que a para
