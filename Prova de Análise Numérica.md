@@ -1,6 +1,9 @@
 Aluno: Rafael José Braga Coelho
 <h2>Questão 1</h2>
 <h3>Letra A</h3>
+![[Pasted image 20240824164505.png]]
+
+Para calcularmos cada um dos 9 $T$s pontos devemos somar os pontos adjacentes e fazer a média aritmética, por exemplo $T_1$ onde somamos 100+50+T2+T4 ou seja $T_1=$$\dfrac {(100+50+T2+T4)} {4}$
 
 $T_1= (100 + 50 + T_2 + T_4) / 4$
 $T_2 = (100 + T_1 + T_3 + T_5) / 4$
@@ -12,7 +15,7 @@ $T_7 = (50 + T_4 + T_8 + 0) / 4$
 $T_8 = (T_5 + T_7 + T_9 + 0) / 4$
 $T_9 = (T_6 + T_8 + 50 + 0) / 4$
 
-o sistema fica com essa cara
+segue a refatoração do sistema acima:
 
  $4T_1 - T_2 - T_4 = 150$
 $-T_1 + 4T_2 - T_3 - T_5 = 100$
@@ -50,3 +53,14 @@ y = L\b;
 x = U\y;
 disp(x);
 ```
+
+Aqui está o resultado x:
+   67.857143
+   71.428571
+   67.857143
+   50.000000
+   50.000000
+   50.000000
+   32.142857
+   28.571429
+   32.142857
