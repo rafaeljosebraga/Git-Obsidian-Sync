@@ -1,5 +1,6 @@
 Aluno: Rafael José Braga Coelho
 <h2>Questão 1</h2>
+
 <h3>Letra A</h3>
 ![[Pasted image 20240824164505.png]]
 
@@ -68,3 +69,76 @@ Aqui está o resultado da resolução do sistema de $T_1$ até $T_9$:
 <h3>Letra C</h3>
 
 Utilizando o método iterativo de Gauss Seidel vamos ficar  o seguinte código 
+
+o nosso chute inicial começa com é um vetor de 9 zeros e utilizando uma tolerância de 0.0000001 ou 1e-7
+```
+A = [ 4  -1   0  -1   0   0   0   0   0;
+     -1   4  -1   0  -1   0   0   0   0;
+      0  -1   4   0   0  -1   0   0   0;
+     -1   0   0   4  -1   0  -1   0   0;
+      0  -1   0  -1   4  -1   0  -1   0;
+      0   0  -1   0  -1   4   0   0  -1;
+      0   0   0  -1   0   0   4  -1   0;
+      0   0   0   0  -1   0  -1   4  -1;
+      0   0   0   0   0  -1   0  -1   4 ];
+
+b = [ 150; 100; 150;  50;   0;  50;  50;   0;  50 ];
+
+function [x, iter]=gauss_seidel(A, b, x0, tol, max_iter)
+    n = length(b);
+    x = x0;
+    for iter = 1:max_iter
+        x_old = x;
+        for i = 1:n
+            sigma = 0;
+            for j = 1:n
+                if j ~= i
+                    sigma = sigma + A(i, j) * x(j);
+                end
+            end
+            x(i) = (b(i) - sigma) / A(i, i);
+        end
+        
+        // Imprime a solução a cada iteração
+        //printf("Iteração %d: ", iter);
+        disp(x);
+        
+        if norm(x - x_old, "inf") < tol
+            return;
+        end
+    end
+endfunction
+
+// Parâmetros iniciais
+x0 = zeros(9, 1); // Chute inicial
+tol = 1e-5; // Tolerância
+max_iter = 1000; // Número máximo de iterações
+
+// Resolver o sistema
+[x_gs, iter_gs] = gauss_seidel(A, b, x0, tol, max_iter);
+
+// Mostrar as soluções e o número de iterações
+disp(x_gs, "Temperaturas nos nós internos usando Gauss-Seidel:");
+disp(iter_gs, "Número de iterações:");
+```
+com 30 iterações chegamos ao mesmo resultado da letra A
+
+  "Temperaturas nos nós internos usando Gauss-Seidel:"
+
+   67.857143
+   71.428571
+   67.857143
+   50.000000
+   50.000000
+   50.000000
+   32.142857
+   28.571429
+   32.142857
+
+  "Número de iterações:"
+
+   30.
+
+<h2>Questão 2</h2>
+
+<h3>Letra A</h3>
