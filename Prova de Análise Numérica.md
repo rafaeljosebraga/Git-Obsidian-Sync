@@ -142,3 +142,27 @@ com 30 iterações chegamos ao mesmo resultado da letra A
 <h2>Questão 2</h2>
 
 <h3>Letra A</h3>
+// Questão 02 - A
+// para amontagem do sitema linear, vamos subtitui primeira os pontos na equaçoes para fazer a montagem do sistemas
+/*
+Função
+P(x) = ax^2 + bx + c
+No ponto (-1,-3)
+a(-1)^2 + b(-1) + c = -3
+    a - b + c = -3
+
+No ponto (1,-1)
+a(1)^2 + b(1) + c = -1
+    a + b + c = -1
+
+No ponto (2,9)
+a(2)^2 + b(2) + c = 9
+    4a + 2b + c = 9
+*/
+// Sistema linear
+/*a - b + c = -3
+a + b + c = -1
+4a + 2b + c = 9
+*/
+
+Para construir o sistema linear vamos substituir  
