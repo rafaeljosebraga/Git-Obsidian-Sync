@@ -1,3 +1,4 @@
+$$\begin{bmatrix}\end{bmatrix}$$
 Aluno: Rafael José Braga Coelho
 <h2>Questão 1</h2>
 
@@ -150,14 +151,10 @@ chegamos neste sistema.
 $P(-1): a-b+c=-3$
 $P(1):a+b+c=-1$
 $P(2): 4a+2b+c=9$
+fazemos a troca de linha da linha 1 e a linha 3
+$$\begin{bmatrix} 1&-1&1\\1&1&1\\4&2&1 \end{bmatrix}\begin{bmatrix}-3\\-1\\9\end{bmatrix}$$
 
-$$\start{bmatrix}4&2&1\end{bmatrix}$$
-
-A = [4 2 1;
-     1 1 1;
-     1 -1 1];
-     
-B = [9; -1; -3];
+$$\begin{bmatrix} 4&2&1\\1&1&1\\1&-1&1 \end{bmatrix}\begin{bmatrix}9\\-1\\-3\end{bmatrix}$$
 
 ```
 function [x, iter]=gauss_seidel(A, b, x0, tol, max_iter)
@@ -205,6 +202,13 @@ disp("QTD de iteraçoes: ");
 disp(qtdIter);
 
 ```
+o resultado retornado pela método iterativo de Gauss-Seidel é 
+
+   2.9999943
+   0.9999990
+  -4.9999952
+
+o valor final da convergên
 
 Código para plotar o gráfico na tela:
 ```
