@@ -196,9 +196,8 @@ x0 = zeros(3, 1);
 
 [result, qtdIter] = gauss_seidel(A, B, x0, tol, qtdMaxIter);
 
-disp("Os valores de A B C ");
 disp(result);
-disp("QTD de iteraçoes: ");
+disp("Quantidade de iteraçoes: ");
 disp(qtdIter);
 
 ```
@@ -208,8 +207,9 @@ o resultado retornado pela método iterativo de Gauss-Seidel é
    0.9999990
   -4.9999952
 
-o valor final da convergên
+o valor final da desta convergência é alcançado após 40 iterações
 
+<h3>Letra B</h3>
 Código para plotar o gráfico na tela:
 ```
 a = result(1);
