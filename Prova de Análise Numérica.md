@@ -142,6 +142,7 @@ com 30 iterações chegamos ao mesmo resultado da letra A
 <h2>Questão 2</h2>
 
 <h3>Letra A</h3>
+
 // Questão 02 - A
 // para amontagem do sitema linear, vamos subtitui primeira os pontos na equaçoes para fazer a montagem do sistemas
 /*
@@ -165,4 +166,8 @@ a + b + c = -1
 4a + 2b + c = 9
 */
 
-Para construir o sistema linear vamos substituir  
+Para construir o sistema linear vamos usar $P(x)=ax^2bx+c$  .
+
+$P(-1)=ax^2bx+c$
+$P(1)=ax^2bx+c$
+$P(2)=ax^2bx+c$
