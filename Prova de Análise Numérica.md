@@ -307,3 +307,41 @@ disp(iter);
 Este método iterativo é simples e se mostrou eficiente para o caso apresentado, onde foi necessário apenas 17 iterações.
 
 <h2>Questão 4</h2>
+```
+function x=newton_raphson(f, df, x0, tol)
+    x = x0;
+    while abs(f(x)) > tol
+        x = x - f(x)/df(x);
+    end
+endfunction
+
+// Definir a função, sua derivada e a derivada segunda
+function y=f(x)
+    y = x*(3 - exp(x/4));
+endfunction
+
+function y=df(x)
+    y = 3 - exp(x/4) - (x/4)*exp(x/4);
+endfunction
+
+function y=ddf(x)
+    y = -(1/2)*exp(x/4) - (x/16)*exp(x/4);
+endfunction
+
+// Definir o intervalo, a tolerância e o ponto inicial
+x0 = 2.25; // Ponto inicial no meio do intervalo
+tol = 1e-3;
+
+// Encontrar o ponto crítico (máximo ou mínimo)
+x_critico = newton_raphson(df, ddf, x0, tol);
+
+// Verificar se é um máximo
+if ddf(x_critico) < 0 then
+    disp("O ponto x =", x_critico, "é um máximo local de f(x).");
+else
+    disp("O ponto x =", x_critico, "não é um máximo local de f(x).");
+end
+
+// Imprimir o resultado
+disp("f(x) =", f(x_critico), "em x =", x_critico);
+```
