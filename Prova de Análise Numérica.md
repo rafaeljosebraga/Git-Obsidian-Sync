@@ -249,7 +249,39 @@ $P(x)=ax^2bx+c$
 ![[Janela gráfica número 0.png]]
 coeficiente a : como é positivo tem sua concavidade virada para cima.
 
-coeficiente b : arredondando esse coeficiente é igual a 1, afetando a parabola inclinando ela um pouco para cima.
+coeficiente b : esse coeficiente é positivo, afetando a parabola inclinando ela um pouco para cima.
 
 coeficiente c : é possivel ver que a parabola tem y=-5 quando x=0.
 
+<h2>Questão 3</h2>
+
+```
+function [x, k]=metodo_iterativo(A, b, x0, tol)
+    I = eye(size(A,1));
+    x = x0;
+    k = 0;
+    erro = 1; 
+
+    while erro > tol
+        x_anterior = x;
+        x = (I + A)*x_anterior - b;
+        erro = norm(x - x_anterior) / norm(x);
+        k = k + 1;
+    end
+endfunction
+
+// Definindo a matriz A e o vetor b
+A = [-1.3 0.3; 0.5 -0.5];
+b = [1; 0];
+
+x0 = [0.8; 0.8];
+tol = 1e-3;
+
+[x, k] = metodo_iterativo(A, b, x0, tol);
+
+disp("Solução:");
+disp(x);
+disp("Número de iterações:");
+disp(k);
+
+```
