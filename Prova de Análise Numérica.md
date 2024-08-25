@@ -285,7 +285,7 @@ endfunction
 A = [-1.3, 0.3; 0.5, -0.5];
 b = [1; 0];
 
-// Define o chute inicial x0 e a tolerância
+// Define o chute inicial x0 e o erro relativo como a tolerância
 x0 = [0.8; 0.8];
 tol = 1e-3; 
 // Chama a função para resolver o sistema
@@ -297,8 +297,9 @@ disp(x);
 disp("Número de iterações:");
 disp(iter);
 ```
-  Solução encontrada:
+  Solução encontrada pelo método iterativo é:
 
   -0.999420490293576
   -0.998145331444403
+
 
