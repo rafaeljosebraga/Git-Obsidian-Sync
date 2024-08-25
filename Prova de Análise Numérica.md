@@ -338,7 +338,9 @@ x_critico = newton_raphson(df, ddf, x0, tol);
 
 // Verificar se é um máximo
 if ddf(x_critico)==0 then
-
+	disp("O ponto x =", x_critico, "é uma sela de f(x).");
+	return;
+end
 if ddf(x_critico) < 0 then
     disp("O ponto x =", x_critico, "é um máximo local de f(x).");
 else
@@ -349,4 +351,78 @@ end
 disp("f(x) =", f(x_critico), "em x =", x_critico);
 ```
 
-A partir derivada primeira podemos descobrir o ponto crítico em interesse a partir do método iterativo de Newton Raphson, depois precisamos apenas verificar com a derivada segunda se é um máximo/mínimo local ou ponto de sela caso 
+A partir derivada primeira podemos descobrir o ponto crítico em interesse a partir do método iterativo de Newton Raphson, depois precisamos apenas verificar com a derivada segunda se é um máximo/mínimo local ou ponto de sela
+
+assim nosso código retorna.
+
+  O ponto x = 2.470582799028367
+
+  é um máximo local da nossa função f(x).
+
+  f(x) = 2.829912477595915
+
+  em x = 2.470582799028367
+
+<h2>Questão 5</h2>
+
+```
+function [x, erro]=raiz(a, p, x0, tol)
+
+    x = x0;
+
+    x_anterior = 0;
+
+    erro = 1; // Inicializa o erro
+
+    iteracoes = 0;
+
+  
+
+    while erro > tol
+
+        // Calcula o novo valor de x usando a fórmula de recorrência
+
+        x_anterior = x;
+
+        x = (1/p) * ((p - 1)*x_anterior + a/(x_anterior^(p-1)));
+
+  
+
+        // Calcula o erro relativo
+
+        erro = abs((x - x_anterior) / x);
+
+        iteracoes = iteracoes + 1;
+
+  
+
+        // Imprime os valores da iteração atual
+
+         printf("\nIteração: %d, x = %f, erro = %f", iteracoes, x, erro);
+
+    end
+
+endfunction
+
+  
+
+a = 2; // Número para calcular a raiz
+
+p = 15; // Índice da raiz
+
+x0 = 1; // Chute inicial 
+
+tol = 1e-3; // Tolerância
+
+  
+
+[Raiz, erro] = raiz(a, p, x0, tol);
+
+  
+
+// Resultado
+
+printf("\n\nResultado da raiz %d de %d: %f", p, a, Raiz);
+
+printf("\nErro relativo final: %f", erro);
+```
