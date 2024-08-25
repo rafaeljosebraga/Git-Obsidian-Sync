@@ -305,7 +305,7 @@ disp(iter);
   -0.998145331444403
 
 Este método iterativo é simples e se mostrou eficiente para o caso apresentado, onde foi necessário apenas 17 iterações.
-
+``
 <h2>Questão 4</h2>
 ```
 //Método Iterativo de Newton Raphson
@@ -367,55 +367,25 @@ assim nosso código retorna.
 
 ```
 function [x, erro]=raiz(a, p, x0, tol)
-
-    x = x0;
-
-    x_anterior = 0;
-
-    erro = 1; // Inicializa o erro
-
-    iteracoes = 0;
-
-  
-
-    while erro > tol
-
-        // Calcula o novo valor de x usando a fórmula de recorrência
-
-        x_anterior = x;
-
-        x = (1/p) * ((p - 1)*x_anterior + a/(x_anterior^(p-1)));
-
-  
-
-        // Calcula o erro relativo
-
-        erro = abs((x - x_anterior) / x);
-
-        iteracoes = iteracoes + 1;
-
-  
-
-        // Imprime os valores da iteração atual
-
-         printf("\nIteração: %d, x = %f, erro = %f", iteracoes, x, erro);
-
-    end
-
+    x = x0;
+    x_anterior = 0;
+    erro = 1; // Inicializa o erro
+    iteracoes = 0;
+    while erro > tol
+        // Calcula o novo valor de x usando a fórmula de recorrência
+        x_anterior = x;
+        x = (1/p) * ((p - 1)*x_anterior + a/(x_anterior^(p-1)));
+        // Calcula o erro relativo
+        erro = abs((x - x_anterior) / x);
+        iteracoes = iteracoes + 1;
+        // Imprime os valores da iteração atual
+        printf("\nIteração: %d, x = %f, erro = %f", iteracoes, x, erro);
+    end
 endfunction
-
-  
-
 a = 2; // Número para calcular a raiz
-
 p = 15; // Índice da raiz
-
 x0 = 1; // Chute inicial 
-
-tol = 1e-3; // Tolerância
-
-  
-
+tol = 10e-3; // Tolerância
 [Raiz, erro] = raiz(a, p, x0, tol);
 
   
@@ -426,3 +396,9 @@ printf("\n\nResultado da raiz %d de %d: %f", p, a, Raiz);
 
 printf("\nErro relativo final: %f", erro);
 ```
+Utilizando o método iterativo dado pela questão com o chute inicial sendo 1 e a tolerância dada pelo problema 10e-3 
+
+é retornado pelo código:
+
+Resultado da raiz 15 de 2: 1.047328
+Erro relativo final: 0.002143
