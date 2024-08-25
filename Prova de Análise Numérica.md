@@ -256,6 +256,7 @@ coeficiente c : é possivel ver que a parabola tem y=-5 quando x=0.
 
 <h2>Questão 3</h2>
 
+<h3>Letra A</h3>
 ```
 function [x, iter]=metodo_iterativo(A, b, x0, err_r)
     // I é a matriz identidade
@@ -279,6 +280,7 @@ function [x, iter]=metodo_iterativo(A, b, x0, err_r)
 endfunction
 ```
 
+<h3>Letra B</h3>
 
 ```
 // Define a matriz A e o vetor b
@@ -302,4 +304,6 @@ disp(iter);
   -0.999420490293576
   -0.998145331444403
 
+Este método iterativo é simples e se mostrou eficiente para o caso apresentado, onde foi necessário apenas 17 iterações.
 
+<h2>Questão 4</h2>
