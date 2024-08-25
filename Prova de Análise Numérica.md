@@ -151,7 +151,8 @@ chegamos neste sistema.
 $P(-1): a-b+c=-3$
 $P(1):a+b+c=-1$
 $P(2): 4a+2b+c=9$
-fazemos a troca de linha da linha 1 e a linha 3
+
+fazemos a troca de linha da linha 1 e a linha 3, pois 4 é o nosso maior pivô, pois estes métodos de convergência rápida é ideal que tenhamos uma matriz com a diagonal dominante.
 $$\begin{bmatrix} 1&-1&1\\1&1&1\\4&2&1 \end{bmatrix}\begin{bmatrix}-3\\-1\\9\end{bmatrix}$$
 
 $$\begin{bmatrix} 4&2&1\\1&1&1\\1&-1&1 \end{bmatrix}\begin{bmatrix}9\\-1\\-3\end{bmatrix}$$
@@ -207,7 +208,7 @@ o resultado retornado pela método iterativo de Gauss-Seidel é
    0.9999990
   -4.9999952
 
-o valor final da desta convergência é alcançado após 40 iterações
+o vetor converge a estes valores após 40 iterações
 
 <h3>Letra B</h3>
 
@@ -256,32 +257,48 @@ coeficiente c : é possivel ver que a parabola tem y=-5 quando x=0.
 <h2>Questão 3</h2>
 
 ```
-function [x, k]=metodo_iterativo(A, b, x0, tol)
-    I = eye(size(A,1));
+function [x, iter]=metodo_iterativo(A, b, x0, err_r)
+    // I é a matriz identidade
+    I = eye(A); 
+    // Calcula (I + A)
+    M = I + A;
+    
     x = x0;
-    k = 0;
-    erro = 1; 
+    iter = 0;
+    erro = err_r+1; // Inicializa o erro com um valor maior que a tolerância
 
-    while erro > tol
+    while erro > err_r
         x_anterior = x;
-        x = (I + A)*x_anterior - b;
-        erro = norm(x - x_anterior) / norm(x);
-        k = k + 1;
+        x = M * x_anterior - b;
+        
+        // Calcula o erro relativo
+        erro = norm(x - x_anterior) / norm(x); 
+        //disp(erro);
+        iter = iter + 1;
     end
 endfunction
+```
 
-// Definindo a matriz A e o vetor b
-A = [-1.3 0.3; 0.5 -0.5];
-b = [1; 0];
-
-x0 = [0.8; 0.8];
-tol = 1e-3;
-
-[x, k] = metodo_iterativo(A, b, x0, tol);
-
-disp("Solução:");
-disp(x);
-disp("Número de iterações:");
-disp(k);
 
 ```
+// Define a matriz A e o vetor b
+A = [-1.3, 0.3; 0.5, -0.5];
+b = [1; 0];
+
+// Define o chute inicial x0 e a tolerância
+x0 = [0.8; 0.8];
+tol = 1e-3; 
+// Chama a função para resolver o sistema
+[x,iter] = metodo_iterativo(A, b, x0, tol);
+
+// Imprime os resultados
+disp("Solução encontrada:");
+disp(x);
+disp("Número de iterações:");
+disp(iter);
+```
+  Solução encontrada:
+
+  -0.999420490293576
+  -0.998145331444403
+
