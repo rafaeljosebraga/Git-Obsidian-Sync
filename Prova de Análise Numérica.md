@@ -345,3 +345,5 @@ end
 // Imprimir o resultado
 disp("f(x) =", f(x_critico), "em x =", x_critico);
 ```
+
+A partir derivada primeira podemos descobrir o ponto crítico em interesse a part
