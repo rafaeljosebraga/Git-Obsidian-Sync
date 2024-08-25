@@ -255,33 +255,33 @@ coeficiente b : esse coeficiente é positivo, afetando a parabola inclinando ela
 coeficiente c : é possivel ver que a parabola tem y=-5 quando x=0.
 
 <h2>Questão 3</h2>
-
+Começo da questão.
 <h3>Letra A</h3>
-```
-function [x, iter]=metodo_iterativo(A, b, x0, err_r)
-    // I é a matriz identidade
-    I = eye(A); 
-    // Calcula (I + A)
-    M = I + A;
-    
-    x = x0;
-    iter = 0;
-    erro = err_r+1; // Inicializa o erro com um valor maior que a tolerância
 
-    while erro > err_r
-        x_anterior = x;
-        x = M * x_anterior - b;
-        
-        // Calcula o erro relativo
-        erro = norm(x - x_anterior) / norm(x); 
-        //disp(erro);
-        iter = iter + 1;
-    end
+function [x, iter]=metodo_iterativo(A, b, x0, err_r)
+// I é a matriz identidade
+I = eye(A); 
+// Calcula (I + A)
+M = I + A;
+
+x = x0;
+iter = 0;
+// Inicializa o erro com um valor maior que a tolerância
+erro = err_r+1; 
+   while erro > err_r
+    x_anterior = x;
+    x = M * x_anterior - b;
+    // Calcula o erro relativo
+    erro = norm(x - x_anterior) / norm(x); 
+    //disp(erro);
+    iter = iter + 1;
+end
 endfunction
-```
+
+
 
 <h3>Letra B</h3>
-
+Segue o Código:
 ```
 // Define a matriz A e o vetor b
 A = [-1.3, 0.3; 0.5, -0.5];
@@ -307,6 +307,8 @@ disp(iter);
 Este método iterativo é simples e se mostrou eficiente para o caso apresentado, onde foi necessário apenas 17 iterações.
 ``
 <h2>Questão 4</h2>
+Segue o Código:
+
 ```
 //Método Iterativo de Newton Raphson
 function x=newton_raphson(f, df, x0, tol)
@@ -351,7 +353,8 @@ end
 disp("f(x) =", f(x_critico), "em x =", x_critico);
 ```
 
-A partir derivada primeira podemos descobrir o ponto crítico em interesse a partir do método iterativo de Newton Raphson, depois precisamos apenas verificar com a derivada segunda se é um máximo/mínimo local ou ponto de sela
+
+A partir da derivada primeira podemos descobrir o ponto crítico em interesse a partir do método iterativo de Newton Raphson, depois precisamos apenas verificar com a derivada segunda se é um máximo/mínimo local ou ponto de sela
 
 assim nosso código retorna.
 
@@ -364,6 +367,7 @@ assim nosso código retorna.
   em x = 2.470582799028367
 
 <h2>Questão 5</h2>
+Segue o Código:
 
 ```
 function [x, erro]=raiz(a, p, x0, tol)
@@ -396,6 +400,8 @@ printf("\n\nResultado da raiz %d de %d: %f", p, a, Raiz);
 
 printf("\nErro relativo final: %f", erro);
 ```
+``
+
 Utilizando o método iterativo dado pela questão com o chute inicial sendo 1 e a tolerância dada pelo problema 10e-3 
 
 é retornado pelo código:
