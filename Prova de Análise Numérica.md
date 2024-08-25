@@ -308,6 +308,7 @@ Este método iterativo é simples e se mostrou eficiente para o caso apresentado
 
 <h2>Questão 4</h2>
 ```
+//Método Iterativo de Newton Raphson
 function x=newton_raphson(f, df, x0, tol)
     x = x0;
     while abs(f(x)) > tol
@@ -315,7 +316,7 @@ function x=newton_raphson(f, df, x0, tol)
     end
 endfunction
 
-// Definir a função, sua derivada e a derivada segunda
+//A função, sua derivada e a derivada segunda
 function y=f(x)
     y = x*(3 - exp(x/4));
 endfunction
@@ -336,6 +337,8 @@ tol = 1e-3;
 x_critico = newton_raphson(df, ddf, x0, tol);
 
 // Verificar se é um máximo
+if ddf(x_critico)==0 then
+
 if ddf(x_critico) < 0 then
     disp("O ponto x =", x_critico, "é um máximo local de f(x).");
 else
@@ -346,4 +349,4 @@ end
 disp("f(x) =", f(x_critico), "em x =", x_critico);
 ```
 
-A partir derivada primeira podemos descobrir o ponto crítico em interesse a part
+A partir derivada primeira podemos descobrir o ponto crítico em interesse a partir do método iterativo de Newton Raphson, depois precisamos apenas verificar com a derivada segunda se é um máximo/mínimo local ou ponto de sela caso 
