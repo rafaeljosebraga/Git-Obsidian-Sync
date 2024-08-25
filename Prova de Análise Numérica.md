@@ -37,7 +37,7 @@ A= a nossa matriz com as variáveis.
 b= o vetor de termos independentes.
 
 Utilizando a decomposição LU disponível pelo scilab o código permanece com esta aparência
-```
+
 A = [ 4  -1   0  -1   0   0   0   0   0;
      -1   4  -1   0  -1   0   0   0   0;
       0  -1   4   0   0  -1   0   0   0;
@@ -54,7 +54,7 @@ b = [ 150; 100; 150;  50;   0;  50;  50;   0;  50 ];
 y = L\b;
 x = U\y;
 disp(x);
-```
+
 
 Aqui está o resultado da resolução do sistema de $T_1$ até $T_9$:
    67.857143
@@ -86,10 +86,10 @@ A = [ 4  -1   0  -1   0   0   0   0   0;
 b = [ 150; 100; 150;  50;   0;  50;  50;   0;  50 ];
 
 function [x, iter]=gauss_seidel(A, b, x0, tol, max_iter)
-    n = length(b);
-    x = x0;
-    for iter = 1:max_iter
-        x_old = x;
+n = length(b);
+x = x0;
+   for iter = 1:max_iter
+    x_old = x;
         for i = 1:n
             sigma = 0;
             for j = 1:n
@@ -100,7 +100,7 @@ function [x, iter]=gauss_seidel(A, b, x0, tol, max_iter)
             x(i) = (b(i) - sigma) / A(i, i);
         end
         
-        // Imprime a solução a cada iteração
+	    // Imprime a solução a cada iteração
         //printf("Iteração %d: ", iter);
         disp(x);
         
@@ -109,7 +109,7 @@ function [x, iter]=gauss_seidel(A, b, x0, tol, max_iter)
         end
     end
 endfunction
-
+```
 // Parâmetros iniciais
 x0 = zeros(9, 1); // Chute inicial
 tol = 1e-5; // Tolerância
@@ -121,7 +121,7 @@ max_iter = 1000; // Número máximo de iterações
 // Mostrar as soluções e o número de iterações
 disp(x_gs, "Temperaturas nos nós internos usando Gauss-Seidel:");
 disp(iter_gs, "Número de iterações:");
-```
+
 com 30 iterações chegamos ao mesmo resultado da letra A
 
   "Temperaturas nos nós internos usando Gauss-Seidel:"
@@ -156,8 +156,8 @@ fazemos a troca de linha da linha 1 e a linha 3, pois 4 é o nosso maior pivô, 
 $$\begin{bmatrix} 1&-1&1\\1&1&1\\4&2&1 \end{bmatrix}\begin{bmatrix}-3\\-1\\9\end{bmatrix}$$
 
 $$\begin{bmatrix} 4&2&1\\1&1&1\\1&-1&1 \end{bmatrix}\begin{bmatrix}9\\-1\\-3\end{bmatrix}$$
-
 ```
+
 function [x, iter]=gauss_seidel(A, b, x0, tol, max_iter)
     n = length(b);
     x = x0;
@@ -200,8 +200,8 @@ x0 = zeros(3, 1);
 disp(result);
 disp("Quantidade de iteraçoes: ");
 disp(qtdIter);
-
 ```
+
 o resultado retornado pela método iterativo de Gauss-Seidel é 
 
    2.9999943
@@ -213,7 +213,7 @@ o vetor converge a estes valores após 40 iterações
 <h3>Letra B</h3>
 
 Código para plotar o gráfico na tela:
-```
+
 a = result(1);
 b = result(2);
 c = result(3);
@@ -237,7 +237,7 @@ plot(X, eixoYPoli, 'b-');
 plot(eixoX, eixoY, 'ro');
 legend('Polinomio', 'Pontos fornecidos');
 
-```
+
 
 a interpretação do resultado é literalmente o fato de que são os coeficientes da parabola
 
@@ -282,7 +282,7 @@ endfunction
 
 <h3>Letra B</h3>
 Segue o Código:
-```
+
 // Define a matriz A e o vetor b
 A = [-1.3, 0.3; 0.5, -0.5];
 b = [1; 0];
@@ -298,7 +298,7 @@ disp("Solução encontrada:");
 disp(x);
 disp("Número de iterações:");
 disp(iter);
-```
+
   Solução encontrada pelo método iterativo é:
 
   -0.999420490293576
@@ -309,7 +309,6 @@ Este método iterativo é simples e se mostrou eficiente para o caso apresentado
 <h2>Questão 4</h2>
 Segue o Código:
 
-```
 //Método Iterativo de Newton Raphson
 function x=newton_raphson(f, df, x0, tol)
     x = x0;
@@ -339,7 +338,7 @@ tol = 1e-3;
 x_critico = newton_raphson(df, ddf, x0, tol);
 
 // Verificar se é um máximo
-if ddf(x_critico)==0 then
+if ddf(x_critico)== 0 then
 	disp("O ponto x =", x_critico, "é uma sela de f(x).");
 	return;
 end
@@ -351,8 +350,9 @@ end
 
 // Imprimir o resultado
 disp("f(x) =", f(x_critico), "em x =", x_critico);
-```
 
+
+<h3>Resposta</h3>
 
 A partir da derivada primeira podemos descobrir o ponto crítico em interesse a partir do método iterativo de Newton Raphson, depois precisamos apenas verificar com a derivada segunda se é um máximo/mínimo local ou ponto de sela
 
@@ -367,9 +367,10 @@ assim nosso código retorna.
   em x = 2.470582799028367
 
 <h2>Questão 5</h2>
+
 Segue o Código:
 
-```
+
 function [x, erro]=raiz(a, p, x0, tol)
     x = x0;
     x_anterior = 0;
@@ -391,16 +392,13 @@ p = 15; // Índice da raiz
 x0 = 1; // Chute inicial 
 tol = 10e-3; // Tolerância
 [Raiz, erro] = raiz(a, p, x0, tol);
-
-  
-
 // Resultado
 
-printf("\n\nResultado da raiz %d de %d: %f", p, a, Raiz);
+printf("Resultado da raiz %d de %d: %f", p, a, Raiz);
 
 printf("\nErro relativo final: %f", erro);
-```
-``
+
+<h3>Resposta</h3>
 
 Utilizando o método iterativo dado pela questão com o chute inicial sendo 1 e a tolerância dada pelo problema 10e-3 
 
