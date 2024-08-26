@@ -23,9 +23,11 @@
             "id": "e00b5a6d4863e097",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
               }
             }
           },
@@ -203,6 +205,7 @@
   },
   "active": "e00b5a6d4863e097",
   "lastOpenFiles": [
+    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Espaço nulo.md",
     "Algebra linear/Algebra Linear.md",
     "Algebra linear/Autovalores e Autovetores.md",
@@ -241,7 +244,6 @@
     "imagens utilizadas/Pasted image 20240822085334.png",
     "imagens utilizadas/Pasted image 20240822084822.png",
     "Excalidraw",
-    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
