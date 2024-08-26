@@ -44,42 +44,6 @@ endfunction
 
 
 // (a)
-A = [1 0 0; 1 1 0; -1 -1 1; -2 0 -2];
+A=[1 0 0;1 1 0;-1 -1 1;-2 0 -2];
 [kernel_a, image_a] = nucleo_imagem(A);
-
-disp("Matriz (a):")
-disp("Núcleo:")
-disp(kernel_a)
-disp("Imagem:")
-disp(image_a)
-
-
-// (b)
-A = [1 0 -3; 0 -1 -2; 1 2 4 -5];
-[kernel_b, image_b] = nucleo_imagem(A);
-
-disp("Matriz (b):")
-disp("Núcleo:")
-disp(kernel_b)
-disp("Imagem:")
-disp(image_b)
-
-// (c)
-A = [1 2 3 4; 9 10 11 12; 5 6 7 8; -13 -14 -15 -16];
-[kernel_c, image_c] = nucleo_imagem(A);
-
-disp("Matriz (c):")
-disp("Núcleo:")
-disp(kernel_c)
-disp("Imagem:")
-disp(image_c)
-
-// (d)
-A = [1 -1 1 -1 1; -1 1 -1 1 -1];
-[kernel_d, image_d] = nucleo_imagem(A);
-
-disp("Matriz (d):")
-disp("Núcleo:")
-disp(kernel_d)
-disp("Imagem:")
-disp(image_d)
+disp(kernel_a,image_a);
