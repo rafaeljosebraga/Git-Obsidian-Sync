@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md",
+                "file": "Algebra linear/Algebra Linear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e00b5a6d4863e097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Espaço nulo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md",
+                "file": "Espaço nulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md",
+                "file": "Espaço nulo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md"
+                "file": "Espaço nulo.md"
               }
             }
           },
@@ -190,15 +203,25 @@
       }
     ]
   },
-  "active": "c2638b0701f4dcd8",
+  "active": "e00b5a6d4863e097",
   "lastOpenFiles": [
+    "Algebra linear/Algebra Linear.md",
+    "Espaço nulo.md",
+    "Algebra linear/Autovalores e Autovetores.md",
+    "Algebra linear/Espaço vetorial.md",
+    "Algebra linear/Interpolação.md",
+    "Algebra linear/Núcleo e Imagem.md",
+    "Algebra linear/transformações lineares.md",
+    "Algebra linear/Sintese Algebra linear.md",
+    "Algebra linear/Posto e Nulidade.md",
+    "Algebra linear/Ortogonalidade.md",
+    "Síntese aula de POO conexão MySQL.md",
     "Janela gráfica número 0.png",
     "imagens utilizadas/Pasted image 20240824164505.png",
     "Pasted Image 20240823163542_255.jpg",
     "Prova de Análise Numérica.md",
     "Banco de Dados/Normalização.md",
     "Sem título.md",
-    "Untitled.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
@@ -209,23 +232,13 @@
     "imagens utilizadas/circulo-trigonometrico-seno-cosseno-2.webp",
     "imagens utilizadas/Pasted image 20240822111842.png",
     "imagens utilizadas/resolucao_da_lista_normalizacao.png",
-    "Síntese aula de POO conexão MySQL.md",
     "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
     "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
-    "Algebra linear/transformações lineares.md",
-    "Algebra linear/Espaço vetorial.md",
-    "Algebra linear/Interpolação.md",
     "Excalidraw/Drawn.md",
     "Atividade para casa.md",
     "Atividade Álgebra Relacional.md",
     "().md",
-    "Algebra linear/Sintese Algebra linear.md",
-    "Algebra linear/Ortogonalidade.md",
     "legal.md",
-    "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Autovalores e Autovetores.md",
-    "Algebra linear/Algebra Linear.md",
     "imagens utilizadas/Pasted Image 20240822085556_554.png",
     "imagens utilizadas/Pasted image 20240822085334.png",
     "imagens utilizadas/Pasted image 20240822084822.png",
