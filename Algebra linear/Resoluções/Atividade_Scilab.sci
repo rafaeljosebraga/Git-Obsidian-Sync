@@ -18,7 +18,7 @@ A=[1 -1 1 -1 1;-1 1 -1 1 -1]
 disp(A);
 disp("Forma de escada reduzida")
 disp(rref(A));
-
+clc;
 
 function [kernel, image] = nucleo_imagem(A)
     // Calcula o núcleo da matriz A
@@ -44,6 +44,7 @@ endfunction
 
 
 // (a)
+disp("Matriz A");
 A=[1 0 0;1 1 0;-1 -1 1;-2 0 -2];
 [kernel_a, image_a] = nucleo_imagem(A);
 disp(kernel_a,image_a);
@@ -52,11 +53,10 @@ A=[1 0 -3 2;0 -1 -2 2;1 2 4 -5];
 [kernel_a, image_a] = nucleo_imagem(A);
 disp(kernel_a,image_a);
 disp("Matriz A");
-A=[1 2 3 4;9 10 11 12;5 6 7 8;-13 -14 -15 -16]
+A=[1 2 3 4;9 10 11 12;5 6 7 8;-13 -14 -15 -16];
 [kernel_a, image_a] = nucleo_imagem(A);
 disp(kernel_a,image_a);
 disp("Matriz A");
-A=[1 -1 1 -1 1;-1 1 -1 1 -1]
+A=[1 -1 1 -1 1;-1 1 -1 1 -1];
 [kernel_a, image_a] = nucleo_imagem(A);
 disp(kernel_a,image_a);
-disp("Matriz A");
