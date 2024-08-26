@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0bcdc44cd8d581",
+        "id": "fc2696cf7197881e",
         "type": "tabs",
         "children": [
           {
-            "id": "70195167103446bd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Análise Numerica/calculo_numerico.pdf"
-              }
-            }
-          },
-          {
-            "id": "30177953796a4a6f",
+            "id": "c2638b0701f4dcd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prova de Análise Numérica.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prova de Análise Numérica.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prova de Análise Numérica.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prova de Análise Numérica.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
               }
             }
           },
@@ -166,24 +155,67 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "floating": {
+    "id": "63b6b03df30c0bbc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5096c2ee6d46d8fa",
+        "type": "window",
+        "children": [
+          {
+            "id": "1201878f4fcb8d35",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ef5b58aafd05d3c",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Janela gráfica número 0.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c2638b0701f4dcd8",
   "lastOpenFiles": [
+    "Análise Numerica/calculo_numerico.pdf",
+    "Banco de Dados/Normalização.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Prova de Análise Numérica.md",
+    "Excalidraw/Drawing 2024-08-25 11.47.59.excalidraw.md",
+    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
+    "Banco de Dados/Trabalho 2 BD.md",
     "Janela gráfica número 0.png",
+    "Prova de Análise Numérica.md",
     "Pasted image 20240824164505.png",
+    "Pasted Image 20240823163542_255.jpg",
+    "imagens utilizadas/Pasted image 20240704111814.png",
+    "imagens utilizadas/circulo-trigonometrico-seno-cosseno-2.webp",
+    "imagens utilizadas/Pasted image 20240822111842.png",
+    "imagens utilizadas/resolucao_da_lista_normalizacao.png",
     "Sem título.md",
     "Untitled.md",
     "Síntese aula de POO conexão MySQL.md",
     "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
     "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
-    "Análise Numerica/calculo_numerico.pdf",
     "Algebra linear/transformações lineares.md",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Interpolação.md",
     "Excalidraw/Drawn.md",
-    "Pasted Image 20240823163542_255.jpg",
     "Atividade para casa.md",
     "Atividade Álgebra Relacional.md",
     "().md",
@@ -194,17 +226,9 @@
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Algebra Linear.md",
-    "Banco de Dados/Trabalho 2 BD.md",
-    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
-    "conflict-files-obsidian-git.md",
-    "imagens utilizadas/Pasted image 20240822111842.png",
     "imagens utilizadas/Pasted Image 20240822085556_554.png",
     "imagens utilizadas/Pasted image 20240822085334.png",
     "imagens utilizadas/Pasted image 20240822084822.png",
-    "imagens utilizadas/Pasted image 20240822084333.png",
-    "imagens utilizadas/Pasted image 20240822084001.png",
-    "imagens utilizadas/Pasted image 20240822083332.png",
-    "Excalidraw/Drawing 2024-08-21 12.06.22.excalidraw.md",
     "Excalidraw",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",

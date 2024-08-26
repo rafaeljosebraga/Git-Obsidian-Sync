@@ -1,4 +1,4 @@
-$$\begin{bmatrix}\end{bmatrix}$$
+
 Aluno: Rafael José Braga Coelho
 <h2>Questão 1</h2>
 
@@ -37,6 +37,7 @@ A= a nossa matriz com as variáveis.
 b= o vetor de termos independentes.
 
 Utilizando a decomposição LU disponível pelo scilab o código permanece com esta aparência
+```
 
 A = [ 4  -1   0  -1   0   0   0   0   0;
      -1   4  -1   0  -1   0   0   0   0;
@@ -54,7 +55,7 @@ b = [ 150; 100; 150;  50;   0;  50;  50;   0;  50 ];
 y = L\b;
 x = U\y;
 disp(x);
-
+```
 
 Aqui está o resultado da resolução do sistema de $T_1$ até $T_9$:
    67.857143
