@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f56ee701319834c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md"
               }
             }
           },
@@ -203,8 +214,10 @@
       }
     ]
   },
-  "active": "e00b5a6d4863e097",
+  "active": "5f56ee701319834c",
   "lastOpenFiles": [
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Espaço nulo.md",
     "Algebra linear/Algebra Linear.md",
@@ -225,7 +238,6 @@
     "Sem título.md",
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Análise Numerica/calculo_numerico.pdf",
     "Excalidraw/Drawing 2024-08-25 11.47.59.excalidraw.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
