@@ -23,11 +23,9 @@
             "id": "e00b5a6d4863e097",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Espaço nulo.md",
-                "mode": "source",
-                "source": false
+                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Espaço nulo.md",
+                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Espaço nulo.md",
+                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Espaço nulo.md"
+                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf"
               }
             }
           },
@@ -205,8 +203,8 @@
   },
   "active": "e00b5a6d4863e097",
   "lastOpenFiles": [
-    "Algebra linear/Algebra Linear.md",
     "Espaço nulo.md",
+    "Algebra linear/Algebra Linear.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Interpolação.md",
