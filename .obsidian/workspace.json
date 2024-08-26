@@ -37,7 +37,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md"
+                "file": "Excalidraw/Drawn.md"
               }
             }
           }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md",
+                "file": "Excalidraw/Drawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md",
+                "file": "Excalidraw/Drawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md"
+                "file": "Excalidraw/Drawn.md"
               }
             }
           },
@@ -216,8 +215,12 @@
   },
   "active": "5f56ee701319834c",
   "lastOpenFiles": [
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
+    "Excalidraw/Drawn.md",
     "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-25 11.47.59.excalidraw.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Espaço nulo.md",
     "Algebra linear/Algebra Linear.md",
@@ -239,15 +242,11 @@
     "Banco de Dados/Trabalho 2 BD.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/calculo_numerico.pdf",
-    "Excalidraw/Drawing 2024-08-25 11.47.59.excalidraw.md",
     "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "imagens utilizadas/Pasted image 20240704111814.png",
     "imagens utilizadas/circulo-trigonometrico-seno-cosseno-2.webp",
     "imagens utilizadas/Pasted image 20240822111842.png",
     "imagens utilizadas/resolucao_da_lista_normalizacao.png",
-    "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
-    "Excalidraw/Drawn.md",
     "Atividade para casa.md",
     "Atividade Álgebra Relacional.md",
     "().md",
