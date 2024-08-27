@@ -180,43 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "63b6b03df30c0bbc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5096c2ee6d46d8fa",
-        "type": "window",
-        "children": [
-          {
-            "id": "1201878f4fcb8d35",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4ef5b58aafd05d3c",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Janela gráfica número 0.png"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "5f56ee701319834c",
   "lastOpenFiles": [
+    "Janela gráfica número 0.png",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "produto interno.md",
     "produto escalar.md",
     "Sem título.md",
@@ -242,7 +209,6 @@
     "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
     "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md",
     "Excalidraw/Drawing 2024-08-25 11.47.59.excalidraw.md",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Espaço nulo.md",
     "Algebra linear/Algebra Linear.md",
@@ -250,8 +216,6 @@
     "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Interpolação.md",
     "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/transformações lineares.md",
-    "Janela gráfica número 0.png",
     "imagens utilizadas/Pasted image 20240824164505.png",
     "Pasted Image 20240823163542_255.jpg",
     "Banco de Dados/Fundamentals of Database Systems.pdf",

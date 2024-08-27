@@ -66,6 +66,7 @@ disp(rref(A));
 disp(kernel_a,image_a);
 clear;
 clc;
+
 function T = matriz_transformacao(A, B, B1)
     // (a) Forma as matrizes B e B1 cujas as colunas são os vetores das bases dadas.
     // Assumindo que B e B1 já são fornecidas como matrizes com vetores colunares.
@@ -89,3 +90,16 @@ B1=[1 0 1;1 1 0;0 1 1];
 A=[1 1 0;1 0 1]';
 T=matriz_transformacao(A, B, B1);
 disp(T)
+//Autovetores e Autovalores.
+clear;
+clc;
+//Questão número 1 feita.
+A = [2 3;1 4];
+p=poly(A, 'x');
+disp(p);
+A = [1 2 -2; -2 5 -2; -6 6 -3];
+p=poly(A, 'x');
+disp(p);
+A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
+p=poly(A, 'x');
+disp(p);
