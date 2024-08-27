@@ -54,9 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8759ea25cc9ce321",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Mudança de Coordenadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Mudança de Coordenadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "Mudança de Coordenadas.md"
               }
             }
           },
@@ -192,8 +200,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59114d463decef25",
+  "active": "8759ea25cc9ce321",
   "lastOpenFiles": [
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Banco de Dados/Álgebra Relacional.md",
     "Análise Numerica/intro_an_num.pdf",
     "Análise Numerica/rtCA - algoritimos.pdf",
@@ -235,7 +244,6 @@
     "Sintese Algebra linear.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Espaço vetorial.md",
-    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Excalidraw",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
