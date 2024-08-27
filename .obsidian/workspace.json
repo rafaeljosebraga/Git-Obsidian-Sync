@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "df76fa8571ebd270",
+        "id": "02082d9806ba08ee",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea61b9085e889e3",
+            "id": "680c0ecb653c2fd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sintese Algebra linear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e6f2f7b765858af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "produto escalar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dd9452d052faeb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "produto interno.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c4defdfaea93980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ortogonalidade.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "produto interno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "produto interno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "produto interno.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,12 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4dd9452d052faeb9",
+  "active": "680c0ecb653c2fd9",
   "lastOpenFiles": [
-    "produto escalar.md",
-    "Sintese Algebra linear.md",
     "Ortogonalidade.md",
     "produto interno.md",
+    "produto escalar.md",
+    "Sintese Algebra linear.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Síntese aula de POO conexão MySQL.md",
     "Espaço vetorial.md",
