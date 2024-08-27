@@ -94,12 +94,22 @@ disp(T)
 clear;
 clc;
 //Questão número 1 feita.
+//A
 A = [2 3;1 4];
 p=poly(A, 'x');
-disp(p);
+disp("polinomio caracteristico",p);
+r=roots(p);
+disp("raiz do polinomio",r);
+//B
 A = [1 2 -2; -2 5 -2; -6 6 -3];
 p=poly(A, 'x');
-disp(p);
+disp("polinomio caracteristico",p);
+r=roots(p);
+disp("raiz do polinomio",r);
+
+//C
 A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
 p=poly(A, 'x');
-disp(p);
+disp("polinomio caracteristico",p);
+r=roots(p);
+disp("raiz do polinomio",r);
