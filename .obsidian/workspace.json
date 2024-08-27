@@ -11,8 +11,12 @@
             "id": "680c0ecb653c2fd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -148,6 +156,24 @@
   },
   "active": "680c0ecb653c2fd9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "imagens utilizadas/Pasted image 20240824164505.png",
+    "imagens utilizadas/Pasted image 20240822111842.png",
+    "imagens utilizadas/Pasted image 20240822085334.png",
+    "imagens utilizadas/Pasted image 20240822084822.png",
+    "imagens utilizadas/Pasted image 20240822084333.png",
+    "imagens utilizadas/Pasted image 20240822084001.png",
+    "imagens utilizadas/Pasted image 20240822083332.png",
+    "imagens utilizadas/Pasted image 20240822083032.png",
+    "imagens utilizadas/Pasted image 20240822082957.png",
+    "imagens utilizadas/Pasted image 20240822082238.png",
+    "Prova de Análise Numérica.md",
+    "Espaço nulo.md",
+    "Algebra linear/Sintese Algebra linear.md",
+    "Algebra linear/Resoluções/Atividade_Scilab.sci",
+    "Algebra linear/Ortogonalidade.md",
+    "Algebra linear/Interpolação.md",
+    "Algebra linear/Espaço vetorial.md",
     "Ortogonalidade.md",
     "produto interno.md",
     "produto escalar.md",
@@ -155,18 +181,7 @@
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Síntese aula de POO conexão MySQL.md",
     "Espaço vetorial.md",
-    "Pasted image 20240822111842.png",
     "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
-    "Pasted Image 20240822085556_554.png",
-    "Pasted image 20240822085334.png",
-    "Pasted image 20240822084822.png",
-    "Pasted image 20240822084333.png",
-    "Pasted image 20240822084001.png",
-    "Pasted image 20240822083332.png",
-    "Pasted Image 20240822083055_367.png",
-    "Pasted image 20240822083032.png",
-    "Pasted image 20240822082957.png",
-    "conflict-files-obsidian-git.md",
     "legal.md",
     "Banco de Dados/Álgebra Relacional.md",
     "Atividade Álgebra Relacional.md",
@@ -180,22 +195,14 @@
     "Excalidraw/Drawing 2024-08-21 12.06.22.excalidraw.md",
     "Excalidraw",
     "Análise Numerica/Aula 7/Sintese.md",
-    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
-    "Algebra linear/transformações lineares.md",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento",
-    "Análise Numerica/Atividade de Analise Numerica.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
-    "Análise Numerica/Método das potencias.md",
-    "Análise Numerica/Atividade Análise Numérica.md",
     "Análise Numerica/Aula 7/Slides.pdf",
-    "Algebra linear/Resoluções/Prova Algebra Linear.md",
-    "Algebra linear/Posto e Nulidade.md",
     "interpolacao.sce~",
     "interpolacao.sce",
     "Análise Numerica/AulaInterpolação/interpolacao.sce~",
-    "Análise Numerica/AulaInterpolação/interpolacao.sce",
     "Banco de Dados/2-relacional.canvas",
     "Banco de Dados/1-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",

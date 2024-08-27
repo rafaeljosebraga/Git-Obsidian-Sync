@@ -1,5 +1,7 @@
 [
   "various-complements",
-  "obsidian-git",
-  "better-export-pdf"
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc",
+  "better-export-pdf",
+  "obsidian-git"
 ]
