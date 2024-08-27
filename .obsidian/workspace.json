@@ -56,11 +56,13 @@
             }
           },
           {
-            "id": "8759ea25cc9ce321",
+            "id": "8619f94db1654522",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md"
+              }
             }
           }
         ],
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mudança de Coordenadas.md",
+                "file": "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mudança de Coordenadas.md",
+                "file": "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mudança de Coordenadas.md"
+                "file": "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md"
               }
             }
           },
@@ -200,9 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8759ea25cc9ce321",
+  "active": "8619f94db1654522",
   "lastOpenFiles": [
     "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
+    "imagens utilizadas/Pasted image 20240806230841.png",
     "Banco de Dados/Álgebra Relacional.md",
     "Análise Numerica/intro_an_num.pdf",
     "Análise Numerica/rtCA - algoritimos.pdf",
@@ -236,14 +240,12 @@
     "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
     "conflict-files-obsidian-git.md",
     "imagens utilizadas/Pasted image 20240824164505.png",
-    "imagens utilizadas/Pasted image 20240822111842.png",
     "Algebra linear/Resoluções/Atividade_Scilab.sci",
     "Algebra linear/Interpolação.md",
     "Algebra linear/Espaço vetorial.md",
     "Ortogonalidade.md",
     "Sintese Algebra linear.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
-    "Espaço vetorial.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Excalidraw",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",

@@ -1,4 +1,4 @@
-	Vou atribuir a ideia de uma a #relação a uma Tabela
+Vou atribuir a ideia de uma a #relação a uma Tabela
 ![[Pasted image 20240806230841.png]]
 
 tabela esta que é composta de Atributos valorados e definidos a partir de seus domínios definidos dentro das {.,.,.} nas tuplas.
