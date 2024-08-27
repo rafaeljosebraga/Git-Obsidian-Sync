@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5060abb6604a3995",
+        "id": "fc2696cf7197881e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a4030c19f6fb05",
+            "id": "c2638b0701f4dcd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Algebra linear/Algebra Linear.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "06f9a47172393867",
+            "id": "e00b5a6d4863e097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f56ee701319834c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
               }
             }
           },
@@ -159,70 +171,103 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06f9a47172393867",
+  "floating": {
+    "id": "63b6b03df30c0bbc",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5096c2ee6d46d8fa",
+        "type": "window",
+        "children": [
+          {
+            "id": "1201878f4fcb8d35",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ef5b58aafd05d3c",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Janela gráfica número 0.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5f56ee701319834c",
   "lastOpenFiles": [
-    "Banco de Dados/Álgebra Relacional.md",
-    "Linguagem declarativa.md",
-    "SQL.md",
-    "Componentes Funcionais do SGBD.md",
-    "Aula de BD Síntese.md",
-    "Aula Banco deDados..md",
-    "Sem título.md",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
-    "Algebra linear/Ortogonalidade.md",
-    "Algebra linear/Sintese Algebra linear.md",
-    "Mudança de Coordenadas.md",
-    "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
-    "imagens utilizadas/Pasted image 20240806230841.png",
-    "Análise Numerica/intro_an_num.pdf",
-    "Análise Numerica/rtCA - algoritimos.pdf",
-    "Análise Numerica/calculo_numerico.pdf",
-    "Análise Numerica/Atividade de Analise Numerica.md",
-    "Análise Numerica/Atividade Análise Numérica.md",
-    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
-    "Atividade Álgebra Relacional.md",
-    "Atividade para casa.md",
-    "Base ortogonal.md",
-    "Coordenadas Polares.md",
-    "Espaço nulo.md",
-    "Janela gráfica número 0.png",
-    "legal.md",
-    "produto escalar.md",
     "produto interno.md",
-    "Prova de Análise Numérica.md",
-    "Síntese aula de POO conexão MySQL.md",
+    "produto escalar.md",
+    "Sem título.md",
+    "SQL.md",
     "Pasted image 20240827111749.png",
-    "Algebra linear/transformações lineares.md",
     "Pasted image 20240827103724.png",
     "Pasted image 20240827103308.png",
     "Pasted image 20240827102205.png",
     "Pasted image 20240827100520.png",
     "Pasted image 20240827100008.png",
     "Pasted image 20240827100000.png",
-    "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
-    "imagens utilizadas/Pasted image 20240824164505.png",
-    "Algebra linear/Resoluções/Atividade_Scilab.sci",
+    "Mudança de Coordenadas.md",
+    "Linguagem declarativa.md",
+    "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
+    "Coordenadas Polares.md",
+    "Componentes Funcionais do SGBD.md",
+    "Base ortogonal.md",
+    "Aula de BD Síntese.md",
+    "Aula Banco deDados..md",
+    "Excalidraw/Drawn.md",
+    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-23 13.05.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-26 18.03.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-08-25 11.47.59.excalidraw.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+    "Espaço nulo.md",
+    "Algebra linear/Algebra Linear.md",
+    "Algebra linear/Autovalores e Autovetores.md",
+    "Algebra linear/Espaço vetorial.md",
+    "Algebra linear/Interpolação.md",
+    "Algebra linear/Núcleo e Imagem.md",
+    "Algebra linear/transformações lineares.md",
+    "Janela gráfica número 0.png",
+    "imagens utilizadas/Pasted image 20240824164505.png",
+    "Pasted Image 20240823163542_255.jpg",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Análise Numerica/calculo_numerico.pdf",
     "Excalidraw",
-    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento",
-    "Análise Numerica/Aula 7/Slides.pdf",
-    "Banco de Dados/2-relacional.canvas",
-    "Banco de Dados/1-relacional.canvas",
+    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
+    "interpolacao.sce",
+    "Análise Numerica/AulaInterpolação/interpolacao.sce",
+    "Análise Numerica/AulaInterpolação",
+    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
+    "Análise Numerica/intro_an_num.pdf",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
