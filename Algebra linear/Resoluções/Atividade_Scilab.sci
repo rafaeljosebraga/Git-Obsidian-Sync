@@ -85,3 +85,7 @@ endfunction
 
 B=[1 0;-1 1];
 B1=[1 0 1;1 1 0;0 1 1];
+//A é a canonica trasnposta
+A=[1 1 0;1 0 1]';
+T=matriz_transformacao(A, B, B1);
+disp(T)
