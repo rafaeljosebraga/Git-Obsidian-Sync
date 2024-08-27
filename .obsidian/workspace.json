@@ -20,60 +20,24 @@
             }
           },
           {
-            "id": "7e5b9cdebf760871",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coordenadas Polares.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6032ca01bf51ed16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mudança de Coordenadas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cd4fa5950a2b18c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coordenadas Polares.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e3ffe4a73ebca21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mudança de Coordenadas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79d11fc8c3a2565b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Algebra linear/Sintese Algebra linear.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d15b1ac6c6647579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra linear/Ortogonalidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,15 +194,15 @@
   },
   "active": "59114d463decef25",
   "lastOpenFiles": [
+    "Algebra linear/Ortogonalidade.md",
     "Algebra linear/Sintese Algebra linear.md",
+    "Mudança de Coordenadas.md",
     "Ortogonalidade Matricial.md",
+    "Coordenadas Polares.md",
     "Pasted image 20240827111749.png",
     "Algebra linear/transformações lineares.md",
-    "Mudança de Coordenadas.md",
-    "Coordenadas Polares.md",
     "produto escalar.md",
     "produto interno.md",
-    "Algebra linear/Ortogonalidade.md",
     "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
     "Pasted image 20240827103724.png",
     "Pasted image 20240827103308.png",
