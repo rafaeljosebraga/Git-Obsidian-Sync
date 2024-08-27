@@ -1,1 +1,0 @@
-[[Sintese Algebra linear]], utilizando o exemplo da regra da mão direita podemos ter uma visão sobre a necessidade de 
