@@ -1,3 +1,10 @@
+Para esta [[Mudança de Coordenadas]] vamos para a "lei de transformação" que requer
+a substituição:
+
+$x^2+y^2=R^2$
+$x=R*cos\theta$
+$y=R*cos\theta$
+
 ![[Pasted image 20240827100520.png]]
 
 ![[Pasted image 20240827100008.png]]
@@ -12,6 +19,7 @@ Desenhando nossos limites vamos ficar com esta função,mas a questão não afer
 
 onde observa-se que o nosso semiplano superior dentro dos domínios possui um angulo entre o ponto de inicio $0^o$ indo até $180^o=\pi$
 
-assim podemos definir nossa integração dupla.
+assim podemos definir nossa integração dupla utilizando o padrão de integração dado como:
+![[Pasted image 20240827103724.png]]
 
-utilizando o padrão de integração dado como:
+Dica sobre identidade trigonométrica na questão:$sen^2\theta=\frac{1}{2}(1-cos(2\theta))$
