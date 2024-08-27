@@ -88,4 +88,4 @@ assim como a junção externa a esquerda e a direita fazemos a interna porem nes
 <h3>Divisão Relacional</h3>
 utilizando simbolo da divisão lúcio passa ideia de todos basicamente todos que repetem mais de uma  
 
-O [[SQL-sequel]] é uma linguagem que utiliza a algebra relacional
+O [[SQL]] é uma linguagem que utiliza a algebra relacional

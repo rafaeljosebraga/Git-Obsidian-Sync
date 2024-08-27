@@ -1,1 +1,0 @@
-Como parte dos [[Componentes Funcionais do SGBD]] temos a Structured Query Language, como sendo a uma Linguagem declarativa/não procedural.

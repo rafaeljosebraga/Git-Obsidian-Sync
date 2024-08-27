@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL-sequel.md",
+                "file": "SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL-sequel.md",
+                "file": "SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL-sequel.md",
+                "file": "SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL-sequel.md"
+                "file": "SQL.md"
               }
             }
           },
@@ -170,9 +170,10 @@
   },
   "active": "06f9a47172393867",
   "lastOpenFiles": [
-    "Componentes Funcionais do SGBD.md",
-    "SQL-sequel.md",
     "Banco de Dados/Álgebra Relacional.md",
+    "Linguagem declarativa.md",
+    "SQL.md",
+    "Componentes Funcionais do SGBD.md",
     "Aula de BD Síntese.md",
     "Aula Banco deDados..md",
     "Sem título.md",
@@ -201,7 +202,6 @@
     "Síntese aula de POO conexão MySQL.md",
     "Pasted image 20240827111749.png",
     "Algebra linear/transformações lineares.md",
-    "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
     "Pasted image 20240827103724.png",
     "Pasted image 20240827103308.png",
     "Pasted image 20240827102205.png",
