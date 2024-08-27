@@ -112,9 +112,10 @@ clc;
 
 
 
-A = [2 3;1 4];
-A = [1 2 -2; -2 5 -2; -6 6 -3];
-A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
+A = [2 3;1 4];//diagonalizavel
+A = [1 2 -2; -2 5 -2; -6 6 -3];//diagonalizavel
+A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];//NãoDiagonalizavel
+A = [1 2 -2;2 5 0;-2 0 -3]
 //Autovetores e Autovalores.
 //A
 disp("Matriz a");
