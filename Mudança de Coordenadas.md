@@ -1,0 +1,1 @@
+Uma aplicação mais utilizada pelas [[transformações lineares]], pode ser usada pelo calculo no exemplo específico de [[Coordenadas Polares]], permitindo várias otimizações para que seja feita operações como integração de maneira mais tranquila em certos tipos de domínios e objetos contidos em no $R_n$. 
