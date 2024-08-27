@@ -23,3 +23,4 @@ assim podemos definir nossa integração dupla utilizando o padrão de integraç
 ![[Pasted image 20240827103724.png]]
 
 Dica sobre identidade trigonométrica na questão:$sen^2\theta=\frac{1}{2}(1-cos(2\theta))$
+![[Pasted image 20240827103724.png]]

@@ -44,17 +44,31 @@
             }
           },
           {
-            "id": "50f02869b50d086a",
+            "id": "2cd4fa5950a2b18c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md"
+                "file": "Coordenadas Polares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dcc2afd66168285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mudança de Coordenadas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,13 +204,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6032ca01bf51ed16",
+  "active": "7dcc2afd66168285",
   "lastOpenFiles": [
     "Coordenadas Polares.md",
+    "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
+    "Mudança de Coordenadas.md",
+    "Algebra linear/transformações lineares.md",
     "Pasted image 20240827103724.png",
     "Pasted image 20240827103308.png",
-    "Mudança de Coordenadas.md",
-    "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
     "Pasted image 20240827102205.png",
     "Pasted image 20240827100520.png",
     "Pasted image 20240827100008.png",
