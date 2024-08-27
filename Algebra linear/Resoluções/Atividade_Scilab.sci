@@ -90,26 +90,58 @@ B1=[1 0 1;1 1 0;0 1 1];
 A=[1 1 0;1 0 1]';
 T=matriz_transformacao(A, B, B1);
 disp(T)
-//Autovetores e Autovalores.
 clear;
 clc;
-//Questão número 1 feita.
+//Autovetores e Autovalores.
 //A
+disp("Matriz a");
 A = [2 3;1 4];
+//Q1
 p=poly(A, 'x');
 disp("polinomio caracteristico",p);
+//Q2
 r=roots(p);
-disp("raiz do polinomio",r);
+disp("raizes do polinomio",r);
+//Q3
+[V, D] = spec(A);
+disp("Autovetores",V,"Autovalores",D);
 //B
+disp("Matriz b");
 A = [1 2 -2; -2 5 -2; -6 6 -3];
+//Q1
 p=poly(A, 'x');
 disp("polinomio caracteristico",p);
+//Q2
 r=roots(p);
-disp("raiz do polinomio",r);
-
+disp("raizes do polinomio",r);
+//Q3
+[V, D] = spec(A);
+disp("Autovetores",V,"Autovalores",D);
 //C
+disp("Matriz c");
 A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
+//Q1
 p=poly(A, 'x');
 disp("polinomio caracteristico",p);
+//Q2
 r=roots(p);
-disp("raiz do polinomio",r);
+disp("raizes do polinomio",r);
+//Q3
+[V, D] = spec(A);
+disp("Autovetores",V,"Autovalores",D);
+clc;
+ // Definir a matriz A
+ A = [4 , -5; 2 , -3];
+// Calcular autovalores (D) e autovetores (P)
+[P , D ] = spec ( A ) ;
+// Calcular a inversa de P
+P_inv = inv( P ) ;
+// Verificar a d i a g o n a l i z a o
+AP = P_inv * A * P ;
+// Exibir os resultados
+disp (" Matriz ␣ diagonal ␣D␣( autovalores ):") ;
+disp ( D ) ;
+disp (" Matriz ␣P␣( autovetores ):") ;
+disp ( P ) ;
+disp (" V e r i f i c a o ␣de␣P^( -1)␣*␣A␣*␣P:") ;
+disp ( AP ) ;
