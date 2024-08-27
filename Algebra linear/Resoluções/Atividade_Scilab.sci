@@ -92,6 +92,29 @@ T=matriz_transformacao(A, B, B1);
 disp(T)
 clear;
 clc;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A = [2 3;1 4];
+A = [1 2 -2; -2 5 -2; -6 6 -3];
+A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
 //Autovetores e Autovalores.
 //A
 disp("Matriz a");
@@ -130,8 +153,10 @@ disp("raizes do polinomio",r);
 [V, D] = spec(A);
 disp("Autovetores",V,"Autovalores",D);
 clc;
+clear;
+
  // Definir a matriz A
- A = [4 , -5; 2 , -3];
+A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
 // Calcular autovalores (D) e autovetores (P)
 [P , D ] = spec ( A ) ;
 // Calcular a inversa de P
