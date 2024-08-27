@@ -9,6 +9,8 @@ quando o resultado é zero vamos ter um angulo de 90 graus assim afirmamos a ort
 
 
 ((Exemplificação do slide))
+![[Pasted image 20240827111749.png]]
 
 a partir de 4 axiomas que se seguidos poderemos fazer com que todos 
 
+desigualdade triangular 
