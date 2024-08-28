@@ -172,13 +172,52 @@ disp ( P ) ;
 disp (" V e r i f i c a o ␣de␣P^( -1)␣*␣A␣*␣P:") ;
 disp ( AP ) ;
 clear;clc;
+
 function MatrizResultado=calcula_Potencia_Matricial(A,p)
     //Calcula matriz de autovalores
     [P , D ] = spec ( A ) ;
+    P_inv = inv( P ) ;
     [Atam,m]=size(A);
     for i = 1:Atam
         D(i, i) = ((D(i, i))^p);
     end
-MatrizResultado=D*A;
+MatrizResultado=P*D*P_inv;
 endfunction
+A = [2 3;3 4];
+Res=calcula_Potencia_Matricial(A,2);
+disp(Res);
+Res=calcula_Potencia_Matricial(A,3);
+disp(Res);
+Res=calcula_Potencia_Matricial(A,10)
+disp(Res);
 A = [1 2 -2;2 5 0;-2 0 -3];
+Res=calcula_Potencia_Matricial(A,2);
+disp(Res);
+Res=calcula_Potencia_Matricial(A,3);
+disp(Res);
+Res=calcula_Potencia_Matricial(A,10);
+disp(Res);
+clc;
+clear;
+
+function [kernel, image] = nucleo_imagem(A)
+    // Calcula o núcleo da matriz A
+    [R, pivcol] = rref(A); 
+    kernel = [];
+    if size(pivcol, "*") < size(A, 2) then
+        kernel = zeros(size(A, 2), size(A, 2) - size(pivcol, "*"));
+        livres = setdiff(1:size(A, 2), pivcol);
+        for j = 1:size(livres, "*")
+            kernel(livres(j), j) = 1;
+            for i = 1:size(pivcol, "*")
+                kernel(pivcol(i), j) = -R(i, livres(j));
+            end
+        end
+    end
+    
+    // Calcula a imagem da matriz A
+    image = [];
+    for i = 1:size(pivcol, "*")
+        image = [image, A(:, pivcol(i))]; 
+    end
+endfunction
