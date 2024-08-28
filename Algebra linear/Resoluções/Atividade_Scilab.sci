@@ -157,7 +157,7 @@ clc;
 clear;
 
  // Definir a matriz A
-A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
+A = [1 2 -2;2 5 0;-2 0 -3]
 // Calcular autovalores (D) e autovetores (P)
 [P , D ] = spec ( A ) ;
 // Calcular a inversa de P
@@ -171,3 +171,14 @@ disp (" Matriz ␣P␣( autovetores ):") ;
 disp ( P ) ;
 disp (" V e r i f i c a o ␣de␣P^( -1)␣*␣A␣*␣P:") ;
 disp ( AP ) ;
+clear;clc;
+function MatrizResultado=calcula_Potencia_Matricial(A,p)
+    //Calcula matriz de autovalores
+    [P , D ] = spec ( A ) ;
+    [Atam,m]=size(A);
+    for i = 1:Atam
+        D(i, i) = ((D(i, i))^p);
+    end
+MatrizResultado=D*A;
+endfunction
+A = [1 2 -2;2 5 0;-2 0 -3];
