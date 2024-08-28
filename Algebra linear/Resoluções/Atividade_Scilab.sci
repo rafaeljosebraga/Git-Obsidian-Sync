@@ -20,25 +20,25 @@ disp("Forma de escada reduzida")
 disp(rref(A));
 clc;
 
-function [kernel, image] = nucleo_imagem(A)
+function [nucleo, imagem] = nucleo_imagem(A)
     // Calcula o núcleo da matriz A
     [R, pivcol] = rref(A); 
-    kernel = [];
+    nucleo = [];
     if size(pivcol, "*") < size(A, 2) then
-        kernel = zeros(size(A, 2), size(A, 2) - size(pivcol, "*"));
+        nucleo = zeros(size(A, 2), size(A, 2) - size(pivcol, "*"));
         livres = setdiff(1:size(A, 2), pivcol);
         for j = 1:size(livres, "*")
-            kernel(livres(j), j) = 1;
+            nucleo(livres(j), j) = 1;
             for i = 1:size(pivcol, "*")
-                kernel(pivcol(i), j) = -R(i, livres(j));
+                nucleo(pivcol(i), j) = -R(i, livres(j));
             end
         end
     end
     
     // Calcula a imagem da matriz A
-    image = [];
+    imagem = [];
     for i = 1:size(pivcol, "*")
-        image = [image, A(:, pivcol(i))]; 
+        imagem = [imagem, A(:, pivcol(i))]; 
     end
 endfunction
 
@@ -47,23 +47,24 @@ endfunction
 disp("Matriz A");
 A=[1 0 0;1 1 0;-1 -1 1;-2 0 -2];
 disp(rref(A));
-[kernel_a, image_a] = nucleo_imagem(A);
-disp(kernel_a,image_a);
-disp("Matriz A");
+[nucleo, imagem] = nucleo_imagem(A);
+disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
+disp("Matriz B");
 A=[1 0 -3 2;0 -1 -2 2;1 2 4 -5];
 disp(rref(A));
-[kernel_a, image_a] = nucleo_imagem(A);
-disp(kernel_a,image_a);
-disp("Matriz A");
+[nucleo, imagem] = nucleo_imagem(A);
+disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
+disp("Matriz ");
 A=[1 2 3 4;9 10 11 12;5 6 7 8;-13 -14 -15 -16];
 disp(rref(A));
-[kernel_a, image_a] = nucleo_imagem(A);
-disp(kernel_a,image_a);
+[nucleo, imagem] = nucleo_imagem(A);
+disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
 disp("Matriz A");
 A=[1 -1 1 -1 1;-1 1 -1 1 -1];
 disp(rref(A));
-[kernel_a, image_a] = nucleo_imagem(A);
-disp(kernel_a,image_a);
+[nucleo, imagem] = nucleo_imagem(A);
+disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
+/*
 clear;
 clc;
 
@@ -116,9 +117,11 @@ A = [2 3;1 4];//diagonalizavel
 A = [1 2 -2; -2 5 -2; -6 6 -3];//diagonalizavel
 A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];//NãoDiagonalizavel
 A = [1 2 -2;2 5 0;-2 0 -3]
+clc;
+clear;
 //Autovetores e Autovalores.
 //A
-disp("Matriz a");
+disp("Matriz (a)");
 A = [2 3;1 4];
 //Q1
 p=poly(A, 'x');
@@ -130,7 +133,7 @@ disp("raizes do polinomio",r);
 [V, D] = spec(A);
 disp("Autovetores",V,"Autovalores",D);
 //B
-disp("Matriz b");
+disp("Matriz (b)");
 A = [1 2 -2; -2 5 -2; -6 6 -3];
 //Q1
 p=poly(A, 'x');
@@ -142,7 +145,7 @@ disp("raizes do polinomio",r);
 [V, D] = spec(A);
 disp("Autovetores",V,"Autovalores",D);
 //C
-disp("Matriz c");
+disp("Matriz (c)");
 A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
 //Q1
 p=poly(A, 'x');
@@ -153,11 +156,13 @@ disp("raizes do polinomio",r);
 //Q3
 [V, D] = spec(A);
 disp("Autovetores",V,"Autovalores",D);
+
 clc;
 clear;
 
  // Definir a matriz A
-A = [1 2 -2;2 5 0;-2 0 -3]
+
+function questão5(A)
 // Calcular autovalores (D) e autovetores (P)
 [P , D ] = spec ( A ) ;
 // Calcular a inversa de P
@@ -165,12 +170,22 @@ P_inv = inv( P ) ;
 // Verificar a d i a g o n a l i z a o
 AP = P_inv * A * P ;
 // Exibir os resultados
-disp (" Matriz ␣ diagonal ␣D␣( autovalores ):") ;
+disp (" Matriz diagonal De( autovalores ):") ;
 disp ( D ) ;
-disp (" Matriz ␣P␣( autovetores ):") ;
-disp ( P ) ;
-disp (" V e r i f i c a o ␣de␣P^( -1)␣*␣A␣*␣P:") ;
+disp (" Verificao de P^(-1)*A*P:") ;
 disp ( AP ) ;
+endfunction
+
+disp("Matriz (a)")
+A = [2 3;1 4];//diagonalizavel
+questão5(A);
+disp("Matriz (b)");
+A = [1 2 -2; -2 5 -2; -6 6 -3];//diagonalizavel
+questão5(A);
+disp("Matriz (c)");
+A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];//NãoDiagonalizavel
+questão5(A);
+
 clear;clc;
 
 function MatrizResultado=calcula_Potencia_Matricial(A,p)
@@ -184,40 +199,24 @@ function MatrizResultado=calcula_Potencia_Matricial(A,p)
 MatrizResultado=P*D*P_inv;
 endfunction
 A = [2 3;3 4];
+disp("Matriz (a)");
 Res=calcula_Potencia_Matricial(A,2);
+disp("A^2");
 disp(Res);
 Res=calcula_Potencia_Matricial(A,3);
+disp("A^3");
 disp(Res);
 Res=calcula_Potencia_Matricial(A,10)
+disp("A^10");
 disp(Res);
 A = [1 2 -2;2 5 0;-2 0 -3];
+disp("Matriz (b)");
 Res=calcula_Potencia_Matricial(A,2);
+disp("A^2");
 disp(Res);
 Res=calcula_Potencia_Matricial(A,3);
+disp("A^3");
 disp(Res);
 Res=calcula_Potencia_Matricial(A,10);
+disp("A^10");
 disp(Res);
-clc;
-clear;
-
-function [kernel, image] = nucleo_imagem(A)
-    // Calcula o núcleo da matriz A
-    [R, pivcol] = rref(A); 
-    kernel = [];
-    if size(pivcol, "*") < size(A, 2) then
-        kernel = zeros(size(A, 2), size(A, 2) - size(pivcol, "*"));
-        livres = setdiff(1:size(A, 2), pivcol);
-        for j = 1:size(livres, "*")
-            kernel(livres(j), j) = 1;
-            for i = 1:size(pivcol, "*")
-                kernel(pivcol(i), j) = -R(i, livres(j));
-            end
-        end
-    end
-    
-    // Calcula a imagem da matriz A
-    image = [];
-    for i = 1:size(pivcol, "*")
-        image = [image, A(:, pivcol(i))]; 
-    end
-endfunction
