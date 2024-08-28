@@ -46,22 +46,26 @@ endfunction
 // (a)
 disp("Matriz A");
 A=[1 0 0;1 1 0;-1 -1 1;-2 0 -2];
-disp(rref(A));
+disp(A);
+disp("Forma escalonada reduzida da matriz",rref(A));
 [nucleo, imagem] = nucleo_imagem(A);
 disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
 disp("Matriz B");
 A=[1 0 -3 2;0 -1 -2 2;1 2 4 -5];
-disp(rref(A));
+disp(A);
+disp("Forma escalonada reduzida da matriz",rref(A));
 [nucleo, imagem] = nucleo_imagem(A);
 disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
-disp("Matriz ");
+disp("Matriz C");
 A=[1 2 3 4;9 10 11 12;5 6 7 8;-13 -14 -15 -16];
-disp(rref(A));
+disp(A);
+disp("Forma escalonada reduzida da matriz",rref(A));;
 [nucleo, imagem] = nucleo_imagem(A);
 disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
-disp("Matriz A");
+disp("Matriz D");
 A=[1 -1 1 -1 1;-1 1 -1 1 -1];
-disp(rref(A));
+disp(A);
+disp("Forma escalonada reduzida da matriz",rref(A));
 [nucleo, imagem] = nucleo_imagem(A);
 disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
 /*

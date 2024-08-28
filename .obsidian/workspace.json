@@ -35,14 +35,26 @@
             "id": "5f56ee701319834c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf"
+                "file": "Algebra linear/Espaço vetorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "656b1aa6d6515b79",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+                "file": "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+                "file": "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf"
+                "file": "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md"
               }
             }
           },
@@ -169,20 +181,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f56ee701319834c",
+  "active": "656b1aa6d6515b79",
   "lastOpenFiles": [
-    "Algebra linear/Algebra Linear.md",
-    "Algebra linear/Autovalores e Autovetores.md",
+    "Pasted Image 20240828205427_113.png",
+    "Pasted Image 20240828204851_854.png",
+    "Pasted Image 20240828204401_799.png",
+    "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
+    "Pasted Image 20240828204704_834.png",
+    "Pasted Image 20240828204618_823.png",
+    "Pasted Image 20240828204331_796.png",
+    "Pasted Image 20240828204215_779.png",
     "Algebra linear/Espaço vetorial.md",
+    "Algebra linear/Autovalores e Autovetores.md",
+    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+    "Algebra linear/Algebra Linear.md",
     "Algebra linear/Interpolação.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Ortogonalidade.md",
@@ -199,10 +220,6 @@
     "Pasted image 20240827111749.png",
     "Pasted image 20240827103724.png",
     "Pasted image 20240827103308.png",
-    "Pasted image 20240827102205.png",
-    "Pasted image 20240827100520.png",
-    "Pasted image 20240827100008.png",
-    "Pasted image 20240827100000.png",
     "Mudança de Coordenadas.md",
     "Linguagem declarativa.md",
     "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
@@ -212,11 +229,6 @@
     "Base ortogonal.md",
     "Aula de BD Síntese.md",
     "Aula Banco deDados..md",
-    "Excalidraw/Drawn.md",
-    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
-    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
-    "imagens utilizadas/Pasted image 20240824164505.png",
-    "Pasted Image 20240823163542_255.jpg",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/calculo_numerico.pdf",
     "Excalidraw",
