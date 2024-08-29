@@ -14,3 +14,5 @@ quando o resultado é zero vamos ter um angulo de 90 graus assim afirmamos a ort
 a partir de 4 axiomas que se seguidos poderemos fazer com que todos 
 
 desigualdade triangular 
+
+
