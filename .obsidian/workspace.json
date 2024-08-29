@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Sintese Algebra linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/Sintese Algebra linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/Sintese Algebra linear.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/Sintese Algebra linear.md"
+                "file": "Algebra linear/transformações lineares.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "bbf4ca029b2f3d17",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Algebra linear/Sintese Algebra linear.md",
-    "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+    "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Algebra Linear.md",
+    "Algebra linear/Sintese Algebra linear.md",
+    "conflict-files-obsidian-git.md",
     "algebra relacional compreensão inicial.md",
     "Linguagem declarativa.md",
     "Janela gráfica número 0.png",
@@ -198,7 +198,6 @@
     "Componentes Funcionais do SGBD.md",
     "Base ortogonal.md",
     "Aula de BD Síntese.md",
-    "Aula Banco deDados..md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/calculo_numerico.pdf",
     "Excalidraw",
