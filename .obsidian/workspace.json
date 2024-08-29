@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "caad6161822bd75b",
   "lastOpenFiles": [
+    "Síntese aula de POO conexão MySQL.md",
     "SQL.md",
     "Base ortogonal.md",
     "Componentes Funcionais do SGBD.md",
@@ -195,7 +196,6 @@
     "Linguagem declarativa.md",
     "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
     "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
-    "Coordenadas Polares.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/calculo_numerico.pdf",
     "Excalidraw",
