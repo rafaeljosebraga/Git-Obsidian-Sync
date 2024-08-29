@@ -47,9 +47,11 @@
             "id": "656b1aa6d6515b79",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
               }
             }
           },
@@ -193,6 +195,7 @@
   },
   "active": "656b1aa6d6515b79",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
     "Pasted Image 20240828232249_075.png",
     "Pasted Image 20240828232234_073.png",
     "Pasted Image 20240828232219_065.png",
@@ -205,8 +208,6 @@
     "Pasted Image 20240828212849_479.png",
     "Pasted Image 20240828210430_772.png",
     "Pasted Image 20240828205427_113.png",
-    "Pasted Image 20240828204851_854.png",
-    "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
     "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
