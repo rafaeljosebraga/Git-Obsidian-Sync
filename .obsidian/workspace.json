@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2696cf7197881e",
+        "id": "1cb7815ec98df156",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf4ca029b2f3d17",
+            "id": "caad6161822bd75b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/Sintese Algebra linear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0be7e20b26864eb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Síntese aula de POO conexão MySQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Síntese aula de POO conexão MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Síntese aula de POO conexão MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Síntese aula de POO conexão MySQL.md"
               }
             }
           },
@@ -159,59 +146,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0be7e20b26864eb5",
+  "active": "caad6161822bd75b",
   "lastOpenFiles": [
-    "Algebra linear/Sintese Algebra linear.md",
-    "conflict-files-obsidian-git.md",
+    "SQL.md",
+    "Base ortogonal.md",
+    "Componentes Funcionais do SGBD.md",
+    "explicação vários controle humano na'vi.md",
+    "imagens utilizadas/Pasted image 20240827111749.png",
+    "imagens utilizadas/Pasted image 20240827103724.png",
+    "imagens utilizadas/Pasted image 20240827103308.png",
+    "imagens utilizadas/Pasted image 20240827102205.png",
+    "imagens utilizadas/Pasted image 20240827100520.png",
+    "imagens utilizadas/Pasted image 20240827100008.png",
+    "imagens utilizadas/Pasted image 20240827100000.png",
+    "imagens utilizadas/Pasted Image 20240828232249_075.png",
+    "imagens utilizadas/Pasted Image 20240828232234_073.png",
+    "imagens utilizadas/Pasted Image 20240828232219_065.png",
+    "algebra relacional compreensão inicial.md",
+    "Análise Numerica/Prova de Análise Numérica.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
+    "Algebra linear/Resoluções/Questao4.sci",
+    "Algebra linear/Resoluções/Questão6.sci",
     "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Algebra linear/Algebra Linear.md",
-    "algebra relacional compreensão inicial.md",
-    "Linguagem declarativa.md",
-    "Janela gráfica número 0.png",
-    "Mudança de Coordenadas.md",
+    "Algebra linear/Interpolação.md",
+    "Algebra linear/Núcleo e Imagem.md",
+    "Algebra linear/Ortogonalidade.md",
+    "Algebra linear/Posto e Nulidade.md",
+    "Algebra linear/Sintese Algebra linear.md",
+    "Algebra linear/transformações lineares.md",
     "produto escalar.md",
     "produto interno.md",
-    "Análise Numerica/Prova de Análise Numérica.md",
+    "Prova de Análise Numérica.md",
     "Sem título.md",
-    "Sem título 2.md",
-    "Sem título 1.md",
-    "Sem título 3.md",
-    "imagens utilizadas/Pasted Image 20240828232249_075.png",
-    "explicação vários controle humano na'vi.md",
-    "imagens utilizadas/Pasted Image 20240828232234_073.png",
-    "imagens utilizadas/Pasted Image 20240828232219_065.png",
-    "imagens utilizadas/Pasted Image 20240828224351_015.png",
-    "imagens utilizadas/Pasted Image 20240828224254_083.png",
-    "imagens utilizadas/Pasted Image 20240828213942_154.png",
-    "imagens utilizadas/Pasted Image 20240828213431_137.png",
-    "imagens utilizadas/Pasted Image 20240828212849_479.png",
-    "imagens utilizadas/Pasted Image 20240828210430_772.png",
-    "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
-    "Algebra linear/Resoluções/questão 5.sci",
-    "Algebra linear/Resoluções/quesao7.sci",
-    "Algebra linear/Resoluções/idea.sci",
-    "Algebra linear/Resoluções/Questão6.sci",
-    "Algebra linear/Resoluções/Questao4.sci",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
-    "SQL.md",
+    "Mudança de Coordenadas.md",
+    "Linguagem declarativa.md",
     "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
     "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
     "Coordenadas Polares.md",
-    "Componentes Funcionais do SGBD.md",
-    "Base ortogonal.md",
-    "Aula de BD Síntese.md",
-    "Aula Banco deDados..md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/calculo_numerico.pdf",
     "Excalidraw",
@@ -221,6 +205,9 @@
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
+    "interpolacao.sce",
+    "Análise Numerica/AulaInterpolação/interpolacao.sce",
+    "Análise Numerica/AulaInterpolação",
     "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
     "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
