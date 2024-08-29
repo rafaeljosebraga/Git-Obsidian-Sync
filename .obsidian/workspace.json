@@ -4,61 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2696cf7197881e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c2638b0701f4dcd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/Algebra Linear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e00b5a6d4863e097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f56ee701319834c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/Espaço vetorial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "656b1aa6d6515b79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "1cb7815ec98df156",
         "type": "tabs",
         "children": [
@@ -68,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explicação varios controle humano na'vi.md",
+                "file": "explicação vários controle humano na'vi.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "explicação varios controle humano na'vi.md",
+                "file": "explicação vários controle humano na'vi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "explicação varios controle humano na'vi.md",
+                "file": "explicação vários controle humano na'vi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "explicação varios controle humano na'vi.md"
+                "file": "explicação vários controle humano na'vi.md"
               }
             }
           },
@@ -214,7 +159,7 @@
   "active": "caad6161822bd75b",
   "lastOpenFiles": [
     "Banco de Dados/ER ERX para Modelo Relacional.md",
-    "explicação varios controle humano na'vi.md",
+    "explicação vários controle humano na'vi.md",
     "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
     "Pasted Image 20240828232249_075.png",
     "Pasted Image 20240828232234_073.png",

@@ -1,2 +1,0 @@
-
-dado o contexto do filme onde basta o humano possuir o material genético compativel com o do Avatar, podemos afirmar que o humano pode controlar qualquer avatar que tenha essa mesma condição com ele, apesar 

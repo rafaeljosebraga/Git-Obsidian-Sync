@@ -1,0 +1,2 @@
+
+dado o contexto do filme onde basta o humano possuir o material genético compatível com o do Avatar, podemos afirmar que o humano pode controlar qualquer avatar que tenha essa mesma condição com ele, apesar do filme apenas mostrar o humano controlando 1 avatar essa é apenas uma condição que acontece pelo motivo da pesquisa não achar eficiente e lógico essa ideia, temos aqui um motivo pelo qual a situação seria possível, apenas não aplicada.
