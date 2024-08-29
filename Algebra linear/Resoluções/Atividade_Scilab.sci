@@ -68,6 +68,7 @@ disp(A);
 disp("Forma escalonada reduzida da matriz",rref(A));
 [nucleo, imagem] = nucleo_imagem(A);
 disp("Matriz Nucleo:",nucleo,"Matriz Imagem",imagem);
+
 /*
 clear;
 clc;
