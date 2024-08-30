@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "produto interno.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "produto interno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "produto interno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/transformações lineares.md"
+                "file": "produto interno.md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "234dfaf5017148e0",
   "lastOpenFiles": [
+    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+    "Algebra linear/transformações lineares.md",
     "produto interno.md",
     "Pasted image 20240830092039.png",
     "Pasted image 20240830091402.png",
@@ -180,11 +182,9 @@
     "Pasted image 20240830084731.png",
     "Pasted image 20240830083243.png",
     "produto escalar.md",
-    "Algebra linear/transformações lineares.md",
     "conflict-files-obsidian-git.md",
     "Algebra linear/Resoluções/Polinomio caracteristico.sci",
     "Algebra linear/Autovalores e Autovetores.md",
-    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Algebra Linear.md",
     "Algebra linear/Sintese Algebra linear.md",
