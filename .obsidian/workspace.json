@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "produto interno.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "produto interno.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "produto interno.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "produto interno.md"
+                "file": "Algebra linear/transformações lineares.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "234dfaf5017148e0",
   "lastOpenFiles": [
+    "produto interno.md",
     "Pasted image 20240830092039.png",
     "Pasted image 20240830091402.png",
     "Pasted image 20240830090247.png",
@@ -179,7 +180,6 @@
     "Pasted image 20240830084731.png",
     "Pasted image 20240830083243.png",
     "produto escalar.md",
-    "produto interno.md",
     "Algebra linear/transformações lineares.md",
     "conflict-files-obsidian-git.md",
     "Algebra linear/Resoluções/Polinomio caracteristico.sci",
@@ -199,7 +199,6 @@
     "Sem título 3.md",
     "imagens utilizadas/Pasted Image 20240828232249_075.png",
     "explicação vários controle humano na'vi.md",
-    "imagens utilizadas/Pasted Image 20240828232234_073.png",
     "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
     "Algebra linear/Resoluções/questão 5.sci",
     "Algebra linear/Resoluções/quesao7.sci",
