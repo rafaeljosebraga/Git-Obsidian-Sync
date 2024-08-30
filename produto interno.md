@@ -8,9 +8,10 @@ o nosso produto interno já conhecido é o produto interno euclidiano
 ![[Pasted image 20240830084731.png]]
 
 ![[Pasted image 20240830090044.png]]
-assim temos vários casos sobre o resultado do produto euclidiano desses vetores onde se interpretados podemos saber que se vão + ou - no mesmo sentido, temos um resultado em tamanho positivo, logicamente se 
-![[Pasted image 20240830090247.png]]
+assim temos vários casos sobre o resultado do produto euclidiano desses vetores onde se interpretados podemos saber que se vão + ou - no mesmo sentido, temos um resultado em tamanho positivo, logicamente se estiver em um sentido contrário vamos achar um resultado negativo.
 
-quando perpendiculares são iguais a zero
-
+Nosso ponto de interesse maior é quando são perpendiculares onde o resultado do produto interno é iguais a zero.
 ![[Pasted image 20240830091402.png]]
+
+para o contexto da [[Algebra Linear]] acho interessante pensar que o produto interno tem essa cara.
+![[Pasted image 20240830092039.png]]
