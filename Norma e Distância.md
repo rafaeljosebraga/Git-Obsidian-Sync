@@ -14,6 +14,8 @@ segue o ex:
 
 ![[Pasted image 20240830112330.png]]
 
+dado as ideias um Alemão chamado Cauchy Schwarz conseguiu provar que 
+![[Pasted image 20240830114920.png]]
+onde conseguimos a partir desta formula aferir um valor relacionado ao angulo entre os vetores onde esse valor como o resultado de $cos(\theta)$.
 
-
- [[Normalização]]
+Aquilo que nos leva para [[Angulo e Ortogonalidade]]

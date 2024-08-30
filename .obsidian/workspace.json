@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ecec561fc595437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angulo e Ortogonalidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Norma e Distância.md",
+                "file": "Angulo e Ortogonalidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Norma e Distância.md",
+                "file": "Angulo e Ortogonalidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Norma e Distância.md"
+                "file": "Angulo e Ortogonalidade.md"
               }
             }
           },
@@ -169,16 +181,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "109e732ba623e2f8",
+  "active": "0ecec561fc595437",
   "lastOpenFiles": [
-    "produto interno.md",
+    "Pasted image 20240830115649.png",
     "Norma e Distância.md",
+    "Angulo e Ortogonalidade.md",
+    "Algebra linear/Ortogonalidade.md",
     "Normalização.md",
+    "Pasted image 20240830114920.png",
+    "produto interno.md",
     "Pasted image 20240830114047.png",
     "Pasted image 20240830112330.png",
     "Pasted image 20240830111459.png",
     "produto escalar.md",
-    "Algebra linear/Ortogonalidade.md",
     "Algebra linear/Núcleo e Imagem.md",
     "Algebra linear/Autovalores e Autovetores.md",
     "Sem título.md",
@@ -192,7 +207,6 @@
     "Pasted image 20240830090044.png",
     "Pasted image 20240830090043.png",
     "Pasted image 20240830090041.png",
-    "Pasted image 20240830084731.png",
     "conflict-files-obsidian-git.md",
     "Algebra linear/Resoluções/Polinomio caracteristico.sci",
     "Algebra linear/Espaço vetorial.md",
@@ -212,8 +226,6 @@
     "Algebra linear/Resoluções/Questao4.sci",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "SQL.md",
-    "Excalidraw/Drawing 2024-08-27 14.33.54.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/calculo_numerico.pdf",
     "Excalidraw",
