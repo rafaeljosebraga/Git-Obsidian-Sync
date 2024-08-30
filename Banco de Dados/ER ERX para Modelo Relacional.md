@@ -268,6 +268,6 @@ Agora que compreendido as formas de mapeamento, a sequencia do algoritmo de mape
 ![[Pasted image 20240812125151.png]]
 
 em função de garantir consistência do banco de dados   
-é necessário ser feita uma [[Normalização]] para que o nosso modelo se mantenha conciso e eficiente.
+é necessário ser feita uma [[Banco de Dados/Normalização]] para que o nosso modelo se mantenha conciso e eficiente.
 
 com o modelo relacional pronto podemos começar passar do projeto lógico para o projeto físico começando o conteúdo de  
