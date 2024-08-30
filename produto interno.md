@@ -15,3 +15,8 @@ Nosso ponto de interesse maior é quando são perpendiculares onde o resultado d
 
 para o contexto da [[Algebra Linear]] acho interessante pensar que o produto interno tem essa cara.
 ![[Pasted image 20240830092039.png]]
+A importância dada pelos axiomas do produto interno vai inferir
+a partir das operações que o produto interno nos oferece no contexto de qualquer tipo de espaço que obedeça os axiomas como o $R_{xablau}$ ou espaço que explica as (integrais de polinômios).
+
+exemplos dessas operações são [[Norma e Distância]],
+
