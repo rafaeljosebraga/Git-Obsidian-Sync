@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angulo e Ortogonalidade.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angulo e Ortogonalidade.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angulo e Ortogonalidade.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angulo e Ortogonalidade.md"
+                "file": "Banco de Dados/Álgebra Relacional.md"
               }
             }
           },
@@ -183,9 +183,9 @@
   },
   "active": "0ecec561fc595437",
   "lastOpenFiles": [
+    "Angulo e Ortogonalidade.md",
     "Pasted image 20240830115649.png",
     "Norma e Distância.md",
-    "Angulo e Ortogonalidade.md",
     "Algebra linear/Ortogonalidade.md",
     "Normalização.md",
     "Pasted image 20240830114920.png",
@@ -206,7 +206,6 @@
     "Pasted image 20240830090247.png",
     "Pasted image 20240830090044.png",
     "Pasted image 20240830090043.png",
-    "Pasted image 20240830090041.png",
     "conflict-files-obsidian-git.md",
     "Algebra linear/Resoluções/Polinomio caracteristico.sci",
     "Algebra linear/Espaço vetorial.md",
