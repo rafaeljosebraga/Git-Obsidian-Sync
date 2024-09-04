@@ -45,6 +45,54 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "b19b29fdafaf45e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60f25977414c8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguagem de Manipulação de Dados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fbf419d63bde625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Select.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aff74f43b2946d20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cea49c562bcadb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funções de Caracteres.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Funções de Caracteres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Funções de Caracteres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md"
+                "file": "Funções de Caracteres.md"
               }
             }
           },
@@ -181,8 +229,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ecec561fc595437",
+  "active": "4cea49c562bcadb8",
   "lastOpenFiles": [
+    "Linguagem de Manipulação de Dados.md",
+    "Funções de Caracteres.md",
+    "Select.md",
+    "Banco de Dados/Álgebra Relacional.md",
     "Angulo e Ortogonalidade.md",
     "Pasted image 20240830115649.png",
     "Norma e Distância.md",
@@ -217,14 +269,11 @@
     "Sem título 2.md",
     "Sem título 3.md",
     "explicação vários controle humano na'vi.md",
-    "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
     "Algebra linear/Resoluções/questão 5.sci",
     "Algebra linear/Resoluções/quesao7.sci",
     "Algebra linear/Resoluções/idea.sci",
     "Algebra linear/Resoluções/Questão6.sci",
     "Algebra linear/Resoluções/Questao4.sci",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
-    "SQL.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/calculo_numerico.pdf",
     "Excalidraw",
