@@ -20,60 +20,19 @@
             }
           },
           {
-            "id": "109e732ba623e2f8",
+            "id": "c582045462ec32d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Norma e Distância.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ecec561fc595437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Decomposição SVD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "b19b29fdafaf45e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b60f25977414c8b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguagem de Manipulação de Dados.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fbf419d63bde625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Select.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguagem de Manipulação de Dados.md",
+                "file": "Decomposição SVD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linguagem de Manipulação de Dados.md",
+                "file": "Decomposição SVD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linguagem de Manipulação de Dados.md"
+                "file": "Decomposição SVD.md"
               }
             }
           },
@@ -210,17 +169,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b60f25977414c8b5",
+  "active": "c582045462ec32d8",
   "lastOpenFiles": [
+    "Sem título 1.md",
     "produto interno.md",
-    "Funções de Caracteres.md",
+    "Norma e Distância.md",
     "Prova de Algebra.md",
-    "Linguagem de Manipulação de Dados.md",
-    "Select.md",
+    "Decomposição SVD.md",
     "Banco de Dados/Álgebra Relacional.md",
+    "Select.md",
+    "Linguagem de Manipulação de Dados.md",
+    "Funções de Caracteres.md",
     "Angulo e Ortogonalidade.md",
     "Pasted image 20240830115649.png",
-    "Norma e Distância.md",
     "Algebra linear/Ortogonalidade.md",
     "Normalização.md",
     "Pasted image 20240830114920.png",
@@ -248,8 +209,6 @@
     "Linguagem declarativa.md",
     "Mudança de Coordenadas.md",
     "Análise Numerica/Prova de Análise Numérica.md",
-    "Sem título 2.md",
-    "Sem título 3.md",
     "Algebra linear/Resoluções/questão 5.sci",
     "Algebra linear/Resoluções/quesao7.sci",
     "Algebra linear/Resoluções/idea.sci",

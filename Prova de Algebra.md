@@ -1,6 +1,8 @@
 [[produto interno]]
 
-decomposição e
+diagonoalização.
 
-ortogonalização é diretamente depentente de produto interno.
+ortogonalização é diretamente dependente de produto interno.
+
+
 
