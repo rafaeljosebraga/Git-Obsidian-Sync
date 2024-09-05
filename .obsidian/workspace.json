@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b19b29fdafaf45e5",
@@ -69,24 +68,6 @@
               "type": "markdown",
               "state": {
                 "file": "Select.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "aff74f43b2946d20",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4cea49c562bcadb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funções de Caracteres.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funções de Caracteres.md",
+                "file": "Linguagem de Manipulação de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funções de Caracteres.md",
+                "file": "Linguagem de Manipulação de Dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funções de Caracteres.md"
+                "file": "Linguagem de Manipulação de Dados.md"
               }
             }
           },
@@ -229,10 +210,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4cea49c562bcadb8",
+  "active": "b60f25977414c8b5",
   "lastOpenFiles": [
-    "Linguagem de Manipulação de Dados.md",
+    "produto interno.md",
     "Funções de Caracteres.md",
+    "Prova de Algebra.md",
+    "Linguagem de Manipulação de Dados.md",
     "Select.md",
     "Banco de Dados/Álgebra Relacional.md",
     "Angulo e Ortogonalidade.md",
@@ -241,7 +224,6 @@
     "Algebra linear/Ortogonalidade.md",
     "Normalização.md",
     "Pasted image 20240830114920.png",
-    "produto interno.md",
     "Pasted image 20240830114047.png",
     "Pasted image 20240830112330.png",
     "Pasted image 20240830111459.png",
@@ -268,7 +250,6 @@
     "Análise Numerica/Prova de Análise Numérica.md",
     "Sem título 2.md",
     "Sem título 3.md",
-    "explicação vários controle humano na'vi.md",
     "Algebra linear/Resoluções/questão 5.sci",
     "Algebra linear/Resoluções/quesao7.sci",
     "Algebra linear/Resoluções/idea.sci",
