@@ -1,4 +1,29 @@
-A=[183 172 188 163 178];
-B=[79 69 82 63 73];
+function [beta, y_pred, rmse] = regressao_linear(x, y)
+  // Calcular a matriz de design X (corrigido)
+  X = [ones(length(x), 1), x'];
 
-plot(A,B);
+  // Calcular os coeficientes de regressão
+  beta = (X'*X)\(X'*y');
+
+  // Calcular a linha de regressão
+  y_pred = beta(1) + beta(2)*x;
+
+  // Calcular o erro quadrático médio (RMSE)
+  rmse = sqrt(sum((y - y_pred).^2)/length(y));
+endfunction
+
+clc;
+// Dados de entrada
+x = [1999 2000 2001 2002.1];
+y = [2, 4, 5, 4, 6];
+
+// Chamar a função
+[beta, y_pred, rmse] = regressao_linear(x, y);
+
+// Imprimir os resultados
+disp("Coeficientes de regressão:");
+disp(beta);
+
+disp("RMSE:");
+disp(rmse);
+
