@@ -14,8 +14,8 @@ endfunction
 
 clc;
 // Dados de entrada
-x = [1999 2000 2001 2002.1];
-y = [2, 4, 5, 4, 6];
+x = [11 23 47 48 49];
+y = [4300 2200 36500 41600 42700];
 
 // Chamar a função
 [beta, y_pred, rmse] = regressao_linear(x, y);
