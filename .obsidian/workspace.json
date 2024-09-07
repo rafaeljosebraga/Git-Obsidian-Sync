@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "c582045462ec32d8",
+            "id": "109e732ba623e2f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decomposição SVD.md",
+                "file": "Norma e Distância.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ecec561fc595437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análise Numerica/Analise Numérica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decomposição SVD.md",
+                "file": "Análise Numerica/Analise Numérica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decomposição SVD.md",
+                "file": "Análise Numerica/Analise Numérica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decomposição SVD.md"
+                "file": "Análise Numerica/Analise Numérica.md"
               }
             }
           },
@@ -168,22 +180,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c582045462ec32d8",
+  "active": "0ecec561fc595437",
   "lastOpenFiles": [
-    "Sem título 1.md",
-    "produto interno.md",
-    "Norma e Distância.md",
-    "Prova de Algebra.md",
-    "Decomposição SVD.md",
+    "Análise Numerica/Aula 7/Sintese.md",
+    "Análise Numerica/A ser repassado para a sintese.md",
+    "Análise Numerica/Aula 7/Slides.pdf",
     "Banco de Dados/Álgebra Relacional.md",
+    "Sem título 1.md",
     "Select.md",
+    "Prova de Algebra.md",
     "Linguagem de Manipulação de Dados.md",
     "Funções de Caracteres.md",
+    "Decomposição SVD.md",
     "Angulo e Ortogonalidade.md",
     "Pasted image 20240830115649.png",
+    "Norma e Distância.md",
     "Algebra linear/Ortogonalidade.md",
     "Normalização.md",
     "Pasted image 20240830114920.png",
+    "produto interno.md",
     "Pasted image 20240830114047.png",
     "Pasted image 20240830112330.png",
     "Pasted image 20240830111459.png",
@@ -206,8 +221,6 @@
     "Algebra linear/Sintese Algebra linear.md",
     "algebra relacional compreensão inicial.md",
     "Linguagem declarativa.md",
-    "Mudança de Coordenadas.md",
-    "Análise Numerica/Prova de Análise Numérica.md",
     "Algebra linear/Resoluções/questão 5.sci",
     "Algebra linear/Resoluções/quesao7.sci",
     "Algebra linear/Resoluções/idea.sci",
@@ -215,7 +228,6 @@
     "Algebra linear/Resoluções/Questao4.sci",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Análise Numerica/calculo_numerico.pdf",
-    "Excalidraw",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
