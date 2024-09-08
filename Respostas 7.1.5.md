@@ -14,7 +14,7 @@ $$A'\mathbf{u} = \begin{bmatrix} \mathbf{d}'_1 \cdot \mathbf{u} \\ \mathbf{d}'_2
      $$
 ## b)![[Pasted image 20240908150232.png]]
 
-
+*Essa questão está com uma resposta a qual eu não tenho certeza
 ## Aplicação
 
 ### Passos:
