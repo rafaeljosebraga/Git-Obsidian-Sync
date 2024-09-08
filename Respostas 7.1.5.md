@@ -14,3 +14,40 @@ $$A'\mathbf{u} = \begin{bmatrix} \mathbf{d}'_1 \cdot \mathbf{u} \\ \mathbf{d}'_2
      $$
 ## b)![[Pasted image 20240908150232.png]]
 
+
+## Aplicação
+
+### Passos:
+
+1. **Definir a matriz $A$ e o vetor unitário, que desta vez será um exemplar definido $u$:**
+   $$
+   A = \begin{bmatrix} 0 & 0 & 1 \\ -1 & -1 & 2 \end{bmatrix}
+   $$
+   $$
+   u = \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}
+   $$
+
+2. **Calcular $A^T u$:**
+   $$
+   A^T u = \begin{bmatrix} 0 & -1 \\ 0 & -1 \\ 1 & 2 \end{bmatrix} \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix} = \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix}
+   $$
+
+3. **Calcular a norma de $A^T u$**
+   $$
+   \|A^T u\| = \sqrt{0^2 + 0^2 + 1^2} = 1
+   $$
+
+4. **Calcular $V_u$:**
+   $$
+   V_u = \frac{1}{3} \|A^T u\|^2 = \frac{1}{3} \cdot 1^2 = \frac{1}{3}
+   $$
+
+Portanto, $V_u$ é igual a $\frac{1}{3}$ da norma ao quadrado do vetor resultante de  $A^T u$.
+
+# Aplicação da Proposição 7.1.10
+
+## Proposição 7.1.10
+Para qualquer matriz $A$, temos:
+$$ v \cdot (A w) = (A^T v) \cdot w $$
+Em particular, se $A$ for simétrica, então:
+$$ v \cdot (A w) = (A v) \cdot w $$
