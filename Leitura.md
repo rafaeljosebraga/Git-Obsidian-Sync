@@ -13,11 +13,11 @@ Nosso objetivo é calcular a variância \( V_u \) na direção definida por um v
 ## Passos para resolver:
 
 1. **Definir os vetores de dados centrados:**
-$$   - \( \mathbf{d}_1 = \begin{bmatrix} 0 \\ -1 \end{bmatrix} \)
-   - \( \mathbf{d}_2 = \begin{bmatrix} 0 \\ -1 \end{bmatrix} \)
-   - \( \mathbf{d}_3 = \begin{bmatrix} 1 \\ 2 \end{bmatrix} \)$$
+   - \( $$\mathbf{d}_1 = \begin{bmatrix} 0 \\ -1 \end{bmatrix} $$\)
+   - \($$ \mathbf{d}_2 = \begin{bmatrix} 0 \\ -1 \end{bmatrix}$$ \)
+   - \($$ \mathbf{d}_3 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$$ \)
 
-3. **Formar a matriz de dados centrados \( A \):**
+3. 
    \[
    $$A = \begin{bmatrix} \mathbf{d}_1 & \mathbf{d}_2 & \mathbf{d}_3 \end{bmatrix} = \begin{bmatrix} 0 & 0 & 1 \\ -1 & -1 & 2 \end{bmatrix}$$
    \]

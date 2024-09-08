@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leitura.md",
+                "file": "Respostas 7.1.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leitura.md",
+                "file": "Respostas 7.1.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leitura.md"
+                "file": "Respostas 7.1.5.md"
               }
             }
           },
@@ -192,8 +192,13 @@
       }
     ]
   },
-  "active": "bede27fad52840e1",
+  "active": "66f3597bf74b8cbc",
   "lastOpenFiles": [
+    "Leitura.md",
+    "Respostas 7.1.5.md",
+    "Pasted image 20240908150232.png",
+    "Pasted image 20240908150147.png",
+    "Pasted image 20240908150119.png",
     "Linguagem de Manipulação de Dados.md",
     "Linguagem declarativa.md",
     "Mudança de Coordenadas.md",
@@ -201,7 +206,6 @@
     "Normalização.md",
     "produto interno.md",
     "Prova de Algebra.md",
-    "Respostas 7.1.5.md",
     "SQL.md",
     "Síntese aula de POO conexão MySQL.md",
     "Sem título 1.md",
@@ -213,7 +217,6 @@
     "Análise Numerica/rtCA - algoritimos.pdf",
     "produto escalar.md",
     "Select.md",
-    "Leitura.md",
     "Decomposição SVD.md",
     "Base ortogonal.md",
     "Aula Banco deDados..md",
@@ -227,7 +230,6 @@
     "Análise Numerica/Atividades",
     "Análise Numerica/Nova Pasta",
     "Análise Numerica/Lista Interpol",
-    "Análise Numerica/Aula 7/Sintese.md",
     "Análise Numerica/Aula 7/Slides.pdf",
     "Pasted image 20240830115649.png",
     "Pasted image 20240830114920.png",
@@ -237,9 +239,6 @@
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Pasted image 20240830092039.png",
     "Pasted image 20240830091402.png",
-    "Pasted image 20240830090247.png",
-    "Pasted image 20240830090044.png",
-    "Pasted image 20240830090043.png",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
