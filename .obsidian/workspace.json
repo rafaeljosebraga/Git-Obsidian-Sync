@@ -155,12 +155,65 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "40ec0027f78a0f66",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f60954f28e83ac3e",
+        "type": "window",
+        "children": [
+          {
+            "id": "6e402955f2575029",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66f3597bf74b8cbc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Respostas 7.1.5.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "bede27fad52840e1",
   "lastOpenFiles": [
+    "Linguagem de Manipulação de Dados.md",
+    "Linguagem declarativa.md",
+    "Mudança de Coordenadas.md",
+    "Norma e Distância.md",
+    "Normalização.md",
     "produto interno.md",
-    "Leitura.md",
+    "Prova de Algebra.md",
+    "Respostas 7.1.5.md",
+    "SQL.md",
+    "Síntese aula de POO conexão MySQL.md",
+    "Sem título 1.md",
+    "Sem título.md",
+    "Banco de Dados/Normalização 1(Alterando a forma normal).md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Banco de Dados/Álgebra Relacional.md",
+    "Análise Numerica/rtCA - algoritimos.pdf",
+    "produto escalar.md",
+    "Select.md",
+    "Leitura.md",
     "Decomposição SVD.md",
     "Base ortogonal.md",
     "Aula Banco deDados..md",
@@ -175,34 +228,18 @@
     "Análise Numerica/Nova Pasta",
     "Análise Numerica/Lista Interpol",
     "Análise Numerica/Aula 7/Sintese.md",
-    "Análise Numerica/A ser repassado para a sintese.md",
     "Análise Numerica/Aula 7/Slides.pdf",
-    "Sem título 1.md",
-    "Select.md",
-    "Prova de Algebra.md",
-    "Linguagem de Manipulação de Dados.md",
-    "Funções de Caracteres.md",
     "Pasted image 20240830115649.png",
-    "Norma e Distância.md",
-    "Algebra linear/Ortogonalidade.md",
-    "Normalização.md",
     "Pasted image 20240830114920.png",
     "Pasted image 20240830114047.png",
     "Pasted image 20240830112330.png",
     "Pasted image 20240830111459.png",
-    "produto escalar.md",
-    "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Autovalores e Autovetores.md",
-    "Sem título.md",
-    "Síntese aula de POO conexão MySQL.md",
-    "Algebra linear/transformações lineares.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Pasted image 20240830092039.png",
     "Pasted image 20240830091402.png",
     "Pasted image 20240830090247.png",
     "Pasted image 20240830090044.png",
     "Pasted image 20240830090043.png",
-    "Algebra linear/Resoluções/Polinomio caracteristico.sci",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
