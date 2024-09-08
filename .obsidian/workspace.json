@@ -45,6 +45,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "7397034dc37706f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bede27fad52840e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Álgebra Relacional.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -180,8 +198,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "bede27fad52840e1",
   "lastOpenFiles": [
+    "produto interno.md",
+    "Untitled.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Banco de Dados/Álgebra Relacional.md",
     "Decomposição SVD.md",
@@ -210,7 +230,6 @@
     "Algebra linear/Ortogonalidade.md",
     "Normalização.md",
     "Pasted image 20240830114920.png",
-    "produto interno.md",
     "Pasted image 20240830114047.png",
     "Pasted image 20240830112330.png",
     "Pasted image 20240830111459.png",
@@ -227,7 +246,6 @@
     "Pasted image 20240830090044.png",
     "Pasted image 20240830090043.png",
     "Algebra linear/Resoluções/Polinomio caracteristico.sci",
-    "Algebra linear/Resoluções/questão 5.sci",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
