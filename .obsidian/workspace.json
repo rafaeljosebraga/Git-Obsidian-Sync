@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md",
+                "file": "Banco de Dados/Álgebra Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/Analise Numérica.md"
+                "file": "Banco de Dados/Álgebra Relacional.md"
               }
             }
           },
@@ -180,12 +180,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ecec561fc595437",
+  "active": "cd21648d59d618f8",
   "lastOpenFiles": [
+    "Banco de Dados/Fundamentals of Database Systems.pdf",
+    "Banco de Dados/Álgebra Relacional.md",
+    "Decomposição SVD.md",
+    "Base ortogonal.md",
+    "Aula Banco deDados..md",
+    "Atividade para casa.md",
+    "Angulo e Ortogonalidade.md",
+    "Análise Numerica/Analise Numérica.md",
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Análise Numerica/AulaInterpolação/Q2-c.sce",
     "Análise Numerica/Atividades/FilipeQ3.sce",
-    "Análise Numerica/Analise Numérica.md",
     "Análise Numerica/Atividades/Interpol.sce",
     "Análise Numerica/Atividades",
     "Análise Numerica/Nova Pasta",
@@ -193,14 +200,11 @@
     "Análise Numerica/Aula 7/Sintese.md",
     "Análise Numerica/A ser repassado para a sintese.md",
     "Análise Numerica/Aula 7/Slides.pdf",
-    "Banco de Dados/Álgebra Relacional.md",
     "Sem título 1.md",
     "Select.md",
     "Prova de Algebra.md",
     "Linguagem de Manipulação de Dados.md",
     "Funções de Caracteres.md",
-    "Decomposição SVD.md",
-    "Angulo e Ortogonalidade.md",
     "Pasted image 20240830115649.png",
     "Norma e Distância.md",
     "Algebra linear/Ortogonalidade.md",
@@ -216,16 +220,13 @@
     "Sem título.md",
     "Síntese aula de POO conexão MySQL.md",
     "Algebra linear/transformações lineares.md",
-    "Algebra linear/Algebra Linear.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Pasted image 20240830092039.png",
     "Pasted image 20240830091402.png",
     "Pasted image 20240830090247.png",
     "Pasted image 20240830090044.png",
     "Pasted image 20240830090043.png",
-    "conflict-files-obsidian-git.md",
     "Algebra linear/Resoluções/Polinomio caracteristico.sci",
-    "Algebra linear/Espaço vetorial.md",
     "Algebra linear/Resoluções/questão 5.sci",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
