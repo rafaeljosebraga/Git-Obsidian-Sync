@@ -35,10 +35,15 @@ mprintf("O valor interpolado com polinômio de grau 2 é %.6f\n", valor_interpol
 // Grau 3
 valor_interpolado = lagrange_interpolacao(vetor_X(1:4), vetor_Y(1:4), valor_xx);
 mprintf("O valor interpolado com polinômio de grau 3 é %.6f\n", valor_interpolado);
-disp("Letra B newtin")
+
+clc;
+
+//b)
 // Diferenças Divididas
-
-
+// Função para calcular a tabela de diferenças divididas
+// X: vetor de pontos x
+// Y: vetor de valores da função em X
+// Retorna uma matriz d onde cada coluna representa uma ordem de diferença dividida
 function T=Tabdiffdiv(x, y)
     n = length(x); 
     T = zeros(n, n);
@@ -52,6 +57,11 @@ function T=Tabdiffdiv(x, y)
 end
 
 // Função Interpolação de Newton
+// X: vetor de pontos x
+// Y: vetor de valores da função em X
+// x_interp: ponto onde queremos interpolar
+// Retorna o valor do polinômio interpolador em x_interp
+
 function S=NewtonInterpol(x, y, p)
     n = length(x); 
     T = Tabdiffdiv(x, y); 
