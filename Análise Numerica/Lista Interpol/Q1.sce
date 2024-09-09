@@ -35,8 +35,10 @@ mprintf("O valor interpolado com polinômio de grau 2 é %.6f\n", valor_interpol
 // Grau 3
 valor_interpolado = lagrange_interpolacao(vetor_X(1:4), vetor_Y(1:4), valor_xx);
 mprintf("O valor interpolado com polinômio de grau 3 é %.6f\n", valor_interpolado);
-disp("Letra B")
+disp("Letra B newtin")
 // Diferenças Divididas
+
+
 function T=Tabdiffdiv(x, y)
     n = length(x); 
     T = zeros(n, n);
@@ -63,3 +65,15 @@ function S=NewtonInterpol(x, y, p)
         S = S + M * T(1, i); // Atualiza S
     end
 end
+// Impressões para diferentes graus de polinômio
+// Grau 1
+valor_interpolado = lagrange_interpolacao(vetor_X(1:2), vetor_Y(1:2), valor_xx);
+mprintf("O valor interpolado com polinômio de grau 1 é %.6f\n", valor_interpolado);
+
+// Grau 2
+valor_interpolado = lagrange_interpolacao(vetor_X(1:3), vetor_Y(1:3), valor_xx);
+mprintf("O valor interpolado com polinômio de grau 2 é %.6f\n", valor_interpolado);
+
+// Grau 3
+valor_interpolado = lagrange_interpolacao(vetor_X(1:4), vetor_Y(1:4), valor_xx);
+mprintf("O valor interpolado com polinômio de grau 3 é %.6f\n", valor_interpolado);
