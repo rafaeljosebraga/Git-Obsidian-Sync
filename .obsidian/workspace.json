@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cde918bc1cff1fe1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leitura.md",
+                "file": "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leitura.md",
+                "file": "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leitura.md"
+                "file": "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md"
               }
             }
           },
@@ -192,10 +203,11 @@
       }
     ]
   },
-  "active": "bede27fad52840e1",
+  "active": "cde918bc1cff1fe1",
   "lastOpenFiles": [
-    "Respostas 7.1.5.md",
     "Leitura.md",
+    "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
+    "Respostas 7.1.5.md",
     "Pasted image 20240908150232.png",
     "Pasted image 20240908150147.png",
     "Pasted image 20240908150119.png",
