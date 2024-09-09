@@ -35,3 +35,31 @@ mprintf("O valor interpolado com polinômio de grau 2 é %.6f\n", valor_interpol
 // Grau 3
 valor_interpolado = lagrange_interpolacao(vetor_X(1:4), vetor_Y(1:4), valor_xx);
 mprintf("O valor interpolado com polinômio de grau 3 é %.6f\n", valor_interpolado);
+disp("Letra B")
+// Diferenças Divididas
+function T=Tabdiffdiv(x, y)
+    n = length(x); 
+    T = zeros(n, n);
+    T(:, 1) = y; 
+    
+    for j = 2:n
+        for i = 1:(n - j + 1)
+            T(i, j) = (T(i + 1, j - 1) - T(i, j - 1)) / (x(i + j - 1) - x(i));
+        end
+    end
+end
+
+// Função Interpolação de Newton
+function S=NewtonInterpol(x, y, p)
+    n = length(x); 
+    T = Tabdiffdiv(x, y); 
+    S = y(1); 
+    
+    for i = 2:n
+        M = 1;
+        for j = 1:(i - 1)
+            M = M * (p - x(j)); // Calcula o produto dos termos
+        end
+        S = S + M * T(1, i); // Atualiza S
+    end
+end
