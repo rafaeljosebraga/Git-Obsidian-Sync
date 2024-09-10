@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "bbae9365314d968d",
+    "id": "d067508331e1183c",
     "type": "split",
     "children": [
       {
-        "id": "fc2696cf7197881e",
+        "id": "7b00770cf86cdc9d",
         "type": "tabs",
         "children": [
           {
-            "id": "08a5b583ee0e056e",
+            "id": "eb5cb27128073f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "produto interno.md",
+                "file": "Algebra linear/transformações lineares.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c582045462ec32d8",
+            "id": "77ad16703f1417ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decomposição SVD.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d7641d33f9ec648f",
+    "id": "9be2b9638b9b5e6a",
     "type": "split",
     "children": [
       {
-        "id": "567280552154128d",
+        "id": "96a1ad63a89117f9",
         "type": "tabs",
         "children": [
           {
-            "id": "cd21648d59d618f8",
+            "id": "fd069b514ddf4bdc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "6ede56452f833768",
+            "id": "9cf5c24226ca6d0a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "487914934b7ac7c2",
+            "id": "6e8df7d35c489731",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,24 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "868f71f2c8fa4666",
+    "id": "b680983fc74fe8f0",
     "type": "split",
     "children": [
       {
-        "id": "aa69a1139a575df4",
+        "id": "8468df62f7e2f9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "58bdf190bf7312e4",
+            "id": "4050c4a3dc74f9e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decomposição SVD.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +110,19 @@
             }
           },
           {
-            "id": "32fbba0aebf7d1c6",
+            "id": "546995749de261c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decomposição SVD.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "35c1dede4e758417",
+            "id": "0f917ee47a5224d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,21 +133,13 @@
             }
           },
           {
-            "id": "84fc9b66bf69fb35",
+            "id": "23fc8a5cae738347",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decomposição SVD.md"
+                "file": "conflict-files-obsidian-git.md"
               }
-            }
-          },
-          {
-            "id": "e8c9411d6a7c9396",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
             }
           }
         ]
@@ -169,60 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c582045462ec32d8",
+  "active": "77ad16703f1417ca",
   "lastOpenFiles": [
-    "Norma e Distância.md",
-    "Normalização.md",
-    "Decomposição SVD.md",
-    "Sem título 1.md",
-    "produto interno.md",
-    "Prova de Algebra.md",
-    "Banco de Dados/Álgebra Relacional.md",
-    "Select.md",
-    "Linguagem de Manipulação de Dados.md",
-    "Funções de Caracteres.md",
-    "Angulo e Ortogonalidade.md",
-    "Pasted image 20240830115649.png",
-    "Algebra linear/Ortogonalidade.md",
-    "Pasted image 20240830114920.png",
-    "Pasted image 20240830114047.png",
-    "Pasted image 20240830112330.png",
-    "Pasted image 20240830111459.png",
-    "produto escalar.md",
-    "Algebra linear/Núcleo e Imagem.md",
-    "Algebra linear/Autovalores e Autovetores.md",
-    "Sem título.md",
-    "Síntese aula de POO conexão MySQL.md",
     "Algebra linear/transformações lineares.md",
+    "Algebra linear/Posto e Nulidade.md",
+    "Algebra linear/Interpolação.md",
+    "Algebra linear/Autovalores e Autovetores.md",
     "Algebra linear/Algebra Linear.md",
-    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
-    "Pasted image 20240830092039.png",
-    "Pasted image 20240830091402.png",
-    "Pasted image 20240830090247.png",
-    "Pasted image 20240830090044.png",
-    "Pasted image 20240830090043.png",
-    "conflict-files-obsidian-git.md",
-    "Algebra linear/Resoluções/Polinomio caracteristico.sci",
-    "Algebra linear/Espaço vetorial.md",
-    "Algebra linear/Sintese Algebra linear.md",
-    "algebra relacional compreensão inicial.md",
-    "Linguagem declarativa.md",
-    "Mudança de Coordenadas.md",
-    "Análise Numerica/Prova de Análise Numérica.md",
-    "Algebra linear/Resoluções/questão 5.sci",
-    "Algebra linear/Resoluções/quesao7.sci",
-    "Algebra linear/Resoluções/idea.sci",
-    "Algebra linear/Resoluções/Questão6.sci",
-    "Algebra linear/Resoluções/Questao4.sci",
-    "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Análise Numerica/calculo_numerico.pdf",
-    "Excalidraw",
-    "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
-    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
-    "Banco de Dados/3-relacional.canvas",
-    "Banco de Dados/Untitled 1.canvas",
-    "Banco de Dados/Untitled.canvas",
-    "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
-    "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
+    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
