@@ -68,5 +68,60 @@ $V_\mathbf{u} = \frac{1}{3} |A^T\mathbf{u}|^2 = \frac{1}{3}(A^T\mathbf{u}) \cdot
 
 Mostramos que $V_\mathbf{u} = \mathbf{u} \cdot \left(\frac{1}{3}AA^T\right)\mathbf{u}$.
 
+Código Utilizado nas próximas questões:
+```
+//Declara nossa Matriz Inicial
+pontosCentrados=[-1 -1;0 -1;1 2];
+
+// Mostra os pontos centrados
+disp("Pontos Centrados:")
+disp(pontosCentrados)
+
+pontosCentradosT = pontosCentrados';
+
+n = size(pontosCentrados, 1); 
+
+// Cálculo da matriz de covariância (corrigido na resposta anterior)
+matrizC = (pontosCentradosT * pontosCentrados) / (n - 1);
+disp(matrizC);
+// Questão e
+u1 = [1/sqrt(5); 2/sqrt(5)];
+disp("u1:");
+disp(u1);
+Vu1 = u1' * matrizC * u1;
+
+// Questão f
+u2 = [2/sqrt(5); 1/sqrt(5)];
+disp("u2:");
+disp(u2);
+Vu2 = u2' * matrizC * u2;
+
+// Exibir Vu1 e Vu2
+disp("Vu1:",Vu1);
+disp("Vu2:",Vu2);
+```
+
+
+## d)
+
+Rodando o algoritmo utilizando a fórmula chegamos a esta matriz:
+
+![[Pasted image 20240910190603.png]]
+
+Utilizando a formula dada: 
+$$V_u=u*(Cu).$$
+podemos calcular os resultados das letras $e)$ e $f)$
+## e)
+![[Pasted image 20240910191309.png]]
+fazendo $V_{u1}=u_1*(Cu_1).$ temos
+ $V_{u1}= 3.8$
+## f)
+![[Pasted image 20240910191336.png]]
+
+e fazendo $V_{u2}=u_2*(Cu_2).$ temos $V_{u2}= 2.6$
+
+$V_w=V_{u1}+V_{u2}=$
+## g)
+
 
 
