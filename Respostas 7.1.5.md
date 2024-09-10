@@ -6,7 +6,6 @@ $$ \mathbf{d}_1 = \begin{bmatrix} 0 \\ -1 \end{bmatrix} ;\mathbf{d}_2 = \begin{b
 $$A = \begin{bmatrix} \mathbf{d}_1 & \mathbf{d}_2 & \mathbf{d}_3 \end{bmatrix} = \begin{bmatrix} 0 & 0 & 1 \\ -1 & -1 & 2 \end{bmatrix}$$
 e teremos um vetor unitário genérico **u**
 ## a)![[Pasted image 20240908150147.png]]
-
 primeiro vamos transpor A:$$A' = \begin{bmatrix} 0 & -1 \\ 0 & -1 \\ 1 & 2 \end{bmatrix}$$
 
 então podemos escrever$A^Tu$ assim: $$A'\mathbf{u} = \begin{bmatrix} 0 & -1 \\ 0 & -1 \\ 1 & 2 \end{bmatrix} \mathbf{u} ;$$
@@ -35,9 +34,12 @@ Portanto, $V_u$ é igual a $\frac{1}{3}$ da norma ao quadrado do vetor resultant
 
 $V_{\mathbf{u}1} = \frac{1}{N}\sum{j} |(\tilde{\mathbf{d}}_j \cdot \mathbf{u}_1)\mathbf{u}1|^2 = \frac{1}{N} \sum{j} (\tilde{\mathbf{d}}_j \cdot \mathbf{u}_1)^2.$
 
-# Aplicação da Proposição 7.1.10
 
-## Proposição 7.1.10
+
+
+### Aplicação da Proposição 7.1.10
+
+#### Proposição 7.1.10
 Para qualquer matriz $A$, temos:
 $$ v \cdot (A w) = (A^T v) \cdot w $$
 Em particular, se $A$ for simétrica, então:
@@ -45,7 +47,7 @@ $$ v \cdot (A w) = (A v) \cdot w $$
 
 
 
-usar a Proposição 7.1.10 para provar a equação:
+usando a a Proposição 7.1.10 para provar a equação:
 
 $V_\mathbf{u} = \frac{1}{3} |A^T\mathbf{u}|^2 = \frac{1}{3}(A^T\mathbf{u}) \cdot (A^T\mathbf{u}) = \mathbf{u}^T \left(\frac{1}{3}AA^T\right)\mathbf{u} = \mathbf{u} \cdot \left(\frac{1}{3}AA^T\right)\mathbf{u}.$
 
@@ -68,4 +70,27 @@ $V_\mathbf{u} = \frac{1}{3} |A^T\mathbf{u}|^2 = \frac{1}{3}(A^T\mathbf{u}) \cdot
 
 **Conclusão:**
 
-Mostramos que $V_\mathbf{u} = \mathbf{u} \cdot \left(\frac{1}{3}AA^T\right)\mathbf{u}$, que é o que queríamos provar.
+Mostramos que $V_\mathbf{u} = \mathbf{u} \cdot \left(\frac{1}{3}AA^T\right)\mathbf{u}$.
+
+A equação $V_\mathbf{u} = \frac{1}{3} |A^T\mathbf{u}|^2$ é válida mesmo se A não for simétrica. Vamos expandir o lado direito e ver o que acontece.
+
+Lembre-se que:
+
+- $A = [\tilde{\mathbf{d}}_1, \tilde{\mathbf{d}}_2, \tilde{\mathbf{d}}_3]$.
+    
+- $\mathbf{u}$ é um vetor unitário.
+    
+
+Então:
+
+$$A^T\mathbf{u} = \begin{bmatrix} \tilde{\mathbf{d}}_1^T \\ \tilde{\mathbf{d}}_2^T \\ \tilde{\mathbf{d}}_3^T \end{bmatrix} \mathbf{u} = \begin{bmatrix} \tilde{\mathbf{d}}_1^T\mathbf{u} \\ \tilde{\mathbf{d}}_2^T\mathbf{u} \\ \tilde{\mathbf{d}}_3^T\mathbf{u} \end{bmatrix} = \begin{bmatrix} \tilde{\mathbf{d}}_1 \cdot \mathbf{u} \\ \tilde{\mathbf{d}}_2 \cdot \mathbf{u} \\ \tilde{\mathbf{d}}_3 \cdot \mathbf{u} \end{bmatrix}. $$
+
+Agora, calculando a norma ao quadrado de $A^T\mathbf{u}$:
+
+$|A^T\mathbf{u}|^2 = (\tilde{\mathbf{d}}_1 \cdot \mathbf{u})^2 + (\tilde{\mathbf{d}}_2 \cdot \mathbf{u})^2 + (\tilde{\mathbf{d}}_3 \cdot \mathbf{u})^2.$
+
+Portanto:
+
+$V_\mathbf{u} = \frac{1}{3} |A^T\mathbf{u}|^2 = \frac{1}{3}[(\tilde{\mathbf{d}}_1 \cdot \mathbf{u})^2 + (\tilde{\mathbf{d}}_2 \cdot \mathbf{u})^2 + (\tilde{\mathbf{d}}_3 \cdot \mathbf{u})^2].$
+
+Essa expressão é exatamente a mesma que a definição de $V_\mathbf{u}$ que tínhamos antes!
