@@ -29,7 +29,7 @@ n = size(pontosCentrados, 1);
 
 // Cálculo da matriz de covariância (corrigido na resposta anterior)
 matrizC = (pontosCentradosT * pontosCentrados) / (n - 1);
-
+disp(matrizC);
 // Questão e
 u1 = [1/sqrt(5); 2/sqrt(5)];
 disp("u1:");
