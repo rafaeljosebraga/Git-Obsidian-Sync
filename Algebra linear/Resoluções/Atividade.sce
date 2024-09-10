@@ -7,7 +7,8 @@ d2 = [2,1];
 d3 = [3,4];
 pontos = [1, 1; 2, 1; 3, 4];
 centroide = calcCentroid(pontos);
-
+disp(centroide)
+disp (pontos)
 pontosCentrados = pontos - centroide;
 pontosCentradosT = pontosCentrados';
 
