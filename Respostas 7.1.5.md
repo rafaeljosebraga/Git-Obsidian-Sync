@@ -125,9 +125,10 @@ $V_w=V_{u1}+V_{u2}=6,4$
 
 ## g)![[Pasted image 20240910193909.png]]
 A matriz de covariância pode ser dada por esta formula, onde podemos ver que as variaveis fora da diagonal principal são calculadas de usando a mesma formula só que alterando $Cov(X,Y)|Cov(X,Y)$ veja a imagem
-![[Pasted image 20240910193759.png]]
+# $$\Sigma = \begin{pmatrix} Var(X_1) & Cov(X_1, X_2) & ... & Cov(X_1, X_n) \\ Cov(X_2, X_1) & Var(X_2) & ... & Cov(X_2, X_n) \\ \vdots & \vdots & \ddots & \vdots \\ Cov(X_n, X_1) & Cov(X_n, X_2) & ... & Var(X_n) \end{pmatrix}$$
 
 E pela formula abaixo vemos que independente da se $Cov(X,Y)$ ou $Cov(X,Y)$ das duas formas vão retornar o mesmo valor pois as ordem dos fatores não altera a multiplicação.
-![[Pasted image 20240910193757.png]]
+
+# $Cov(X,Y) = \frac{\sum(X_i - \bar{X})(Y_j - \bar{Y})}{n-1}$
 
 
