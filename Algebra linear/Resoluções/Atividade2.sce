@@ -45,5 +45,6 @@ Vu2 = u2' * matrizC * u2;
 // Exibir Vu1 e Vu2
 disp("Vu1:");
 disp(Vu1);
+
 disp("Vu2:");
 disp(Vu2);
