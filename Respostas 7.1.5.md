@@ -114,14 +114,14 @@ podemos calcular os resultados das letras $e)$ e $f)$
 ## e)
 ![[Pasted image 20240910191309.png]]
 fazendo $V_{u1}=u_1*(Cu_1).$ temos
- $V_{u1}= 3.8$
+ $V_{u1}= 3,8$
 ## f)
 ![[Pasted image 20240910191336.png]]
 
-e fazendo $V_{u2}=u_2*(Cu_2).$ temos $V_{u2}= 2.6$
+e fazendo $V_{u2}=u_2*(Cu_2).$ temos $V_{u2}= 2,6$
 
-$V_w=V_{u1}+V_{u2}=$
+$V_w=V_{u1}+V_{u2}=6,4$
 ## g)
 
-
+A matriz de covariância $C$ é simétrica porque os elementos fora da diagonal são a covariância entre duas variáveis aleatórias diferentes, e a covariância é simétrica: $Cov(X,Y) = Cov(Y,X)$. Portanto, os elementos $C_{ij}$ e $C_{ji}$ são iguais, o que torna a matriz $C$ simétrica.
 
