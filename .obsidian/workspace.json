@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Respostas 7.1.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Respostas 7.1.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Respostas 7.1.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra linear/transformações lineares.md"
+                "file": "Respostas 7.1.5.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "eb5cb27128073f5d",
   "lastOpenFiles": [
+    "Algebra linear/transformações lineares.md",
     "Algebra linear/Resoluções/Atividade2.sce",
     "conflict-files-obsidian-git.md",
-    "Algebra linear/transformações lineares.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/Interpolação.md",
     "Algebra linear/Autovalores e Autovetores.md",
