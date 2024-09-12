@@ -35,9 +35,11 @@
             "id": "722b0c292f0a515e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawn.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawn.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawn.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawn.md"
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
               }
             }
           },
@@ -181,45 +183,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "floating": {
-    "id": "40ec0027f78a0f66",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f60954f28e83ac3e",
-        "type": "window",
-        "children": [
-          {
-            "id": "6e402955f2575029",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "66f3597bf74b8cbc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Respostas 7.1.5.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "722b0c292f0a515e",
   "lastOpenFiles": [
+    "Banco de Dados/Álgebra Relacional.md",
+    "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
+    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
+    "Excalidraw/Drawn.md",
     "Respostas 7.1.5.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
@@ -232,7 +201,6 @@
     "Pasted image 20240910191309.png",
     "Pasted image 20240910190719.png",
     "Pasted image 20240910190603.png",
-    "Excalidraw/Drawn.md",
     "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
@@ -260,13 +228,10 @@
     "Prova de Algebra.md",
     "SQL.md",
     "Síntese aula de POO conexão MySQL.md",
-    "Sem título 1.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
     "Análise Numerica/AulaInterpolação/Q2-c.sce",
     "Análise Numerica/Atividades/FilipeQ3.sce",
     "Análise Numerica/Atividades/Interpol.sce",
-    "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
-    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",

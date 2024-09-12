@@ -45,7 +45,7 @@ A #superchave é um tipo de #atributo definido como conjunto de atributos que de
 ![[Pasted image 20240806191624.png]]
 
 <h4>Restrições de Integridade em Chaves</h2>
-Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar a tupla a chave não pode Não pode repetir em outras tuplas.
+Restrição de integridade da chave(Unicidade): Por fazer o papel de identificar a tupla a chave não pode repetir em outras tuplas.
 
 Restrição de integridade da Entidade: A chave primária em hipótese alguma pode conter  o valor nulo.
 
