@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "Sem título.md"
               }
             }
           },
@@ -185,12 +185,19 @@
   },
   "active": "722b0c292f0a515e",
   "lastOpenFiles": [
+    "Select.md",
+    "Respostas 7.1.5.md",
+    "Leitura.md",
+    "Linguagem de Manipulação de Dados.md",
+    "Linguagem declarativa.md",
+    "Algebra linear/Espaço vetorial.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Pasted image 20240908150147.png",
+    "Pasted image 20240830115649.png",
     "Banco de Dados/Álgebra Relacional.md",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Excalidraw/Drawn.md",
-    "Respostas 7.1.5.md",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Pasted image 20240910193909.png",
     "Pasted image 20240910193907.png",
@@ -200,7 +207,6 @@
     "Pasted image 20240910191336.png",
     "Pasted image 20240910191309.png",
     "Pasted image 20240910190719.png",
-    "Pasted image 20240910190603.png",
     "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
@@ -217,17 +223,12 @@
     "Algebra linear/Resoluções/Atividade.sce",
     "Análise Numerica/Atividades/Q2.sce",
     "Análise Numerica/Lista Interpol/Q1.sce",
-    "Leitura.md",
-    "Pasted image 20240908150232.png",
-    "Linguagem de Manipulação de Dados.md",
-    "Linguagem declarativa.md",
     "Mudança de Coordenadas.md",
     "Norma e Distância.md",
     "Normalização.md",
     "produto interno.md",
     "Prova de Algebra.md",
     "SQL.md",
-    "Síntese aula de POO conexão MySQL.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
     "Análise Numerica/AulaInterpolação/Q2-c.sce",
     "Análise Numerica/Atividades/FilipeQ3.sce",
