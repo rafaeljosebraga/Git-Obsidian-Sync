@@ -35,11 +35,9 @@
             "id": "722b0c292f0a515e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawn.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.md",
+                "file": "Excalidraw/Drawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.md",
+                "file": "Excalidraw/Drawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md"
+                "file": "Excalidraw/Drawn.md"
               }
             }
           },
@@ -185,6 +183,8 @@
   },
   "active": "722b0c292f0a515e",
   "lastOpenFiles": [
+    "Pasted Image 20240913103239_012.png",
+    "Sem título.md",
     "Select.md",
     "Respostas 7.1.5.md",
     "Leitura.md",
@@ -227,8 +227,6 @@
     "Norma e Distância.md",
     "Normalização.md",
     "produto interno.md",
-    "Prova de Algebra.md",
-    "SQL.md",
     "Análise Numerica/rtCA - algoritimos.pdf",
     "Análise Numerica/AulaInterpolação/Q2-c.sce",
     "Análise Numerica/Atividades/FilipeQ3.sce",
