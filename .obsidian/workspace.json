@@ -35,8 +35,12 @@
             "id": "722b0c292f0a515e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -107,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+              }
             }
           },
           {
