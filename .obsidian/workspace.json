@@ -35,10 +35,8 @@
             "id": "722b0c292f0a515e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawn.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -109,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawn.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,6 +178,7 @@
   },
   "active": "722b0c292f0a515e",
   "lastOpenFiles": [
+    "Excalidraw/Drawn.md",
     "Pasted Image 20240913113938_012.png",
     "Pasted Image 20240913113822_747.png",
     "Pasted Image 20240913105922_348.png",
@@ -201,13 +196,11 @@
     "Banco de Dados/Álgebra Relacional.md",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
-    "Excalidraw/Drawn.md",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Pasted image 20240910193909.png",
     "Pasted image 20240910193907.png",
     "Pasted image 20240910193759.png",
     "Pasted image 20240910193757.png",
-    "Pasted image 20240910191737.png",
     "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
