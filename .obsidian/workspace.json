@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "062f08bbfe6b7ce2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imagens utilizadas/Pasted image 20240810232356.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "imagens utilizadas/Pasted image 20240810232356.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "imagens utilizadas/Pasted image 20240810232356.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "imagens utilizadas/Pasted image 20240810232356.png"
               }
             }
           },
@@ -183,10 +193,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "722b0c292f0a515e",
+  "active": "062f08bbfe6b7ce2",
   "lastOpenFiles": [
-    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Excalidraw/Drawn.md",
     "Pasted Image 20240913113938_012.png",
     "Pasted Image 20240913113822_747.png",
