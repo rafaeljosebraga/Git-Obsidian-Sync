@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "Análise Numerica/Lista Interpol/Gauss Jordan mod.md"
               }
             }
           },
@@ -197,11 +197,21 @@
   },
   "active": "062f08bbfe6b7ce2",
   "lastOpenFiles": [
+    "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
+    "Análise Numerica/Analise Numérica.md",
+    "Análise Numerica/Atividade Análise Numérica.md",
+    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
+    "Análise Numerica/Método das potencias.md",
+    "Análise Numerica/Prova de Análise Numérica.md",
+    "Análise Numerica/intro_an_num.pdf",
+    "Análise Numerica/calculo_numerico.pdf",
+    "Análise Numerica/Atividade de Analise Numerica.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
+    "Banco de Dados/Normalização.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Algebra Linear.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "imagens utilizadas/Pasted image 20240810232356.png",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Excalidraw/Drawn.md",
     "Pasted Image 20240913113938_012.png",
     "Pasted Image 20240913113822_747.png",
@@ -232,19 +242,9 @@
     "Atividade.md",
     "Algebra linear/Resoluções/Atividade2.sce",
     "Algebra linear/Resoluções/Novo Documento RTF.rtf",
-    "Análise Numerica/Atividade de Analise Numerica.md",
-    "Análise Numerica/Atividade Análise Numérica.md",
-    "Análise Numerica/Analise Numérica.md",
     "Algebra linear/Resoluções/Atividade.sce",
     "Análise Numerica/Atividades/Q2.sce",
     "Análise Numerica/Lista Interpol/Q1.sce",
-    "Mudança de Coordenadas.md",
-    "Norma e Distância.md",
-    "Normalização.md",
-    "produto interno.md",
-    "Análise Numerica/rtCA - algoritimos.pdf",
-    "Análise Numerica/AulaInterpolação/Q2-c.sce",
-    "Análise Numerica/Atividades/FilipeQ3.sce",
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
