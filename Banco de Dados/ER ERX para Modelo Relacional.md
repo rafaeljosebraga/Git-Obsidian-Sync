@@ -39,7 +39,8 @@ a representação dessas relações em instâncias:
 
 A #superchave é um tipo de #atributo definido como conjunto de atributos que definem aquela tupla como  única.
 
-#chave é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
+#chave é uma #superchave definida que como dita na definição de #superchave identificando a tupla em questão como única sendo esta oque podemos chamar de super chave minima
+(o conjunto mínimo necessário para que se tenha uma super chave na tupla).
 
 <h3>Chaves Candidatas</h3>
 ![[Pasted image 20240806191624.png]]
