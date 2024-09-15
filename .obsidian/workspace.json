@@ -47,11 +47,9 @@
             "id": "062f08bbfe6b7ce2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawn.md"
               }
             }
           }
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
+                "file": "Excalidraw/Drawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
+                "file": "Excalidraw/Drawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise Numerica/Lista Interpol/Gauss Jordan mod.md"
+                "file": "Excalidraw/Drawn.md"
               }
             }
           },
