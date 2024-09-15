@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trabal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md"
+                "file": "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md"
               }
             }
           },
@@ -197,6 +198,7 @@
   },
   "active": "062f08bbfe6b7ce2",
   "lastOpenFiles": [
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Excalidraw/Drawn.md",
     "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
     "Análise Numerica/Analise Numérica.md",
@@ -209,7 +211,6 @@
     "Análise Numerica/Atividade de Analise Numerica.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Banco de Dados/Normalização.md",
-    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Algebra Linear.md",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "imagens utilizadas/Pasted image 20240810232356.png",

@@ -2,11 +2,11 @@
 
 **Abordando boa parte dos capítulos começando da 14.1 até 14.7.**
 
-[Membros do grupo]: Rafael José Braga Coelho:Ciência da computação
+[Membros do grupo]: Rafael José Braga Coelho: Ciência da computação
 
-Ana Caroline Pereira Aguiar:Ciência da computação
+Ana Caroline Pereira Aguiar: Ciência da computação
 
-Felipe Gomes Amaral:Ciência da computação
+Felipe Gomes Amaral: Ciência da computação
 
 ![[Pasted image 20240802213056.png]]
 
