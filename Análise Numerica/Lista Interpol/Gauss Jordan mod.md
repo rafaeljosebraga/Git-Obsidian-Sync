@@ -1,4 +1,4 @@
 
-# $$\begin{bmatrix}|(b)mod256| & |(b)mod256| \\|(b)mod256| & |(b)mod256|\end{bmatrix}$$
+# $$\begin{bmatrix}3 & 3 &2 &5\\4 &5&1&2\\6&4&3&1\\\end{bmatrix}$$
 
 # $$|(A^{-1})mod256|$$
