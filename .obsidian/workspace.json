@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
+                "file": "Roteiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
+                "file": "Roteiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md"
+                "file": "Roteiro.md"
               }
             }
           },
@@ -190,17 +190,17 @@
         "y": -8,
         "width": 976,
         "height": 1040,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "be9fad46b5244e48",
+  "active": "b0bcd2fd4fbcb923",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
+    "Roteiro.md",
     "81YsHe4woRL._SL1500_.jpg",
     "7123RWASRJL._SL1500_.jpg",
-    "Roteiro.md",
-    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
     "Pasted image 20240915225432.png",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
@@ -236,7 +236,6 @@
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Pasted image 20240910193909.png",
     "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
