@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiro.md",
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiro.md",
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roteiro.md"
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md"
               }
             }
           },
@@ -160,11 +160,47 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b0bcd2fd4fbcb923",
+  "floating": {
+    "id": "1477b272c2a8d49b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d4e9a6047a607135",
+        "type": "window",
+        "children": [
+          {
+            "id": "b29781b5a357071c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be9fad46b5244e48",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 259,
+        "y": 35,
+        "width": 1129,
+        "height": 976,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "be9fad46b5244e48",
   "lastOpenFiles": [
+    "Roteiro.md",
+    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
     "Pasted image 20240915225432.png",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
-    "Roteiro.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Leitura.md",
     "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
@@ -200,7 +236,6 @@
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Pasted image 20240910193909.png",
     "Pasted image 20240910193907.png",
-    "Pasted image 20240910193759.png",
     "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
