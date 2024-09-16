@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiro.md",
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiro.md",
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roteiro.md"
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md"
               }
             }
           },
@@ -190,15 +190,15 @@
         "y": 377,
         "width": 1129,
         "height": 976,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b0bcd2fd4fbcb923",
+  "active": "be9fad46b5244e48",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
     "Roteiro.md",
+    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
     "Pasted image 20240915225432.png",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
