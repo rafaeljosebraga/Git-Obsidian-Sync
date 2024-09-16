@@ -189,8 +189,8 @@
         "x": -8,
         "y": -8,
         "width": 976,
-        "height": 1056,
-        "maximize": false,
+        "height": 1040,
+        "maximize": true,
         "zoom": 0
       }
     ]
