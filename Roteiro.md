@@ -1,6 +1,10 @@
 2.Apresentação dos conceitos e resultados, com duração máxima de 20 minutos, publicada em uma
 plataforma de compartilhamento de vídeos de sua escolha, tal como o YouTubeTM:
 
+Falar sobre o seminario:
+Introdução do tema
+
+
 2.1. Contextualização, breve histórico e introdução dando uma visão geral sobre as motivações e o
 que são padrões de projeto, bem como quais as vantagens de sua aplicação (10%);
 
