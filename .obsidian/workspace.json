@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiro.md",
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiro.md",
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roteiro.md"
+                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md"
               }
             }
           },
@@ -186,8 +186,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -8,
-        "y": -8,
+        "x": 472,
+        "y": 28,
         "width": 976,
         "height": 1040,
         "maximize": false,
@@ -195,10 +195,10 @@
       }
     ]
   },
-  "active": "b0bcd2fd4fbcb923",
+  "active": "be9fad46b5244e48",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
     "Roteiro.md",
+    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.png",
     "81YsHe4woRL._SL1500_.jpg",
     "7123RWASRJL._SL1500_.jpg",
