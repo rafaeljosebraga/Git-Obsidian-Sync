@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
+                "file": "Roteiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
+                "file": "Roteiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md"
+                "file": "Roteiro.md"
               }
             }
           },
@@ -165,20 +165,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "d4e9a6047a607135",
+        "id": "8bf700f1e44dba9e",
         "type": "window",
         "children": [
           {
-            "id": "b29781b5a357071c",
+            "id": "be95bfd35481f87b",
             "type": "tabs",
             "children": [
               {
-                "id": "be9fad46b5244e48",
+                "id": "c21a0e3eac15064d",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md"
+                    "file": "Excalidraw/Drawing 2024-09-25 20.53.38.excalidraw.md"
                   }
                 }
               }
@@ -186,19 +186,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 472,
-        "y": 28,
-        "width": 976,
-        "height": 1040,
-        "maximize": true,
+        "x": 22,
+        "y": 93,
+        "width": 1322,
+        "height": 688,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "be9fad46b5244e48",
+  "active": "b0bcd2fd4fbcb923",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-25 20.53.38.excalidraw.md",
     "Roteiro.md",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
+    "Pasted Image 20240922183035_225.png",
+    "Pasted Image 20240922182935_226.png",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.png",
     "81YsHe4woRL._SL1500_.jpg",
     "7123RWASRJL._SL1500_.jpg",
@@ -224,14 +227,12 @@
     "Pasted Image 20240913113938_012.png",
     "Pasted Image 20240913113822_747.png",
     "Pasted Image 20240913105922_348.png",
-    "Pasted Image 20240913103239_012.png",
     "Sem título.md",
     "Select.md",
     "Respostas 7.1.5.md",
     "Linguagem de Manipulação de Dados.md",
     "Linguagem declarativa.md",
     "Algebra linear/Espaço vetorial.md",
-    "Pasted image 20240908150147.png",
     "Banco de Dados/Álgebra Relacional.md",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
