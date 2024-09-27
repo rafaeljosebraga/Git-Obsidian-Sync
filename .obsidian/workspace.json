@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -160,8 +158,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b0bcd2fd4fbcb923",
+  "active": "cd21648d59d618f8",
   "lastOpenFiles": [
+    "Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
+    "modelo-relacional.drawio",
+    "Diagrama sem nome.drawio",
     "Excalidraw/Drawing 2024-09-25 20.53.38.excalidraw.md",
     "Roteiro.md",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
@@ -204,12 +205,9 @@
     "Banco de Dados/Fundamentals of Database Systems.pdf",
     "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-28 20.40.15.excalidraw.md",
     "Algebra linear/Resoluções/Atividade2.sce",
     "Algebra linear/Resoluções/Novo Documento RTF.rtf",
     "Algebra linear/Resoluções/Atividade.sce",
-    "Análise Numerica/Atividades/Q2.sce",
-    "Análise Numerica/Lista Interpol/Q1.sce",
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
