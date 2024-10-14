@@ -18,6 +18,9 @@ pontosCentrados = zeros(size(pontos)); // Inicializa a matriz
 for i = 1:size(pontos, 1)
   pontosCentrados(i,:) = pontos(i,:) - centroide; 
 end
+clc;clear;
+//Declara nossa Matriz Inicial
+pontosCentrados=[-1 -1;0 -1;1 2];
 
 // Mostra os pontos centrados
 disp("Pontos Centrados:")
@@ -43,8 +46,13 @@ disp(u2);
 Vu2 = u2' * matrizC * u2;
 
 // Exibir Vu1 e Vu2
+<<<<<<< HEAD
 disp("Vu1:");
 disp(Vu1);
 
 disp("Vu2:");
 disp(Vu2);
+=======
+disp("Vu1:",Vu1);
+disp("Vu2:",Vu2);
+>>>>>>> origin/main

@@ -257,7 +257,7 @@ PPdr 9->
 2->Sobreposição, participação parcial.
 3->Sobreposição, participação parcial(upgrade da 2).
 4->Disjunção, participação parcial.
-5->Sobreposição, participação parcial(nulos definem a sobreposição).
+5->Sobreposição, participação parcial(fnulos definem a sobreposição).
 6->Sobreposição, participação parcial(substitui os nulos por booleanos).
 7->Botão de pânico, participação total (implementa e cria quantas relações são necessárias, funciona para todos os modelos).
 8->Disjunção, participação total.

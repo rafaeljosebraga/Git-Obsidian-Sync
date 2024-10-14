@@ -11,15 +11,42 @@
             "id": "eb5cb27128073f5d",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cb0c6e66d1ff6eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a0537ed65f152c2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Respostas 7.1.5.md",
+                "file": "Test 14 outubro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e646734cf432a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Respostas 7.1.5.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Respostas 7.1.5.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Respostas 7.1.5.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -138,6 +165,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -147,11 +177,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb5cb27128073f5d",
+  "active": "1e646734cf432a6e",
   "lastOpenFiles": [
+    "Test 14 outubro.md",
+    "conflict-files-obsidian-git.md",
+    "Sem título 2.md",
+    "Respostas 7.1.5.md",
+    "Banco de Dados/Normalização.md",
+    "Normalização.md",
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
+    "Pasted image 20240910193909.png",
+    "Pasted image 20240910193907.png",
+    "Pasted image 20240910193759.png",
+    "Pasted image 20240910193757.png",
+    "Pasted image 20240910191737.png",
+    "Pasted image 20240910191336.png",
+    "Pasted image 20240910191309.png",
+    "Pasted image 20240910190719.png",
+    "Pasted image 20240910190603.png",
     "Algebra linear/transformações lineares.md",
     "Algebra linear/Resoluções/Atividade2.sce",
-    "conflict-files-obsidian-git.md",
     "Algebra linear/Posto e Nulidade.md",
     "Algebra linear/Interpolação.md",
     "Algebra linear/Autovalores e Autovetores.md",
