@@ -1,0 +1,1 @@
+É o que vamos entender no final é o objetivo em que a engenharia de software chega para dar partida na produção do sistema.
