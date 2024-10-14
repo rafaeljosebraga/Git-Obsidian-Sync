@@ -4,7 +4,7 @@ Marcos pediu para fazer ou atualizar o currículo Lattes
 
 ## Síntese Engenharia de software
 
-na engenharia de software entendemos desde como vamos elevar a documantação de um "software", entender e levar como essa ideia funciona de forma mais simples.
+na engenharia de software entendemos desde como vamos elevar a documentação de um "software", entender e levar como essa ideia funciona de forma mais simples.
 
 essa matéria tem um cunho mais teórico onde vamos documentar exigencias entendendo como pode funcionar um software engenhado.
 
@@ -13,6 +13,9 @@ A ideia da engenharia de software é elevar a qualidade  caso contrário é bale
 
 Devemos fazer as perguntas corretas, já que devemos definir de nosso projeto perfeitamente as necessidades requiridas.
 
-me explique [[RUP]].
+entendemos um problema e entregamos para o cliente uma coisa que ele pode avaliar o quanto a solução é útil para ele.
 
-engenharia de software
+e como resultado ter um software capaz de receber uma manutenção viável.
+
+Devemos entender e iniciar um projeto [[RUP]].
+
