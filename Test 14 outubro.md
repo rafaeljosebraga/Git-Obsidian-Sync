@@ -19,4 +19,8 @@ e como resultado ter um software capaz de receber uma manutenção viável.
 
 Devemos entender e iniciar um projeto [[RUP]].
 
+Lúcio nos entrega uma ideia inicial de que aprenderemos a fazer uma [[Documentação]]
+
+
+
 
