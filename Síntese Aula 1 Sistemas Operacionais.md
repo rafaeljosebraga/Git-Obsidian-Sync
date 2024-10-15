@@ -9,4 +9,6 @@ sendo este tal software composto por vários módulos a serem compreendidos dent
 
 Caribe fez um breve resumo das matérias dadas dentro  da disciplina a ser passada
 
+Livros a ser utilizado __TANENBAUM Sistemas Operacionais 
+__DEITEL Sistemas Operacionais
 
