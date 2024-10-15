@@ -12,3 +12,4 @@ Caribe fez um breve resumo das matérias dadas dentro  da disciplina a ser passa
 Livros a ser utilizado __TANENBAUM Sistemas Operacionais 
 __DEITEL Sistemas Operacionais
 
+onde vamos começar tratando os assuntos a partir do que chamamos de [[Sistemas de Computação]]
