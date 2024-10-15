@@ -8,3 +8,4 @@ vamos ter a visão em relação a vários casos  para algoritmos definidos dentr
 
 Programação Dinâmica é um dos tópicos que cobre o junto a ideia para entendermos como criar até compreender.
 
+Como primeira informação nos vamos ter um entendimento da matéria inicialmente pensando sobre como vamos entender os algoritmos assim estudando o caso de um 
