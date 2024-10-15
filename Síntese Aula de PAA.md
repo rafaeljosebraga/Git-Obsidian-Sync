@@ -10,3 +10,4 @@ Programação Dinâmica é um dos tópicos que cobre o junto a ideia para entend
 
 Como primeira informação nos vamos ter um entendimento da matéria inicialmente pensando sobre como vamos entender os algoritmos assim estudando o caso de um [[Insertion Sort]] em que primeiramente nos convencemos de que ele está certo e entender o quão custoso é rodar este algoritmo 
 
+foi feito o mesmo processo com [[Selection Sort]]
