@@ -11,8 +11,12 @@
             "id": "855233a21050802a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Síntese Aula 1 Sistemas Operacionais.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b680983fc74fe8f0",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Síntese Aula 1 Sistemas Operacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Síntese Aula 1 Sistemas Operacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Síntese Aula 1 Sistemas Operacionais.md"
+              }
             }
           }
         ]
@@ -144,6 +153,8 @@
   },
   "active": "855233a21050802a",
   "lastOpenFiles": [
+    "Síntese Aula 1 Sistemas Operacionais.md",
+    "Sem título 3.md",
     "RUP.md",
     "Test 14 outubro.md",
     "Documentação.md",
