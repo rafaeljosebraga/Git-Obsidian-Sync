@@ -1,0 +1,1 @@
+conhecido geralmente como memória RAM é o lugar onde os [[Sistemas de Computação]] armazenam as informações estritamente necessárias para a execução de programas

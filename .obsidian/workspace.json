@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5fcc8236ea7ba4a0",
+        "id": "20f45f774f5d0c3a",
         "type": "tabs",
         "children": [
           {
-            "id": "855233a21050802a",
+            "id": "f1b553b35fddad7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Síntese Aula 1 Sistemas Operacionais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29d27d7db6d4d2be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas de Computação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcba33b755c07db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema Operacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9bf94827d796f6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema Operacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f7c5703973413c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas de Computação.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistema Operacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistema Operacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistema Operacional.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,13 +142,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bcba33b755c07db4",
+  "active": "f1b553b35fddad7a",
   "lastOpenFiles": [
-    "Memoria Principal.md",
+    "Monoprogramado.md",
+    "Processos.md",
+    "Multiprogramado.md",
     "Sistema Operacional.md",
-    "Memoria Secundaria.md",
     "Sistemas de Computação.md",
+    "Memoria Principal.md",
     "Síntese Aula 1 Sistemas Operacionais.md",
+    "Memoria Secundaria.md",
     "Test 14 outubro.md",
     "Módulos dos Sistemas Operacionais.md",
     "Sem título 3.md",
