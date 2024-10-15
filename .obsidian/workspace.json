@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "bcba33b755c07db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema Operacional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9bf94827d796f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema Operacional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5f7c5703973413c7",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Computação.md",
+                "file": "Sistema Operacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Computação.md",
+                "file": "Sistema Operacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas de Computação.md"
+                "file": "Sistema Operacional.md"
               }
             }
           }
@@ -175,10 +199,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29d27d7db6d4d2be",
+  "active": "bcba33b755c07db4",
   "lastOpenFiles": [
-    "Síntese Aula 1 Sistemas Operacionais.md",
+    "Memoria Principal.md",
+    "Sistema Operacional.md",
+    "Memoria Secundaria.md",
     "Sistemas de Computação.md",
+    "Síntese Aula 1 Sistemas Operacionais.md",
     "Test 14 outubro.md",
     "Módulos dos Sistemas Operacionais.md",
     "Sem título 3.md",
