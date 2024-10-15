@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a0b1b50142797be9",
+        "id": "5fcc8236ea7ba4a0",
         "type": "tabs",
         "children": [
           {
-            "id": "e17981309e91c0b6",
+            "id": "855233a21050802a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test 14 outubro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3b023dcdd207cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RUP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 14 outubro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test 14 outubro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test 14 outubro.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,11 +142,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e17981309e91c0b6",
+  "active": "855233a21050802a",
   "lastOpenFiles": [
-    "Documentação.md",
-    "Test 14 outubro.md",
     "RUP.md",
+    "Test 14 outubro.md",
+    "Documentação.md",
     "conflict-files-obsidian-git.md",
     "Sem título 2.md",
     "Respostas 7.1.5.md",

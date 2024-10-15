@@ -21,6 +21,7 @@ Devemos entender e iniciar um projeto [[RUP]].
 
 Lúcio nos entrega uma ideia inicial de que aprenderemos a fazer uma [[Documentação]]
 
+"Não tem bala de prata, fazer software é difícil." 
 
 
 
