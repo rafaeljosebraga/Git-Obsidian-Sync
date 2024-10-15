@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1b0a1f04c1609a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntese Aula de PAA.md",
+                "file": "Algoritmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntese Aula de PAA.md",
+                "file": "Algoritmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Síntese Aula de PAA.md"
+                "file": "Algoritmo.md"
               }
             }
           }
@@ -150,8 +163,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1b553b35fddad7a",
+  "active": "c1b0a1f04c1609a4",
   "lastOpenFiles": [
+    "Fator de uma entrada.md",
+    "Algoritmo.md",
+    "entrada.md",
     "Síntese Aula de PAA.md",
     "Monoprogramado.md",
     "Processos.md",
@@ -184,9 +200,6 @@
     "Algebra linear/transformações lineares.md",
     "Algebra linear/Resoluções/Atividade2.sce",
     "Algebra linear/Posto e Nulidade.md",
-    "Algebra linear/Interpolação.md",
-    "Algebra linear/Autovalores e Autovetores.md",
-    "Algebra linear/Algebra Linear.md",
-    "Algebra linear/Resoluções/Avaliação Algebra Linear.md"
+    "Algebra linear/Interpolação.md"
   ]
 }
