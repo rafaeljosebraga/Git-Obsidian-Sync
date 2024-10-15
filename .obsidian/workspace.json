@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b680983fc74fe8f0",
@@ -153,6 +152,7 @@
   },
   "active": "855233a21050802a",
   "lastOpenFiles": [
+    "Módulos dos Sistemas Operacionais.md",
     "Síntese Aula 1 Sistemas Operacionais.md",
     "Sem título 3.md",
     "RUP.md",
