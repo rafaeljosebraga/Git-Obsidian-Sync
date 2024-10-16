@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20f45f774f5d0c3a",
+        "id": "7584e2d344c32c85",
         "type": "tabs",
         "children": [
           {
-            "id": "f1b553b35fddad7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selection Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98e8643a06cc12f9",
+            "id": "e8100e50227086f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +20,7 @@
             }
           },
           {
-            "id": "54de612c50fb3376",
+            "id": "21971246c7093798",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +32,7 @@
             }
           },
           {
-            "id": "e9f707c29094ed4d",
+            "id": "6af95878e5a7c800",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +44,7 @@
             }
           },
           {
-            "id": "e2dca9a34d3e36c4",
+            "id": "eb771a8bb27b9f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +56,7 @@
             }
           },
           {
-            "id": "63547e9af910bd52",
+            "id": "e86b72e24ad2e1a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,43 +68,19 @@
             }
           },
           {
-            "id": "2c9eb623d8712aef",
+            "id": "2eff84162c021454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Invariante.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ce47ac573c3154f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dedução natural em código.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef6ce000fabb1b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmo.md",
+                "file": "Invariante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmo.md",
+                "file": "Invariante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmo.md"
+                "file": "Invariante.md"
               }
             }
           }
@@ -247,14 +211,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54de612c50fb3376",
+  "active": "2eff84162c021454",
   "lastOpenFiles": [
-    "Síntese Aula de PAA.md",
-    "Selection Sort.md",
-    "Sem título 4.md",
     "Dedução natural em código.md",
     "Invariante.md",
     "Algoritmo.md",
+    "Síntese Aula de PAA.md",
+    "Sem título 4.md",
+    "Selection Sort.md",
     "entrada.md",
     "Sem título 6.md",
     "Algebra linear/transformações lineares.md",
