@@ -11,9 +11,10 @@ __Gerenciamento de recursos { [[Memoria Principal]], [[Memoria Secundaria]],
 
 "Deitel?" Um [[Sistema Operacional]] é uma extensão do sistema do computador se olharmos pelo lado onde ele literalmente gerencia o funcionamento de todas as peças por cima.
 
-As classificações de um SO podem ser dadas como:
+As classificações a um SO podem ser dadas como:
 
 __[[Monoprogramado]]
 
 __[[Multiprogramado]]
 
+Podemos definir as capacidades do sistema operacional em uma série de [[Serviços do sistema operacional]]

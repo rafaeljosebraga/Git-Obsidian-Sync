@@ -5,7 +5,7 @@ esses problemas dão seu enfoque na área de [[Produção]] com problemas de nat
 
 vamos trabalhar nossos objetivos a partir de duas vertentes
 
-minimizando 
+[[Minimizar]]
 
 maximizando
 

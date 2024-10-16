@@ -4,46 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4dd37ee0025c9e21",
+        "id": "9dc3a229c67e406a",
         "type": "tabs",
         "children": [
           {
-            "id": "35f83807c201498c",
+            "id": "558e0d802985a4e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Síntese Aula de Pesquisa Operacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f1018aae9e8ad225",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "661f69c5f058da45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minimizar.md",
+                "file": "Sistema Operacional.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc2a995e673f7a0e",
+            "id": "5459dfeaf3b23db8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problema do Avião.md",
+                "file": "Serviços do sistema operacional.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b680983fc74fe8f0",
@@ -116,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problema do Avião.md",
+                "file": "Serviços do sistema operacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problema do Avião.md",
+                "file": "Serviços do sistema operacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problema do Avião.md"
+                "file": "Serviços do sistema operacional.md"
               }
             }
           }
@@ -181,10 +164,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc2a995e673f7a0e",
+  "active": "5459dfeaf3b23db8",
   "lastOpenFiles": [
-    "Minimizar.md",
+    "Sistema Operacional.md",
+    "Serviços do sistema operacional.md",
+    "Monoprogramado.md",
     "Síntese Aula de Pesquisa Operacional.md",
+    "Minimizar.md",
+    "Problema do Avião.md",
     "Problemas de tomada de Decisão.md",
     "Sem título 8.md",
     "Sem título 1.md",
@@ -209,10 +196,6 @@
     "Aula Banco deDados..md",
     "Atividade para casa.md",
     "Atividade Álgebra Relacional.md",
-    "Atividade.md",
-    "algebra relacional compreensão inicial.md",
-    "Problema do Avião.md",
-    "Produção.md",
     "imagens utilizadas/Pasted image 20241015160435.png",
     "imagens utilizadas/Pasted image 20240910193909.png",
     "imagens utilizadas/Pasted image 20240910193907.png",
