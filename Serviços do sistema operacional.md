@@ -12,4 +12,3 @@ como por exemplo na arquitetura mips temos o registrador PSW que guarda a inform
 
 Uma forma como pode ser dado a criação e utilização SO, podemos usar algo como os [[Sistemas Monolíticos]], apesar de rustico é bastante utilizado.
 
-

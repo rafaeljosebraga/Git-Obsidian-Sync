@@ -18,3 +18,5 @@ __[[Monoprogramado]]
 __[[Multiprogramado]]
 
 Podemos definir as capacidades do sistema operacional em uma série de [[Serviços do sistema operacional]]
+
+O SO pode ser "Construído" de várias formas uma delas é com os [[Sistemas Monolíticos]],[[Sistema em Camadas]],
