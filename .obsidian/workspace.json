@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc3a229c67e406a",
+        "id": "51f1eb642881324a",
         "type": "tabs",
         "children": [
           {
-            "id": "558e0d802985a4e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema Operacional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5459dfeaf3b23db8",
+            "id": "a8d01e20d83894c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,20 +19,19 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "51f1eb642881324a",
+        "id": "7ae151d5748138ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a8d01e20d83894c4",
+            "id": "471738cf9a64705d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modo usuário.md",
+                "file": "Rotinas.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serviços do sistema operacional.md",
+                "file": "Rotinas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serviços do sistema operacional.md",
+                "file": "Rotinas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serviços do sistema operacional.md"
+                "file": "Rotinas.md"
               }
             }
           }
@@ -182,10 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5459dfeaf3b23db8",
+  "active": "471738cf9a64705d",
   "lastOpenFiles": [
-    "Modo usuário.md",
+    "interrupções.md",
+    "Rotinas.md",
     "Serviços do sistema operacional.md",
+    "Modo usuário.md",
     "Sistema Operacional.md",
     "Monoprogramado.md",
     "Síntese Aula de Pesquisa Operacional.md",
@@ -212,8 +201,6 @@
     "Componentes Funcionais do SGBD.md",
     "Aula de BD Síntese.md",
     "imagens utilizadas/Pasted image 20241015164425.png",
-    "Aula Banco deDados..md",
-    "Atividade para casa.md",
     "imagens utilizadas/Pasted image 20241015160435.png",
     "imagens utilizadas/Pasted image 20240910193909.png",
     "imagens utilizadas/Pasted image 20240910193907.png",
