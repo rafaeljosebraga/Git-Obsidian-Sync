@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Síntese Aula de Pesquisa Operacional.md",
+                "file": "Base ortogonal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntese Aula de Pesquisa Operacional.md",
+                "file": "Base ortogonal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntese Aula de Pesquisa Operacional.md",
+                "file": "Base ortogonal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Síntese Aula de Pesquisa Operacional.md"
+                "file": "Base ortogonal.md"
               }
             }
           }
@@ -152,8 +152,18 @@
   },
   "active": "bddad813d79bb569",
   "lastOpenFiles": [
-    "Produção.md",
+    "Aula de BD Síntese.md",
+    "Base ortogonal.md",
+    "Pasted image 20241015164425.png",
+    "Aula Banco deDados..md",
+    "Atividade para casa.md",
+    "Atividade Álgebra Relacional.md",
+    "Atividade.md",
+    "algebra relacional compreensão inicial.md",
     "Síntese Aula de Pesquisa Operacional.md",
+    "Problema do Avião.md",
+    "Problemas de tomada de Decisção.md",
+    "Produção.md",
     "Sem título 8.md",
     "Monoprogramado.md",
     "Sistema Operacional.md",
@@ -169,17 +179,7 @@
     "Sem título 6.md",
     "Algebra linear/transformações lineares.md",
     "Sem título 5.md",
-    "Pasted image 20241015164425.png",
-    "Insertion Sort.md",
     "Pasted image 20241015160435.png",
-    "Fator de uma entrada.md",
-    "Processos.md",
-    "Multiprogramado.md",
-    "Sistemas de Computação.md",
-    "Memoria Principal.md",
-    "Síntese Aula 1 Sistemas Operacionais.md",
-    "Test 14 outubro.md",
-    "Módulos dos Sistemas Operacionais.md",
     "Pasted image 20240910193909.png",
     "Pasted image 20240910193907.png",
     "Pasted image 20240910193759.png",
