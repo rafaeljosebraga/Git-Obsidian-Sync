@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "e2dca9a34d3e36c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invariante.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c1b0a1f04c1609a4",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dedução natural em código.md",
+                "file": "Invariante.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dedução natural em código.md",
+                "file": "Invariante.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dedução natural em código.md"
+                "file": "Invariante.md"
               }
             }
           }
@@ -199,11 +211,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9f707c29094ed4d",
+  "active": "e2dca9a34d3e36c4",
   "lastOpenFiles": [
+    "Dedução natural em código.md",
+    "Sem título 5.md",
     "Síntese Aula de PAA.md",
     "Algoritmo.md",
-    "Dedução natural em código.md",
     "Invariante.md",
     "Selection Sort.md",
     "Sem título 4.md",
@@ -228,7 +241,6 @@
     "conflict-files-obsidian-git.md",
     "Sem título 2.md",
     "Respostas 7.1.5.md",
-    "Banco de Dados/Normalização.md",
     "Pasted image 20240910193909.png",
     "Pasted image 20240910193907.png",
     "Pasted image 20240910193759.png",
