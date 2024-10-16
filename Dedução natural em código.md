@@ -1,4 +1,4 @@
-
+#Matemática_Discreta #dedução_por_Indução #
 revisar em casa.
 
 Livros de matemática discreta são horríveis porem existe um canal chamado "É lógico".

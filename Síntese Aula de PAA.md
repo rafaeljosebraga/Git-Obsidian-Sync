@@ -1,6 +1,6 @@
 __Alberto deixou no class o plano de ensino.
 
-ele descreve PAA como uma ferramenta para resolução de problemas envolvendo 
+ele descreve __PAA__ como uma ferramenta para resolução de problemas envolvendo 
 [[Algoritmo]]'s.
 
 estudamos desde a representação até a criação de um algoritmo eficiente,

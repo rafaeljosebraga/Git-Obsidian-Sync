@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "54de612c50fb3376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e9f707c29094ed4d",
             "type": "leaf",
             "state": {
@@ -56,12 +68,36 @@
             }
           },
           {
-            "id": "c1b0a1f04c1609a4",
+            "id": "63547e9af910bd52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmo.md",
+                "file": "Dedução natural em código.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c9eb623d8712aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Invariante.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ce47ac573c3154f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dedução natural em código.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Invariante.md",
+                "file": "Algoritmo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Invariante.md",
+                "file": "Algoritmo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Invariante.md"
+                "file": "Algoritmo.md"
               }
             }
           }
@@ -211,20 +247,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2dca9a34d3e36c4",
+  "active": "54de612c50fb3376",
   "lastOpenFiles": [
-    "Dedução natural em código.md",
-    "Sem título 5.md",
     "Síntese Aula de PAA.md",
-    "Algoritmo.md",
-    "Invariante.md",
     "Selection Sort.md",
     "Sem título 4.md",
+    "Dedução natural em código.md",
+    "Invariante.md",
+    "Algoritmo.md",
+    "entrada.md",
+    "Sem título 6.md",
+    "Algebra linear/transformações lineares.md",
+    "Sem título 5.md",
     "Pasted image 20241015164425.png",
     "Insertion Sort.md",
     "Pasted image 20241015160435.png",
     "Fator de uma entrada.md",
-    "entrada.md",
     "Monoprogramado.md",
     "Processos.md",
     "Multiprogramado.md",
@@ -239,8 +277,6 @@
     "RUP.md",
     "Documentação.md",
     "conflict-files-obsidian-git.md",
-    "Sem título 2.md",
-    "Respostas 7.1.5.md",
     "Pasted image 20240910193909.png",
     "Pasted image 20240910193907.png",
     "Pasted image 20240910193759.png",
