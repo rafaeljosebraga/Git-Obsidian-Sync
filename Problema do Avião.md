@@ -24,4 +24,4 @@ $z=320x_1+600x_2+400x_3$
 Assim nós temos uma forma linear de resolver o problema, porem temos que entender primariamente as limitações pois por exemplo não temos números fracionários incluídos.
 
 $$x1+x2+x3=5$$
-$$x1,x2,x3$$
+$$x1,x2,x3 -devem-pertencer-aos-inteiros$$
