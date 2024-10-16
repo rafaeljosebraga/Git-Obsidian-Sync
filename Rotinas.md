@@ -1,1 +1,1 @@
-pode ser interpretado como uma pilha de execuções em série do [[Sistema Operacional]] a ideia é manter a informação de cada um dos [[Processos]] encaminhados permitindo a [[interrupções]] pois é só simplismente colocar a próxima tarefa por cima
+pode ser interpretado como uma pilha de execuções em série do [[Sistema Operacional]] a ideia é manter a informação de cada um dos [[Processos]] encaminhados permitindo a [[interrupções]] pois é só colocar a próxima tarefa por cima.

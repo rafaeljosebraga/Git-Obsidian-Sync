@@ -8,7 +8,8 @@ __Modo supervisor
 
 o objetivo é fazer com que o [[Sistemas de Computação]] tenha o controle do que está rodando em suas rotinas verificando as suas chamadas de seus [[Processos]] com o objetivo de tornar o sistema mais integro caso haja uma requisição não permitida vamos ter uma interrupção da execução do processo, com o sistema jogando um /kill em cima dos [[Processos]] ("ilegais").
 
-como por exemplo na arquitetura mips temos o registradorPSW que guarda a informação de senha 
+como por exemplo na arquitetura mips temos o registrador PSW que guarda a informação da senha atual.
 
+Uma forma como pode ser dado a criação e utilização SO, podemos usar algo como os [[Sistemas Monolíticos]], apesar de rustico é bastante utilizado.
 
 

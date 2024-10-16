@@ -1,0 +1,1 @@
+os processos são criados a partir das [[chamadas de sistema]] que os definem para entrar dentro das [[Rotinas]] 

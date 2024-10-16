@@ -1,0 +1,1 @@
+A estruturação de uma coisa monolitica é feito com a ideia de manter tudo no mesmo lugar 
