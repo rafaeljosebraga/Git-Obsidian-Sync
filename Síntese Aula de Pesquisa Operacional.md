@@ -11,4 +11,5 @@ maximizando
 
 em função de achar a Solução Ótima
 
-Como exemplo foi passado o [[Problema do Avião]], um exemplo do cunho de tomada
+Como exemplo foi passado o [[Problema do Avião]], um exemplo do cunho no ambito [[Problemas de tomada de Decisão]] no qual minimizamos o valor gasto.
+
