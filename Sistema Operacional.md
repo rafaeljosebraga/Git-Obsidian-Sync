@@ -6,7 +6,8 @@ por definição, é um conjunto de programas que juntos fornecem a um usuário:
 
 __Interface de programação{Entrada e Saída de Informações}
 
-__Gerenciamento de recursos { [[Memoria Principal]], [[Memoria Secundaria]], ()"Processamento" entender como definir de forma mais clara o processador)}
+__Gerenciamento de recursos { [[Memoria Principal]], [[Memoria Secundaria]],
+"Processamento" entender como definir de forma mais clara o processador)}
 
 "Deitel?" Um [[Sistema Operacional]] é uma extensão do sistema do computador se olharmos pelo lado onde ele literalmente gerencia o funcionamento de todas as peças por cima.
 

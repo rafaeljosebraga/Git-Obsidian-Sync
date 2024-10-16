@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7584e2d344c32c85",
+        "id": "953f41aa1ed43b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "e8100e50227086f0",
+            "id": "84b89c96236decb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Síntese Aula de PAA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Síntese Aula de PAA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Síntese Aula de PAA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Síntese Aula de PAA.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,12 +142,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8100e50227086f0",
+  "active": "84b89c96236decb1",
   "lastOpenFiles": [
+    "Monoprogramado.md",
+    "Sistema Operacional.md",
+    "Memoria Secundaria.md",
+    "Sem título 7.md",
+    "Síntese Aula de PAA.md",
     "Algoritmo.md",
     "Dedução natural em código.md",
     "Invariante.md",
-    "Síntese Aula de PAA.md",
     "Sem título 4.md",
     "Selection Sort.md",
     "entrada.md",
@@ -166,20 +162,16 @@
     "Insertion Sort.md",
     "Pasted image 20241015160435.png",
     "Fator de uma entrada.md",
-    "Monoprogramado.md",
     "Processos.md",
     "Multiprogramado.md",
-    "Sistema Operacional.md",
     "Sistemas de Computação.md",
     "Memoria Principal.md",
     "Síntese Aula 1 Sistemas Operacionais.md",
-    "Memoria Secundaria.md",
     "Test 14 outubro.md",
     "Módulos dos Sistemas Operacionais.md",
     "Sem título 3.md",
     "RUP.md",
     "Documentação.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240910193909.png",
     "Pasted image 20240910193907.png",
     "Pasted image 20240910193759.png",
