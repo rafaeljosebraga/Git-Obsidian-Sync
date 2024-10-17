@@ -12,4 +12,12 @@ __3
 
 __Consequências Gerenciais
 
-Nesse contexto existe umas especifidades que podem conter na ideia das consequências  técnicas já que quando se trata de gerencia a gerencia de projetos atende principalmente nos casos onde entendemos os gastos e o tempo de uma 
+Nesse contexto existe umas especifidades que podem conter na ideia das consequências  técnicas já que quando se trata de gerencia a gerencia de projetos atende principalmente nos casos onde entendemos os gastos e o tempo limite, e quando expandimos isso para um código temos a situação onde cada pessoa é sim por sua parte responsavel por tomar uma decisão e quando existe uma grande rotatividade de funções dentro do projetos
+
+__Conformidade
+
+A conformidade pode ser definida e alterada a todo momento já que o processo de entendimento e a criação de um software é um processo que pode ocorrer e ser modificado ao longo do projeto onde exigências como leis e vontades de stakeholders podem alterar
+
+__Maleabilidade
+
+Aqueles que estão mais por fora do contexto acabam com a ideia de que um software só
