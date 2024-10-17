@@ -41,6 +41,8 @@ Desenvolvimento Incremental
 
 Grandes Projetistas
 
-Cada pessoa tem suas especialidades, e já que alguns tem melhor capacidade de abstração no ramo de projeç
+Cada um tem suas especialidades, e já que alguns tem melhor capacidade de abstração no ramo de projetar, não seria ruim aproveitar e contribuir com a evolução destas pessoas
 
 Reusar
+
+Tem bastante código já feito, usar soluções prontas para casos mais simples é bem mais vantajoso se no fim das contas o lucro é certeiro.
