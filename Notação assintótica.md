@@ -4,4 +4,8 @@ $O$ Limita a função por cima  informalmente a ideia é ser a relação que con
 
 $\Omega$ Limita a função por baixo informalmente a ideia é ser a relação que considera o melhor caso. 
 
+$o$ Considera o caso máximo de quando o desempenho ultrapassa o seu fator comparativo
 
+$\omega$ Considera o caso máximo de quando o desempenho não ultrapassa o seu fator comparativo 
+
+				
