@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b2e79115b2d70e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essência -software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sintese aula 17 out.md",
+                "file": "Essência -software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sintese aula 17 out.md",
+                "file": "Essência -software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sintese aula 17 out.md"
+                "file": "Essência -software.md"
               }
             }
           }
@@ -151,10 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5de74eef725da777",
+  "active": "6b2e79115b2d70e3",
   "lastOpenFiles": [
-    "Engenharia de Software/Documentação.md",
     "sintese aula 17 out.md",
+    "Essência -software.md",
+    "Engenharia de Software/Documentação.md",
     "Sistema Operacional.md",
     "Máquinas Virtuais.md",
     "Modelo Cliente-Servidor.md",
@@ -178,7 +192,6 @@
     "Sem título 8.md",
     "Sem título 1.md",
     "Sem título 2.md",
-    "Sem título 3.md",
     "imagens utilizadas/Pasted image 20240830083243.png",
     "Engenharia de Software",
     "PAA",
