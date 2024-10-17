@@ -16,7 +16,9 @@
                 "file": "sintese aula 17 out.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "sintese aula 17 out"
             }
           },
           {
@@ -28,7 +30,21 @@
                 "file": "Essência -software.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Essência -software"
+            }
+          },
+          {
+            "id": "b0fd44f200acec50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
@@ -52,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -67,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -75,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -107,7 +129,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Essência -software"
             }
           },
           {
@@ -119,7 +143,9 @@
                 "file": "Essência -software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Essência -software"
             }
           },
           {
@@ -130,7 +156,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,7 +168,9 @@
               "type": "outline",
               "state": {
                 "file": "Essência -software.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Essência -software"
             }
           }
         ]
