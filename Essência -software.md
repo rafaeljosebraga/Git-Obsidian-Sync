@@ -20,4 +20,27 @@ A conformidade pode ser definida e alterada a todo momento já que o processo de
 
 __Maleabilidade
 
-Aqueles que estão mais por fora do contexto acabam com a ideia de que um software só
+Aqueles que estão mais por fora do contexto acabam com a ideia de que um software só por querer acontecer, é um clássico já que exigências vem como água, mas a solução é mais nebulosa.
+
+__Esqueci
+
+;
+;
+
+__Solução
+
+Lúcio separa no slide em 3 tópicos
+
+Refinamento dos requisitos
+
+A ideia de UML é o grande interesse para o refinamento, já que conversar apenas pode não ser o suficiente para o entendimento de ambas as partes do projetos
+
+Desenvolvimento Incremental
+
+é um Mikey objeto que vai ser utilizado mais tarde onde entende como vamos construir um software por partes usando uma metodologia é que a partir das funcionalidades mais simples vão se construindo as próximas.
+
+Grandes Projetistas
+
+Cada pessoa tem suas especialidades, e já que alguns tem melhor capacidade de abstração no ramo de projeç
+
+Reusar
