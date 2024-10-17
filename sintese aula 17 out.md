@@ -1,0 +1,1 @@
+durante a aula de engenharia de software lúcio comenta em relação ao problema essencial para
