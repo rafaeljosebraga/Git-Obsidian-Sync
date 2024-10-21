@@ -11,4 +11,6 @@ Cliente:
 Definição clara do software, impede erros grotescos de interpretação.
 
 Profissional
-A manutenção é de quem faz.
+A manutenção é de quem faz, e a sua entrega é requisitada que seja avaliado com ideias mais elaboradas alem de funciona.
+
+
