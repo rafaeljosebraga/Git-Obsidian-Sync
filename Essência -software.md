@@ -22,7 +22,7 @@ __Maleabilidade
 
 Aqueles que estão mais por fora do contexto acabam com a ideia de que um software só por querer acontecer, é um clássico já que exigências vem como água, mas a solução é mais nebulosa.
 
-__Esqueci
+__Esqueci(aparenta ser inútil fazer esse tipo de anotação melhor perguntar diretamente)
 
 ;
 ;
