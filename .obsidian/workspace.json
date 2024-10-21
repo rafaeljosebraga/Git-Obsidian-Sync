@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essência -software.md",
+                "file": "Aula  out 21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essência -software"
+              "title": "Aula  out 21"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essência -software.md",
+                "file": "Aula  out 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Essência -software"
+              "title": "Links de saída para Aula  out 21"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essência -software.md"
+                "file": "Aula  out 21.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Essência -software"
+              "title": "Sumário de Aula  out 21"
             }
           },
           {
@@ -180,8 +180,8 @@
   },
   "active": "6cd0f64ae4fcdb5c",
   "lastOpenFiles": [
-    "Aula  out 21.md",
     "Essência -software.md",
+    "Aula  out 21.md",
     "Engenharia de Software/Documentação.md",
     "Notação assintótica.md",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
