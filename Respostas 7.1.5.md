@@ -5,13 +5,13 @@ usando os dados adquiridos na questão anterior centrando os pontos podemos form
 $$ \mathbf{d}_1 = \begin{bmatrix} -1 \\ -1 \end{bmatrix} ;\mathbf{d}_2 = \begin{bmatrix} 0 \\ -1 \end{bmatrix};\mathbf{d}_3 = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$$
 $$A = \begin{bmatrix} \mathbf{d}_1 & \mathbf{d}_2 & \mathbf{d}_3 \end{bmatrix} = \begin{bmatrix} 0 & 0 & 1 \\ -1 & -1 & 2 \end{bmatrix}$$
 e teremos um vetor unitário genérico **u**
-## a)![[Pasted image 20240908150147.png]]
+## a)Escreva o vetor $A^T\mathbf{u}$ em termos dos produtos escalares $\tilde{\mathbf{d}}_j \cdot \mathbf{u}$.
 primeiro vamos transpor A:$$A' = \begin{bmatrix} 0 & -1 \\ 0 & -1 \\ 1 & 2 \end{bmatrix}$$
 
 então podemos escrever$A^Tu$ assim: $$A'\mathbf{u} = \begin{bmatrix} 0 & -1 \\ 0 & -1 \\ 1 & 2 \end{bmatrix} \mathbf{u} ;$$
 $$A'\mathbf{u} = \begin{bmatrix} \mathbf{d}'_1 \cdot \mathbf{u} \\ \mathbf{d}'_2 \cdot \mathbf{u} \\ \mathbf{d}'_3 \cdot \mathbf{u} \end{bmatrix}
      $$
-## b)![[Pasted image 20240908150232.png]]
+## b)Explique por que $V_\mathbf{u} = \frac{1}{3} |A^T \mathbf{u}|^2$.
 
 
 A letra b pede para explicar o motivo de $V_\mathbf{u} = \frac{1}{3} |A^T\mathbf{u}|^2$.
@@ -106,18 +106,18 @@ disp("Vu2:",Vu2);
 
 Rodando o algoritmo utilizando a fórmula chegamos a esta matriz:
 
-![[Pasted image 20240910190603.png]]
+$\begin{bmatrix}1 & 1.5\\1.5 & 3\end{bmatrix}$
 
 Utilizando a formula dada: 
 $$V_u=u*(Cu).$$
 podemos calcular os resultados das letras $e)$ e $f)$
 ## e)
-![[Pasted image 20240910191309.png]]
+e. Use a matriz de covariância para encontrar a variância $V_{\mathbf{u}_1}$ quando $\mathbf{u}_1 = \begin{bmatrix} 1/\sqrt{5} \\ 2/\sqrt{5} \end{bmatrix}$.
 fazendo $V_{u1}=u_1*(Cu_1).$ temos
  $V_{u1}= 3,8$
 
 ## f)
-![[Pasted image 20240910191336.png]]
+f. Use a matriz de covariância para encontrar a variância $V_{\mathbf{u}_2}$ quando $\mathbf{u}_2 = \begin{bmatrix} -2/\sqrt{5} \\ 1/\sqrt{5} \end{bmatrix}$. Como $\mathbf{u}_1$ e $\mathbf{u}2$ são ortogonais, verifique que a soma de $V{\mathbf{u}1}$ e $V{\mathbf{u}_2}$ fornece a variância total.
 
 e fazendo $V_{u2}=u_2*(Cu_2).$ temos $V_{u2}= 2,6$
 
