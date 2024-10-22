@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "265309b3cda366ca",
+        "id": "cbbf0a1a29f94703",
         "type": "tabs",
         "children": [
           {
-            "id": "b0bcd2fd4fbcb923",
+            "id": "fb246436cc939b61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roteiro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Roteiro"
-            }
-          },
-          {
-            "id": "f279d4bf2cf78324",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roteiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Roteiro"
+              "title": "Backlinks"
             }
           },
           {
@@ -125,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Roteiro"
+              "title": "Outgoing links"
             }
           },
           {
@@ -151,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Roteiro.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Roteiro"
+              "title": "Outline"
             }
           },
           {
@@ -189,13 +168,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f279d4bf2cf78324",
+  "active": "fb246436cc939b61",
   "lastOpenFiles": [
+    "Roteiro.md",
     "Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "modelo-relacional.drawio",
     "Diagrama sem nome.drawio",
     "Excalidraw/Drawing 2024-09-25 20.53.38.excalidraw.md",
-    "Roteiro.md",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
     "Pasted Image 20240922183035_225.png",
     "Pasted Image 20240922182935_226.png",
@@ -238,7 +217,6 @@
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Algebra linear/Resoluções/Atividade2.sce",
     "Algebra linear/Resoluções/Novo Documento RTF.rtf",
-    "Algebra linear/Resoluções/Atividade.sce",
     "Banco de Dados/3-relacional.canvas",
     "Banco de Dados/Untitled 1.canvas",
     "Banco de Dados/Untitled.canvas",
