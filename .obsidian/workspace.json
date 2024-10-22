@@ -11,10 +11,14 @@
             "id": "fb246436cc939b61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "algebra relacional compreensão inicial.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "algebra relacional compreensão inicial"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "algebra relacional compreensão inicial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for algebra relacional compreensão inicial"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "algebra relacional compreensão inicial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from algebra relacional compreensão inicial"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "algebra relacional compreensão inicial.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of algebra relacional compreensão inicial"
             }
           },
           {
@@ -170,6 +178,10 @@
   },
   "active": "fb246436cc939b61",
   "lastOpenFiles": [
+    "Angulo e Ortogonalidade.md",
+    "Atividade Álgebra Relacional.md",
+    "Atividade para casa.md",
+    "Aula Banco deDados..md",
     "Roteiro.md",
     "Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "modelo-relacional.drawio",
@@ -209,12 +221,9 @@
     "Linguagem de Manipulação de Dados.md",
     "Linguagem declarativa.md",
     "Algebra linear/Espaço vetorial.md",
-    "Banco de Dados/Álgebra Relacional.md",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/Fundamentals of Database Systems.pdf",
-    "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Algebra linear/Resoluções/Atividade2.sce",
     "Algebra linear/Resoluções/Novo Documento RTF.rtf",
     "Banco de Dados/3-relacional.canvas",
