@@ -11,10 +11,14 @@
             "id": "feb6efd40b9519be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Análise Numerica/Atividade de Analise Numerica.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Atividade de Analise Numerica"
             }
           }
         ]
@@ -174,6 +178,11 @@
   },
   "active": "feb6efd40b9519be",
   "lastOpenFiles": [
+    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
+    "Algebra linear/Sintese Algebra linear.md",
+    "Análise Numerica/Lista Interpol/Gauss Jordan mod.md",
+    "Multiprogramado.md",
+    "Notação assintótica.md",
     "conflict-files-obsidian-git.md",
     "algebra relacional compreensão inicial.md",
     "sintese aula 17 out.md",
@@ -207,18 +216,12 @@
     "RUP.md",
     "Produção.md",
     "Processos.md",
-    "Problemas de tomada de Decisão.md",
-    "Problema do Avião.md",
-    "PAA/Invariante.md",
-    "PAA/Fator de uma entrada.md",
-    "PAA/Insertion Sort.md",
     "PAA",
     "Engenharia de Software",
     "Algebra linear/Resoluções/QR svdprovatreino.sce",
     "Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "modelo-relacional.drawio",
     "Diagrama sem nome.drawio",
-    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Análise Numerica/intro_an_num.pdf",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",

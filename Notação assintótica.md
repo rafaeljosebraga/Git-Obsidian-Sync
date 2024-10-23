@@ -1,6 +1,6 @@
 A principal ideia da notação assintótica é considerar o principal fator de variação da analise de desempenho de um código onde por exemplo em uma função polinomial entende-se que o fator de maior grau é o que mais influencia o desempenho e nos da a base para começar a mensurar de uma forma padrão como vamos usar 
 
-__detalhe que todos esses caras estão simplificados onde na verdade possuem uma afirmação matemática clara sobre seus efeitos e condiões.__ dito isto podemos prosseguir.
+__detalhe que todos esses caras estão simplificados onde na verdade possuem uma afirmação matemática clara sobre seus efeitos e condições.__ dito isto podemos prosseguir.
 
 ### $O$ Limita a função por cima  informalmente a ideia é ser a relação que considera o pior caso.
 
