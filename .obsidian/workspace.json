@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Síntese aula de POO conexão MySQL.md",
+                "file": "Sistemas Operacionais/Segurança de um Sistema Operacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Síntese aula de POO conexão MySQL"
+              "title": "Segurança de um Sistema Operacional"
             }
           }
         ]
@@ -178,6 +178,18 @@
   },
   "active": "3757a3aef3da7819",
   "lastOpenFiles": [
+    "Sistemas Operacionais/Rotinas.md",
+    "Sistemas Operacionais/Multiprogramado.md",
+    "Sistemas Operacionais/Monoprogramado.md",
+    "Sistemas Operacionais/Módulos dos Sistemas Operacionais.md",
+    "Sistemas Operacionais/Modo usuário.md",
+    "Sistemas Operacionais/Modelo Micronúcleo.md",
+    "Sistemas Operacionais/Modelo Cliente-Servidor.md",
+    "Sistemas Operacionais/Memoria Secundaria.md",
+    "Sistemas Operacionais/Memoria Principal.md",
+    "Sistemas Operacionais/interrupções.md",
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
+    "Síntese aula de POO conexão MySQL.md",
     "Síntese Aula de Pesquisa Operacional.md",
     "Síntese Aula de PAA.md",
     "sintese aula 17 out.md",
@@ -187,23 +199,12 @@
     "Selection Sort.md",
     "Engenharia de Software/Essência -software.md",
     "Select.md",
-    "Sistemas Operacionais/Rotinas.md",
     "Sistemas Operacionais/Processos.md",
     "Notação assintótica.md",
-    "Sistemas Operacionais/Módulos dos Sistemas Operacionais.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Algebra linear/Angulo e Ortogonalidade.md",
     "Algebra linear/Normalização.md",
     "Sistemas Operacionais/gerenciamento de processos.md",
-    "Sistemas Operacionais/chamadas de sistema.md",
-    "Sistema Operacional.md",
-    "Máquinas Virtuais.md",
-    "Algebra linear/transformações lineares.md",
-    "Algebra linear/produto interno.md",
-    "Algebra linear/Espaço nulo.md",
-    "Excalidraw/Drawing 2024-09-25 20.53.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
-    "Algebra linear/Ortogonalidade.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",
@@ -220,7 +221,6 @@
     "Análise Numerica/calculo_numerico.pdf",
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.png",
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Sistemas Operacionais",
     "Projeto e Análise de Algoritmos",
     "Engenharia de Software",
