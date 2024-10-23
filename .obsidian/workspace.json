@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança de um Sistema Operacional.md",
+                "file": "Algebra linear/Norma e Distância.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Segurança de um Sistema Operacional"
+              "title": "Norma e Distância"
+            }
+          },
+          {
+            "id": "24b20064648278e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra linear/Angulo e Ortogonalidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Angulo e Ortogonalidade"
+            }
+          },
+          {
+            "id": "65ce9eeb2aa409d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra linear/Normalização.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Normalização"
+            }
+          },
+          {
+            "id": "3757a3aef3da7819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra linear/transformações lineares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "transformações lineares"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -176,54 +219,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "3757a3aef3da7819",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-27 10.18.41.excalidraw.md",
-    "Excalidraw/Drawing 2024-08-22 07.58.23.excalidraw.md",
+    "Algebra linear/produto interno.md",
+    "Algebra linear/Espaço nulo.md",
+    "Excalidraw/Drawing 2024-09-25 20.53.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
+    "Algebra linear/Ortogonalidade.md",
+    "Algebra linear/Normalização.md",
+    "Algebra linear/Angulo e Ortogonalidade.md",
+    "Algebra linear/Norma e Distância.md",
+    "Análise Numerica/Atividade de Analise Numerica.md",
+    "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
+    "Processos.md",
+    "Rotinas.md",
+    "Produção.md",
+    "Algebra linear/produto escalar.md",
+    "Pesquisa Operacional/Problema do Avião.md",
+    "Pesquisa Operacional/Problemas de tomada de Decisão.md",
+    "Notação assintótica.md",
+    "Módulos dos Sistemas Operacionais.md",
+    "Máquinas Virtuais.md",
+    "imagens utilizadas/Pasted image 20241023180713.png",
+    "imagens utilizadas/Pasted image 20240915225432.png",
+    "imagens utilizadas/Pasted Image 20240922182935_226.png",
+    "imagens utilizadas/Pasted Image 20240922183035_225.png",
+    "imagens utilizadas/Pasted Image 20240913113938_012.png",
+    "imagens utilizadas/Pasted Image 20240913113822_747.png",
+    "imagens utilizadas/Pasted Image 20240913103239_012.png",
+    "Pesquisa Operacional/Minimizar.md",
+    "Pesquisa Operacional",
+    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
+    "Progamação Orientada a Objetos",
+    "Engenharia de Software/Aula  out 21.md",
+    "Sistemas Operacionais/chamadas de sistema.md",
+    "Banco de Dados/Linguagem declarativa.md",
+    "Sistemas Operacionais/interrupções.md",
+    "Sistemas Operacionais/gerenciamento de processos.md",
+    "Sistemas Operacionais/gerenciamento de arquivos.md",
+    "SO",
+    "imagens utilizadas/81YsHe4woRL._SL1500_.jpg",
+    "imagens utilizadas/7123RWASRJL._SL1500_.jpg",
     "Análise Numerica/calculo_numerico.pdf",
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
-    "Serviços do sistema operacional.md",
-    "Segurança de um Sistema Operacional.md",
-    "Sistema Operacional.md",
-    "Sistemas de Computação.md",
-    "Módulos dos Sistemas Operacionais.md",
-    "Síntese Aula 1 Sistemas Operacionais.md",
-    "sintese aula 17 out.md",
-    "Selection Sort.md",
-    "Processos.md",
-    "Produção.md",
-    "produto escalar.md",
-    "Rotinas.md",
-    "produto interno.md",
-    "Prova de Algebra.md",
-    "Respostas 7.1.5.md",
-    "RUP.md",
-    "Roteiro.md",
-    "Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
-    "chamadas de sistema.md",
-    "7123RWASRJL._SL1500_.jpg",
-    "81YsHe4woRL._SL1500_.jpg",
-    "Notação assintótica.md",
-    "Pasted image 20241023180713.png",
-    "Excalidraw/Drawn.md",
-    "Excalidraw/Drawing 2024-09-25 20.53.38.excalidraw.md",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.png",
-    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 09.35.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
-    "imagens utilizadas/Pasted image 20241015164425.png",
-    "imagens utilizadas/Pasted image 20241015160435.png",
-    "imagens utilizadas/Pasted image 20240910193909.png",
-    "imagens utilizadas/Pasted image 20240910193907.png",
-    "imagens utilizadas/Pasted image 20240910193759.png",
-    "imagens utilizadas/Pasted image 20240910193757.png",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Sistemas Operacionais",
-    "PAA",
+    "Projeto e Análise de Algoritmos",
     "Engenharia de Software",
-    "Algebra linear/Resoluções/QR svdprovatreino.sce",
-    "modelo-relacional.drawio",
-    "Diagrama sem nome.drawio",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",

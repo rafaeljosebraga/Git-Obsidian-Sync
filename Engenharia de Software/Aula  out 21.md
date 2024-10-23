@@ -2,8 +2,6 @@ Foi feito em engenharia de software uma breve revisão sobre o que foi dito na a
 
 __Mitos do Software
 
-
-
 Administração:
 Entender a complexidade e gerir o trabalho das pessoas mediante a um rendimento que não é incerto
 
