@@ -46,5 +46,13 @@ disp(u2);
 Vu2 = u2' * matrizC * u2;
 
 // Exibir Vu1 e Vu2
+<<<<<<< HEAD
+disp("Vu1:");
+disp(Vu1);
+
+disp("Vu2:");
+disp(Vu2);
+=======
 disp("Vu1:",Vu1);
 disp("Vu2:",Vu2);
+>>>>>>> origin/main

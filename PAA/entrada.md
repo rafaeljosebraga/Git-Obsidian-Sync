@@ -1,0 +1,1 @@
+o conjunto de ideias que são passadas como uma instancia para um [[Algoritmo]] retornar algum resultado.
