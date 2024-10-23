@@ -1,4 +1,4 @@
-O sistema operacional tem como objetivo abstrair e gerenciar os recursos do computador sendo capaz de fornecer segurança aos [[Sistemas de Computação]].
+O sistema operacional tem como objetivo abstrair e gerenciar os recursos do computador sendo capaz de fornecer segurança e dinamicidade aos [[Sistemas de Computação]], sendo um ideal de interfáce.
 
 para gerir essa segurança o computador parte por dois tipos de modos de operação 
 
@@ -12,4 +12,6 @@ como por exemplo na arquitetura mips temos o registrador PSW(provavelmente vem d
 
 
 Uma forma como pode ser dado a criação e utilização SO, podemos usar algo como os [[Sistemas Monolíticos]], apesar de rustico é bastante utilizado.
+
+O 
 

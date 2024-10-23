@@ -10,4 +10,4 @@ __detalhe que todos esses caras estão simplificados onde na verdade possuem uma
 
 ### $\omega$ Considera o a partir do caso de quando o desempenho não ultrapassa o seu fator comparativo 
 
-
+ ![[Pasted image 20241023180713.png]]
