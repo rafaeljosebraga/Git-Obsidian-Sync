@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d99ad98d385abe42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/Norma e Distância.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Norma e Distância"
-            }
-          },
-          {
-            "id": "24b20064648278e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/Angulo e Ortogonalidade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Angulo e Ortogonalidade"
-            }
-          },
-          {
-            "id": "65ce9eeb2aa409d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algebra linear/Normalização.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Normalização"
-            }
-          },
-          {
             "id": "3757a3aef3da7819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra linear/transformações lineares.md",
+                "file": "Síntese aula de POO conexão MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "transformações lineares"
+              "title": "Síntese aula de POO conexão MySQL"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,25 +178,32 @@
   },
   "active": "3757a3aef3da7819",
   "lastOpenFiles": [
+    "Síntese Aula de Pesquisa Operacional.md",
+    "Síntese Aula de PAA.md",
+    "sintese aula 17 out.md",
+    "Sistemas de Computação.md",
+    "Síntese Aula 1 Sistemas Operacionais.md",
+    "RUP.md",
+    "Selection Sort.md",
+    "Engenharia de Software/Essência -software.md",
+    "Select.md",
+    "Sistemas Operacionais/Rotinas.md",
+    "Sistemas Operacionais/Processos.md",
+    "Notação assintótica.md",
+    "Sistemas Operacionais/Módulos dos Sistemas Operacionais.md",
+    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
+    "Algebra linear/Angulo e Ortogonalidade.md",
+    "Algebra linear/Normalização.md",
+    "Sistemas Operacionais/gerenciamento de processos.md",
+    "Sistemas Operacionais/chamadas de sistema.md",
+    "Sistema Operacional.md",
+    "Máquinas Virtuais.md",
+    "Algebra linear/transformações lineares.md",
     "Algebra linear/produto interno.md",
     "Algebra linear/Espaço nulo.md",
     "Excalidraw/Drawing 2024-09-25 20.53.38.excalidraw.md",
     "Excalidraw/Drawing 2024-09-07 14.38.49.excalidraw.md",
     "Algebra linear/Ortogonalidade.md",
-    "Algebra linear/Normalização.md",
-    "Algebra linear/Angulo e Ortogonalidade.md",
-    "Algebra linear/Norma e Distância.md",
-    "Análise Numerica/Atividade de Analise Numerica.md",
-    "Calculo Varias Vars/Trabalho Calculo de Varias Variaveis.md",
-    "Processos.md",
-    "Rotinas.md",
-    "Produção.md",
-    "Algebra linear/produto escalar.md",
-    "Pesquisa Operacional/Problema do Avião.md",
-    "Pesquisa Operacional/Problemas de tomada de Decisão.md",
-    "Notação assintótica.md",
-    "Módulos dos Sistemas Operacionais.md",
-    "Máquinas Virtuais.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",
@@ -247,16 +211,9 @@
     "imagens utilizadas/Pasted Image 20240913113938_012.png",
     "imagens utilizadas/Pasted Image 20240913113822_747.png",
     "imagens utilizadas/Pasted Image 20240913103239_012.png",
-    "Pesquisa Operacional/Minimizar.md",
     "Pesquisa Operacional",
     "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Progamação Orientada a Objetos",
-    "Engenharia de Software/Aula  out 21.md",
-    "Sistemas Operacionais/chamadas de sistema.md",
-    "Banco de Dados/Linguagem declarativa.md",
-    "Sistemas Operacionais/interrupções.md",
-    "Sistemas Operacionais/gerenciamento de processos.md",
-    "Sistemas Operacionais/gerenciamento de arquivos.md",
     "SO",
     "imagens utilizadas/81YsHe4woRL._SL1500_.jpg",
     "imagens utilizadas/7123RWASRJL._SL1500_.jpg",
