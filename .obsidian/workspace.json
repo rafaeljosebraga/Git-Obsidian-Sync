@@ -11,16 +11,12 @@
             "id": "3757a3aef3da7819",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "video",
               "state": {
-                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
-                "page": 4,
-                "left": -6,
-                "top": 422,
-                "zoom": 2.6952554744525545
+                "file": "Videos/LinearTransformation.light.mp4"
               },
-              "icon": "lucide-file-text",
-              "title": "Álgebra Linear com aplicações - Leon(Algebra linear)"
+              "icon": "lucide-file",
+              "title": "LinearTransformation.light"
             }
           }
         ]
@@ -178,10 +174,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3757a3aef3da7819",
+  "active": "cd21648d59d618f8",
   "lastOpenFiles": [
-    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
+    "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
+    "Algebra linear/transformações lineares.md",
+    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Sistemas Operacionais/Segurança de um Sistema Operacional.md",
     "Sistemas Operacionais/Rotinas.md",
     "Sistemas Operacionais/Multiprogramado.md",
@@ -206,7 +205,6 @@
     "Sistemas Operacionais/Processos.md",
     "Notação assintótica.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
-    "Algebra linear/Angulo e Ortogonalidade.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",
@@ -224,7 +222,6 @@
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.png",
     "Sistemas Operacionais",
     "Projeto e Análise de Algoritmos",
-    "Engenharia de Software",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
