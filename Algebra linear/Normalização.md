@@ -1,0 +1,1 @@
+é um processo feito em relação a adquirir o tamanho unitário de um vetor tem utilização dentro da [[Algebra Linear]], por exemplo dentro do contexto de [[Ortogonalidade]]. 

@@ -19,3 +19,5 @@ dado as ideias um Alemão chamado Cauchy Schwarz conseguiu provar que
 onde conseguimos a partir desta formula aferir um valor relacionado ao angulo entre os vetores onde esse valor como o resultado de $cos(\theta)$.
 
 Aquilo que nos leva para [[Angulo e Ortogonalidade]]
+
+
