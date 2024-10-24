@@ -13,9 +13,10 @@ Entendemos que o projeto e a implementação é atualmente uma "metodologia" inc
 __Validação de um software
 
 É separado em vários processos que envolvem as perguntas  sobre se foi feito corretamente, ou se o sistema final é realmente a vontade do cliente.
-
+[[Validação de um Software]] +-
 
 __Evolução do Software
 
+__Vish esqueci de anotar.kkkkkkkkkkk
 aqui é a parte dois² 
 arcar com as consequencias de suas escolhas ja que um código é um filho a ser herdado pelo seu eu do futuro.
