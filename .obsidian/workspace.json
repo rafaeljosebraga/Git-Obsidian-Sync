@@ -11,12 +11,14 @@
             "id": "3757a3aef3da7819",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "Videos/LinearTransformation.light.mp4"
+                "file": "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "LinearTransformation.light"
+              "title": "Matéria das Tabelinha(Tutoria de Varias Variáveis)"
             }
           }
         ]
@@ -174,8 +176,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cd21648d59d618f8",
+  "active": "3757a3aef3da7819",
   "lastOpenFiles": [
+    "Calculo Varias Vars/Coordenadas Polares.md",
+    "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
+    "Videos/LinearTransformation.light.mp4",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
     "Algebra linear/transformações lineares.md",
@@ -204,7 +209,6 @@
     "Select.md",
     "Sistemas Operacionais/Processos.md",
     "Notação assintótica.md",
-    "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",
@@ -220,8 +224,6 @@
     "Análise Numerica/calculo_numerico.pdf",
     "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.png",
-    "Sistemas Operacionais",
-    "Projeto e Análise de Algoritmos",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
