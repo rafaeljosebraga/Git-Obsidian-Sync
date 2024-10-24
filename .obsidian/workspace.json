@@ -11,14 +11,16 @@
             "id": "3757a3aef3da7819",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Sistemas Operacionais/Segurança de um Sistema Operacional.md",
-                "mode": "source",
-                "source": false
+                "file": "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+                "page": 4,
+                "left": -6,
+                "top": 422,
+                "zoom": 2.6952554744525545
               },
-              "icon": "lucide-file",
-              "title": "Segurança de um Sistema Operacional"
+              "icon": "lucide-file-text",
+              "title": "Álgebra Linear com aplicações - Leon(Algebra linear)"
             }
           }
         ]
@@ -178,6 +180,9 @@
   },
   "active": "3757a3aef3da7819",
   "lastOpenFiles": [
+    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
+    "Sistemas Operacionais/Segurança de um Sistema Operacional.md",
     "Sistemas Operacionais/Rotinas.md",
     "Sistemas Operacionais/Multiprogramado.md",
     "Sistemas Operacionais/Monoprogramado.md",
@@ -188,7 +193,6 @@
     "Sistemas Operacionais/Memoria Secundaria.md",
     "Sistemas Operacionais/Memoria Principal.md",
     "Sistemas Operacionais/interrupções.md",
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Síntese aula de POO conexão MySQL.md",
     "Síntese Aula de Pesquisa Operacional.md",
     "Síntese Aula de PAA.md",
@@ -203,8 +207,6 @@
     "Notação assintótica.md",
     "Algebra linear/Resoluções/Avaliação Algebra Linear.md",
     "Algebra linear/Angulo e Ortogonalidade.md",
-    "Algebra linear/Normalização.md",
-    "Sistemas Operacionais/gerenciamento de processos.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",
@@ -213,7 +215,6 @@
     "imagens utilizadas/Pasted Image 20240913113822_747.png",
     "imagens utilizadas/Pasted Image 20240913103239_012.png",
     "Pesquisa Operacional",
-    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Progamação Orientada a Objetos",
     "SO",
     "imagens utilizadas/81YsHe4woRL._SL1500_.jpg",
