@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "20991a4ccfcd4092",
+        "id": "46f13de14f91908b",
         "type": "tabs",
         "children": [
           {
-            "id": "6cd0f64ae4fcdb5c",
+            "id": "94acaa64fef6b7f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Eng software 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Eng software 24"
+            }
+          },
+          {
+            "id": "f7001c55be9bf8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processos de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Processos de Software"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cd0f64ae4fcdb5c",
+  "active": "f7001c55be9bf8db",
   "lastOpenFiles": [
+    "Eng software 24.md",
+    "Processos de Software.md",
+    "Engenharia de Software/Aula  out 21.md",
+    "Sem título.md",
     "conflict-files-obsidian-git.md",
     "Aula  out 21.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
@@ -212,13 +231,9 @@
     "Projeto e Análise de Algoritmos/Invariante.md",
     "Projeto e Análise de Algoritmos/Insertion Sort.md",
     "Projeto e Análise de Algoritmos/Fator de uma entrada.md",
-    "Projeto e Análise de Algoritmos/Dedução natural em código.md",
-    "Projeto e Análise de Algoritmos/Algoritmo.md",
     "Projeto e Análise de Algoritmos",
     "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Progamação Orientada a Objetos",
-    "Pesquisa Operacional/Problemas de tomada de Decisão.md",
-    "Pesquisa Operacional/Problema do Avião.md",
     "Pesquisa Operacional",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Sistemas Operacionais",
