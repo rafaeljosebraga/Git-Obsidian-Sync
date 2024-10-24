@@ -6,13 +6,14 @@ Dentro desses processos temos vários fatores a serem considerados na hora de de
 
 __Projeto e Implementação
 
-
+[[Projeto e Implementação P.S]]
 (compreensão estranha)
 Entendemos que o projeto e a implementação é atualmente uma "metodologia" incremental onde como os sistemas possuem uma característica mais evolutiva jutno a necessidade de manutenção de um sistema, como se de forma modular a tendencia é instalar cada vez mais funções para o cliente mais detalhada como uma a ultima das atividades fundamentais.
 
 __Validação de um software
 
-requer melhor detalhamento
+É separado em vários processos que envolvem as perguntas  sobre se foi feito corretamente, ou se o sistema final é realmente a vontade do cliente.
+
 
 __Evolução do Software
 
