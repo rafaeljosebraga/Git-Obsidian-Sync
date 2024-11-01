@@ -1,4 +1,4 @@
-a prova por indução é construída a partir de vários elemento sendo eles
+	a prova por indução é construída a partir de vários elemento sendo eles
 
 
 a pergunta:condição a ser provada
