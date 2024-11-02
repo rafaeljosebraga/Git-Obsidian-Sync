@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fbef2787df7751f8",
+        "id": "ce1c511e6489938c",
         "type": "tabs",
         "children": [
           {
-            "id": "1f5e0c7d1812f6f9",
+            "id": "35a69152206e9a04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Análise Recorrência.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Análise Recorrência"
             }
           }
         ]
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,17 +177,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1f5e0c7d1812f6f9",
+  "active": "35a69152206e9a04",
   "lastOpenFiles": [
-    "todoist-backup-20241121036.json",
+    "Análise Recorrência.md",
     "Validação de um Software.md",
-    "Sem título.md",
+    "Sistemas Monolíticos.md",
+    "Sistema em Camadas.md",
+    "Síntese Aula de PAA.md",
+    "Selection Sort.md",
+    "RUP.md",
     "Projeto e Implementação P.S.md",
+    "todoist-backup-20241121036.json",
+    "Sem título.md",
     "Processos de Software.md",
     "Modelo de Processos E.S.md",
     "Epecificação P.S..md",
     "Eng software 24.md",
-    "Análise Recorrência.md",
     "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
     "Calculo Varias Vars/Coordenadas Polares.md",
     "Calculo Varias Vars/Anotações de mão , Integrais Multiplas.md",
@@ -201,10 +211,6 @@
     "Sistemas Operacionais/Modelo Micronúcleo.md",
     "Sistemas Operacionais/Modelo Cliente-Servidor.md",
     "Sistemas Operacionais/Memoria Secundaria.md",
-    "Sistemas Operacionais/Memoria Principal.md",
-    "Sistemas Operacionais/interrupções.md",
-    "Síntese aula de POO conexão MySQL.md",
-    "Síntese Aula de Pesquisa Operacional.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",
@@ -218,7 +224,6 @@
     "imagens utilizadas/81YsHe4woRL._SL1500_.jpg",
     "imagens utilizadas/7123RWASRJL._SL1500_.jpg",
     "Análise Numerica/calculo_numerico.pdf",
-    "Análise Numerica/Cálculo Numérico - Neide Bertoldi .pdf",
     "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.png",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",

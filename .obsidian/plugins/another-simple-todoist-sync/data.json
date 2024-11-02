@@ -1,7 +1,7 @@
 {
   "initialized": true,
   "apiInitialized": true,
-  "defaultProjectName": "Inbox",
+  "defaultProjectName": "Estudos 📚",
   "automaticSynchronizationInterval": 150,
   "todoistTasksData": {
     "projects": [
@@ -150,6 +150,7 @@
   "commentsSync": true,
   "alternativeKeywords": false,
   "customSyncTag": "#tdsync",
-  "experimentalFeatures": false,
-  "todoistAPIToken": "4ef11aefc11ba1744d493a5b0d1d03a3c331b3d4"
+  "experimentalFeatures": true,
+  "todoistAPIToken": "4ef11aefc11ba1744d493a5b0d1d03a3c331b3d4",
+  "defaultProjectId": "2342756045"
 }
