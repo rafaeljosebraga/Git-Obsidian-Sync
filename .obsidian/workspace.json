@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Análise Recorrência"
             }
+          },
+          {
+            "id": "57f4066d50a39e9a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-02 11.23.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-02 11.23.16.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +190,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "35a69152206e9a04",
+  "active": "57f4066d50a39e9a",
   "lastOpenFiles": [
     "Análise Recorrência.md",
+    "Excalidraw/Drawing 2024-11-02 11.23.16.excalidraw.md",
     "Validação de um Software.md",
     "Sistemas Monolíticos.md",
     "Sistema em Camadas.md",
@@ -210,7 +224,6 @@
     "Sistemas Operacionais/Modo usuário.md",
     "Sistemas Operacionais/Modelo Micronúcleo.md",
     "Sistemas Operacionais/Modelo Cliente-Servidor.md",
-    "Sistemas Operacionais/Memoria Secundaria.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",
