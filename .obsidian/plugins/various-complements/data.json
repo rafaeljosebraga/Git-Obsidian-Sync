@@ -23,7 +23,7 @@
   ],
   "phrasePatternsToSuppressTrigger": [],
   "noAutoFocusUntilCycle": false,
-  "showMatchStrategy": false,
+  "showMatchStrategy": true,
   "showComplementAutomatically": false,
   "showIndexingStatus": false,
   "descriptionOnSuggestion": "Short",

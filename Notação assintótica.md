@@ -17,4 +17,6 @@ $\theta$ Afirma a media de tempo gasto, o caso mais simples é quando achamos um
 Por enquanto vou considerar os 3  primeiros o $O$(Ozão), $\Omega$(Omegazão ou "Omegalul"/contem piada) e o $\theta$(Theta).
 ![[Pasted image 20241023180713.png]]
 
-Onde nas imagens podemos analisar como é o comportamento de cada uma das afirmações, que de forma bem simples são afirmações feitas em cima de um contexto limitado definido por uma função T(n) onde para o mesmo caso temos complexidades diferentes que revelam informações úteis de desempenho.
+Onde nas imagens podemos analisar como é o comportamento de cada uma das afirmações, que de forma bem simples são afirmações feitas em cima de um contexto definido por uma função T(n), onde para o mesmo caso temos complexidades diferentes que revelam informações úteis de desempenho, sendo estes o melhor caso($\Omega$),o pior caso($O$) e o caso médio($\theta$). 
+
+
