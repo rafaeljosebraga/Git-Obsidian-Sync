@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce1c511e6489938c",
+        "id": "3be38ff7388de1bf",
         "type": "tabs",
         "children": [
           {
-            "id": "7b444839e9da7181",
+            "id": "30c4d24af14d20fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notação assintótica.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notação assintótica"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -170,13 +175,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "7b444839e9da7181",
+  "active": "30c4d24af14d20fd",
   "lastOpenFiles": [
-    "Excalidraw/FactorioScrapProcessing.excalidraw.md",
+    "teste do glossário.md",
     "Análise Recorrência.md",
+    "Excalidraw/FactorioScrapProcessing.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Prova por Indução.md",
     "Validação de um Software.md",
@@ -206,7 +213,6 @@
     "Sistemas Operacionais/Multiprogramado.md",
     "Sistemas Operacionais/Monoprogramado.md",
     "Sistemas Operacionais/Módulos dos Sistemas Operacionais.md",
-    "Sistemas Operacionais/Modo usuário.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",

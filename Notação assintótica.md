@@ -2,12 +2,15 @@ A principal ideia da notação assintótica é considerar o principal fator de v
 
 __detalhe que todos esses caras estão simplificados onde na verdade possuem uma afirmação matemática clara sobre seus efeitos e condições.__ dito isto podemos prosseguir.
 
-### $O$ Limita a função por cima  informalmente a ideia é ser a relação que considera o pior caso.
+ $O$ Limita a função por cima  informalmente a ideia é ser a relação que considera o pior caso.
 
-### $\Omega$ Limita a função por baixo informalmente a ideia é ser a relação que considera o melhor caso. 
+ $\Omega$ Limita a função por baixo informalmente a ideia é ser a relação que considera o melhor caso. 
 
-### $o$ Considera o a partir caso de quando o desempenho ultrapassa o seu fator comparativo
+$\theta$ Afirma a media de tempo gasto, o caso mais simples é quando achamos um limitador por cima e por baixo iguais, sendo então essa a mé
 
-### $\omega$ Considera o a partir do caso de quando o desempenho não ultrapassa o seu fator comparativo 
+ $o$ Considera o a partir caso de quando o desempenho ultrapassa o seu fator comparativo
 
- ![[Pasted image 20241023180713.png]]
+ $\omega$ Considera o a partir do caso de quando o desempenho não ultrapassa o seu fator comparativo 
+
+Por enquanto vou considerar os 3  
+![[Pasted image 20241023180713.png]]
