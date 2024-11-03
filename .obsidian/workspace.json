@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3be38ff7388de1bf",
+        "id": "a3dd90d759467f51",
         "type": "tabs",
         "children": [
           {
-            "id": "30c4d24af14d20fd",
+            "id": "635ef2e30022d166",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
-                "page": 1,
-                "left": -41,
-                "top": 794,
-                "zoom": 0.36519607843137253
+                "page": 53,
+                "left": -7,
+                "top": 658,
+                "zoom": 2.2352941176470584
               },
               "icon": "lucide-file-text",
               "title": "Algoritmos - Teoria e Prática 3ed - Thomas Cormen"
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -179,7 +180,7 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "30c4d24af14d20fd",
+  "active": "635ef2e30022d166",
   "lastOpenFiles": [
     "Cola Assintótica.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
