@@ -73,8 +73,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,7 +177,7 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "30c4d24af14d20fd",
+  "active": "cd21648d59d618f8",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Notação assintótica.md",

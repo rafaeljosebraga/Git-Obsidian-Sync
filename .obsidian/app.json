@@ -9,5 +9,5 @@
     "downscalePercent": 100
   },
   "showRibbon": true,
-  "vimMode": true
+  "vimMode": false
 }
