@@ -1,10 +1,11 @@
 [
   "various-complements",
   "obsidian-git",
-  "better-export-pdf",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "pdf-plus",
   "another-simple-todoist-sync",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-hider",
+  "vim-toggle"
 ]
