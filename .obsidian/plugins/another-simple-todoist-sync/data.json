@@ -49,65 +49,7 @@
       }
     ],
     "tasks": [],
-    "events": [
-      {
-        "event_date": "2024-11-01T19:29:27.000000Z",
-        "event_type": "added",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "name": "Estudos 📚",
-          "note_count": 0
-        },
-        "extra_data_id": 25882610847,
-        "id": 25796288666,
-        "initiator_id": null,
-        "object_id": "2342756045",
-        "object_type": "project",
-        "parent_item_id": null,
-        "parent_project_id": null,
-        "v2_object_id": "6WWR2q3F7gFcg8Gm",
-        "v2_parent_item_id": null,
-        "v2_parent_project_id": null
-      },
-      {
-        "event_date": "2024-11-01T19:29:27.000000Z",
-        "event_type": "added",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "name": "Casa 🏡",
-          "note_count": 0
-        },
-        "extra_data_id": 25882610766,
-        "id": 25796288582,
-        "initiator_id": null,
-        "object_id": "2342756042",
-        "object_type": "project",
-        "parent_item_id": null,
-        "parent_project_id": null,
-        "v2_object_id": "6WWR2q5WWwv3pW8g",
-        "v2_parent_item_id": null,
-        "v2_parent_project_id": null
-      },
-      {
-        "event_date": "2024-11-01T19:29:13.000000Z",
-        "event_type": "added",
-        "extra_data": {
-          "client": "Mozilla/5.0",
-          "name": "Inbox",
-          "note_count": 0
-        },
-        "extra_data_id": 25882608748,
-        "id": 25796286561,
-        "initiator_id": null,
-        "object_id": "2342756034",
-        "object_type": "project",
-        "parent_item_id": null,
-        "parent_project_id": null,
-        "v2_object_id": "6WWR2mmxR4Q2w7vH",
-        "v2_parent_item_id": null,
-        "v2_parent_project_id": null
-      }
-    ],
+    "events": [],
     "sections": [
       {
         "id": "172268898",
@@ -150,7 +92,7 @@
   "commentsSync": true,
   "alternativeKeywords": false,
   "customSyncTag": "#tdsync",
-  "experimentalFeatures": true,
+  "experimentalFeatures": false,
   "todoistAPIToken": "4ef11aefc11ba1744d493a5b0d1d03a3c331b3d4",
   "defaultProjectId": "2342756045"
 }
