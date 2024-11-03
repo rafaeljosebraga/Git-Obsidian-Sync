@@ -2,9 +2,11 @@ A principal ideia da notação assintótica é considerar o principal fator de v
 
 __detalhe que todos esses caras estão simplificados onde na verdade possuem uma afirmação matemática clara sobre seus efeitos e condições.__ dito isto podemos prosseguir.
 
- $O$ Limita a função por cima  informalmente a ideia é ser a relação que considera o pior caso.
+### Descrição informal das notações
 
- $\Omega$ Limita a função por baixo informalmente a ideia é ser a relação que considera o melhor caso. 
+$O$ Limita a função por cima  informalmente a ideia é ser a relação que considera o pior caso.
+
+$\Omega$ Limita a função por baixo informalmente a ideia é ser a relação que considera o melhor caso. 
 
 $\theta$ Afirma a media de tempo gasto, o caso mais simples é quando achamos um limitador por cima e por baixo iguais, sendo então essa a média.
 
@@ -12,7 +14,7 @@ $\theta$ Afirma a media de tempo gasto, o caso mais simples é quando achamos um
 
  $\omega$ Considera o a partir do caso de quando o desempenho não ultrapassa o seu fator comparativo 
 
-
+Para deixar de forma mais simples foi feito uma "Cola Assintótica" facilitando a interpretação e aprendizado. 
 
 Por enquanto vou considerar os 3  primeiros o $O$(Ozão), $\Omega$(Omegazão ou "Omegalul"/contem piada) e o $\theta$(Theta).
 ![[Pasted image 20241023180713.png]]
