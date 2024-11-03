@@ -6,11 +6,13 @@ __detalhe que todos esses caras estão simplificados onde na verdade possuem uma
 
  $\Omega$ Limita a função por baixo informalmente a ideia é ser a relação que considera o melhor caso. 
 
-$\theta$ Afirma a media de tempo gasto, o caso mais simples é quando achamos um limitador por cima e por baixo iguais, sendo então essa a mé
+$\theta$ Afirma a media de tempo gasto, o caso mais simples é quando achamos um limitador por cima e por baixo iguais, sendo então essa a média.
 
  $o$ Considera o a partir caso de quando o desempenho ultrapassa o seu fator comparativo
 
  $\omega$ Considera o a partir do caso de quando o desempenho não ultrapassa o seu fator comparativo 
 
-Por enquanto vou considerar os 3  
+Por enquanto vou considerar os 3  primeiros o $O$(Ozão), $\Omega$(Omegazão ou "Omegalul"/contem piada) e o $\theta$(Theta).
 ![[Pasted image 20241023180713.png]]
+
+Onde nas imagens podemos analisar como é o comportamento de cada uma das afirmações, que de forma bem simploria 
