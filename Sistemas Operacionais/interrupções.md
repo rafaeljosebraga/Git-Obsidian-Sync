@@ -1,3 +1,3 @@
 Dentro do contexto de um [[Sistema Operacional]] a interrupção se dá a partir de uma requisição de maior prioridade onde, o um fator chama o SO e aloca por cima na pilha de rotinas a próxima tarefa prioritária.
 
-a ideia
+Expandindo o assunto temos uma necessidade em definir um [[Algoritmo]] ou um modelo de como devemos implementar essa parada, o slide e caribe exempla bem  como funciona e a maneira dessas [[interrupções]] escalar e priorizar os [[Processos]], já que  a atenção o processador é um recurso extremamente valioso.

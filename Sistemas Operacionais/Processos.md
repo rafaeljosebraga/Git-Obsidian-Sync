@@ -7,3 +7,4 @@ A Stack e a Heap são postas uma contra a outra em "direção de alocação"
 
 (desenhar no excalidraw a estrutura da memoria de um processo), __está na folha exatamente em -i> -A>[[Implementação de Processos]].
 
+
