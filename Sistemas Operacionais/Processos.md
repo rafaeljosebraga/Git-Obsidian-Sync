@@ -7,4 +7,4 @@ A Stack e a Heap são postas uma contra a outra em "direção de alocação"
 
 (desenhar no excalidraw a estrutura da memoria de um processo), __está na folha exatamente em -i> -A>[[Implementação de Processos]].
 
-
+A forma de como o computador decide oque ocorre com cada proocesso depende unica e exclusivamente da implementação porem existe uma convenção em que se divide o funcionamento em vários estados em que se decide a importancia e a possibilidade de execução de cada processo.
