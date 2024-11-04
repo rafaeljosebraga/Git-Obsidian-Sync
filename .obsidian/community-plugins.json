@@ -1,12 +1,20 @@
 [
-  "various-complements",
   "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "pdf-plus",
+<<<<<<< HEAD
   "another-simple-todoist-sync",
   "quick-latex",
   "vim-toggle",
   "obsidian-hider",
   "virtual-linker"
+=======
+  "quick-latex",
+  "various-complements",
+  "vim-toggle",
+  "virtual-linker",
+  "obsidian-hider",
+  "todoist-sync-plugin"
+>>>>>>> origin/main
 ]

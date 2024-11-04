@@ -1,5 +1,6 @@
 {
   "hideStatus": true,
+<<<<<<< HEAD
   "hideTabs": false,
   "hideScroll": true,
   "hideSidebarButtons": false,
@@ -10,4 +11,16 @@
   "hideInstructions": true,
   "hidePropertiesReading": true,
   "hideVault": true
+=======
+  "hideTabs": true,
+  "hideScroll": false,
+  "hideSidebarButtons": false,
+  "hideTooltips": true,
+  "hideFileNavButtons": false,
+  "hideSearchSuggestions": false,
+  "hideSearchCounts": false,
+  "hideInstructions": false,
+  "hidePropertiesReading": false,
+  "hideVault": false
+>>>>>>> origin/main
 }

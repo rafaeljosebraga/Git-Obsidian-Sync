@@ -8,5 +8,10 @@
     "margin": "0",
     "downscalePercent": 100
   },
+<<<<<<< HEAD
   "showRibbon": true
+=======
+  "showRibbon": true,
+  "vimMode": false
+>>>>>>> origin/main
 }
