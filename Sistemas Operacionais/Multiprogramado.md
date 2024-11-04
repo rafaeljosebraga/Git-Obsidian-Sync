@@ -4,4 +4,5 @@ A capacidade de executar várias tarefas de uma vez, temos exemplos da multiprog
 
 nos casos em que há mais processadores podemos executar os [[Processos]] verdadeiramente já que temos espaço para tal.
 
-a principal vantagem é quando um processo lança instruções que em certo pedaço exige que o computador aguarde parado sem fazer nada, nesse espaço de tempo 
+a principal vantagem é quando um processo lança instruções que em certo pedaço exige que o computador aguarde parado sem fazer nada, nesse espaço de tempo o processador com métodos como o escalonamento consegue aproveitar o processamento de instruções a frente.
+
