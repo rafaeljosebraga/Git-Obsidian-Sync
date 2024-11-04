@@ -11,10 +11,14 @@
             "id": "9010904c2e437b06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notação assintótica.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Notação assintótica"
             }
           }
         ]
