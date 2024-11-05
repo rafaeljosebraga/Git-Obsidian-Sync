@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6df1bd8bd4da8f",
+        "id": "4cd24803df821464",
         "type": "tabs",
         "children": [
           {
-            "id": "696f6adbeca0e3fd",
+            "id": "00d785db97826248",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Threads.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Threads"
             }
           }
         ]
@@ -175,11 +179,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "696f6adbeca0e3fd",
+  "active": "00d785db97826248",
   "lastOpenFiles": [
+    "Sistemas Operacionais/Processos.md",
+    "concorrência.md",
+    "Threads.md",
+    "Multithread.md",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "estados de processo.md",
-    "Sistemas Operacionais/Processos.md",
     "Implementação de Processos.md",
     "escalonamento.md",
     "teste teclado.md",
@@ -202,8 +209,6 @@
     "Sem título 2.md",
     "Sem título 1.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
-    "Análise Recorrência.md",
-    "Prova por Indução.md",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
     "imagens utilizadas/Pasted image 20241023180713.png",
