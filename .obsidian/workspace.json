@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "8f9a588d6245b3bc",
+            "id": "b9b9df85728741a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,6 +37,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "687c15c6ae45df75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cb9b0d7aefa32b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "escalonamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "escalonamento"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,11 +214,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f9a588d6245b3bc",
+  "active": "2cb9b0d7aefa32b7",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Processos.md",
-    "Grafos.md",
     "estados de processo.md",
+    "escalonamento.md",
+    "Sistemas Operacionais/Processos.md",
+    "teste teclado.md",
+    "Grafos.md",
     "Grafos Simples.md",
     "estruturas de dados.md",
     "Lista de Adjacências.md",
@@ -221,10 +243,8 @@
     "Análise Recorrência.md",
     "Prova por Indução.md",
     "Sem título.md",
-    "teste de escrita.md",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
-    "Excalidraw/Drawing 2024-11-02 11.23.16.excalidraw.md",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
     "imagens utilizadas/Pasted Image 20240922183035_225.png",
