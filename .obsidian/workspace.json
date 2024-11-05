@@ -40,8 +40,21 @@
               "icon": "lucide-file",
               "title": "Eventos"
             }
+          },
+          {
+            "id": "44c93fad1578663d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +211,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38defdc5b9fe5793",
+  "active": "44c93fad1578663d",
   "lastOpenFiles": [
     "Sistemas Operacionais/Processos.md",
     "Eventos.md",
