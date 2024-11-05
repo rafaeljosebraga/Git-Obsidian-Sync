@@ -1,0 +1,1 @@
+uma das estruturas de dado é [[Lista de Adjacências]]
