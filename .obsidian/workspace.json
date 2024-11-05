@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "36f4773e56bb96da",
+        "id": "bd6df1bd8bd4da8f",
         "type": "tabs",
         "children": [
           {
-            "id": "63c9a0bb6b04243f",
+            "id": "696f6adbeca0e3fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operacionais/Processos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Processos"
-            }
-          },
-          {
-            "id": "0f7ec4ae96271ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Implementação de Processos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Implementação de Processos"
-            }
-          },
-          {
-            "id": "b9b9df85728741a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "estados de processo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "estados de processo"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,10 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f7ec4ae96271ced",
+  "active": "696f6adbeca0e3fd",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Processos.md",
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "estados de processo.md",
+    "Sistemas Operacionais/Processos.md",
+    "Implementação de Processos.md",
     "escalonamento.md",
     "teste teclado.md",
     "Grafos.md",
@@ -220,7 +189,6 @@
     "Lista de Adjacências.md",
     "Eventos.md",
     "Sistemas Operacionais/interrupções.md",
-    "Implementação de Processos.md",
     "Engenharia de Software/Aula  out 21.md",
     "Engenharia de Software/Essência -software.md",
     "Test 14 outubro.md",
@@ -236,7 +204,6 @@
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Análise Recorrência.md",
     "Prova por Indução.md",
-    "Sem título.md",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
     "imagens utilizadas/Pasted image 20241023180713.png",
@@ -253,7 +220,6 @@
     "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Progamação Orientada a Objetos",
     "Pesquisa Operacional",
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Sistemas Operacionais",
     "modelo-relacional.drawio"
   ]
