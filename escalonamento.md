@@ -1,1 +1,1 @@
-em SO é a ideia por traz de conseguir aproveitar os espaços de tempo inutilizados do processador ou organizar a sequencia de execução sendo por exemplo como componentes escalonadores).
+em SO é a ideia por traz de conseguir aproveitar os espaços de tempo inutilizados do processador ou organizar a sequencia de execução sendo por exemplo como componentes escalonadores de curto,médio e longo prazo.
