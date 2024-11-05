@@ -38,8 +38,21 @@
               "icon": "lucide-file",
               "title": "Cola Assintótica"
             }
+          },
+          {
+            "id": "3872cc21158b391f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "c5d0a4a55f303ee9",
+  "active": "3872cc21158b391f",
   "lastOpenFiles": [
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Sem título 3.md",
