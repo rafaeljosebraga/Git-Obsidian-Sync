@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 113,
+                "left": 15,
+                "top": 196,
+                "zoom": 1.695887090917789
               },
               "icon": "lucide-file-text",
               "title": "Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos)"
@@ -77,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b680983fc74fe8f0",
