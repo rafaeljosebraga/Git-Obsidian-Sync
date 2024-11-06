@@ -11,10 +11,14 @@
             "id": "58a2fcbb251ae00f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "pdf",
+              "state": {
+                "file": "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos)"
             }
           }
         ]
@@ -173,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd069b514ddf4bdc",
+  "active": "58a2fcbb251ae00f",
   "lastOpenFiles": [
+    "Projeto e Análise de Algoritmos/Algoritmo.md",
+    "Sem título 4.md",
     "Sistemas Operacionais/Processos.md",
     "Heap.md",
     "Sistemas Operacionais/Rotinas.md",
@@ -200,8 +206,6 @@
     "Engenharia de Software/Aula  out 21.md",
     "Engenharia de Software/Essência -software.md",
     "Test 14 outubro.md",
-    "RUP.md",
-    "Engenharia de Software/Documentação.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
