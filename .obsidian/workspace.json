@@ -11,16 +11,14 @@
             "id": "58a2fcbb251ae00f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
-                "page": 113,
-                "left": 15,
-                "top": 196,
-                "zoom": 1.695887090917789
+                "file": "Sistemas Operacionais/Rotinas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos)"
+              "icon": "lucide-file",
+              "title": "Rotinas"
             }
           }
         ]
@@ -182,13 +180,13 @@
   },
   "active": "58a2fcbb251ae00f",
   "lastOpenFiles": [
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Projeto e Análise de Algoritmos/Algoritmo.md",
     "Sem título 4.md",
     "Sistemas Operacionais/Processos.md",
     "Heap.md",
     "Sistemas Operacionais/Rotinas.md",
     "Sistema Operacional.md",
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Algebra linear/transformações lineares.md",
     "Algebra linear/Algebra Linear.md",
     "Excalidraw/Rascunho de desenhos.md",
@@ -208,7 +206,6 @@
     "Sistemas Operacionais/interrupções.md",
     "Engenharia de Software/Aula  out 21.md",
     "Engenharia de Software/Essência -software.md",
-    "Test 14 outubro.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
