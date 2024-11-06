@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd24803df821464",
+        "id": "013a5f21671f0090",
         "type": "tabs",
         "children": [
           {
-            "id": "00d785db97826248",
+            "id": "eea4fb740a371751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Threads.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Threads"
+              "title": "Nova aba"
             }
           }
         ]
@@ -179,11 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00d785db97826248",
+  "active": "eea4fb740a371751",
   "lastOpenFiles": [
+    "Threads.md",
     "Sistemas Operacionais/Processos.md",
     "concorrência.md",
-    "Threads.md",
     "Multithread.md",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "estados de processo.md",
