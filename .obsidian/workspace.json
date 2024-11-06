@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Rotinas.md",
+                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotinas"
+              "title": "ER ERX para Modelo Relacional"
             }
           }
         ]
@@ -180,18 +180,18 @@
   },
   "active": "58a2fcbb251ae00f",
   "lastOpenFiles": [
+    "Threads.md",
+    "Sistemas Operacionais/Rotinas.md",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Projeto e Análise de Algoritmos/Algoritmo.md",
     "Sem título 4.md",
     "Sistemas Operacionais/Processos.md",
     "Heap.md",
-    "Sistemas Operacionais/Rotinas.md",
     "Sistema Operacional.md",
     "Algebra linear/transformações lineares.md",
     "Algebra linear/Algebra Linear.md",
     "Excalidraw/Rascunho de desenhos.md",
     "Stack.md",
-    "Threads.md",
     "concorrência.md",
     "Multithread.md",
     "estados de processo.md",
