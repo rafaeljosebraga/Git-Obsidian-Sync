@@ -1,0 +1,1 @@
+É o campo memoria dos [[Processos]] ao qual é destinado o armazenamento de memória estática ao qual o seu papel dentro de um [[Algoritmo]] é servir o programador de forma base ao declarar as variáveis. 
