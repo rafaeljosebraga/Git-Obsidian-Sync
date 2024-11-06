@@ -69,8 +69,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58a2fcbb251ae00f",
+  "active": "fd069b514ddf4bdc",
   "lastOpenFiles": [
     "Sistemas Operacionais/Processos.md",
     "Heap.md",
