@@ -1,4 +1,1 @@
-Aqui é onde se encontra a memória de alocação dinâmica 
-
-
-sdfsdafasdfds
+Aqui é onde se encontra a memória de alocação dinâmica, ele tem sua função dada 
