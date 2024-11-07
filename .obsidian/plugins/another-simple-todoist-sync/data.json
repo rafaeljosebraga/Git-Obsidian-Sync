@@ -1,0 +1,156 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Estudos 📚",
+  "automaticSynchronizationInterval": 150,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2342756034",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6WWR2mmxR4Q2w7vH",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2342756042",
+        "parentId": null,
+        "order": 1,
+        "color": "charcoal",
+        "name": "Casa 🏡",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6WWR2q5WWwv3pW8g",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2342756045",
+        "parentId": null,
+        "order": 2,
+        "color": "charcoal",
+        "name": "Estudos 📚",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6WWR2q3F7gFcg8Gm",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [],
+    "events": [
+      {
+        "event_date": "2024-11-01T19:29:27.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Estudos 📚",
+          "note_count": 0
+        },
+        "extra_data_id": 25882610847,
+        "id": 25796288666,
+        "initiator_id": null,
+        "object_id": "2342756045",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "v2_object_id": "6WWR2q3F7gFcg8Gm",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      },
+      {
+        "event_date": "2024-11-01T19:29:27.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Casa 🏡",
+          "note_count": 0
+        },
+        "extra_data_id": 25882610766,
+        "id": 25796288582,
+        "initiator_id": null,
+        "object_id": "2342756042",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "v2_object_id": "6WWR2q5WWwv3pW8g",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      },
+      {
+        "event_date": "2024-11-01T19:29:13.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 25882608748,
+        "id": 25796286561,
+        "initiator_id": null,
+        "object_id": "2342756034",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "v2_object_id": "6WWR2mmxR4Q2w7vH",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      }
+    ],
+    "sections": [
+      {
+        "id": "172268898",
+        "v2Id": "6WWR2q5h4pwCCmg8",
+        "projectId": "2342756042",
+        "v2ProjectId": "6WWR2q5WWwv3pW8g",
+        "order": 1,
+        "name": "Rotinas 🔁"
+      },
+      {
+        "id": "172268899",
+        "v2Id": "6WWR2q5jPJqRx6W8",
+        "projectId": "2342756042",
+        "v2ProjectId": "6WWR2q5WWwv3pW8g",
+        "order": 2,
+        "name": "Inspiração ✨"
+      },
+      {
+        "id": "172268900",
+        "v2Id": "6WWR2q6cFM8Q2hrm",
+        "projectId": "2342756045",
+        "v2ProjectId": "6WWR2q3F7gFcg8Gm",
+        "order": 2,
+        "name": "Rotinas 🔁"
+      },
+      {
+        "id": "172268901",
+        "v2Id": "6WWR2q8j68XX5FqF",
+        "projectId": "2342756045",
+        "v2ProjectId": "6WWR2q3F7gFcg8Gm",
+        "order": 3,
+        "name": "Inspiração ✨"
+      }
+    ]
+  },
+  "fileMetadata": {},
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "commentsSync": true,
+  "alternativeKeywords": false,
+  "customSyncTag": "#tdsync",
+  "experimentalFeatures": false,
+  "todoistAPIToken": "4ef11aefc11ba1744d493a5b0d1d03a3c331b3d4",
+  "defaultProjectId": "2342756045"
+}

@@ -1,0 +1,1 @@
+é uma ideia base para definir entre os [[Processos]] qual é a prioridade e sequencia de execução condizente dentro do contexto onde com recursos como a divisão de um processo em vários mini processos que podemos chamar de [[Threads]].

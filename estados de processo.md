@@ -1,0 +1,1 @@
+Melhor explicado com imagens já que há vários estados de vários modelos diferentes aos quais esses estados são atrelados é detalhado vários estágios e estratégias possíveis para ir lidando caso a caso, com por exemplo o [[escalonamento]] sendo utilizado para organizar sob medida a necessidade de garantir um processo seja executado no tempo correto. 

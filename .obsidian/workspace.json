@@ -22,8 +22,23 @@
               "icon": "lucide-file-text",
               "title": "Algoritmos - Teoria e Prática 3ed - Thomas Cormen"
             }
+          },
+          {
+            "id": "c04bf72cfecca390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,36 +121,36 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "75daeabcf2d5bbbb",
+  "active": "c04bf72cfecca390",
   "lastOpenFiles": [
-    "Cola Assintótica.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
+    "conflict-files-obsidian-git.md",
+    "teste teclado.md",
+    "estruturas de dados.md",
+    "estados de processo.md",
+    "escalonamento.md",
+    "concorrência.md",
+    "Threads.md",
+    "Stack.md",
+    "Sem título 4.md",
+    "Multithread.md",
+    "Lista de Adjacências.md",
+    "Implementação de Processos.md",
+    "Heap.md",
+    "Grafos.md",
+    "Grafos Simples.md",
+    "Excalidraw/Rascunho de desenhos.md",
+    "Eventos.md",
+    "Cola Assintótica.md",
     "Sem título 3.md",
     "Sem título 2.md",
     "Sem título 1.md",
     "Notação assintótica.md",
-    "conflict-files-obsidian-git.md",
     "todoist-backup-202411318014.json",
     "teste de escrita.md",
     "teste do glossário.md",
     "Análise Recorrência.md",
-    "Excalidraw/FactorioScrapProcessing.excalidraw.md",
-    "Prova por Indução.md",
-    "Validação de um Software.md",
-    "Sistemas Monolíticos.md",
-    "Sistema em Camadas.md",
-    "Síntese Aula de PAA.md",
-    "Selection Sort.md",
-    "RUP.md",
-    "Projeto e Implementação P.S.md",
     "todoist-backup-20241121036.json",
-    "Sem título.md",
-    "Processos de Software.md",
-    "Modelo de Processos E.S.md",
-    "Epecificação P.S..md",
-    "Eng software 24.md",
-    "Calculo Varias Vars/Matéria das Tabelinha(Tutoria de Varias Variáveis).md",
-    "Calculo Varias Vars/Coordenadas Polares.md",
     "Videos/LinearTransformation.light.mp4",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
