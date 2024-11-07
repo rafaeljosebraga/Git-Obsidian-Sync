@@ -84,7 +84,72 @@
   "right": {
     "id": "868f71f2c8fa4666",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "fc6838c8693b7572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc416068ad4712c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Engenharia de Software/Essência -software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Essência -software"
+            }
+          },
+          {
+            "id": "157575714be7a383",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Engenharia de Software/Essência -software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Essência -software"
+            }
+          },
+          {
+            "id": "15d2b7c167e95d54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5ed993afbc629ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Engenharia de Software/Essência -software.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Essência -software"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
