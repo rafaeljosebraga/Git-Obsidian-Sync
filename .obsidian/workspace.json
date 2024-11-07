@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/ER ERX para Modelo Relacional.md",
+                "file": "Sistemas Operacionais/Rotinas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ER ERX para Modelo Relacional"
+              "title": "Rotinas"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "58a2fcbb251ae00f",
   "lastOpenFiles": [
+    "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Threads.md",
     "Sistemas Operacionais/Rotinas.md",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
