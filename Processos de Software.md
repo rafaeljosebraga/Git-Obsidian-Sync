@@ -1,4 +1,4 @@
-É definido como:
+Processo nesse contexto é definido como: A sequencia de atividades que quando concluídas resultara em um software como produto.
 
 Dentro desses processos temos vários fatores a serem considerados na hora de definir a sequenciação das etapas para a criação de um software.
 
