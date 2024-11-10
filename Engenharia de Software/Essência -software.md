@@ -12,7 +12,7 @@ __3
 
 __Consequências Gerenciais
 
-Nesse contexto existe umas especifidades que podem conter na ideia das consequências  técnicas já que quando se trata de gerencia a gerencia de projetos atende principalmente nos casos onde entendemos os gastos e o tempo limite, e quando expandimos isso para um código temos a situação onde cada pessoa é sim por sua parte responsável por tomar uma decisão e quando existe uma grande rotatividade de funções dentro do projetos
+Nesse contexto existe caracteristicas que podem conter na ideia das consequências  técnicas já que quando se trata de gerencia a gerencia de projetos atende principalmente nos casos onde entendemos os gastos e o tempo limite, e quando expandimos isso para um código temos a situação onde cada pessoa é sim por sua parte responsável por tomar uma decisão e quando existe uma grande rotatividade de funções dentro do projetos
 
 __Conformidade
 
