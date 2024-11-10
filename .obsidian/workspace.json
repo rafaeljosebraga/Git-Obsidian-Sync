@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/Essência -software.md",
+                "file": "Notação assintótica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essência -software"
+              "title": "Notação assintótica"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "75daeabcf2d5bbbb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Engenharia de Software/Essência -software.md",
+    "conflict-files-obsidian-git.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "teste teclado.md",
     "estruturas de dados.md",
