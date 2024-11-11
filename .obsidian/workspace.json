@@ -20,15 +20,9 @@
               "icon": "lucide-file",
               "title": "Threads"
             }
-          }
-        ]
-      },
-      {
-        "id": "a1dbc8eb436db2d0",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "cb078250d99cb95e",
+            "id": "25957bd9c5ee51cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +35,8 @@
               "title": "espaço núcleo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +193,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb078250d99cb95e",
+  "active": "25957bd9c5ee51cb",
   "lastOpenFiles": [
     "Threads.md",
     "espaço núcleo.md",
