@@ -3,11 +3,11 @@ Processo nesse contexto é definido como: A sequencia de atividades que quando c
 
 Dentro desses processos temos vários fatores a serem considerados na hora de definir a sequenciação das etapas para a criação de um software.
 
-[[Epecificação P.S.]] 
+[[Epecificação dos Processos de Software.]] 
 
 __Projeto e Implementação
 
-[[Projeto e Implementação P.S]]
+[[Projeto e Implementação dos Processos de Software]]
 (compreensão estranha)
 Entendemos que o projeto e a implementação é atualmente uma "metodologia" incremental onde como os sistemas possuem uma característica mais evolutiva jutno a necessidade de manutenção de um sistema, como se de forma modular a tendencia é instalar cada vez mais funções para o cliente mais detalhada como uma a ultima das atividades fundamentais.
 

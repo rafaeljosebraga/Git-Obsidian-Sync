@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e30e9303ecf4cd",
+        "id": "4f6e6d927482f773",
         "type": "tabs",
         "children": [
           {
-            "id": "58a2fcbb251ae00f",
+            "id": "0508a08d581d1b12",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf"
+                "file": "Processos de Software.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Algoritmos - Teoria e Prática 3ed - Thomas Cormen"
+              "icon": "lucide-file",
+              "title": "Processos de Software"
             }
           }
         ]
@@ -176,9 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58a2fcbb251ae00f",
+  "active": "0508a08d581d1b12",
   "lastOpenFiles": [
+    "Projeto e Implementação dos Processos de Software.md",
     "Processos de Software.md",
+    "Epecificação dos Processos de Software..md",
+    "Modelo de Processos E.S.md",
+    "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Sistemas Operacionais/Rotinas.md",
     "conflict-files-obsidian-git.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
@@ -202,10 +208,6 @@
     "Grafos.md",
     "Grafos Simples.md",
     "estruturas de dados.md",
-    "Lista de Adjacências.md",
-    "Eventos.md",
-    "Sistemas Operacionais/interrupções.md",
-    "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
     "imagens utilizadas/Pasted image 20241023180713.png",
