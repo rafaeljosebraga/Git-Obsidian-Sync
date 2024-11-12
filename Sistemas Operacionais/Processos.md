@@ -1,4 +1,4 @@
-os processos são criados a partir das [[chamadas de sistema]] que os definem para entrar dentro das [[Rotinas]]  
+os processos são criados a partir das [[chamadas de sistema]] que os definem para entrar dentro das [[Rotinas]] requisitando a [[Alocação de recursos]] do sistemas sendo este uma operação totalmente guiada pelo [[Sistema Operacional]]. 
 
 A forma de como o computador interpreta um processo é uma divisão da memória onde ela define uma [[Stack]] uma [[Heap]] e afins de armazenamento como registradores e estados.
 

@@ -2,4 +2,6 @@ em SO é a ideia por traz de conseguir aproveitar os espaços de tempo inutiliza
 
 esses escalonadores não são uma caixa mágica, quero dizer que dentro deles existem [[algoritmos de escalonamento]] onde decidem qual é a próxima tarefa as ser executada pelo processador.
 
-existe outra categoria de escalonamento quando temos um sistema que requer uma reação em tempo real em que cada processo exige uma urgência para a sua execução.
+existe outra categoria de escalonamento quando temos um sistema que requer uma reação em tempo real em que cada processo exige uma urgência para a sua execução, essas circunstâncias estão contempladas dentro de um sistema de tempo real.
+
+Contexto especifico [[Escalonamento de Threads]].

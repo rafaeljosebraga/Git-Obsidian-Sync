@@ -23,3 +23,5 @@ __[[Multiprogramado]]
 Podemos definir as capacidades do sistema operacional em uma série de [[Serviços do sistema operacional]]
 
 O SO pode ser "Construído" de várias formas uma delas é com os [[Sistemas Monolíticos]],[[Sistema em Camadas]],[[Modelo Cliente-Servidor]],[[Máquinas Virtuais]],etc,etc (caribe fala vários, mas vou esperar ele postar o slide e revisar pelo livro.)
+
+Para organizar as atividades inclusas dentro do sistema é utilizado a aplicação de [[Processos]].
