@@ -1,3 +1,3 @@
 (o nome não é muito legal)
 
-recurso é todo aquilo que o computador emprega ao executar suas funcionalidades, e separamos esses recursos com sendos o não preemptíveis e os não preemptíveis, consideramaros como recursos não preemptíveis todo aquele recurso que pode afetar e falhar os [[Processos]], e temos os recursos preemptíveis os recursos que podem ser redirecionados de processos a outros processo 
+recurso é todo aquilo que o computador emprega ao executar suas funcionalidades, e separamos esses recursos com sendos o [[Não preemptíveis]] e os [[preemptíveis]], consideramaros como recursos não preemptíveis todo aquele recurso que pode afetar e falhar os [[Processos]], e temos os recursos preemptíveis os recursos que podem ser redirecionados de processos a outros processos em caso de necessidade, sendo esse sistema capaz de mesmo na falta de recursos para a execução de um processos existe a possibilidade de [[comunicação entre processos]]. 
