@@ -1,0 +1,3 @@
+assim como o botão de parar o som, o mutex é uma váriavel de maior escopo onde é usado para indicar se a região crítica está atualmente em uso, impedindo o acesso indevido da região de memória em interesse, ele funciona a partir de operações, onde esse o mesmo é considerado a solução de menor custo.
+
+essa variável pode ser chamada de mutex lock assim como uma variável global ela indica literalmente a possibilidade de acesso a memória na regiã .
