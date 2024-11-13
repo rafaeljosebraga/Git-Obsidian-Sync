@@ -1,0 +1,1 @@
+Faz parte da turma das [[estruturas de dados]]

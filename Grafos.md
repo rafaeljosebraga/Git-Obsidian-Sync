@@ -1,0 +1,1 @@
+É uma especie de visualização de uma estrutura matemática, como primeira forma descobrimos os [[Grafos Simples]] onde mapeamos uma série de problemas que no qual verificamos se podem ser transformados em alguma especie de grafo.
