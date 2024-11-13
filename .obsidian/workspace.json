@@ -11,10 +11,12 @@
             "id": "8575c19466d42c71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Release Notes 1.7.6"
             }
           }
         ]
