@@ -1,1 +1,3 @@
-Faz parte da turma das [[estruturas de dados]]
+Faz parte da turma das [[estruturas de dados]], em uma breve definição é um vetor de listas ligadas, estas que por sua vez cada nó representa uma adjacência. em linha.
+
+Pode  ser usada para otimizar o problema da ligação entre usuários, seja representando uma mensagem ou representado uma simples conexão, em que uma matriz de adjacência possui dois bits reflexivos,agora na matriz de adjacência apenas uma ponta solta dessa reflexão permanece em memória pulando até mesmo os espaços os quais estão com nada ou 0.
