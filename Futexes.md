@@ -1,0 +1,1 @@
+ O futexe tem uma função parecida com o [[Mutexes]] porem diferencia no seu modo de ação, já que
