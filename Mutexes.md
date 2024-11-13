@@ -4,3 +4,4 @@ essa variável pode ser chamada de mutex lock assim como uma variável global el
 
 uma das implicações dos [[Mutexes]] é o bloqueio de [[Processos]] ao se descobrir que o processo quer acessar uma [[região crítica]] da memória.
 
+inicialmente não é dito como um uso em threads porem pode ser pensado para o seu uso, tal como foi dito na aula de 13 nov em [[Mutexes em Pthreads]].
