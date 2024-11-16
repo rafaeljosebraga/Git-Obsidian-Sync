@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Notação assintótica"
             }
+          },
+          {
+            "id": "8f45145736574b22",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "75daeabcf2d5bbbb",
+  "active": "8f45145736574b22",
   "lastOpenFiles": [
     "semaforo SO.md",
     "região crítica.md",
