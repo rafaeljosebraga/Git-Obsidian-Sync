@@ -2,7 +2,7 @@ As threads podem ser organizadas com a ideia de Pthreads que essas sim podem ser
 
 wait:que suspende a thread a colocando em estado de espera para um sinal retomar seu processo.
 
-signal:
+signal: indica uma thread que é a vez dela de acordar e usar a memória da [[região crítica]]
 
-broadcast:
+broadcast: indica todas as outras [[Threads]] de alguma coisa.
 
