@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "espaço de configuração.md",
+                "file": "Eng software 24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "espaço de configuração"
+              "title": "Eng software 24"
+            }
+          },
+          {
+            "id": "4032f4a12f42ad11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelo de Processos E.S.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo de Processos E.S"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf4900ee3c5c74ed",
+  "active": "4032f4a12f42ad11",
   "lastOpenFiles": [
+    "Eng software 24.md",
+    "Processos de Software.md",
+    "Engenharia de Software/Documentação.md",
     "espaço de configuração.md",
     "Grafos.md",
     "semaforo SO.md",
@@ -202,10 +220,7 @@
     "Threads.md",
     "espaço núcleo.md",
     "conflict-files-obsidian-git.md",
-    "Processos de Software.md",
     "Projeto e Implementação dos Processos de Software.md",
-    "Epecificação dos Processos de Software..md",
-    "Modelo de Processos E.S.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "todoist-backup-202411318014.json",
