@@ -18,4 +18,4 @@ O sistema deve ser capaz de designar de forma eficiente cada onibus e motoristas
 
 _Escalabilidade_: é uma questão local, ja que a implantação alinha localmente ao armazenamento local.
 
-_Segurança de acesso_
+_Segurança de acesso_: O acesso ao sistema é feito por qualquer funcionário
