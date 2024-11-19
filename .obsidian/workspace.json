@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notação assintótica.md",
+                "file": "Cola Assintótica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notação assintótica"
-            }
-          },
-          {
-            "id": "8f45145736574b22",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "Cola Assintótica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +169,10 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "8f45145736574b22",
+  "active": "75daeabcf2d5bbbb",
   "lastOpenFiles": [
+    "Pasted image 20241119162634.png",
+    "Notação assintótica.md",
     "semaforo SO.md",
     "região crítica.md",
     "preemptíveis.md",
@@ -209,8 +198,6 @@
     "concorrência.md",
     "Threads.md",
     "Stack.md",
-    "Sem título 4.md",
-    "Multithread.md",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
     "Videos/LinearTransformation.light.mp4",
