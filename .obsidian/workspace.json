@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad6ec09402bf5618",
+        "id": "7002547d8ecf8860",
         "type": "tabs",
         "children": [
           {
-            "id": "0300d9b7d5d65886",
+            "id": "ce5e8c82cf606e32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -174,8 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0300d9b7d5d65886",
+  "active": "ce5e8c82cf606e32",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20241119162634.png",
     "Eng software 18 nov.md",
     "Eng software 24.md",
     "Engenharia de Software/Aula  out 21.md",
@@ -201,7 +207,6 @@
     "Escalonamento de Threads.md",
     "algoritmos de escalonamento.md",
     "Escalnamento em Sistemas de tempo real.md",
-    "Threads.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "todoist-backup-202411318014.json",
@@ -215,7 +220,6 @@
     "imagens utilizadas/Pasted Image 20240913105922_348.png",
     "imagens utilizadas/Pasted Image 20240913103239_012.png",
     "imagens utilizadas/81YsHe4woRL._SL1500_.jpg",
-    "imagens utilizadas/7123RWASRJL._SL1500_.jpg",
     "Projeto e Análise de Algoritmos",
     "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Progamação Orientada a Objetos",
