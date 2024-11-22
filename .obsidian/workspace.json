@@ -25,16 +25,17 @@
             "id": "1bfa50379101ad7e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Aula 22 nov.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Aula 22 nov"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +183,9 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "1bfa50379101ad7e",
+  "active": "75daeabcf2d5bbbb",
   "lastOpenFiles": [
+    "Aula 22 nov.md",
     "Pasted image 20241119162634.png",
     "Notação assintótica.md",
     "semaforo SO.md",
@@ -229,7 +231,6 @@
     "Progamação Orientada a Objetos",
     "imagens utilizadas/81YsHe4woRL._SL1500_.jpg",
     "imagens utilizadas/7123RWASRJL._SL1500_.jpg",
-    "Excalidraw/Drawing 2024-09-16 00.33.01.excalidraw.png",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
     "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
     "Banco de Dados/3-relacional.canvas",
