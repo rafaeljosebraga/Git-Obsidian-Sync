@@ -18,6 +18,4 @@ __Validação de um software
 
 __Evolução do Software
 
-__Vish esqueci de anotar.kkkkkkkkkkk
-aqui é a parte dois² 
-arcar com as consequencias de suas escolhas ja que um código é um filho a ser herdado pelo seu eu do futuro.
+Essa etapa do processo na criação de softwares mostra como um sistema requer constante atenção e flexibilidade as casualidades do mercado e do mundo, pensando nisso o cliente vai precisar que o software possa sofrer mudanças mesmo antes e depois da implantação.

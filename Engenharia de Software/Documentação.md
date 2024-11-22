@@ -1,0 +1,1 @@
+É a principal forma de entender e guardar a ideia por traz de um projeto, sendo o documento a nossa maior fonte de informação alem do software quando empregado. Acontece que uma documentação pode ter várias formas ou metodologias que empregam a sua criação, podendo esse documento estar presente tanto como um simples texto explicativo a diagramas e artigos extensos. 
