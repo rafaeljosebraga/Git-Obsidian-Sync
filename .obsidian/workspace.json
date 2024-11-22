@@ -11,10 +11,14 @@
             "id": "2e709e9f4febb716",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -176,8 +180,11 @@
   },
   "active": "2e709e9f4febb716",
   "lastOpenFiles": [
-    "Engenharia de Software/Aula  out 21.md",
     "conflict-files-obsidian-git.md",
+    "Recursão.md",
+    "Método da Substituição.md",
+    "Aula 22 nov.md",
+    "Engenharia de Software/Aula  out 21.md",
     "Pasted image 20241119162634.png",
     "Eng software 18 nov.md",
     "Eng software 24.md",
@@ -200,9 +207,6 @@
     "Não preemptíveis.md",
     "Sistema Operacional.md",
     "escalonamento.md",
-    "Escalonamento de Threads.md",
-    "algoritmos de escalonamento.md",
-    "Escalnamento em Sistemas de tempo real.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "todoist-backup-202411318014.json",
