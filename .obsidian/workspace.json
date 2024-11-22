@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "região crítica.md",
+                "file": "Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "região crítica"
+              "title": "Threads"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "6683c608b647b640",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Memoria Principal.md",
-    "região crítica.md",
+    "Multithread.md",
     "Threads.md",
+    "região crítica.md",
+    "Sistemas Operacionais/Memoria Principal.md",
     "preemptíveis.md",
     "Implementação de Processos.md",
     "Sistemas Operacionais/Processos.md",
@@ -199,7 +200,6 @@
     "Sistemas Operacionais/gerenciamento de arquivos.md",
     "Cola Assintótica.md",
     "Pasted image 20241119162634.png",
-    "Notação assintótica.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
