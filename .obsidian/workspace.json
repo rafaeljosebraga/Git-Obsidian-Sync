@@ -1,54 +1,37 @@
 {
   "main": {
-    "id": "bbae9365314d968d",
+    "id": "d067508331e1183c",
     "type": "split",
     "children": [
       {
-        "id": "ed03d00608b7720c",
+        "id": "8efdba3b0e242f75",
         "type": "tabs",
         "children": [
           {
-            "id": "33a634258911bfa7",
+            "id": "ddafa41e30dfa195",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operacionais/Rotinas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rotinas"
-            }
-          },
-          {
-            "id": "155bdd27a8d6aa19",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Algoritmo de escalonamento.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Algoritmo de escalonamento"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d7641d33f9ec648f",
+    "id": "9be2b9638b9b5e6a",
     "type": "split",
     "children": [
       {
-        "id": "567280552154128d",
+        "id": "96a1ad63a89117f9",
         "type": "tabs",
         "children": [
           {
-            "id": "cd21648d59d618f8",
+            "id": "fd069b514ddf4bdc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,12 +43,12 @@
             }
           },
           {
-            "id": "6ede56452f833768",
+            "id": "9cf5c24226ca6d0a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#superchave",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +60,7 @@
             }
           },
           {
-            "id": "487914934b7ac7c2",
+            "id": "6e8df7d35c489731",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,24 +73,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "868f71f2c8fa4666",
+    "id": "b680983fc74fe8f0",
     "type": "split",
     "children": [
       {
-        "id": "fc6838c8693b7572",
+        "id": "8468df62f7e2f9cb",
         "type": "tabs",
         "children": [
           {
-            "id": "dc416068ad4712c0",
+            "id": "4050c4a3dc74f9e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/Essência -software.md",
+                "file": "Notação assintótica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,25 +100,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Essência -software"
+              "title": "Links inversos para Notação assintótica"
             }
           },
           {
-            "id": "157575714be7a383",
+            "id": "546995749de261c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/Essência -software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Essência -software"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "15d2b7c167e95d54",
+            "id": "0f917ee47a5224d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,18 +130,29 @@
             }
           },
           {
-            "id": "d5ed993afbc629ee",
+            "id": "23fc8a5cae738347",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/Essência -software.md"
+                "file": "Aula  out 21.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Essência -software"
+              "title": "Sumário de Aula  out 21"
+            }
+          },
+          {
+            "id": "02c94a010142cfd1",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,66 +167,60 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "vim-toggle:Toggle Vim Mode": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "vim-toggle:Toggle Vim Mode": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "155bdd27a8d6aa19",
+  "active": "ddafa41e30dfa195",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Algoritmo de escalonamento.md",
     "Pasted Image 20241122144043_546.png",
     "Pasted Image 20241122143916_579.png",
-    "Sistemas Operacionais/Rotinas.md",
-    "espaço núcleo.md",
-    "Threads.md",
-    "espaço de configuração.md",
-    "Eng software 18 nov.md",
-    "Análise Recorrência.md",
-    "Método da Substituição.md",
+    "Excalidraw/Algoritmo de escalonamento.md",
+    "conflict-files-obsidian-git.md",
     "Recursão.md",
-    "Sistemas Operacionais/Processos.md",
-    "Sistemas Operacionais/chamadas de sistema.md",
-    "Stack.md",
-    "Implementação de Processos.md",
+    "Método da Substituição.md",
     "Aula 22 nov.md",
-    "Sistemas Operacionais/gerenciamento de arquivos.md",
-    "Cola Assintótica.md",
+    "Engenharia de Software/Aula  out 21.md",
     "Pasted image 20241119162634.png",
-    "Notação assintótica.md",
+    "Eng software 18 nov.md",
+    "Eng software 24.md",
+    "Modelo de Processos E.S.md",
+    "Processos de Software.md",
+    "Engenharia de Software/Documentação.md",
+    "espaço de configuração.md",
+    "Grafos.md",
     "semaforo SO.md",
+    "Mutexes.md",
+    "Mutexes em Pthreads.md",
     "região crítica.md",
-    "preemptíveis.md",
+    "Futexes.md",
+    "Lista de Adjacências.md",
+    "Grafos Simples.md",
+    "Sistemas Operacionais/Processos.md",
+    "Alocação de recursos.md",
     "comunicação entre processos.md",
-    "algoritmos de escalonamento.md",
-    "Projeto e Implementação dos Processos de Software.md",
+    "preemptíveis.md",
     "Não preemptíveis.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
-    "Videos/LinearTransformation.light.mp4",
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
-    "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
-    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
-    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
-    "imagens utilizadas/Pasted Image 20240922182935_226.png",
     "imagens utilizadas/Pasted Image 20240922183035_225.png",
+    "imagens utilizadas/Pasted Image 20240922182935_226.png",
     "imagens utilizadas/Pasted Image 20240913113938_012.png",
     "imagens utilizadas/Pasted Image 20240913113822_747.png",
+    "imagens utilizadas/Pasted Image 20240913105922_348.png",
     "imagens utilizadas/Pasted Image 20240913103239_012.png",
-    "Pesquisa Operacional",
+    "Projeto e Análise de Algoritmos",
+    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Progamação Orientada a Objetos",
-    "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
-    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
-    "Banco de Dados/3-relacional.canvas",
-    "Banco de Dados/Untitled 1.canvas",
-    "Banco de Dados/Untitled.canvas",
-    "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
-    "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
+    "Pesquisa Operacional",
+    "Sistemas Operacionais",
+    "modelo-relacional.drawio"
   ]
 }
