@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d067508331e1183c",
+    "id": "bbae9365314d968d",
     "type": "split",
     "children": [
       {
-        "id": "8efdba3b0e242f75",
+        "id": "dce6bf9b0c1d475a",
         "type": "tabs",
         "children": [
           {
-            "id": "ddafa41e30dfa195",
+            "id": "6683c608b647b640",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9be2b9638b9b5e6a",
+    "id": "d7641d33f9ec648f",
     "type": "split",
     "children": [
       {
-        "id": "96a1ad63a89117f9",
+        "id": "567280552154128d",
         "type": "tabs",
         "children": [
           {
-            "id": "fd069b514ddf4bdc",
+            "id": "cd21648d59d618f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "9cf5c24226ca6d0a",
+            "id": "6ede56452f833768",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#superchave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "6e8df7d35c489731",
+            "id": "487914934b7ac7c2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,24 +73,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 347.5,
     "collapsed": true
   },
   "right": {
-    "id": "b680983fc74fe8f0",
+    "id": "868f71f2c8fa4666",
     "type": "split",
     "children": [
       {
-        "id": "8468df62f7e2f9cb",
+        "id": "fc6838c8693b7572",
         "type": "tabs",
         "children": [
           {
-            "id": "4050c4a3dc74f9e6",
+            "id": "dc416068ad4712c0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notação assintótica.md",
+                "file": "Engenharia de Software/Essência -software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Notação assintótica"
+              "title": "Links inversos para Essência -software"
             }
           },
           {
-            "id": "546995749de261c7",
+            "id": "157575714be7a383",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engenharia de Software/Essência -software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Essência -software"
             }
           },
           {
-            "id": "0f917ee47a5224d1",
+            "id": "15d2b7c167e95d54",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,29 +131,18 @@
             }
           },
           {
-            "id": "23fc8a5cae738347",
+            "id": "d5ed993afbc629ee",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aula  out 21.md"
+                "file": "Engenharia de Software/Essência -software.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula  out 21"
-            }
-          },
-          {
-            "id": "02c94a010142cfd1",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "title": "Sumário de Essência -software"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,60 +157,66 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "vim-toggle:Toggle Vim Mode": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "ddafa41e30dfa195",
+  "active": "6683c608b647b640",
   "lastOpenFiles": [
-    "Pasted Image 20241122144043_546.png",
-    "Pasted Image 20241122143916_579.png",
+    "Sistemas Operacionais/Rotinas.md",
     "Excalidraw/Algoritmo de escalonamento.md",
     "conflict-files-obsidian-git.md",
-    "Recursão.md",
-    "Método da Substituição.md",
-    "Aula 22 nov.md",
-    "Engenharia de Software/Aula  out 21.md",
-    "Pasted image 20241119162634.png",
-    "Eng software 18 nov.md",
-    "Eng software 24.md",
-    "Modelo de Processos E.S.md",
-    "Processos de Software.md",
-    "Engenharia de Software/Documentação.md",
+    "Pasted Image 20241122144043_546.png",
+    "Pasted Image 20241122143916_579.png",
+    "espaço núcleo.md",
+    "Threads.md",
     "espaço de configuração.md",
-    "Grafos.md",
-    "semaforo SO.md",
-    "Mutexes.md",
-    "Mutexes em Pthreads.md",
-    "região crítica.md",
-    "Futexes.md",
-    "Lista de Adjacências.md",
-    "Grafos Simples.md",
+    "Eng software 18 nov.md",
+    "Análise Recorrência.md",
+    "Método da Substituição.md",
+    "Recursão.md",
     "Sistemas Operacionais/Processos.md",
-    "Alocação de recursos.md",
-    "comunicação entre processos.md",
+    "Sistemas Operacionais/chamadas de sistema.md",
+    "Stack.md",
+    "Implementação de Processos.md",
+    "Aula 22 nov.md",
+    "Sistemas Operacionais/gerenciamento de arquivos.md",
+    "Cola Assintótica.md",
+    "Pasted image 20241119162634.png",
+    "Notação assintótica.md",
+    "semaforo SO.md",
+    "região crítica.md",
     "preemptíveis.md",
+    "comunicação entre processos.md",
+    "algoritmos de escalonamento.md",
+    "Projeto e Implementação dos Processos de Software.md",
     "Não preemptíveis.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
+    "Videos/LinearTransformation.light.mp4",
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
+    "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
+    "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
+    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
-    "imagens utilizadas/Pasted Image 20240922183035_225.png",
     "imagens utilizadas/Pasted Image 20240922182935_226.png",
+    "imagens utilizadas/Pasted Image 20240922183035_225.png",
     "imagens utilizadas/Pasted Image 20240913113938_012.png",
     "imagens utilizadas/Pasted Image 20240913113822_747.png",
-    "imagens utilizadas/Pasted Image 20240913105922_348.png",
     "imagens utilizadas/Pasted Image 20240913103239_012.png",
-    "Projeto e Análise de Algoritmos",
-    "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
-    "Progamação Orientada a Objetos",
     "Pesquisa Operacional",
-    "Sistemas Operacionais",
-    "modelo-relacional.drawio"
+    "Progamação Orientada a Objetos",
+    "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",
+    "Banco de Dados/Tentativas de mapeamento/2-relacional.canvas",
+    "Banco de Dados/3-relacional.canvas",
+    "Banco de Dados/Untitled 1.canvas",
+    "Banco de Dados/Untitled.canvas",
+    "Git-Obsidian-Sync/BDzada/2-relacional.canvas",
+    "Git-Obsidian-Sync/BDzada/1-relacional.canvas"
   ]
 }
