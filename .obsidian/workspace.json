@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Cola Assintótica"
             }
+          },
+          {
+            "id": "1bfa50379101ad7e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "75daeabcf2d5bbbb",
+  "active": "1bfa50379101ad7e",
   "lastOpenFiles": [
     "Pasted image 20241119162634.png",
     "Notação assintótica.md",
