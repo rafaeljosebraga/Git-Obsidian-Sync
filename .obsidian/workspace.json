@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semaforo SO.md",
+                "file": "região crítica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "semaforo SO"
+              "title": "região crítica"
             }
           }
         ]
@@ -170,8 +170,16 @@
   },
   "active": "6683c608b647b640",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
+    "Sistemas Operacionais/Memoria Principal.md",
+    "região crítica.md",
+    "Threads.md",
+    "preemptíveis.md",
+    "Implementação de Processos.md",
+    "Sistemas Operacionais/Processos.md",
+    "Não preemptíveis.md",
+    "Mutexes.md",
     "semaforo SO.md",
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Sistemas Operacionais/interrupções.md",
     "Prova 1 SO.md",
     "Sistemas Operacionais/Rotinas.md",
@@ -180,25 +188,18 @@
     "Pasted Image 20241122144043_546.png",
     "Pasted Image 20241122143916_579.png",
     "espaço núcleo.md",
-    "Threads.md",
     "espaço de configuração.md",
     "Eng software 18 nov.md",
     "Análise Recorrência.md",
     "Método da Substituição.md",
     "Recursão.md",
-    "Sistemas Operacionais/Processos.md",
     "Sistemas Operacionais/chamadas de sistema.md",
     "Stack.md",
-    "Implementação de Processos.md",
     "Aula 22 nov.md",
     "Sistemas Operacionais/gerenciamento de arquivos.md",
     "Cola Assintótica.md",
     "Pasted image 20241119162634.png",
     "Notação assintótica.md",
-    "região crítica.md",
-    "preemptíveis.md",
-    "comunicação entre processos.md",
-    "algoritmos de escalonamento.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
