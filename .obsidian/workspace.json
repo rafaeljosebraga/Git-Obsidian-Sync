@@ -11,10 +11,14 @@
             "id": "6683c608b647b640",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prova 1 SO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Prova 1 SO"
             }
           }
         ]
@@ -166,6 +170,7 @@
   },
   "active": "6683c608b647b640",
   "lastOpenFiles": [
+    "Prova 1 SO.md",
     "Sistemas Operacionais/Rotinas.md",
     "Excalidraw/Algoritmo de escalonamento.md",
     "conflict-files-obsidian-git.md",
