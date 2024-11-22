@@ -11,16 +11,14 @@
             "id": "6683c608b647b640",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
-                "page": 1,
-                "left": 718,
-                "top": 813,
-                "zoom": 2.4184314512781
+                "file": "semaforo SO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos)"
+              "icon": "lucide-file",
+              "title": "semaforo SO"
             }
           }
         ]
@@ -172,6 +170,7 @@
   },
   "active": "6683c608b647b640",
   "lastOpenFiles": [
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "semaforo SO.md",
     "Sistemas Operacionais/interrupções.md",
     "Prova 1 SO.md",
@@ -200,12 +199,10 @@
     "preemptíveis.md",
     "comunicação entre processos.md",
     "algoritmos de escalonamento.md",
-    "Projeto e Implementação dos Processos de Software.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "todoist-backup-202411318014.json",
     "todoist-backup-20241121036.json",
     "Videos/LinearTransformation.light.mp4",
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
