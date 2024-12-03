@@ -10,5 +10,6 @@ O peso deste algoritmo é em dois fatores,
 
 O primeiro é a quantidade de nós, onde sabemos que como vamos resumir todos as recursões a pivôs(vetor de tamanho 1), temos então a quantidade de nos da arvore como custo ou seja O(n)
 
- Para o Segundo temos um X de verificações necessárias e esse peso se dá pela  [[esperança]] desse x onde podemos aferir no melhor caso $lg(n)$ //A prova dada pelo livro pode ser útil para a compreensão deste. 
+ Para o Segundo temos um X de verificações necessárias e esse peso se dá pela  [[esperança]] desse x onde podemos aferir no melhor caso $lg(n)$ //A prova dada pelo livro pode ser útil para a compreensão deste.
 
+Alberto chega no resultado que a média do custo de ordenação por [[QuickSort]] é de $\theta(nlogn)$.
