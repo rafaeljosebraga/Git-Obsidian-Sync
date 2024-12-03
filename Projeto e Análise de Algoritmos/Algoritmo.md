@@ -3,6 +3,8 @@
 no contexto da computação um algoritmo é um programa que recebe uma [[entrada]] tem uma sequencia de passos onde existe um fim definindo em função de solucionar um __problema.
 (Um problema é válido nesse contexto quando definimos )
 
-quando entendemos que um algoritmo é correto, ele resolve o problema independente de como retornamos a resposta, agora o ponto é quando este algoritmo pode trazer implicações de como a receita de bolo chega no bolo, podendo trazer um maior ou menor custo nos passos para chegar no fim, assim podemos chegar no ideal do projeto e analise de algoritmos usando ferramentas relacionadas a Matemática Discreta olhando em relação a  [[Dedução natural em código]].
+Para entendermos a análise de algoritmos precisamos da afirmação de que o código é correto e o custo que esses algoritmos possuem.
+
+ Para definir o custo, usamos a [[Notação assintótica]] como base e ferramentas como a [[Dedução natural em código]](define também o pior e melhor caso), teorema mestre, Arkra Bazzi e analise da árvore de recursão como métodos mais diretos de conseguir medir em média o peso de um algoritmo.
 
 
