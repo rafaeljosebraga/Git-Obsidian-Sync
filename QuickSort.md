@@ -1,0 +1,1 @@
+É um algoritmo de ordenação, onde a partir de um pivô na ultima posição do vetor é colocado em uma posição de valores menores e maiores que ele:

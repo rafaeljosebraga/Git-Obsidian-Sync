@@ -3,7 +3,7 @@ Processo nesse contexto é definido como: A sequencia de atividades que quando c
 
 Dentro desses processos temos vários fatores a serem considerados na hora de definir a sequenciação das etapas para a criação de um software.
 
-[[Epecificação dos Processos de Software.]] 
+[[Especificação dos Processos de Software.]] 
 
 __Projeto e Implementação
 
