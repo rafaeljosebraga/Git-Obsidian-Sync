@@ -1,4 +1,4 @@
-#projeto_análise_de_algoritmo  #ordenação
+]#projeto_análise_de_algoritmo  #ordenação
 É um [[Algoritmo]] de ordenação, onde a partir de um pivô na ultima posição do vetor é colocado em uma posição de valores menores e maiores que ele, e fazemos dele uma chamada recursiva para o vetor a direita e esquerda do nosso local do pivô.
 
 ![[Pasted image 20241203154718.png]]
