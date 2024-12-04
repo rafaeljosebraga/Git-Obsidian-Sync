@@ -1,0 +1,1 @@
+é pelo barramento de entrada que o computador pode ser interromido por dispositipos de entrada e saida como mouse 
