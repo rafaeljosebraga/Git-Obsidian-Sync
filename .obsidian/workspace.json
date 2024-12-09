@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f80b8d9f277889f",
+        "id": "41d048ca1c1a6be7",
         "type": "tabs",
         "children": [
           {
-            "id": "e0cfc2fa45932b4b",
+            "id": "a0c7ca08b7ac7ab3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,8 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0cfc2fa45932b4b",
+  "active": "a0c7ca08b7ac7ab3",
   "lastOpenFiles": [
+    "Grafos Simples.md",
+    "Grafo Caminho.md",
+    "Grafo Completo.md",
     "Modelo de Casos de Uso.md",
     "Cenário de uso.md",
     "Engenharia de Requisitos.md",
@@ -206,11 +209,8 @@
     "Pitch BustationPro.md",
     "movimento.md",
     "conflict-files-obsidian-git.md",
-    "Prova 1 SO.md",
     "Pasted Image 20241122144043_546.png",
     "Pasted Image 20241122143916_579.png",
-    "Excalidraw/Algoritmo de escalonamento.md",
-    "Recursão.md",
     "Pasted image 20241119162634.png",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
