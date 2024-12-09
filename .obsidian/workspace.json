@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "72e19b6639add8d1",
+        "id": "2f80b8d9f277889f",
         "type": "tabs",
         "children": [
           {
-            "id": "4db770c1862e04ac",
+            "id": "e0cfc2fa45932b4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QuickSort.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "QuickSort"
+              "title": "Nova aba"
             }
           }
         ]
@@ -185,14 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4db770c1862e04ac",
+  "active": "e0cfc2fa45932b4b",
   "lastOpenFiles": [
+    "Modelo de Casos de Uso.md",
+    "Cenário de uso.md",
+    "Engenharia de Requisitos.md",
+    "Regra de Negócio.md",
+    "Sem título 6.md",
+    "PAA sintese previa.md",
+    "Sem título 5.md",
+    "Aula 22 nov.md",
     "QuickSort.md",
-    "Entrada e Saída.md",
     "Projeto e Análise de Algoritmos/Algoritmo.md",
     "esperança.md",
+    "Ordenação com tempo Linear.md",
+    "Entrada e Saída.md",
     "Pasted image 20241203154718.png",
-    "Engenharia de Requisitos.md",
     "Requisitos Não Funcionais.md",
     "Requisitos Funcionais.md",
     "Especificação dos Processos de Software..md",
@@ -208,15 +211,7 @@
     "Pasted Image 20241122143916_579.png",
     "Excalidraw/Algoritmo de escalonamento.md",
     "Recursão.md",
-    "Método da Substituição.md",
-    "Aula 22 nov.md",
-    "Engenharia de Software/Aula  out 21.md",
     "Pasted image 20241119162634.png",
-    "Eng software 18 nov.md",
-    "Modelo de Processos E.S.md",
-    "Engenharia de Software/Documentação.md",
-    "espaço de configuração.md",
-    "Grafos.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "todoist-backup-202411318014.json",
