@@ -1,2 +1,1 @@
-vários modos de acesso.
-revisar.
+Possui vários modos de acessos, onde ele separa o seus recursos em camadas onde para cada camada exige um custo maior por ter que atravessar essas camadas até chegar na utilização

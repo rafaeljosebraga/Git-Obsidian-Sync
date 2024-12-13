@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "dce6bf9b0c1d475a",
+        "id": "059eb0635ad9034d",
         "type": "tabs",
         "children": [
           {
-            "id": "6683c608b647b640",
+            "id": "a50be0b59bbfc7e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threads.md",
+                "file": "Sistema em Camadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Threads"
+              "title": "Sistema em Camadas"
+            }
+          },
+          {
+            "id": "2acd464815372057",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos)"
             }
           }
         ]
@@ -77,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -154,18 +167,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6683c608b647b640",
+  "active": "a50be0b59bbfc7e6",
   "lastOpenFiles": [
-    "Multithread.md",
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
+    "Excalidraw/Drawing 2024-12-13 12.25.40.excalidraw.md",
+    "Sistema em Camadas.md",
+    "Excalidraw/Drawing 2024-12-13 10.56.44.excalidraw.md",
+    "Sistemas Operacionais/chamadas de sistema.md",
+    "Sistemas Operacionais/Segurança de um Sistema Operacional.md",
     "Threads.md",
+    "espaço núcleo.md",
+    "semaforo SO.md",
+    "Multithread.md",
     "região crítica.md",
     "Sistemas Operacionais/Memoria Principal.md",
     "preemptíveis.md",
@@ -173,8 +196,6 @@
     "Sistemas Operacionais/Processos.md",
     "Não preemptíveis.md",
     "Mutexes.md",
-    "semaforo SO.md",
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Sistemas Operacionais/interrupções.md",
     "Prova 1 SO.md",
     "Sistemas Operacionais/Rotinas.md",
@@ -182,17 +203,10 @@
     "conflict-files-obsidian-git.md",
     "Pasted Image 20241122144043_546.png",
     "Pasted Image 20241122143916_579.png",
-    "espaço núcleo.md",
     "espaço de configuração.md",
     "Eng software 18 nov.md",
     "Análise Recorrência.md",
     "Método da Substituição.md",
-    "Recursão.md",
-    "Sistemas Operacionais/chamadas de sistema.md",
-    "Stack.md",
-    "Aula 22 nov.md",
-    "Sistemas Operacionais/gerenciamento de arquivos.md",
-    "Cola Assintótica.md",
     "Pasted image 20241119162634.png",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "todoist-backup-202411318014.json",
