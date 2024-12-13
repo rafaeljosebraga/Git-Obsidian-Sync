@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "6f6292a2884d2220",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
             "id": "2acd464815372057",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               "title": "Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -177,36 +187,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a50be0b59bbfc7e6",
+  "active": "6f6292a2884d2220",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
-    "Excalidraw/Drawing 2024-12-13 12.25.40.excalidraw.md",
-    "Sistema em Camadas.md",
-    "Excalidraw/Drawing 2024-12-13 10.56.44.excalidraw.md",
-    "Sistemas Operacionais/chamadas de sistema.md",
-    "Sistemas Operacionais/Segurança de um Sistema Operacional.md",
-    "Threads.md",
-    "espaço núcleo.md",
-    "semaforo SO.md",
-    "Multithread.md",
-    "região crítica.md",
-    "Sistemas Operacionais/Memoria Principal.md",
-    "preemptíveis.md",
-    "Implementação de Processos.md",
-    "Sistemas Operacionais/Processos.md",
-    "Não preemptíveis.md",
-    "Mutexes.md",
-    "Sistemas Operacionais/interrupções.md",
-    "Prova 1 SO.md",
-    "Sistemas Operacionais/Rotinas.md",
-    "Excalidraw/Algoritmo de escalonamento.md",
+    "Sistemas Operacionais/Gerenciamento de Memória.md",
     "conflict-files-obsidian-git.md",
+    "Sistema em Camadas.md",
+    "movimento.md",
+    "esperança.md",
+    "Sem título 6.md",
+    "Sem título 5.md",
+    "Requisitos Não Funcionais.md",
+    "Requisitos Funcionais.md",
+    "Regra de Negócio.md",
+    "QuickSort.md",
+    "Pitch BustationPro.md",
+    "Pasted image 20241203154718.png",
+    "PAA sintese previa.md",
+    "Ordenação com tempo Linear.md",
+    "Movimento Circular.md",
+    "Modelo de Casos de Uso.md",
+    "Modelagem dos Casos de Uso.md",
+    "Grafo Completo.md",
+    "Grafo Caminho.md",
+    "Fisica.md",
+    "Especificação dos Processos de Software..md",
+    "Equipes, Casos de uso.md",
+    "Entrada e Saída.md",
+    "Engenharia de Requisitos.md",
+    "Cenário de uso.md",
+    "Caso de Uso.md",
+    "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Pasted Image 20241122144043_546.png",
     "Pasted Image 20241122143916_579.png",
-    "espaço de configuração.md",
-    "Eng software 18 nov.md",
-    "Análise Recorrência.md",
-    "Método da Substituição.md",
     "Pasted image 20241119162634.png",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "todoist-backup-202411318014.json",
@@ -221,7 +233,6 @@
     "imagens utilizadas/Pasted Image 20240922183035_225.png",
     "imagens utilizadas/Pasted Image 20240913113938_012.png",
     "imagens utilizadas/Pasted Image 20240913113822_747.png",
-    "imagens utilizadas/Pasted Image 20240913103239_012.png",
     "Pesquisa Operacional",
     "Progamação Orientada a Objetos",
     "Banco de Dados/Tentativas de mapeamento/1-relacional.canvas",

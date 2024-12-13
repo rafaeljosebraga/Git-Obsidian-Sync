@@ -1,0 +1,1 @@
+Logo após alberto comentar que todo tipo de ordenação teria um tempo de $\Omega(nlogn)$, nos somos instigados a pensar em 

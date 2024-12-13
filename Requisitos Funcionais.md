@@ -1,0 +1,1 @@
+Toda aquela necessidade do software idealizada pelo cliente para a modelagem e solução de seu problema, são afirmações claras  (sistema deve ter, o sistema não deve ter).
