@@ -10,8 +10,9 @@
 - Memória cache
 
 ## Técnicas de Gerenciamento de Memória
+
 - Particionamento
-    - Particionamento fixo
+  - Particionamento fixo
     - Particionamento dinâmico
 - Paginação
 - Segmentação
