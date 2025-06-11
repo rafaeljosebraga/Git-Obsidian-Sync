@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7ccd993fa568ccd5",
+        "id": "72a8161f56aec1e6",
         "type": "tabs",
         "children": [
           {
-            "id": "310ae35f9b3d8552",
+            "id": "3f8217d28e3da6c4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf"
+                "file": "Análise Recorrência.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Algoritmos - Teoria e Prática 3ed - Thomas Cormen"
-            }
-          },
-          {
-            "id": "5285a95145d56de4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
-          },
-          {
-            "id": "e3d0670cc2b46b87",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-21 22.44.58.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-21 22.44.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "Análise Recorrência"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -101,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "right": {
     "id": "868f71f2c8fa4666",
@@ -179,24 +155,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "html-server:Turn Http Server On": false,
-      "html-server:Turn Http Server Off": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3d0670cc2b46b87",
+  "active": "3f8217d28e3da6c4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-21 22.44.58.excalidraw.md",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
+    "Excalidraw/Drawing 2025-02-21 22.44.58.excalidraw.md",
     "Pasted Image 20250222215927_814.png",
     "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Banco de Dados/ER ERX para Modelo Relacional.md",

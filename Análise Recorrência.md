@@ -3,3 +3,5 @@ Uma das formas em que um [[Algoritmo]] é estruturado é a partir da recorrênci
 Para analisarmos esse tipo de algoritmo é utilizado vários métodos, sendo um deles o [[Método da Substituição]].
 
 Exemplo
+
+(sem exemplo)
