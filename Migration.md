@@ -1,0 +1,1 @@
+no sentido do [[YII2 CAJUI]] e de outras arquiteturas parecidas é uma espécie de padronização do processo de subir o banco de dados, ou seja, um algoritmo capaz de subir tabelas e realizar inserções necessárias para o pleno funcionamento de um pedaço da aplicação.
