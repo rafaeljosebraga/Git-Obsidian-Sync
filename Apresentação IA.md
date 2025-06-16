@@ -6,6 +6,12 @@ Sobre o nosso tema vamos falar sobre os gráficos boxplot, o seu irmão o violin
 
 note que a importância de realizar essas visualizações, traz o contexto e informações úteis,
 
+Eu vou explicar sobre o boxplot e o histograma:
+
+boxplot: ![[WhatsApp Image 2025-06-15 at 19.12.41.jpeg]]
+separa os dados em 4 partes definindo em porcentagem a separação dos dados em um dado intervalo onde as bolinhas que saem do limite inferior ou superior estão muito alem do caixa central dos dados. 
+
+Histograma: possui os intervalos de valores conhecidos como bins que indicam a quantidade de alunos em média em um intervalo de notas. exemplo alunos entre x,y == z
 ## Tema 1(pre processamento)_BOXPLOT/VIOLIN
 por exemplo para realizar o pre processamento ao definir ao definir um ponto de corte para valores outliers ou extremamente fora da curva.
 
