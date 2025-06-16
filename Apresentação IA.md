@@ -21,3 +21,11 @@ para a seleção de caracteristicas a matriz de correlação pode ser uma boa di
 ## Tema 4(Engenharia de Atributos)_HISTOGRAMA
 para a criação de variaveis por exemplo no uso do histograma, pense no caso onde as barras ou bins estão acumulando suas frequencias em grupos. (grupos de bins/barras de frequências separadas) podemos classificar dados em Grupos determinados pela média das bins. 
 
+Nicolas vai falar de matriz de correlação
+
+KDE(frasear por cima _Kernel Density Estimative_) detalha uma estimativa de dados sobre curvas que acumula frequencias.
+
+No fim vamos reservar para falar de cada uma vantagens e desvantagens
+
+[[RespaldoTecnicoSeminarioIA]]
+
