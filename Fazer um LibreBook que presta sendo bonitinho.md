@@ -51,3 +51,16 @@ booking(pai do libreBooking) : https://www.bookedscheduler.com/
 Yarooms: https://www.yarooms.com/ vem como um exemplo mais moderno trazendo para si um mapa interativo.
 
 SimplyBook(Uma especie de Wix com agendamento de quartos) https://simplybook.me/en/
+
+
+##  Segunda conversa
+
+agenda e agenda futura, o sistema possui facilitações porem acaba gerando mais conflitos relacionados as marcações onde esses conflitos não são resolvidos de fato//
+
+agendas apesar da requisição especifica do dia e dos horarios que serão ocupados porem não verifica horarios ja ocupados e ocupações ja especificas acomodam horários do dia todo
+
+cancelamento de um horário depende dos gestores(usuário de cargo superior), os própios usuários não possuem tal autonomia sobre os própios horários requisitados.
+
+Muitos usuários causam conflitos(é necessário mostrar conflitos explicitamente)
+
+requisições ->[[Projeto Livre Livramento]]

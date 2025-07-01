@@ -1,4 +1,4 @@
-Olá a todos somos a equipe de JK RJ e NK e ficamos com o tópico de de visualização e interpretabilidade de dados.
+Olá a todos somos a equipe de JK RJ e NK(eh com C) e ficamos com o tópico de de visualização e interpretabilidade de dados.
 
 Contextualizando -> para as nossas explicações será utilizado o conjunto de dados sintético sobre a performance de alunos sobre uma prova, mostrando dados das notas e informações sócioeconomicas sobre cada aluno, onde temos X,Y,Z colunas de nosso dataset.
 
@@ -27,5 +27,5 @@ KDE(frasear por cima _Kernel Density Estimative_) detalha uma estimativa de dado
 
 No fim vamos reservar para falar de cada uma vantagens e desvantagens
 
-[[RespaldoTecnicoSeminarioIA]]
+	[[RespaldoTecnicoSeminarioIA]]
 

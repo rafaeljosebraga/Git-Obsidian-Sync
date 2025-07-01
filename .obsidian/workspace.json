@@ -4,38 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "72a8161f56aec1e6",
+        "id": "574437cad57a1a59",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8217d28e3da6c4",
+            "id": "0686061ee2689673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YII2 CAJUI.md",
+                "file": "Assembly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YII2 CAJUI"
+              "title": "Assembly"
             }
           },
           {
-            "id": "262f5c2c5c63e4fc",
+            "id": "29a81f302eeb3eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Migration.md",
+                "file": "Sistemas Operacionais/chamadas de sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Migration"
+              "title": "chamadas de sistema"
+            }
+          },
+          {
+            "id": "2d5084712106f850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assembly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembly"
+            }
+          },
+          {
+            "id": "b0bab3bb18aa8887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fazer um LibreBook que presta sendo bonitinho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fazer um LibreBook que presta sendo bonitinho"
+            }
+          },
+          {
+            "id": "2e4ec379f59c8b34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto Livre Livramento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projeto Livre Livramento"
+            }
+          },
+          {
+            "id": "696f15d9a54a5292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seção de BSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seção de BSS"
+            }
+          },
+          {
+            "id": "ae0d041ebe8be8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seção da Heap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seção da Heap"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/Essência -software.md",
+                "file": "Apresentação IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Essência -software"
+              "title": "Backlinks for Apresentação IA"
             }
           },
           {
@@ -155,13 +226,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/Essência -software.md"
+                "file": "Apresentação IA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Essência -software"
+              "title": "Outline of Apresentação IA"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,10 +255,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f8217d28e3da6c4",
+  "active": "b0bab3bb18aa8887",
   "lastOpenFiles": [
-    "Migration.md",
+    "Assembly.md",
+    "Sistemas Operacionais/chamadas de sistema.md",
+    "Seção da Heap.md",
+    "Seção de BSS.md",
+    "Projeto Livre Livramento.md",
+    "Fazer um LibreBook que presta sendo bonitinho.md",
+    "Assembly-Chamadas de Sistema.md",
+    "Syscall Código 1.md",
+    "RespaldoTecnicoSeminarioIA.md",
+    "opções para busca em TBO.md",
+    "Apresentação IA.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "YII2 CAJUI.md",
+    "Migration.md",
+    "WhatsApp Image 2025-06-15 at 19.12.41.jpeg",
     "Untitled.md",
     "Banco de Dados/Álgebra Relacional.md",
     "Calculo Varias Vars/Coordenadas Polares.md",
@@ -198,19 +287,6 @@
     "Progamação Orientada a Objetos/Drawing 2024-09-16 00.33.01.excalidraw.excalidraw",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "Excalidraw/Drawing 2025-02-07 21.53.24.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-07 14.32.13.excalidraw.md",
-    "Modelo de Processos E.S.md",
-    "Algebra linear/Ortogonalidade.md",
-    "Algebra linear/Norma e Distância.md",
-    "Algebra linear/Interpolação.md",
-    "Algebra linear/Espaço vetorial.md",
-    "Algebra linear/Base ortogonal.md",
-    "Algebra linear/Autovalores e Autovetores.md",
-    "Vulkan.md",
-    "Grafos.md",
-    "Grafos Simples.md",
-    "Grafo Caminho.md",
-    "Desenhar um Triângulo.md",
     "Sistemas Operacionais/Sistemas Operacionais Modernos (Andrew S. Tanenbaum, Herbert Bos).pdf",
     "Excalidraw/Montagem.png",
     "Excalidraw/Drawing 2025-01-05 11.13.35.excalidraw.png",
@@ -227,7 +303,6 @@
     "Algebra linear/Álgebra Linear com aplicações - Leon(Algebra linear).pdf",
     "imagens utilizadas/Pasted image 20241023180713.png",
     "imagens utilizadas/Pasted image 20240915225432.png",
-    "imagens utilizadas/Pasted Image 20240922182935_226.png",
     "Pesquisa Operacional",
     "Progamação Orientada a Objetos",
     "Banco de Dados/3-relacional.canvas",
