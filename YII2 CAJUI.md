@@ -12,3 +12,4 @@ primariamente a ideia é recriar o "Registro Situação" como um "Registro Situa
 3, Configurar Classe Controller(Implicitamente uma possível classe service)
 
 4,Ajustar Views a partir das views já existentes nos sub "REGISTROS" criados a essa por essa migration e depois na principal.
+
