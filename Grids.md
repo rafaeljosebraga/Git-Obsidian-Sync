@@ -1,0 +1,1 @@
+Ou computação em grelha a ser revisado, possui uma estrutura especifica.

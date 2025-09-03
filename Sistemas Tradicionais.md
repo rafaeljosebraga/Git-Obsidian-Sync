@@ -1,0 +1,1 @@
+O tratamento comum esperado ao se tratar de um sistema aonde um sistema pode ser consumido inteiramente pela conexão ou uso de uma máquina específica.

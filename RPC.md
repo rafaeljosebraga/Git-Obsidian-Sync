@@ -1,0 +1,1 @@
+Remote Procedure Calls, parecem vir como uma [[chamadas de sistema]] a partir da rede, gerando uma interrupção para responder.

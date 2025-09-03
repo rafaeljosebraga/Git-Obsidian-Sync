@@ -1,4 +1,4 @@
-#Pesquisa_Operacional #Otimização #minimização
+'#Pesquisa_Operacional #Otimização #minimização
 
 problema do avião __revisar no Classroom da matéria
 
