@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b4d96f8ea8dc302",
+        "id": "ae786272e195a4c8",
         "type": "tabs",
         "children": [
           {
-            "id": "9633050028c9bd54",
+            "id": "d5bbb8158a539bf8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,18 +177,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9633050028c9bd54",
+  "active": "d5bbb8158a539bf8",
   "lastOpenFiles": [
+    "Untitled 6.md",
+    "Sistemas Distribuídos.md",
     "Middleware.md",
     "RPC.md",
+    "Tipos de Sistemas Distribuidos.md",
+    "Grids.md",
+    "Clusters.md",
+    "Untitled 5.md",
     "MOM.md",
     "Calculo Varias Vars/Stewart Calculus 7 Edition - Volume 2 - [Solutions Manual Chapters 10-17] NEW.pdf",
     "RMI.md",
-    "Clusters.md",
-    "Sistemas Distribuídos.md",
-    "Tipos de Sistemas Distribuidos.md",
     "Untitled 4.md",
-    "Grids.md",
     "Pesquisa Operacional.md",
     "Tipos de Transparência.md",
     "Sistemas Tradicionais.md",
@@ -204,8 +206,6 @@
     "Excalidraw/Drawing 2025-07-10 16.20.08.excalidraw.md",
     "Banco de Dados/ER ERX para Modelo Relacional.md",
     "GII.md",
-    "Migration.md",
-    "Fazer um LibreBook que presta sendo bonitinho.md",
     "WhatsApp Image 2025-06-15 at 19.12.41.jpeg",
     "Projeto e Análise de Algoritmos/Algoritmos - Teoria e Prática 3ed - Thomas Cormen.pdf",
     "Pasted Image 20250222215927_814.png",
