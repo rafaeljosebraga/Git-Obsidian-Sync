@@ -1,0 +1,1 @@
+nós computacionais de varias máquinas agregadas a uma interface mestre.
