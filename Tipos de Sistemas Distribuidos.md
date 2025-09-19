@@ -1,7 +1,10 @@
 
 Os [[Sistemas Distribuídos]] podem suas formas de funcionamento separados e ditadas por vários modelos de funcionamento como [[Clusters]], ou [[Grids]].
 
-Uma forma de cluster são os supercomputadores.
+Em um comparativo direto Clusters tem por sua uma aplicação mais direta e de arquitetura restrita, enquanto grids tem maior foco no quesito amplitude onde a partir de [[Middleware]]s permitem alta flexibilidade e comunicação entre "sistemas" permitindo arquiteturas mais abertas.
+
+
+Uma Exemplo de cluster são os supercomputadores.
 
 ##### Esses sistemas podem ser classificados dentro da utilização área de informação, sendo conhecidas como Sistemas de Informação Distribuídos
 

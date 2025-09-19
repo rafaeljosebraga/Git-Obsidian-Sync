@@ -26,6 +26,6 @@ Tolerância a falhas: Não compreendi.
 
 Interoperabilidade: esta para qual o Requisito de interoperabilidade dos [[Requisitos Não Funcionais]].
 
-Escalabilidade: Aqui pode ser separada em três dimensões *Tamanho*,*Geográfico*,*SIfoda*
+Escalabilidade: Aqui pode ser separada em três dimensões *Tamanho*,*Geográfico*,
 Tamanho-> 
 
